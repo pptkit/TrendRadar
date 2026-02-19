@@ -1,12 +1,12 @@
-DeepSeek
+深度搜索
 梁文锋
 
 谷歌
-google
-gemini
+谷歌
+双子座
 
-chatgpt
-openai
+聊天室
+开放性
 
 金价
 
@@ -23,3 +23,6 @@ openai
 特朗普
 
 伊朗
+
+电力
++设备
