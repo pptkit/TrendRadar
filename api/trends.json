@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T04:22:02.097781+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-02-20T05:23:30.653949+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -61,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -72,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "机器人变印度造,三哥真敢吹",
@@ -83,8 +84,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -94,8 +95,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "春晚机器人如何完成高难度动作",
@@ -104,11 +105,12 @@
           "ranks": [
             27,
             29,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -118,8 +120,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "韩国人怎么评价春晚机器人表演",
@@ -129,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 05时23分]"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -138,11 +140,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时23分]"
+        },
+        {
+          "title": "未来的春晚机器人be like",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BAbe%20like",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时23分]"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -157,18 +172,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 04时22分]"
-        },
-        {
-          "title": "未来的春晚机器人be like",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BAbe%20like",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时22分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
@@ -227,11 +230,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时37分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时37分 ~ 05时23分]"
         },
         {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
@@ -239,11 +243,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时23分]"
         },
         {
           "title": "机器人跳舞摔倒 小伙查看时脸被踢伤",
@@ -251,11 +256,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 05时23分]"
         },
         {
           "title": "美国两大人工智能巨头CEO拒绝牵手",
@@ -267,6 +273,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时39分]"
+        },
+        {
+          "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
+          "url": "https://flash.jin10.com/detail/20260220043316320800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
