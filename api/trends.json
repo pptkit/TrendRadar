@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T01:30:48.601320+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-02-21T02:32:44.588687+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -64,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -75,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -87,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -98,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -110,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -122,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -131,22 +131,24 @@
           "source": "今日头条",
           "ranks": [
             22,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
           "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "我国科学家用天文AI模型绘制“极致深空图”",
@@ -157,8 +159,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -169,8 +171,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -181,8 +183,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时32分]"
+        },
+        {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时32分]"
         },
         {
           "title": "OpenAI创始人点赞中国大模型",
@@ -202,20 +215,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
         },
         {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
+          "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3057039",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美联储洛根：在劳动力方面，人工智能似乎并未取代工人。",
+          "url": "https://flash.jin10.com/detail/20260221015546689800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "机器人变印度造,三哥真敢吹",
