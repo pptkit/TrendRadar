@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T21:54:19.538375+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2026-02-20T22:34:10.397615+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 83,
+      "match_count": 86,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -30,6 +30,18 @@
           "time_info": "[00时39分 ~ 07时21分]"
         },
         {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 22时34分]"
+        },
+        {
           "title": "机器人太秀,白皮转行喷环保",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
           "source": "贴吧",
@@ -38,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时45分 ~ 21时54分]"
+          "appearance_count": 15,
+          "time_info": "[13时45分 ~ 22时34分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -54,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[03时37分 ~ 21时54分]"
+          "appearance_count": 23,
+          "time_info": "[03时37分 ~ 22时34分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -86,18 +98,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[14时41分 ~ 21时54分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时54分]"
         },
         {
           "title": "韩国人怎么评价春晚机器人表演",
@@ -139,8 +139,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时06分 ~ 21时54分]"
+          "appearance_count": 16,
+          "time_info": "[12时06分 ~ 22时34分]"
         },
         {
           "title": "春节机器人卖爆了",
@@ -167,8 +167,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时04分 ~ 21时54分]"
+          "appearance_count": 17,
+          "time_info": "[09时04分 ~ 22时34分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -182,8 +182,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时39分 ~ 21时54分]"
+          "appearance_count": 27,
+          "time_info": "[00时39分 ~ 22时34分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -197,8 +197,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时39分 ~ 21时54分]"
+          "appearance_count": 27,
+          "time_info": "[00时39分 ~ 22时34分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -244,8 +244,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时39分 ~ 21时54分]"
+          "appearance_count": 27,
+          "time_info": "[00时39分 ~ 22时34分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -298,6 +298,30 @@
           "time_info": "[12时06分 ~ 14时41分]"
         },
         {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 22时34分]"
+        },
+        {
+          "title": "台媒酸了:春晚机器人是合成",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 22时34分]"
+        },
+        {
           "title": "从春晚看懂机器人未来布局",
           "url": "https://www.douyin.com/hot/2405116",
           "source": "抖音",
@@ -321,6 +345,19 @@
           "time_info": "[16时29分 ~ 16时30分]"
         },
         {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 22时34分]"
+        },
+        {
           "title": "男子用AI鉴定玉石8个月收入上百万",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -334,19 +371,6 @@
           "time_info": "[17时32分 ~ 20时33分]"
         },
         {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时54分]"
-        },
-        {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
           "url": "https://flash.jin10.com/detail/20260220070738269800",
           "source": "金十数据",
@@ -356,6 +380,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 22时34分]"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -371,17 +407,6 @@
           "time_info": "[03时37分 ~ 05时23分]"
         },
         {
-          "title": "台媒酸了:春晚机器人是合成",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
           "url": "https://flash.jin10.com/detail/20260220114803176800",
           "source": "金十数据",
@@ -391,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -432,6 +468,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时41分 ~ 16时30分]"
+        },
+        {
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 22时34分]"
         },
         {
           "title": "印度发布关于印度与美国人工智能合作机遇的联合声明。",
@@ -559,16 +607,17 @@
           "time_info": "[20时33分 ~ 21时54分]"
         },
         {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            13,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时54分]"
+          "time_info": "[19时24分 ~ 22时34分]"
         },
         {
           "title": "机器人跳舞摔倒 小伙查看时脸被踢伤",
@@ -583,18 +632,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时39分 ~ 06时21分]"
-        },
-        {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时54分]"
         },
         {
           "title": "什么样的软件会被AI淘汰？",
@@ -648,16 +685,27 @@
           "time_info": "[12时06分 ~ 14时41分]"
         },
         {
-          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
-          "source": "澎湃新闻",
+          "title": "港股“AI新秀”板块逆势狂飙",
+          "url": "https://www.toutiao.com/trending/7608932922317344275/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            16
+            23,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时54分]"
+          "time_info": "[21时54分 ~ 22时34分]"
+        },
+        {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 22时34分]"
         },
         {
           "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
@@ -683,6 +731,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 07时21分]"
+        },
+        {
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 22时34分]"
         },
         {
           "title": "印度总理莫迪：在与联合国秘书长古特雷斯的会议中，我们讨论了如何让人工智能更加包容，以及联合国在这方面可以发挥的建设性作用。",
@@ -719,18 +778,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时30分 ~ 17时32分]"
-        },
-        {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 21时54分]"
         },
         {
           "title": "如何看待微软预测 18 个月内白领将被 AI 取代？",
@@ -832,6 +879,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "OpenAI智能音箱定价可能在200至300美元之间。",
+          "url": "https://flash.jin10.com/detail/20260220220448240800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
           "url": "https://flash.jin10.com/detail/20260220082223005800",
           "source": "金十数据",
@@ -841,6 +899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "OpenAI的200人团队正在开发人工智能设备，包括一款智能音箱。",
+          "url": "https://flash.jin10.com/detail/20260220220314778800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美联储戴利：劳动力市场比以前更加低迷，因此看不到来自人工智能资本支出的通胀风险。",
@@ -898,28 +967,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
-          "title": "我国科学家用天文AI模型绘制“极致深空图”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
           "url": "https://wallstreetcn.com/livenews/3056681",
           "source": "华尔街见闻-快讯",
@@ -953,17 +1000,6 @@
           "time_info": "12时06分"
         },
         {
-          "title": "港股“AI新秀”板块逆势狂飙",
-          "url": "https://www.toutiao.com/trending/7608932922317344275/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "春节机器人卖爆了",
           "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E8%8A%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E7%88%86%E4%BA%86&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -992,7 +1028,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
