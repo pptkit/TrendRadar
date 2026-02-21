@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T04:13:43.988165+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-02-22T05:14:11.852600+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时14分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时14分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时14分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时14分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -60,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时14分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -72,8 +72,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时14分]"
         },
         {
           "title": "“春晚版熊猫机器人”拍出近6万高价",
@@ -84,11 +84,12 @@
             18,
             24,
             30,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时14分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -99,8 +100,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时14分]"
         },
         {
           "title": "春晚机器人爆火背后",
@@ -110,11 +111,23 @@
             15,
             9,
             20,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时14分]"
+        },
+        {
+          "title": "印度AI峰会为何引发全球群嘲",
+          "url": "https://www.toutiao.com/trending/7609263367261261318/",
+          "source": "今日头条",
+          "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 03时17分]"
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 05时14分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -141,8 +154,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时14分]"
         }
       ]
     }
