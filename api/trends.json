@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T02:20:17.952389+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-02-22T03:17:12.208660+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时17分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时17分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时17分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时17分]"
         },
         {
           "title": "春晚机器人爆火背后",
@@ -58,22 +58,24 @@
           "ranks": [
             15,
             9,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时17分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
           "url": "https://www.cls.cn/detail/2291896",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时17分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -84,8 +86,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时17分]"
         },
         {
           "title": "“春晚版熊猫机器人”拍出近6万高价",
@@ -94,11 +96,12 @@
           "ranks": [
             17,
             18,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时17分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -109,8 +112,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时17分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -137,8 +140,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时17分]"
         }
       ]
     }
