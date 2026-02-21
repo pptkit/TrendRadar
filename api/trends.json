@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T17:21:08.753478+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-02-21T18:15:52.845735+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -46,21 +46,6 @@
           "time_info": "[00时25分 ~ 16时18分]"
         },
         {
-          "title": "台媒酸了:春晚机器人是合成",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
-        },
-        {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
           "url": "https://wallstreetcn.com/articles/3765896",
           "source": "华尔街见闻",
@@ -74,6 +59,22 @@
           "time_info": "[00时25分 ~ 13时01分]"
         },
         {
+          "title": "台媒酸了:春晚机器人是合成",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            7,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时15分]"
+        },
+        {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
           "url": "https://www.cls.cn/detail/2291748",
           "source": "财联社热门",
@@ -83,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -96,8 +97,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时32分 ~ 17时21分]"
+          "appearance_count": 13,
+          "time_info": "[06时32分 ~ 18时15分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -127,8 +128,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时31分 ~ 17时21分]"
+          "appearance_count": 13,
+          "time_info": "[03时31分 ~ 18时15分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -139,11 +140,12 @@
             10,
             12,
             14,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -156,8 +158,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -183,11 +185,12 @@
             23,
             25,
             27,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -271,11 +274,12 @@
             3,
             8,
             10,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 18时15分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -338,6 +342,18 @@
           "time_info": "[06时32分 ~ 11时57分]"
         },
         {
+          "title": "美媒嘲讽印度AI峰会如同闹剧",
+          "url": "https://www.toutiao.com/trending/7609182148255305259/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 18时15分]"
+        },
+        {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
           "url": "https://wallstreetcn.com/livenews/3057127",
           "source": "华尔街见闻-快讯",
@@ -371,17 +387,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 17时21分]"
-        },
-        {
-          "title": "美媒嘲讽印度AI峰会如同闹剧",
-          "url": "https://www.toutiao.com/trending/7609182148255305259/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时18分]"
         },
         {
           "title": "中国头部机器人实力大比拼",
@@ -448,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "这款仿真机器人面部自由度有20多个",
+          "url": "https://www.toutiao.com/trending/7609155643581071410/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "大唐不夜城机器人表演《大花轿》",
@@ -517,11 +533,12 @@
             9,
             14,
             16,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时57分 ~ 18时15分]"
         }
       ]
     }
