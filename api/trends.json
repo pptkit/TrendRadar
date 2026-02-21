@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T18:15:52.845735+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-02-21T19:14:18.950063+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,21 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时15分]"
-        },
-        {
-          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
-          "url": "https://www.cls.cn/detail/2291772",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时14分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -44,6 +31,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时25分 ~ 16时18分]"
+        },
+        {
+          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
+          "url": "https://www.cls.cn/detail/2291772",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时14分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -68,11 +69,12 @@
             7,
             9,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时14分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -84,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时14分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -97,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时32分 ~ 18时15分]"
+          "appearance_count": 14,
+          "time_info": "[06时32分 ~ 19时14分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -128,8 +130,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时31分 ~ 18时15分]"
+          "appearance_count": 14,
+          "time_info": "[03时31分 ~ 19时14分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -141,11 +143,12 @@
             12,
             14,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时14分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -158,8 +161,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时14分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -186,11 +189,12 @@
             25,
             27,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 18时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 19时14分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -206,6 +210,23 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时25分 ~ 17时21分]"
+        },
+        {
+          "title": "国际人形机器人论坛探讨机器人应用发展趋势",
+          "url": "https://wallstreetcn.com/livenews/3057160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            8,
+            10,
+            17,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 19时14分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -266,22 +287,6 @@
           "time_info": "[00时25分 ~ 06时32分]"
         },
         {
-          "title": "国际人形机器人论坛探讨机器人应用发展趋势",
-          "url": "https://wallstreetcn.com/livenews/3057160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            8,
-            10,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 18时15分]"
-        },
-        {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3057138",
           "source": "华尔街见闻-快讯",
@@ -311,6 +316,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时19分 ~ 14时30分]"
+        },
+        {
+          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
+          "url": "https://flash.jin10.com/detail/20260221184309452800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
@@ -389,6 +405,17 @@
           "time_info": "[17时20分 ~ 17时21分]"
         },
         {
+          "title": "这款仿真机器人面部自由度有20多个",
+          "url": "https://www.toutiao.com/trending/7609155643581071410/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时14分]"
+        },
+        {
           "title": "中国头部机器人实力大比拼",
           "url": "https://www.toutiao.com/trending/7609123500602691078/",
           "source": "今日头条",
@@ -422,6 +449,28 @@
           "time_info": "01时30分"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
+          "url": "https://www.zhihu.com/question/2008176730532234790",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "机器人为什么一定是人形",
           "url": "https://www.toutiao.com/trending/7608900578059488831/",
           "source": "今日头条",
@@ -453,17 +502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "这款仿真机器人面部自由度有20多个",
-          "url": "https://www.toutiao.com/trending/7609155643581071410/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "大唐不夜城机器人表演《大花轿》",
@@ -539,6 +577,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时57分 ~ 18时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX：确认最新部署25颗星链卫星。",
+          "url": "https://flash.jin10.com/detail/20260221181048907800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         }
       ]
     }
