@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T05:14:11.852600+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-02-22T06:13:39.949869+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -37,8 +37,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
+          "url": "https://www.cls.cn/detail/2291896",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "台媒酸了:春晚机器人是合成",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "机器人太秀,白皮转行喷环保",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -52,28 +88,20 @@
           "time_info": "[00时16分 ~ 05时14分]"
         },
         {
-          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
-          "url": "https://www.cls.cn/detail/2291896",
-          "source": "财联社热门",
+          "title": "春晚机器人爆火背后",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%86%E7%81%AB%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            13
+            15,
+            9,
+            20,
+            29,
+            26,
+            18
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时14分]"
-        },
-        {
-          "title": "台媒酸了:春晚机器人是合成",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "“春晚版熊猫机器人”拍出近6万高价",
@@ -89,33 +117,6 @@
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时14分]"
-        },
-        {
-          "title": "机器人太秀,白皮转行喷环保",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时14分]"
-        },
-        {
-          "title": "春晚机器人爆火背后",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%86%E7%81%AB%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            9,
-            20,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
           "time_info": "[00时16分 ~ 05时14分]"
         },
         {
@@ -154,8 +155,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         }
       ]
     }
