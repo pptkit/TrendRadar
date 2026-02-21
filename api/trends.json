@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T19:14:18.950063+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-02-21T20:24:21.886255+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 19时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 20时24分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 19时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 20时24分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -73,21 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 19时14分]"
-        },
-        {
-          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
-          "url": "https://www.cls.cn/detail/2291748",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 19时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 20时24分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -101,6 +88,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[06时32分 ~ 19时14分]"
+        },
+        {
+          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
+          "url": "https://www.cls.cn/detail/2291748",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 20时24分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -130,8 +131,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时31分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[03时31分 ~ 20时24分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -147,8 +148,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 19时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 20时24分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -161,8 +162,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 19时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 20时24分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -193,8 +194,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 19时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 20时24分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -318,17 +319,6 @@
           "time_info": "[07时19分 ~ 14时30分]"
         },
         {
-          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
-          "url": "https://flash.jin10.com/detail/20260221184309452800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
           "url": "https://flash.jin10.com/detail/20260221100811881800",
           "source": "金十数据",
@@ -342,6 +332,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时57分 ~ 16时18分]"
+        },
+        {
+          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
+          "url": "https://flash.jin10.com/detail/20260221184309452800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时24分]"
+        },
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时24分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -381,6 +395,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时32分 ~ 09时03分]"
+        },
+        {
+          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
+          "url": "https://www.zhihu.com/question/2008176730532234790",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时24分]"
         },
         {
           "title": "大家觉得 2026 年春晚亮相的机器人有哪些亮点？",
@@ -449,26 +475,15 @@
           "time_info": "01时30分"
         },
         {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
+          "title": "印度AI峰会为何引发全球群嘲",
+          "url": "https://www.toutiao.com/trending/7609263367261261318/",
+          "source": "今日头条",
           "ranks": [
-            8
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
-          "url": "https://www.zhihu.com/question/2008176730532234790",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "20时24分"
         },
         {
           "title": "机器人为什么一定是人形",
@@ -540,7 +555,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国太平洋电力公司同意支付5.75亿美元山火索赔",
@@ -554,6 +569,46 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时32分 ~ 09时03分]"
+        },
+        {
+          "title": "斯洛伐克总理：如果乌克兰总统周一不恢复向斯洛伐克供应石油，我将在同一天要求相关斯洛伐克企业停止向乌克兰提供紧急电力供应。",
+          "url": "https://flash.jin10.com/detail/20260221185306068800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX：猎鹰9号火箭发射25颗星链卫星",
+          "url": "https://wallstreetcn.com/livenews/3057192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "SpaceX：确认最新部署25颗星链卫星。",
+          "url": "https://flash.jin10.com/detail/20260221181048907800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时24分]"
         }
       ]
     },
@@ -577,23 +632,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时57分 ~ 18时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX：确认最新部署25颗星链卫星。",
-          "url": "https://flash.jin10.com/detail/20260221181048907800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         }
       ]
     }
