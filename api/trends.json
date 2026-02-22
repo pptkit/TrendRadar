@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T06:14:22.237340+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-02-23T07:16:14.654469+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -83,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -94,8 +94,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -106,11 +106,12 @@
             16,
             17,
             26,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -121,8 +122,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -132,8 +133,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时16分]"
+        },
+        {
+          "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
+          "url": "https://flash.jin10.com/detail/20260223064004274800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克暗示，苹果的下一个重大突破是视觉人工智能。",
@@ -141,11 +153,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时14分]"
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
         }
       ]
     }
