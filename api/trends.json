@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T17:20:53.401733+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-02-22T18:15:59.112601+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时15分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时15分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -40,11 +40,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 18时15分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -57,6 +58,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 09时07分]"
+        },
+        {
+          "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
+          "url": "https://www.cls.cn/detail/2292433",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时43分 ~ 18时15分]"
         },
         {
           "title": "春晚机器人爆火背后",
@@ -103,11 +117,12 @@
             14,
             16,
             22,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时07分 ~ 18时15分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -118,8 +133,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 18时15分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -130,11 +145,12 @@
             15,
             17,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时15分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -145,23 +161,12 @@
             20,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时20分]"
-        },
-        {
-          "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
-          "url": "https://www.cls.cn/detail/2292433",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时43分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时15分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -186,6 +191,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 05时14分]"
+        },
+        {
+          "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
+          "url": "https://www.zhihu.com/question/2003060035803116831",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时34分 ~ 18时15分]"
         },
         {
           "title": "“春晚版熊猫机器人”拍出近6万高价",
@@ -218,15 +234,18 @@
           "time_info": "[09时07分 ~ 14时35分]"
         },
         {
-          "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
-          "url": "https://www.zhihu.com/question/2003060035803116831",
-          "source": "知乎",
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 17时20分]"
+          "appearance_count": 6,
+          "time_info": "[15时30分 ~ 18时15分]"
         },
         {
           "title": "王兴兴：机器人技术接近10岁孩子水平",
@@ -242,8 +261,8 @@
           "time_info": "[09时07分 ~ 13时44分]"
         },
         {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
           "source": "华尔街见闻",
           "ranks": [
             10,
@@ -251,8 +270,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时30分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时15分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时15分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -281,29 +312,6 @@
           "time_info": "[15时30分 ~ 16时20分]"
         },
         {
-          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
-          "url": "https://wallstreetcn.com/articles/3765948",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时20分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时20分]"
-        },
-        {
           "title": "印度AI峰会为何引发全球群嘲",
           "url": "https://www.toutiao.com/trending/7609263367261261318/",
           "source": "今日头条",
@@ -313,6 +321,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 05时14分]"
+        },
+        {
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
