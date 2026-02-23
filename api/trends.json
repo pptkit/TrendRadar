@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T02:47:57.857016+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-02-24T03:51:13.117322+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时51分]"
         },
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时51分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时51分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -55,16 +55,88 @@
           "time_info": "00时43分"
         },
         {
+          "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
+          "url": "https://wallstreetcn.com/livenews/3057622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "王兴兴称机器人技术阶段接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
+          "url": "https://www.zhihu.com/question/2008851829849604675",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时51分]"
+        },
+        {
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时51分]"
+        },
+        {
+          "title": "人工智能真的会让程序员在 5 年内失业吗？",
+          "url": "https://www.zhihu.com/question/617906623",
+          "source": "知乎",
+          "ranks": [
+            11,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时51分]"
+        },
+        {
+          "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
+          "url": "https://www.cls.cn/detail/2292558",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时51分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时51分]"
+        },
+        {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
           "url": "https://flash.jin10.com/detail/20260224015302070800",
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时47分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 03时51分]"
         },
         {
           "title": "欧洲央行行长拉加德：欧洲仍可从人工智能中获益。",
@@ -79,64 +151,6 @@
           "time_info": "[02时03分 ~ 02时47分]"
         },
         {
-          "title": "王兴兴称机器人技术阶段接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
-          "url": "https://www.zhihu.com/question/2008851829849604675",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时47分]"
-        },
-        {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时47分]"
-        },
-        {
-          "title": "人工智能真的会让程序员在 5 年内失业吗？",
-          "url": "https://www.zhihu.com/question/617906623",
-          "source": "知乎",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时47分]"
-        },
-        {
-          "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
-          "url": "https://www.cls.cn/detail/2292558",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时47分]"
-        },
-        {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时47分]"
-        },
-        {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
           "url": "https://www.cls.cn/detail/2292870",
           "source": "财联社热门",
@@ -144,8 +158,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 03时51分]"
         },
         {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
@@ -181,6 +195,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
+          "url": "https://flash.jin10.com/detail/20260224031211079800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "拉加德：欧洲仍能极大受益于人工智能",
+          "url": "https://wallstreetcn.com/livenews/3057615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
+          "url": "https://flash.jin10.com/detail/20260224030646410800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
