@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T07:26:44.613840+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-02-24T09:10:31.549461+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -42,19 +42,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
           "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时10分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "王兴兴称机器人技术阶段接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
@@ -73,6 +88,19 @@
           "time_info": "[00时43分 ~ 07时26分]"
         },
         {
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 09时10分]"
+        },
+        {
           "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
           "url": "https://www.cls.cn/detail/2292558",
           "source": "财联社热门",
@@ -83,32 +111,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时26分]"
-        },
-        {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时26分]"
-        },
-        {
-          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
-          "url": "https://www.cls.cn/detail/2292870",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 07时26分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -122,13 +124,24 @@
           "time_info": "[06时31分 ~ 07时26分]"
         },
         {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
           "url": "https://wallstreetcn.com/livenews/3057705",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -157,13 +170,24 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
           "url": "https://wallstreetcn.com/livenews/3057701",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -236,8 +260,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 07时26分]"
+          "appearance_count": 4,
+          "time_info": "[05时35分 ~ 09时10分]"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
@@ -323,6 +347,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
           "url": "https://flash.jin10.com/detail/20260224000737522800",
           "source": "金十数据",
@@ -332,6 +367,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
+          "url": "https://news.ifeng.com/c/8qzuXxwgvLV",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "宇树机器人，天坛表演中国武术",
+          "url": "https://www.cls.cn/detail/2292907",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
@@ -354,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "xAI与五角大楼达成协议，将在涉密系统中启用Grok。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3057708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
@@ -361,6 +429,19 @@
       "keyword_group": "电力 变压器",
       "match_count": 5,
       "titles": [
+        {
+          "title": "都说算力的尽头是电力，那电力的尽头是什么？",
+          "url": "https://www.zhihu.com/question/1959634592928605460",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 09时10分]"
+        },
         {
           "title": "斯洛伐克停止向乌克兰提供紧急电力",
           "url": "https://flash.jin10.com/detail/20260224010332839800",
@@ -384,18 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 02时47分]"
-        },
-        {
-          "title": "都说算力的尽头是电力，那电力的尽头是什么？",
-          "url": "https://www.zhihu.com/question/1959634592928605460",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时26分]"
         },
         {
           "title": "斯洛伐克停止向乌克兰提供紧急电力",
