@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T13:55:21.237008+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-02-25T14:50:50.930003+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时56分 ~ 13时55分]"
+          "appearance_count": 13,
+          "time_info": "[02时56分 ~ 14时50分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时50分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时50分 ~ 14时50分]"
         },
         {
           "title": "宇树机器人背后的23个算法",
@@ -166,6 +166,17 @@
           "time_info": "[00时54分 ~ 07时35分]"
         },
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 14时50分]"
+        },
+        {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
           "url": "https://www.zhihu.com/question/41253586",
           "source": "知乎",
@@ -179,17 +190,6 @@
           "time_info": "[00时54分 ~ 06时47分]"
         },
         {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时55分]"
-        },
-        {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
           "url": "https://www.cls.cn/detail/2294141",
           "source": "财联社热门",
@@ -197,8 +197,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 14时50分]"
         },
         {
           "title": "宇树发布新款四足机器人",
@@ -259,6 +259,18 @@
           "time_info": "09时28分"
         },
         {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时50分]"
+        },
+        {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
           "url": "https://flash.jin10.com/detail/20260225040115362800",
           "source": "金十数据",
@@ -268,6 +280,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 14时50分]"
         },
         {
           "title": "西安一市民除夕夜被AI给骂了",
@@ -333,31 +359,6 @@
           "time_info": "[02时57分 ~ 04时24分]"
         },
         {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时55分]"
-        },
-        {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时55分]"
-        },
-        {
           "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
           "url": "https://flash.jin10.com/detail/20260225031254647800",
           "source": "金十数据",
@@ -392,6 +393,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 01时50分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时50分]"
         },
         {
           "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
@@ -453,18 +467,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时35分]"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时55分]"
         },
         {
           "title": "“官方辟谣”：白宫经济学家声称Citrini的AI风险报告纯属“科幻小说”",
@@ -539,6 +541,29 @@
           "time_info": "[05时25分 ~ 06时47分]"
         },
         {
+          "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
+          "url": "https://www.cls.cn/detail/2294083",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时50分]"
+        },
+        {
+          "title": "AI如果让90%的人都失业会怎样",
+          "url": "https://www.toutiao.com/trending/7610619092361285139/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时50分]"
+        },
+        {
           "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
           "url": "https://wallstreetcn.com/livenews/3058369",
           "source": "华尔街见闻-快讯",
@@ -587,6 +612,17 @@
           "time_info": "[06时47分 ~ 07时35分]"
         },
         {
+          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
+          "url": "https://www.zhihu.com/question/2009924225859805232",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时50分]"
+        },
+        {
           "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
           "url": "https://wallstreetcn.com/livenews/3058363",
           "source": "华尔街见闻-快讯",
@@ -628,7 +664,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -642,28 +678,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
-          "url": "https://www.cls.cn/detail/2294083",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "AI如果让90%的人都失业会怎样",
-          "url": "https://www.toutiao.com/trending/7610619092361285139/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "美联储巴尔金：人工智能将成为提高生产率的又一驱动因素。",
@@ -688,6 +702,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "美联储巴尔金：担忧人工智能投资回落将对经济造成的影响。",
           "url": "https://flash.jin10.com/detail/20260225044558231800",
           "source": "金十数据",
@@ -697,17 +722,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
-          "url": "https://www.zhihu.com/question/2009924225859805232",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "美联储理事库克：AI已经被纳入美联储的预测。",
@@ -782,7 +796,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         }
@@ -845,7 +859,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         }
