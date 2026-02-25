@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T01:54:31.824851+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-02-26T02:51:17.406252+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
+        },
+        {
+          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
+          "url": "https://www.zhihu.com/question/2009666916382421190",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美高度关注人工智能的发展。人工智能将迅速改变按揭贷款市场。我们的重点将放在确保市场保持安全与稳健。",
@@ -36,21 +48,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
         {
-          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
-          "url": "https://www.zhihu.com/question/2009666916382421190",
-          "source": "知乎",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
@@ -77,27 +88,17 @@
           "time_info": "[00时58分 ~ 01时54分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时54分]"
-        },
-        {
           "title": "AI短片 马上好",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
@@ -105,22 +106,47 @@
           "source": "知乎",
           "ranks": [
             12,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时51分]"
+        },
+        {
+          "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3059000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时54分]"
+          "time_info": "[01时54分 ~ 02时51分]"
+        },
+        {
+          "title": "为什么全球都在盯中国机器人",
+          "url": "https://www.toutiao.com/trending/7610772554013216306/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 02时51分]"
         },
         {
           "title": "美国里士满联储主席Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
@@ -134,24 +160,13 @@
           "time_info": "00时58分"
         },
         {
-          "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3059000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
           "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
           "url": "https://flash.jin10.com/detail/20260226011101407800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -162,7 +177,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -176,6 +191,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "三星高管：三星新款Galaxy S26手机融合云端与端侧AI，由自研Gauss引擎驱动。",
+          "url": "https://flash.jin10.com/detail/20260226020155815800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "三星高管：预计智能手机将成为消费者接入人工智能的主要途径。",
+          "url": "https://flash.jin10.com/detail/20260226020142368800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -236,7 +273,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：白宫计划于3月初召集包括微软(MSFT.O)、Anthropic和Meta Platforms(META.O)在内的主要数据中心和人工智能企业，以正式敲定一项旨在保护消费者免受电力成本上升影响的承诺。",
@@ -245,7 +282,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -254,11 +291,34 @@
           "url": "https://wallstreetcn.com/livenews/3058999",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时51分]"
+        },
+        {
+          "title": "美媒：科技巨头将承诺自建电力供应以控制能源成本",
+          "url": "https://flash.jin10.com/detail/20260226020113733800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "02时51分"
+        },
+        {
+          "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、Meta Platforms(META.O)、微软(MSFT.O)、xAI、甲骨文(ORCL.N)和OpenAI将签署协议，为人工智能数据中心建设自己的电力供应。",
+          "url": "https://flash.jin10.com/detail/20260226015415624800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         }
       ]
     }
