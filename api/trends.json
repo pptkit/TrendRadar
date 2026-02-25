@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T16:36:07.264618+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-02-25T18:14:18.680124+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 70,
+      "match_count": 74,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -43,6 +43,17 @@
           "time_info": "[00时54分 ~ 05时25分]"
         },
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时35分 ~ 18时14分]"
+        },
+        {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
           "url": "https://www.cls.cn/detail/2293337",
           "source": "财联社热门",
@@ -64,19 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时56分 ~ 16时36分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时35分 ~ 16时36分]"
+          "appearance_count": 17,
+          "time_info": "[02时56分 ~ 18时14分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -92,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时50分 ~ 16时36分]"
+          "appearance_count": 18,
+          "time_info": "[01时50分 ~ 18时14分]"
         },
         {
           "title": "宇树机器人背后的23个算法",
@@ -177,6 +177,19 @@
           "time_info": "[00时54分 ~ 07时35分]"
         },
         {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 18时14分]"
+        },
+        {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
           "url": "https://www.cls.cn/detail/2294141",
           "source": "财联社热门",
@@ -199,19 +212,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时54分 ~ 06时47分]"
-        },
-        {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 16时36分]"
         },
         {
           "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
@@ -238,8 +238,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 18时14分]"
         },
         {
           "title": "宇树发布新款四足机器人",
@@ -254,6 +254,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 07时35分]"
+        },
+        {
+          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
+          "url": "https://www.zhihu.com/question/2009924225859805232",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 18时14分]"
         },
         {
           "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
@@ -323,16 +335,15 @@
           "time_info": "[04时24分 ~ 07时35分]"
         },
         {
-          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
-          "url": "https://www.zhihu.com/question/2009924225859805232",
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
           "source": "知乎",
           "ranks": [
-            19,
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时36分]"
+          "time_info": "[14时50分 ~ 18时14分]"
         },
         {
           "title": "Citrini创始人对其AI预测引发股市大跌表示震惊",
@@ -410,15 +421,16 @@
           "time_info": "[01时50分 ~ 02时57分]"
         },
         {
-          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
-          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
-          "source": "知乎",
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
           "ranks": [
-            15
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时50分 ~ 16时36分]"
+          "time_info": "[15时45分 ~ 18时14分]"
         },
         {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
@@ -469,18 +481,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时24分]"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 16时36分]"
         },
         {
           "title": "印度AI峰会，国际媒体给差评",
@@ -713,7 +713,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -729,6 +729,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "惠普(HPQ.N)CFO：第一季度搭载人工智能技术的个人电脑占总出货量的35%，高于上一季度的30%。",
           "url": "https://flash.jin10.com/detail/20260225064530677800",
           "source": "金十数据",
@@ -738,6 +749,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美联储巴尔金：人工智能将成为提高生产率的又一驱动因素。",
@@ -771,6 +804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "荣耀：将在MWC 2026推出人形机器人、机器人手机等新品",
+          "url": "https://wallstreetcn.com/livenews/3058755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美联储理事库克：AI已经被纳入美联储的预测。",
@@ -926,6 +970,57 @@
       ]
     },
     {
+      "keyword_group": "化工",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
+          "url": "https://www.cls.cn/detail/2293678",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 07时35分]"
+        },
+        {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
+          "url": "https://wallstreetcn.com/livenews/3058780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
+          "url": "https://flash.jin10.com/detail/20260225173456379800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "A股三大指数均涨超1%，钢铁、化工、稀土永磁、港口航运等方向涨幅居前，沪深京三市上涨个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3058528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电力 变压器",
       "match_count": 2,
       "titles": [
@@ -951,35 +1046,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化工",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
-          "url": "https://www.cls.cn/detail/2293678",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 07时35分]"
-        },
-        {
-          "title": "A股三大指数均涨超1%，钢铁、化工、稀土永磁、港口航运等方向涨幅居前，沪深京三市上涨个股近4000只。",
-          "url": "https://wallstreetcn.com/livenews/3058528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         }
       ]
     }
