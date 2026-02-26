@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T18:35:53.657379+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-02-26T19:33:11.823343+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 78,
+      "match_count": 82,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -27,22 +27,26 @@
             4,
             3,
             1,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时58分 ~ 13时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时58分 ~ 19时33分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
           "ranks": [
-            6
+            7,
+            4,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 19时33分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -55,21 +59,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时06分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 19时33分]"
         },
         {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
           "ranks": [
-            7,
+            10,
+            6,
+            5,
             4,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时06分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 19时33分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 07时20分]"
         },
         {
           "title": "AI短片 马上好",
@@ -117,21 +134,6 @@
           "time_info": "[00时58分 ~ 09时04分]"
         },
         {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时06分 ~ 18时35分]"
-        },
-        {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
           "url": "https://www.cls.cn/detail/2295374",
           "source": "财联社热门",
@@ -143,6 +145,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时06分 ~ 17时38分]"
+        },
+        {
+          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
+          "url": "https://www.cls.cn/detail/2295732",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时33分]"
         },
         {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
@@ -165,9 +180,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "十年后给机器人的恭喜发财",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E5%B9%B4%E5%90%8E%E7%BB%99%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            22,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时33分]"
         },
         {
           "title": "为什么全球都在盯中国机器人",
@@ -237,17 +266,15 @@
           "time_info": "12时06分"
         },
         {
-          "title": "十年后给机器人的恭喜发财",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E5%B9%B4%E5%90%8E%E7%BB%99%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2",
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            22,
-            21
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时33分]"
         },
         {
           "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
@@ -260,18 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时54分]"
-        },
-        {
-          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
-          "url": "https://www.cls.cn/detail/2295732",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时35分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美（两房）欢迎人工智能（AI）和一切创新。",
@@ -320,17 +335,6 @@
           "time_info": "[12时06分 ~ 15时44分]"
         },
         {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时35分]"
-        },
-        {
           "title": "据美国财经媒体Semafor：美国政府将与机器人制造商举行会谈。",
           "url": "https://flash.jin10.com/detail/20260226024549547800",
           "source": "金十数据",
@@ -342,6 +346,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时45分 ~ 05时27分]"
+        },
+        {
+          "title": "日本把宇树机器人改成僧侣",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 19时33分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -391,6 +407,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时25分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
+          "url": "https://www.cls.cn/detail/2295977",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         },
         {
           "title": "盛宝银行：AI交易进入去泡沫阶段 投资需转向供应链韧性环节",
@@ -446,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "李彦宏：2025年是AI成为百度新核心的关键一年",
+          "url": "https://wallstreetcn.com/livenews/3059527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
@@ -525,13 +563,35 @@
           "time_info": "06时22分"
         },
         {
+          "title": "拉加德称欧洲央行将“高度关注”AI对就业市场的影响",
+          "url": "https://wallstreetcn.com/livenews/3059521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "市场消息：印度与以色列签署人工智能合作协议。",
+          "url": "https://flash.jin10.com/detail/20260226185954160800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "据AXIOS网站：美国参议员将于周四重新提出一项法案，旨在巩固美国在人工智能领域的领先地位。",
           "url": "https://flash.jin10.com/detail/20260226180559394800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -564,7 +624,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -589,17 +649,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "日本把宇树机器人改成僧侣",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "英伟达CEO黄仁勋：客户正竞相投资人工智能计算，计算需求正呈指数级增长。",
@@ -641,7 +690,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -652,7 +701,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -674,7 +723,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1005,17 +1054,18 @@
           "url": "https://wallstreetcn.com/livenews/3059495",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时33分]"
         }
       ]
     },
     {
       "keyword_group": "创新药",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国创新药“出海”势头强劲，年内海外授权总金额突破530亿美元",
@@ -1027,6 +1077,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "创新药ETF近20日吸金超8亿元",
+          "url": "https://www.toutiao.com/trending/7610328936674181139/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         }
       ]
     },
