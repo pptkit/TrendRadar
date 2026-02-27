@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T13:45:19.605873+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-02-27T14:39:29.440904+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 14时39分]"
         },
         {
           "title": "日本一大学把宇树机器人改成僧侣",
@@ -108,11 +108,12 @@
             13,
             11,
             18,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 14时39分]"
         },
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -123,8 +124,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时39分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -147,11 +148,49 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 14时39分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时39分]"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时39分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时39分]"
         },
         {
           "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
@@ -178,16 +217,16 @@
           "time_info": "[06时26分 ~ 07时20分]"
         },
         {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
+          "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
           "ranks": [
             7,
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时45分]"
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时39分]"
         },
         {
           "title": "周四（2月26日），存储芯片与硬件供应链指数跌2.34%，报113.55点。 信息科技指数跌0.71%，人工智能（AI）赢家指数跌2.17%，AI软件先驱指数涨1.95%。",
@@ -202,15 +241,29 @@
           "time_info": "[06时26分 ~ 07时20分]"
         },
         {
-          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
-          "url": "https://wallstreetcn.com/articles/3766280",
-          "source": "华尔街见闻",
+          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
+          "url": "https://www.zhihu.com/question/2010325819092903282",
+          "source": "知乎",
           "ranks": [
-            9
+            11,
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时45分]"
+          "time_info": "[12时03分 ~ 14时39分]"
+        },
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时39分]"
         },
         {
           "title": "霍华德·马克斯：伟大投资者在AI最薄弱的领域展现强势",
@@ -223,31 +276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时26分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时45分]"
-        },
-        {
-          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
-          "url": "https://www.zhihu.com/question/2010325819092903282",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 13时45分]"
         },
         {
           "title": "华富基金沈成：短期市场波动不会改变人形机器人板块长期向上趋势",
@@ -289,6 +317,30 @@
           "time_info": "[02时37分 ~ 04时25分]"
         },
         {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 14时39分]"
+        },
+        {
+          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时39分]"
+        },
+        {
           "title": "广汽集团成立机器人公司",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2%E6%88%90%E7%AB%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -299,6 +351,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时51分 ~ 07时20分]"
+        },
+        {
+          "title": "千问AI眼镜与夸克AI眼镜同团队研发 算法软硬件完全一致",
+          "url": "https://wallstreetcn.com/livenews/3060005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时39分]"
         },
         {
           "title": "标普：基于人工智能驱动的规模和增长增强，将美光科技(MU.O)评级上调至“bbb”，展望积极。",
@@ -313,15 +377,16 @@
           "time_info": "[04时25分 ~ 05时24分]"
         },
         {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
+          "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
+          "url": "https://flash.jin10.com/detail/20260227131101938800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时45分]"
+          "time_info": "[13时45分 ~ 14时39分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
@@ -346,17 +411,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时37分]"
-        },
-        {
-          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
         },
         {
           "title": "奔驰宝马高管围观宇树机器人",
@@ -404,17 +458,6 @@
           "time_info": "[06时26分 ~ 07时20分]"
         },
         {
-          "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "押注AI提升公司效率 Block拟裁员近半",
           "url": "https://flash.jin10.com/detail/20260227052226230800",
           "source": "金十数据",
@@ -446,28 +489,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "千问AI眼镜与夸克AI眼镜同团队研发 算法软硬件完全一致",
-          "url": "https://wallstreetcn.com/livenews/3060005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
-          "url": "https://flash.jin10.com/detail/20260227131101938800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
         },
         {
           "title": "Anthropic：美国国防部表示，他们只会与那些同意“任何合法用途”并移除安全机制的人工智能公司签订合同。",
@@ -564,18 +585,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -728,11 +738,12 @@
           "url": "https://wallstreetcn.com/livenews/3059999",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时39分]"
         }
       ]
     }
