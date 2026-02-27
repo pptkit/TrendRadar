@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:33:11.274821+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2026-02-27T23:31:30.544473+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 109,
+      "match_count": 118,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时39分 ~ 22时33分]"
+          "appearance_count": 13,
+          "time_info": "[15时39分 ~ 23时31分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -74,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时04分 ~ 22时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时04分 ~ 23时31分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -89,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时04分 ~ 22时33分]"
+          "appearance_count": 16,
+          "time_info": "[12时04分 ~ 23时31分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -172,8 +172,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时45分 ~ 22时33分]"
+          "appearance_count": 28,
+          "time_info": "[00时45分 ~ 23时31分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -267,6 +267,17 @@
           "time_info": "[15时39分 ~ 19时25分]"
         },
         {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)：OpenAI将通过亚马逊云科技（AWS）基础设施使用2吉瓦的Trainium芯片计算能力。",
           "url": "https://flash.jin10.com/detail/20260227213826999800",
           "source": "金十数据",
@@ -324,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3060393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "Lemon AI获数千万Pre-A轮融资",
@@ -495,6 +517,17 @@
           "time_info": "[18时27分 ~ 20时32分]"
         },
         {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时32分 ~ 23时31分]"
+        },
+        {
           "title": "华富基金沈成：短期市场波动不会改变人形机器人板块长期向上趋势",
           "url": "https://wallstreetcn.com/livenews/3059703",
           "source": "华尔街见闻-快讯",
@@ -555,6 +588,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时51分 ~ 07时20分]"
+        },
+        {
+          "title": "你如何看待机器人发展对人类的影响",
+          "url": "https://www.toutiao.com/trending/7611473320617492531/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
         },
         {
           "title": "千问AI眼镜与夸克AI眼镜同团队研发 算法软硬件完全一致",
@@ -639,17 +683,6 @@
           "time_info": "[19时24分 ~ 19时25分]"
         },
         {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
-        },
-        {
           "title": "奔驰宝马高管围观宇树机器人",
           "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E9%AB%98%E7%AE%A1%E5%9B%B4%E8%A7%82%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "百度热搜",
@@ -671,6 +704,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时51分]"
+        },
+        {
+          "title": "中科第五纪凭何卡位宇树机器人大脑",
+          "url": "https://www.toutiao.com/trending/7611527908338699795/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
         },
         {
           "title": "科技巨头2万亿美元豪赌AI",
@@ -704,6 +748,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
+          "url": "https://wallstreetcn.com/livenews/3060391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "押注AI提升公司效率 Block拟裁员近半",
@@ -767,7 +822,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -833,7 +888,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -877,7 +932,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -926,6 +981,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "据华尔街日报：美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。",
+          "url": "https://flash.jin10.com/detail/20260227230549020800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "扎克伯格旗下Meta Platforms Inc.在设计自研/内部芯片方面遇到瓶颈。 该公司报废了最先进的AI训练芯片，转而侧重于不那么复杂的芯片版本。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3059767",
           "source": "华尔街见闻-快讯",
@@ -946,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
+          "url": "https://wallstreetcn.com/livenews/3060380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "谷歌：在谷歌翻译中推出全新人工智能驱动功能。",
@@ -970,13 +1047,24 @@
           "time_info": "21时52分"
         },
         {
+          "title": "避险情绪占主导且Block裁员加剧AI担忧，美股走低",
+          "url": "https://flash.jin10.com/detail/20260227230411009800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "OpenAI首席执行官Altman：对在合适的时机上市持开放态度。 希望与亚马逊建立长期、深入的关系。",
           "url": "https://wallstreetcn.com/livenews/3060349",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -998,7 +1086,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1023,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "Block飙涨20%，创2024年2月份以来最大盘中涨幅，该公司宣布裁员将近一半。 信用卡概念股走低，Block大规模裁员计划引发人工智能（AI）顾虑。 美国运通跌约5%，Capital One跌4.7%，Synchrony Financial跌3.9%。 Truist’s Brian Finneran告诉其客户，鉴于Block业绩和裁员安排，市场抛售一切与信用（卡）敏感的资产，鉴于白领群体的失业风险——专家们更侧重于关注美国运通。",
+          "url": "https://wallstreetcn.com/livenews/3060377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "OpenAI宣布以7300亿美元的估值获得1100亿美元的新投资。",
@@ -1064,7 +1163,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1075,7 +1174,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1108,7 +1207,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1174,7 +1273,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1251,7 +1350,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1284,7 +1383,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1316,8 +1415,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 22时33分]"
+          "appearance_count": 9,
+          "time_info": "[18时27分 ~ 23时31分]"
         },
         {
           "title": "A股电力板块继续走强，珈伟新能、涪陵电力、南网能源午后涨停，赣能股份、豫能控股、华银电力多股此前涨停。",
@@ -1346,8 +1445,19 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国航空航天局（NASA）：拟降低“太空发射系统”复杂性、提高发射频率。",
+          "url": "https://flash.jin10.com/detail/20260227230712372800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
         {
           "title": "黑石集团BXPE基金持有Anthropic、SpaceX、以及Jersey Mike’s。",
           "url": "https://wallstreetcn.com/livenews/3059664",
@@ -1373,6 +1483,34 @@
       ]
     },
     {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印度贸易部长：（就美国对印度太阳能出口征收126%关税一事回应）反倾销税或保障措施税通常与贸易协议无关。",
+          "url": "https://flash.jin10.com/detail/20260227160749447800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌幅扩大至1%。 热门中概股世纪互联跌6.23%，晶科能源跌4.5%，阿特斯太阳能跌4.11%，奇富科技跌2.97%，陆控跌2.59%，蔚来跌2.36%，万国数据跌2.25%。",
+          "url": "https://wallstreetcn.com/livenews/3060374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创新药",
       "match_count": 1,
       "titles": [
@@ -1382,23 +1520,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度贸易部长：（就美国对印度太阳能出口征收126%关税一事回应）反倾销税或保障措施税通常与贸易协议无关。",
-          "url": "https://flash.jin10.com/detail/20260227160749447800",
-          "source": "金十数据",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
