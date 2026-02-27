@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T16:31:34.595604+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-02-27T17:31:50.387015+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -63,8 +63,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 17时31分]"
         },
         {
           "title": "十年后给机器人的恭喜发财",
@@ -79,11 +79,12 @@
             16,
             7,
             19,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 16时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 17时31分]"
         },
         {
           "title": "日本一大学把宇树机器人改成僧侣",
@@ -110,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 16时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 17时31分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -124,24 +125,12 @@
             18,
             14,
             20,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 16时31分]"
-        },
-        {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 16时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 17时31分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -149,11 +138,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 17时31分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -164,6 +154,30 @@
             15,
             19,
             14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 17时31分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时31分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -185,15 +199,18 @@
           "time_info": "[12时03分 ~ 16时31分]"
         },
         {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 17时31分]"
         },
         {
           "title": "硅谷“最贵华人”被OpenAI挖走",
@@ -202,24 +219,12 @@
           "ranks": [
             20,
             5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 16时31分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
+            26,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时04分 ~ 16时31分]"
+          "time_info": "[13时45分 ~ 17时31分]"
         },
         {
           "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
@@ -228,11 +233,12 @@
           "ranks": [
             18,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时03分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 17时31分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -324,6 +330,31 @@
           "time_info": "[05时24分 ~ 06时26分]"
         },
         {
+          "title": "菜菜子re评机器人小品",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%9C%E8%8F%9C%E5%AD%90re%E8%AF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时31分]"
+        },
+        {
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时31分]"
+        },
+        {
           "title": "华富基金沈成：短期市场波动不会改变人形机器人板块长期向上趋势",
           "url": "https://wallstreetcn.com/livenews/3059703",
           "source": "华尔街见闻-快讯",
@@ -361,18 +392,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时25分]"
-        },
-        {
-          "title": "菜菜子re评机器人小品",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8F%9C%E8%8F%9C%E5%AD%90re%E8%AF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时31分]"
         },
         {
           "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
@@ -444,17 +463,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时25分]"
-        },
-        {
-          "title": "融资额大增130% AI制药能否照进现实",
-          "url": "https://www.cls.cn/detail/2296887",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "挪威主权财富基金：AI发现了他人遗漏的风险",
@@ -547,6 +555,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "巴克莱：对AI颠覆风险的担忧有望利好欧洲重资产股票",
+          "url": "https://wallstreetcn.com/livenews/3060158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "Anthropic：美国国防部表示，他们只会与那些同意“任何合法用途”并移除安全机制的人工智能公司签订合同。",
           "url": "https://flash.jin10.com/detail/20260227063933000800",
           "source": "金十数据",
@@ -578,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "奈飞美股盘前涨近9%，放弃竞购华纳兄弟，派拉蒙成为赢家；戴尔科技盘前涨逾12%，公司预计今年AI服务器收入将翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3060167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
@@ -712,6 +742,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "阿里回应：夸克AI眼镜和千问AI眼镜是同一个团队推出的不同系列",
+          "url": "https://wallstreetcn.com/livenews/3060005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "瑞穗计划利用人工智能（AI）技术，才未来十年裁员5000个行政岗位。（日本读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3059783",
           "source": "华尔街见闻-快讯",
@@ -732,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "AI短剧已经丝滑到这种程度了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E5%B7%B2%E7%BB%8F%E4%B8%9D%E6%BB%91%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "德总理看机器人拳击目不转睛连连点头",
@@ -780,7 +832,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
@@ -825,7 +877,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
@@ -842,7 +894,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
