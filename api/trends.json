@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T04:15:15.087729+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-03-01T05:12:05.697738+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "事关人形机器人！我国首个国家级标准体系发布 产业迫近临界点",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -64,8 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -75,11 +75,12 @@
             24,
             26,
             21,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -88,11 +89,35 @@
           "ranks": [
             24,
             23,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时12分]"
+        },
+        {
+          "title": "Block 裁员近半并称「大多数公司动作太慢」，AI 技术变革是否正加速行业洗牌？",
+          "url": "https://www.zhihu.com/question/2010680269259179931",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
+          "url": "https://flash.jin10.com/detail/20260301045433852800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
@@ -120,15 +145,81 @@
           "time_info": "[00时15分 ~ 02时18分]"
         },
         {
-          "title": "Block 裁员近半并称「大多数公司动作太慢」，AI 技术变革是否正加速行业洗牌？",
-          "url": "https://www.zhihu.com/question/2010680269259179931",
-          "source": "知乎",
+          "title": "OpenAI 就与美国国防部的协议表态：在法律、法规或部门政策要求人类控制的情况下，人工智能系统不会被用于独立指挥自主武器。",
+          "url": "https://flash.jin10.com/detail/20260301045230715800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 04时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，保留对安全机制的完全自主权，经审查的OpenAI人员参与其中，并拥有强有力的合同保护。",
+          "url": "https://flash.jin10.com/detail/20260301045126214800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，人工智能系统不得用于对美国公民隐私信息的无限制监控。除非适用法律允许，该系统也不得用于国内执法活动。",
+          "url": "https://flash.jin10.com/detail/20260301044943651800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，部署架构将使我们能够独立验证这些红线不会被突破。",
+          "url": "https://flash.jin10.com/detail/20260301044842219800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表态称，不会向国防部提供“无安全约束”或未经安全训练的模型，也不在边缘设备上部署模型。",
+          "url": "https://flash.jin10.com/detail/20260301044547998800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，在与美国国防部的协议中，我们通过一种更为广泛、多层次的方法来保护我们的红线。",
+          "url": "https://flash.jin10.com/detail/20260301044444356800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，该协议包含的防护措施比以往任何涉及机密AI部署的协议（包括Anthropic的协议）都要严格。",
+          "url": "https://flash.jin10.com/detail/20260301044417806800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "宇树科技机器人都被谁买走了",
@@ -155,8 +246,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时12分]"
         }
       ]
     }
