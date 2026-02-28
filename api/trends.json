@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T11:09:28.579101+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-02-28T12:47:44.451699+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 45,
+      "match_count": 55,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -56,8 +56,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时26分 ~ 11时09分]"
+          "appearance_count": 14,
+          "time_info": "[01时26分 ~ 12时47分]"
+        },
+        {
+          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 12时47分]"
         },
         {
           "title": "你如何看待机器人发展对人类的影响",
@@ -74,28 +87,17 @@
           "time_info": "[00时29分 ~ 08时59分]"
         },
         {
-          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时09分]"
-        },
-        {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
           "url": "https://www.cls.cn/detail/2297724",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时47分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -126,6 +128,22 @@
           "time_info": "[00时29分 ~ 07时15分]"
         },
         {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时19分 ~ 12时47分]"
+        },
+        {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
           "url": "https://wallstreetcn.com/articles/3766293",
           "source": "华尔街见闻",
@@ -138,30 +156,16 @@
           "time_info": "[00时29分 ~ 05时19分]"
         },
         {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
+          "title": "外媒爆料：美军想用AI攻击中国电网",
+          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8,
-            5,
-            6
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时19分 ~ 11时09分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
-          "url": "https://flash.jin10.com/detail/20260228110043453800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时47分]"
         },
         {
           "title": "中国AI调用量超越美国",
@@ -178,49 +182,26 @@
           "time_info": "[05时19分 ~ 08时59分]"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
-          "url": "https://flash.jin10.com/detail/20260228105851301800",
-          "source": "金十数据",
+          "title": "机器人将进入宝马德国工厂打工",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E8%BF%9B%E5%85%A5%E5%AE%9D%E9%A9%AC%E5%BE%B7%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%89%93%E5%B7%A5",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "12时47分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
-          "url": "https://flash.jin10.com/detail/20260228105836118800",
-          "source": "金十数据",
+          "title": "中国AI跑出马年加速度",
+          "url": "https://www.douyin.com/hot/2414159",
+          "source": "抖音",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
-          "url": "https://flash.jin10.com/detail/20260228105824885800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "外媒爆料：美军想用AI攻击中国电网",
-          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时09分]"
+          "time_info": "12时47分"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -229,20 +210,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
+          "url": "https://flash.jin10.com/detail/20260228120317791800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "12时47分"
         },
         {
           "title": "菜菜子re评机器人小品",
@@ -270,6 +251,67 @@
           "time_info": "[02时27分 ~ 04时18分]"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
+          "url": "https://flash.jin10.com/detail/20260228110043453800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时47分]"
+        },
+        {
+          "title": "AI算力需求驱动光纤行业步入景气周期",
+          "url": "https://wallstreetcn.com/livenews/3060569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 12时47分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
+          "url": "https://flash.jin10.com/detail/20260228105851301800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时47分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
+          "url": "https://flash.jin10.com/detail/20260228105836118800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时47分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
+          "url": "https://flash.jin10.com/detail/20260228105824885800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时47分]"
+        },
+        {
           "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
           "url": "https://wallstreetcn.com/livenews/3060521",
           "source": "华尔街见闻-快讯",
@@ -282,16 +324,16 @@
           "time_info": "[06时14分 ~ 07时15分]"
         },
         {
-          "title": "AI算力需求驱动光纤行业步入景气周期",
-          "url": "https://wallstreetcn.com/livenews/3060569",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            14
+            5,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时59分 ~ 11时09分]"
+          "time_info": "[11时09分 ~ 12时47分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -306,6 +348,19 @@
           "time_info": "[03时27分 ~ 04时18分]"
         },
         {
+          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2297921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
           "title": "市场消息：黑石计划成立上市公司，专注于收购人工智能数据中心。",
           "url": "https://flash.jin10.com/detail/20260228044640466800",
           "source": "金十数据",
@@ -317,18 +372,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时19分 ~ 07时15分]"
-        },
-        {
-          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2297921",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时09分]"
         },
         {
           "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
@@ -367,6 +410,18 @@
           "time_info": "[07时15分 ~ 08时59分]"
         },
         {
+          "title": "AI提供的虚拟微信号加到了真人",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8F%90%E4%BE%9B%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%8A%A0%E5%88%B0%E4%BA%86%E7%9C%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时47分]"
+        },
+        {
           "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
           "url": "https://wallstreetcn.com/livenews/3060551",
           "source": "华尔街见闻-快讯",
@@ -390,13 +445,46 @@
           "time_info": "[08时58分 ~ 08时59分]"
         },
         {
+          "title": "英伟达计划推出新芯片以加快AI处理速度",
+          "url": "https://wallstreetcn.com/livenews/3060590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "机器人将进入宝马德国工厂打工",
+          "url": "https://www.toutiao.com/trending/7611525084908535854/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://wallstreetcn.com/livenews/3060587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "7万家企业为何扎堆在深圳做机器人",
           "url": "https://www.toutiao.com/trending/7611696532860964402/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -423,6 +511,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "宝马宣布在德国工厂引入人形机器人 试点接管装配线最累工序",
+          "url": "https://www.cls.cn/detail/2297869",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
           "url": "https://wallstreetcn.com/livenews/3060391",
           "source": "华尔街见闻-快讯",
@@ -445,15 +544,15 @@
           "time_info": "00时29分"
         },
         {
-          "title": "AI提供的虚拟微信号加到了真人",
-          "url": "https://www.baidu.com/s?wd=AI%E6%8F%90%E4%BE%9B%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%8A%A0%E5%88%B0%E4%BA%86%E7%9C%9F%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
+          "url": "https://flash.jin10.com/detail/20260228110554688800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "12时47分"
         },
         {
           "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
@@ -465,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "买 A18 Pro 的入门级 MacBook 和买 M4 MacBook Air，哪个更值得？",
+          "url": "https://www.zhihu.com/question/2009928728206149091",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "人工智能与信贷忧虑重创金融股 KBW银行指数跌近5%",
@@ -487,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "印度一公司拟利用英伟达GPU构建20亿美元AI中心并上市",
+          "url": "https://wallstreetcn.com/livenews/3060601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
@@ -566,11 +687,12 @@
           "url": "https://www.zhihu.com/question/2010773992567481420",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时47分]"
         },
         {
           "title": "国际原子能机构：临时停火使得恢复向乌克兰扎波罗热核电站提供的场外备用电力供应成为可能。",
@@ -590,6 +712,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "SpaceX据传最快3月秘密递交招股书 目标估值超1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2297889",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时47分]"
+        },
+        {
           "title": "报道：SpaceX考虑最早3月秘密提交美国IPO申请，有望6月正式上市",
           "url": "https://wallstreetcn.com/livenews/3060496",
           "source": "华尔街见闻-快讯",
@@ -600,17 +734,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时14分]"
-        },
-        {
-          "title": "SpaceX据传最快3月秘密递交招股书 目标估值超1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2297889",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
         },
         {
           "title": "消息人士称，马斯克旗下太空探索公司SpaceX考虑最快3月秘密递交美国IPO申请，SpaceX在IPO中可能寻求超过1.75万亿美元的估值。",
