@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T19:12:47.064570+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-03-01T20:24:26.412146+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[09时12分 ~ 20时24分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
@@ -104,8 +104,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 19时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 20时24分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -124,8 +124,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 17时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 20时24分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
