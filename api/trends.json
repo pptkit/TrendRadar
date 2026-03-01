@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T06:13:58.611044+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-03-02T07:14:39.808529+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时14分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时14分]"
         },
         {
           "title": "AI短剧",
@@ -44,8 +44,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 07时14分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -69,11 +69,12 @@
           "ranks": [
             2,
             10,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时15分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[04时15分 ~ 07时14分]"
         },
         {
           "title": "荣耀机器人手机亮相",
