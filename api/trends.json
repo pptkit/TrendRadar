@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T05:14:10.454034+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-03-02T06:13:58.611044+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 05时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 05时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "AI短剧",
@@ -40,11 +40,12 @@
             17,
             18,
             19,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 05时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -54,11 +55,12 @@
             26,
             24,
             27,
-            25
+            25,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -66,11 +68,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时13分]"
         },
         {
           "title": "荣耀机器人手机亮相",
@@ -114,11 +117,12 @@
           "ranks": [
             22,
             25,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 06时13分]"
         }
       ]
     }
