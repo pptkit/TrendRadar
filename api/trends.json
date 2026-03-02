@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T01:37:45.756949+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-03T02:32:22.012934+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -23,33 +23,48 @@
           "url": "https://wallstreetcn.com/livenews/3062084",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时32分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3062081",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时32分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
           "source": "澎湃新闻",
           "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时32分]"
+        },
+        {
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
+          "source": "财联社热门",
+          "ranks": [
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时32分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -59,19 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时37分]"
-        },
-        {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时32分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -81,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时32分]"
         },
         {
           "title": "荣耀机器人手机上手体验",
@@ -90,33 +94,47 @@
           "source": "抖音",
           "ranks": [
             22,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时32分]"
         },
         {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
           "url": "https://wallstreetcn.com/livenews/3062080",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时32分]"
         },
         {
           "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3062077",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时32分]"
+        },
+        {
+          "title": "惠誉评级：人工智能颠覆使另类投资管理软件风险敞口备受关注。",
+          "url": "https://flash.jin10.com/detail/20260303015557530800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时37分"
+          "time_info": "02时32分"
         },
         {
           "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
@@ -125,9 +143,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "市场消息：马斯克的xAI将在IPO前回购30亿美元债务。",
+          "url": "https://flash.jin10.com/detail/20260303014347171800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
@@ -154,6 +183,34 @@
       ]
     },
     {
+      "keyword_group": "太空 spaceX",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英媒：SpaceX计划明年发射“星舰” 马斯克瞄准1.5万亿美元IPO",
+          "url": "https://flash.jin10.com/detail/20260303012939987800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3062067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电力 变压器",
       "match_count": 1,
       "titles": [
@@ -164,7 +221,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         }
@@ -179,28 +236,12 @@
           "url": "https://www.cls.cn/detail/2299988",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克旗下太空探索公司SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3062067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时32分]"
         }
       ]
     }
