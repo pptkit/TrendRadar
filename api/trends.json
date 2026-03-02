@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T20:33:23.990824+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2026-03-02T21:53:34.776676+08:00",
+  "total_titles_processed": 1983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -18,6 +18,33 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 09时05分]"
+        },
+        {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 21时53分]"
+        },
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 21时53分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -50,33 +77,6 @@
           "time_info": "[00时15分 ~ 07时14分]"
         },
         {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 20时33分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时37分 ~ 20时33分]"
-        },
-        {
           "title": "机器人手机趋势到来了吗",
           "url": "https://www.toutiao.com/trending/7612544939070590470/",
           "source": "今日头条",
@@ -90,6 +90,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时43分 ~ 19时26分]"
+        },
+        {
+          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
+          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 21时53分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -107,19 +120,6 @@
           "time_info": "[00时15分 ~ 06时13分]"
         },
         {
-          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
-          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时37分 ~ 20时33分]"
-        },
-        {
           "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
           "url": "https://www.zhihu.com/question/2011022777268856579",
           "source": "知乎",
@@ -127,8 +127,30 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时37分 ~ 20时33分]"
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 21时53分]"
+        },
+        {
+          "title": "千问AI眼镜开启预约",
+          "url": "https://www.toutiao.com/trending/7612431152581967913/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时53分]"
+        },
+        {
+          "title": "摩根大通：大部分科技/人工智能股票的重新定价已经完成——这限制了进一步下跌的空间。",
+          "url": "https://flash.jin10.com/detail/20260302214620293800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "特斯拉(TSLA.O)：特斯拉人形机器人持续迭代， Cybercab量产工作加速推进。",
@@ -155,15 +177,15 @@
           "time_info": "[09时05分 ~ 14时43分]"
         },
         {
-          "title": "千问AI眼镜开启预约",
-          "url": "https://www.toutiao.com/trending/7612431152581967913/",
-          "source": "今日头条",
+          "title": "MiniMax创始人：AI办公的机会将比编程更大",
+          "url": "https://wallstreetcn.com/livenews/3061967",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "21时53分"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -218,6 +240,31 @@
           "time_info": "[16时31分 ~ 17时38分]"
         },
         {
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时53分]"
+        },
+        {
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时53分]"
+        },
+        {
           "title": "英伟达发布通信网络基建联盟倡议 探索6G与人工智能深度融合",
           "url": "https://www.cls.cn/detail/2299025",
           "source": "财联社热门",
@@ -227,18 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时33分]"
         },
         {
           "title": "荣耀机器人手机亮相",
@@ -252,13 +287,24 @@
           "time_info": "[05时13分 ~ 05时14分]"
         },
         {
+          "title": "如何评价荣耀 MWC 发布的机器人手机 Robot Phone，它为手机行业带来了哪些实质性革新？",
+          "url": "https://www.zhihu.com/question/2011572653631223263",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "Anthropic正在调查Claude AI错误较高的现象。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3061901",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -296,13 +342,24 @@
           "time_info": "15时43分"
         },
         {
+          "title": "美军参谋长联席会议主席Caine：三架F-15战机的损失正在调查中。",
+          "url": "https://wallstreetcn.com/livenews/3061962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "SAP重组董事会，首席执行官Klein将专注于人工智能开发。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3061894",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -318,24 +375,13 @@
           "time_info": "14时43分"
         },
         {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
           "title": "衡水中学AI监测系统",
           "url": "https://s.weibo.com/weibo?q=%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6AI%E7%9B%91%E6%B5%8B%E7%B3%BB%E7%BB%9F&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -456,7 +502,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -470,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "英伟达斥资40亿美元强化AI光学供应链 巩固算力基建",
+          "url": "https://flash.jin10.com/detail/20260302213153055800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     },
@@ -532,11 +589,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 21时53分]"
         }
       ]
     }
