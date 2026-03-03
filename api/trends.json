@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T21:52:36.960639+08:00",
-  "total_titles_processed": 2002,
+  "generated_at": "2026-03-03T22:37:23.698918+08:00",
+  "total_titles_processed": 2101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 61,
+      "match_count": 69,
       "titles": [
         {
           "title": "中国人形机器人快速“上量”靠什么",
@@ -94,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时08分 ~ 21时52分]"
+          "appearance_count": 18,
+          "time_info": "[09时08分 ~ 22时37分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -144,6 +144,20 @@
           "time_info": "[00时31分 ~ 12时05分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时37分]"
+        },
+        {
           "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
           "url": "https://www.zhihu.com/question/2010702851366674730",
           "source": "知乎",
@@ -161,20 +175,6 @@
           "time_info": "[05时23分 ~ 14时37分]"
         },
         {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时52分]"
-        },
-        {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
           "url": "https://www.cls.cn/detail/2301441",
           "source": "财联社热门",
@@ -184,8 +184,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时52分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时37分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -259,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "多平台公布2月涉“AI魔改”视频治理结果",
@@ -392,6 +403,18 @@
           "time_info": "[13时41分 ~ 14时37分]"
         },
         {
+          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
+          "url": "https://www.cls.cn/detail/2301011",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时37分]"
+        },
+        {
           "title": "西班牙国王和中国机器人握手",
           "url": "https://www.toutiao.com/trending/7612133346110455835/",
           "source": "今日头条",
@@ -438,18 +461,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时08分]"
-        },
-        {
-          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
-          "url": "https://www.cls.cn/detail/2301011",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时52分]"
         },
         {
           "title": "从哈梅内伊遇袭看AI如何卷入真实战争｜907编辑部",
@@ -518,6 +529,28 @@
           "time_info": "02时32分"
         },
         {
+          "title": "伊拉克开始在Rumaila（鲁迈拉）停产石油，因为储油设施已满。 将Qurna 2的石油减产45万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3062839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
+          "url": "https://flash.jin10.com/detail/20260303222622632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3062254",
           "source": "华尔街见闻-快讯",
@@ -527,6 +560,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI与美国国防部同意加强近期合同。",
+          "url": "https://flash.jin10.com/detail/20260303222545463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "周一（3月2日），存储芯片与硬件供应链指数跌1.99%，报109.53点。 信息科技指数涨0.58%，报273.65点。 人工智能（AI）赢家指数涨0.65%，AI软件先驱指数涨1.19%。",
@@ -584,6 +639,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "据AXIOS网站：OpenAI、美国国防部在AI协议中加入监控保护措施。",
+          "url": "https://flash.jin10.com/detail/20260303222435130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "市场消息：马斯克的xAI将在IPO前回购30亿美元债务。",
           "url": "https://flash.jin10.com/detail/20260303014347171800",
           "source": "金十数据",
@@ -615,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "韩国AI芯片初创公司Rebellions冲击今年上市 挑战英伟达市场地位",
+          "url": "https://flash.jin10.com/detail/20260303222048402800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
@@ -659,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "高通CEO预计：机器人将在两年内成为“更重大的机遇”",
+          "url": "https://wallstreetcn.com/livenews/3062827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "据AXIOS网站：美国民主党计划对五角大楼的人工智能斗争采取立法回应。",
