@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-03T17:32:13.726058+08:00",
-  "total_titles_processed": 1584,
-  "failed_sources": [],
+  "generated_at": "2026-03-03T18:31:14.585668+08:00",
+  "total_titles_processed": 1686,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时41分 ~ 18时31分]"
+        },
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
           "url": "https://www.cls.cn/detail/2300009",
@@ -19,18 +33,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 09时08分]"
-        },
-        {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 17时32分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -61,6 +63,17 @@
           "time_info": "[12时05分 ~ 17时32分]"
         },
         {
+          "title": "中国人形机器人快速“上量”靠什么",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BF%AB%E9%80%9F%E2%80%9C%E4%B8%8A%E9%87%8F%E2%80%9D%E9%9D%A0%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 18时31分]"
+        },
+        {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
           "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -82,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 17时32分]"
+          "appearance_count": 13,
+          "time_info": "[09时08分 ~ 18时31分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -133,17 +146,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[05时23分 ~ 14时37分]"
-        },
-        {
-          "title": "中国人形机器人快速“上量”靠什么",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BF%AB%E9%80%9F%E2%80%9C%E4%B8%8A%E9%87%8F%E2%80%9D%E9%9D%A0%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 17时32分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -206,6 +208,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时41分 ~ 16时29分]"
+        },
+        {
+          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 18时31分]"
         },
         {
           "title": "AI表格Agent接入钉钉群",
@@ -326,18 +341,6 @@
           "time_info": "[01时37分 ~ 02时32分]"
         },
         {
-          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 17时32分]"
-        },
-        {
           "title": "AI生成 男女身高",
           "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -430,6 +433,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
+          "title": "人大代表：年轻人不要和AI比效率",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%A6%81%E5%92%8CAI%E6%AF%94%E6%95%88%E7%8E%87",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时31分]"
         },
         {
           "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
