@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T02:33:53.678623+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-03-05T03:31:51.642789+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -15,8 +15,55 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
+        },
+        {
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
+        },
+        {
+          "title": "博士用十年为机器人注入灵魂",
+          "url": "https://www.douyin.com/hot/2419302",
+          "source": "抖音",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
+        },
+        {
+          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
+          "url": "https://www.zhihu.com/question/2012192001999726052",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
         },
         {
           "title": "华为推出人工智能（AI）数据平台。",
@@ -30,40 +77,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时33分]"
-        },
-        {
-          "title": "AI真人微短剧爆火 演员会被替代吗",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时33分]"
-        },
-        {
-          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
-          "url": "https://www.zhihu.com/question/2012192001999726052",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时33分]"
-        },
-        {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
           "url": "https://www.zhihu.com/question/1922608207504867947",
           "source": "知乎",
@@ -71,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -83,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -96,19 +109,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时33分]"
-        },
-        {
-          "title": "博士用十年为机器人注入灵魂",
-          "url": "https://www.douyin.com/hot/2419302",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
         },
         {
           "title": "甄子丹：机器人太厉害了 我可能打不过",
@@ -119,19 +121,64 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
           "url": "https://wallstreetcn.com/livenews/3063794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时31分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
+          "url": "https://wallstreetcn.com/livenews/3063822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "03时31分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：AI热潮的资金来源“清晰明了”。",
+          "url": "https://flash.jin10.com/detail/20260305024546577800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3063819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "市场消息：消息人士称，美国司法部调查肥料市场可能存在的价格操控行为；受调查公司包括Nutrien、Mosaic、CFIndustries、Koch和Yara等。",
+          "url": "https://flash.jin10.com/detail/20260305024519491800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "惠誉评级：随着人工智能的发展，欧洲IT企业面临中断和增长压力。",
@@ -143,23 +190,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：向OpenAI投资1000亿美元的机会可能并不存在，因为该公司即将上市。",
+          "url": "https://flash.jin10.com/detail/20260305023545478800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：将投资300亿美元于OpenAI，1000亿美元不在考虑之中。",
+          "url": "https://flash.jin10.com/detail/20260305023519224800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊拉克：正逐步恢复电力供应。",
           "url": "https://wallstreetcn.com/livenews/3063804",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时31分]"
         },
         {
           "title": "伊拉克电力部发言人：目前正开展努力在全国范围内恢复供电。",
@@ -168,7 +238,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -179,7 +249,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -190,7 +260,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -212,7 +282,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -223,9 +293,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "市场消息：古巴遭遇大规模停电，影响了包括哈瓦那在内的岛屿大部分地区，国家电网面临巨大的电力赤字、燃料短缺和发电厂故障。",
+          "url": "https://flash.jin10.com/detail/20260305023404109800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     }
