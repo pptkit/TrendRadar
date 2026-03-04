@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-04T16:26:42.084576+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-03-04T17:31:39.014308+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 17时31分]"
+        },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
           "url": "https://www.cls.cn/detail/2301441",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时35分 ~ 09时04分]"
-        },
-        {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 16时26分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -55,11 +55,12 @@
             18,
             17,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时35分 ~ 16时26分]"
+          "appearance_count": 16,
+          "time_info": "[01时35分 ~ 17时31分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -82,11 +83,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 17时31分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -96,11 +98,12 @@
             10,
             13,
             15,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 17时31分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -158,6 +161,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 17时31分]"
         },
         {
           "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
@@ -234,18 +249,6 @@
           "time_info": "[02时34分 ~ 03时33分]"
         },
         {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 16时26分]"
-        },
-        {
           "title": "代表建议为AI内容添加不可去除水印",
           "url": "https://www.toutiao.com/trending/7613178493744087103/",
           "source": "今日头条",
@@ -280,6 +283,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时18分]"
+        },
+        {
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时31分]"
         },
         {
           "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
@@ -407,6 +422,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
+          "url": "https://www.cls.cn/detail/2302307",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "OpenAI：推出 GPT‑5.3 即时网站。",
           "url": "https://flash.jin10.com/detail/20260304020800832800",
           "source": "金十数据",
@@ -416,17 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
-          "url": "https://www.cls.cn/detail/2302236",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "大会发言人：2025年是国产人形机器人产业实现技术突破与场景落地双重跨越的关键一年",
@@ -542,7 +557,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股电网设备板块午后再度拉升，汇金通、杭电股份、安靠智电、汉缆股份、神马电力等近10股涨停。",
@@ -565,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "葡萄牙电力公司CEO：可再生能源更容易受到外部冲击的影响。",
+          "url": "https://wallstreetcn.com/livenews/3063505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
