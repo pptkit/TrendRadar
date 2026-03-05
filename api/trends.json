@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T21:55:34.353787+08:00",
-  "total_titles_processed": 1984,
+  "generated_at": "2026-03-05T22:39:00.975468+08:00",
+  "total_titles_processed": 2064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -123,8 +123,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 21时55分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 22时39分]"
         },
         {
           "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
@@ -154,6 +154,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 05时24分]"
+        },
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 22时39分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时39分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -192,17 +216,18 @@
           "time_info": "01时32分"
         },
         {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            5,
-            3
+            20,
+            16,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时55分]"
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时39分]"
         },
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -271,17 +296,6 @@
           "time_info": "15时35分"
         },
         {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 21时55分]"
-        },
-        {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063885",
           "source": "华尔街见闻-快讯",
@@ -316,20 +330,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时02分 ~ 15时35分]"
-        },
-        {
-          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 21时55分]"
         },
         {
           "title": "比Deepfake更严重的AI出现了",
@@ -390,6 +390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 14时37分]"
+        },
+        {
+          "title": "忍住AI让我把食欲忍住",
+          "url": "https://www.douyin.com/hot/2420009",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "加拿大总理卡尼：今天在悉尼会见了商业领袖，旨在建立新的合作伙伴关系，为我们的能源、关键矿产和人工智能领域创造数千个高薪职业。",
@@ -673,7 +684,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -761,7 +772,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -794,7 +805,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
