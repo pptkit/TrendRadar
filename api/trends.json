@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T16:28:39.255522+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-03-05T17:33:19.275900+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -116,11 +116,12 @@
             25,
             22,
             28,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 16时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 17时33分]"
         },
         {
           "title": "甄子丹：机器人太厉害了 我可能打不过",
@@ -146,6 +147,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            17,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 17时33分]"
         },
         {
           "title": "华为推出人工智能（AI）数据平台。",
@@ -225,19 +240,6 @@
           "time_info": "15时35分"
         },
         {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10,
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 16时28分]"
-        },
-        {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063885",
           "source": "华尔街见闻-快讯",
@@ -279,11 +281,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 17时33分]"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
@@ -351,7 +354,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -431,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "鸿海：AI机架需求持续增长，智能消费电子表现亦好于预期。",
+          "url": "https://flash.jin10.com/detail/20260305165845238800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "Meta计划研发自研芯片，来训练自家的AI模型",
@@ -521,6 +535,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "鸿海：第一季度业绩表现符合市场预期。 人工智能设备出货量持续增长。 智能消费电子产品业务超出预期表现良好。",
+          "url": "https://wallstreetcn.com/livenews/3064381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "惠誉评级：随着人工智能的发展，欧洲IT企业面临中断和增长压力。",
           "url": "https://flash.jin10.com/detail/20260305004614487800",
           "source": "金十数据",
@@ -554,15 +579,37 @@
           "time_info": "05时24分"
         },
         {
+          "title": "鸿海：随AI机柜出货持续放量、消费智能产品也优于原预测，故预期本季季节性表现将优于过去五年区间。",
+          "url": "https://flash.jin10.com/detail/20260305165502981800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "阿联酋工业和先进技术部长、阿布扎比国家石油公司集团CEO阿尔·贾比尔：Ruwais液化天然气项目建设进展顺利。",
           "url": "https://wallstreetcn.com/livenews/3064333",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "欧洲央行监管委员会成员Donnery：正评估伊朗局势对银行系统的间接冲击风险。 欧盟银行业对伊朗冲突的直接风险敞口有限。 银行尚未出现利用人工智能取代岗位的现象。",
+          "url": "https://wallstreetcn.com/livenews/3064369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "英伟达CEO黄仁勋：向OpenAI投资1000亿美元的机会可能并不存在，因为该公司即将上市。",
@@ -640,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "恒生指数收盘涨0.3%，能源、AI板块领涨，南向资金净卖出277.35亿港元",
+          "url": "https://wallstreetcn.com/livenews/3064358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     },
