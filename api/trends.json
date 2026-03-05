@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T09:06:46.116280+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-03-05T12:02:43.738659+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -25,33 +25,6 @@
           "ranks": [
             10,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 09时06分]"
-        },
-        {
-          "title": "AI真人微短剧爆火 演员会被替代吗",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 09时06分]"
-        },
-        {
-          "title": "博士用十年为机器人注入灵魂",
-          "url": "https://www.douyin.com/hot/2419302",
-          "source": "抖音",
-          "ranks": [
-            13,
-            7,
-            5,
-            2,
-            16
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -87,6 +60,35 @@
           "time_info": "[00时31分 ~ 09时06分]"
         },
         {
+          "title": "博士用十年为机器人注入灵魂",
+          "url": "https://www.douyin.com/hot/2419302",
+          "source": "抖音",
+          "ranks": [
+            13,
+            7,
+            5,
+            2,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时02分]"
+        },
+        {
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时02分]"
+        },
+        {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
           "url": "https://www.cls.cn/detail/2302628",
           "source": "财联社热门",
@@ -109,11 +111,12 @@
             15,
             14,
             16,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 09时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时02分]"
         },
         {
           "title": "甄子丹：机器人太厉害了 我可能打不过",
@@ -180,9 +183,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "工业和信息化部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3064161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "据The Information：截至上月末，OpenAI年化收入已超过250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260305113319043800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
@@ -262,9 +287,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "科技部部长点赞人形机器人",
+          "url": "https://www.toutiao.com/trending/7613552782146158611/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -295,9 +331,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "英伟达CEO黄仁勋：AI热潮的资金来源“清晰明了”。",
@@ -311,6 +358,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "截至上月末，OpenAI年化收入已超过250亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3064152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "Meta计划研发自研芯片，来训练自家的AI模型",
           "url": "https://wallstreetcn.com/livenews/3063889",
           "source": "华尔街见闻-快讯",
@@ -320,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
+          "url": "https://www.cls.cn/detail/2303137",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "市场消息：消息人士称，美国司法部调查肥料市场可能存在的价格操控行为；受调查公司包括Nutrien、Mosaic、CFIndustries、Koch和Yara等。",
@@ -364,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "千问AI眼镜MWC全球重磅首发",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AEAI%E7%9C%BC%E9%95%9CMWC%E5%85%A8%E7%90%83%E9%87%8D%E7%A3%85%E9%A6%96%E5%8F%91%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
@@ -427,7 +507,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -460,9 +540,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "国际货币基金组织IMF总裁格奥尔基耶娃：全球经济韧性正因新一轮中东冲突再次面临考验。 若事实证明冲突长期化，显然势必会影响能源价格、市场情绪以及通胀水平。 这场冲突将给世界各地的政策制定者提出新的挑战。 我们一段时间以来一直提醒成员国，不确定性已成为新常态。 我们可能正处于一个长期的动荡调整期。 对人工智能影响初级岗位和年轻人就业表示担忧。",
+          "url": "https://wallstreetcn.com/livenews/3064122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
@@ -558,6 +649,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "霍尔木兹告急推高成本链条 美化工股迎来久违顺风期",
+          "url": "https://www.cls.cn/detail/2303128",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     }
