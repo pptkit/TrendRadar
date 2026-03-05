@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T22:39:00.975468+08:00",
-  "total_titles_processed": 2064,
+  "generated_at": "2026-03-05T23:40:46.349923+08:00",
+  "total_titles_processed": 2154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -123,8 +123,22 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 22时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 23时40分]"
+        },
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时26分 ~ 23时40分]"
         },
         {
           "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
@@ -156,19 +170,6 @@
           "time_info": "[00时31分 ~ 05时24分]"
         },
         {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时26分 ~ 22时39分]"
-        },
-        {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
           "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
           "source": "凤凰网",
@@ -176,8 +177,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时39分]"
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 23时40分]"
+        },
+        {
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 23时40分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -214,20 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时39分]"
         },
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -665,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
+          "url": "https://flash.jin10.com/detail/20260305230503213800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "鸿海：随AI机柜出货持续放量、消费智能产品也优于原预测，故预期本季季节性表现将优于过去五年区间。",
