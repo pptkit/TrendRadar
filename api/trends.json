@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T20:34:43.250049+08:00",
-  "total_titles_processed": 1861,
+  "generated_at": "2026-03-05T21:55:34.353787+08:00",
+  "total_titles_processed": 1984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -123,8 +123,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 20时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 21时55分]"
         },
         {
           "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
@@ -190,6 +190,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时55分]"
         },
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -258,6 +271,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时55分]"
+        },
+        {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063885",
           "source": "华尔街见闻-快讯",
@@ -282,18 +306,6 @@
           "time_info": "[04时23分 ~ 05时24分]"
         },
         {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时34分]"
-        },
-        {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
           "url": "https://www.cls.cn/detail/2303137",
           "source": "财联社热门",
@@ -306,15 +318,18 @@
           "time_info": "[12时02分 ~ 15时35分]"
         },
         {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20,
+            16,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时34分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时55分]"
         },
         {
           "title": "比Deepfake更严重的AI出现了",
@@ -323,19 +338,6 @@
           "ranks": [
             11,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时34分]"
-        },
-        {
-          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -638,7 +640,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -663,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "德意志银行：美国股市的AI风险正在削弱美元的避险地位。",
+          "url": "https://flash.jin10.com/detail/20260305213725706800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "阿联酋工业和先进技术部长、阿布扎比国家石油公司集团CEO阿尔·贾比尔：Ruwais液化天然气项目建设进展顺利。",
@@ -742,6 +755,17 @@
           "time_info": "13时41分"
         },
         {
+          "title": "食堂引入2台6万元的智能炒菜机器人",
+          "url": "https://www.toutiao.com/trending/7612586869767815177/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "雷军代表：机器人将走进千家万户",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
           "source": "百度热搜",
@@ -762,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "理想汽车将在今年发布一款双轮机器人",
+          "url": "https://wallstreetcn.com/livenews/3064512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "恒生指数收盘涨0.3%，能源、AI板块领涨，南向资金净卖出277.35亿港元",
