@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T14:37:59.028170+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-03-05T15:35:58.925424+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -213,6 +213,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "因担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
+          "url": "https://wallstreetcn.com/livenews/3064319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063885",
           "source": "华尔街见闻-快讯",
@@ -241,22 +252,24 @@
           "url": "https://www.zhihu.com/question/2007415716228330401",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时35分]"
         },
         {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
           "url": "https://www.cls.cn/detail/2303137",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时35分]"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
@@ -373,6 +386,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：AI热潮的资金来源“清晰明了”。",
           "url": "https://flash.jin10.com/detail/20260305024546577800",
           "source": "金十数据",
@@ -470,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "工信部部长李乐成：“人工智能+制造”是必答题 今年将大力推动",
+          "url": "https://wallstreetcn.com/livenews/3064302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "惠誉评级：随着人工智能的发展，欧洲IT企业面临中断和增长压力。",
@@ -585,7 +620,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊拉克：正逐步恢复电力供应。",
@@ -622,6 +657,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "挪威水电公司Statkraft ：中东危机可能导致欧洲电力价格上涨。由于降雪量较少，挪威的水文平衡十分紧张。",
+          "url": "https://flash.jin10.com/detail/20260305151935954800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "伊拉克电力部：伊国家电网全境断电",
           "url": "https://wallstreetcn.com/livenews/3063810",
           "source": "华尔街见闻-快讯",
@@ -653,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "法国电力公司EDF将Flamanville 3号反应堆的出力从1,620兆瓦大幅削减至365兆瓦。",
+          "url": "https://wallstreetcn.com/livenews/3064284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "市场消息：伊拉克方面称，正在逐步恢复全国范围内的电力。",
@@ -712,7 +769,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -723,9 +780,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗陆军中将基奥马尔斯·海达里：我们正在海上、空中和太空与奉行全球主义的美国展开一场激烈的战斗。",
+          "url": "https://flash.jin10.com/detail/20260305151601753800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     }
