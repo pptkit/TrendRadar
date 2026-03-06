@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T12:01:48.672195+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-03-06T13:10:29.782719+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -30,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时53分 ~ 12时01分]"
+          "appearance_count": 10,
+          "time_info": "[01时53分 ~ 13时10分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时53分 ~ 12时01分]"
+          "appearance_count": 10,
+          "time_info": "[01时53分 ~ 13时10分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -86,15 +87,49 @@
           "time_info": "[01时53分 ~ 09时10分]"
         },
         {
+          "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3064881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260306124014996800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
+          "url": "https://flash.jin10.com/detail/20260306122409333800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-06）",
           "url": "https://flash.jin10.com/detail/20260306115316980800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时10分]"
         },
         {
           "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
@@ -108,6 +143,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时20分]"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时10分]"
+        },
+        {
+          "title": "社区食堂引入2台6万元的炒菜机器人",
+          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E9%A3%9F%E5%A0%82%E5%BC%95%E5%85%A52%E5%8F%B06%E4%B8%87%E5%85%83%E7%9A%84%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时10分]"
+        },
+        {
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时10分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -146,15 +214,16 @@
           "time_info": "[04时28分 ~ 05时25分]"
         },
         {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时10分]"
         },
         {
           "title": "OpenAI发布最强专业模型GPT-5.4",
@@ -166,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "社区食堂引入2台6万元的炒菜机器人",
-          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E9%A3%9F%E5%A0%82%E5%BC%95%E5%85%A52%E5%8F%B06%E4%B8%87%E5%85%83%E7%9A%84%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
@@ -201,15 +259,15 @@
           "time_info": "06时20分"
         },
         {
-          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
-          "url": "https://www.cls.cn/detail/2304544",
-          "source": "财联社热门",
+          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
+          "url": "https://flash.jin10.com/detail/20260306120949776800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时01分"
+          "time_info": "13时10分"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -221,6 +279,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "债务交易平台运营方MarketAxess表示，约25%的固定收益交易员预计，未来12至18个月内，其所在公司将大幅扩大人工智能的使用。",
+          "url": "https://wallstreetcn.com/livenews/3064865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "软银集团正寻求一笔至高达400亿美元的创纪录贷款，用于收购OpenAI的股权。",
+          "url": "https://flash.jin10.com/detail/20260306120926767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "Together AI正洽谈以75亿美元的估值进行融资。（The Information）",
@@ -251,20 +331,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
         {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
+          "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3064859",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时01分"
+          "time_info": "13时10分"
         },
         {
           "title": "甲骨文计划裁减数千名员工 以应对AI发展导致的资金短缺",
