@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:21:02.285893+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-03-06T20:31:39.325992+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时01分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 20时31分]"
         },
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -87,6 +87,18 @@
           "time_info": "[16时25分 ~ 18时24分]"
         },
         {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时31分]"
+        },
+        {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
           "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
           "source": "凤凰网",
@@ -96,17 +108,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时53分 ~ 07时45分]"
-        },
-        {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "社区食堂引入2台6万元的炒菜机器人",
@@ -161,6 +162,18 @@
           "time_info": "13时10分"
         },
         {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时31分]"
+        },
+        {
           "title": "AI相关产业规模将超10万亿元",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -206,16 +219,30 @@
           "time_info": "[18时24分 ~ 19时21分]"
         },
         {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            7
+            23,
+            25,
+            30,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时21分]"
+          "time_info": "[16时25分 ~ 20时31分]"
+        },
+        {
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时31分]"
         },
         {
           "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
@@ -242,6 +269,18 @@
           "time_info": "[12时01分 ~ 13时10分]"
         },
         {
+          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
+          "url": "https://www.cls.cn/detail/2304910",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 20时31分]"
+        },
+        {
           "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
           "url": "https://www.cls.cn/detail/2304614",
           "source": "财联社热门",
@@ -252,29 +291,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时25分 ~ 19时21分]"
-        },
-        {
-          "title": "TES上报Naiyou不正当行为",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时21分]"
-        },
-        {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 19时21分]"
         },
         {
           "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
@@ -290,6 +306,18 @@
           "time_info": "[04时28分 ~ 06时20分]"
         },
         {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时31分]"
+        },
+        {
           "title": "详解OpenAI新模型GPT-5.4",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
           "source": "bilibili 热搜",
@@ -300,19 +328,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 14时34分]"
-        },
-        {
-          "title": "破5亿播放AI短剧成本仅3000",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时24分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -351,15 +366,15 @@
           "time_info": "[04时28分 ~ 05时25分]"
         },
         {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
+          "title": "国产AI短剧《霍去病》火到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
           "ranks": [
-            15
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "OpenAI发布最强专业模型GPT-5.4",
@@ -382,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "为什么现在买个家电满屏都是「AI」、「懂你」？",
+          "url": "https://www.zhihu.com/parker/campaign/2011131622125228105?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "美国商务部：新出台的人工智能出口规则不会复制拜登政府的人工智能扩散规则，其过于严苛且难以遵循。",
@@ -694,7 +720,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
