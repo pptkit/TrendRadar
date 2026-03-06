@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T13:10:29.782719+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-03-06T14:34:45.368904+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -30,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时53分 ~ 13时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时53分 ~ 14时34分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
@@ -87,24 +87,13 @@
           "time_info": "[01时53分 ~ 09时10分]"
         },
         {
-          "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3064881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
           "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
           "url": "https://flash.jin10.com/detail/20260306124014996800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -115,9 +104,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3064881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 14时34分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-06）",
@@ -130,6 +131,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 13时10分]"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时34分]"
+        },
+        {
+          "title": "社区食堂引入2台6万元的炒菜机器人",
+          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E9%A3%9F%E5%A0%82%E5%BC%95%E5%85%A52%E5%8F%B06%E4%B8%87%E5%85%83%E7%9A%84%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时34分]"
         },
         {
           "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
@@ -145,26 +170,16 @@
           "time_info": "[04时28分 ~ 06时20分]"
         },
         {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时10分]"
-        },
-        {
-          "title": "社区食堂引入2台6万元的炒菜机器人",
-          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E9%A3%9F%E5%A0%82%E5%BC%95%E5%85%A52%E5%8F%B06%E4%B8%87%E5%85%83%E7%9A%84%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时34分]"
         },
         {
           "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
@@ -214,18 +229,6 @@
           "time_info": "[04时28分 ~ 05时25分]"
         },
         {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时10分]"
-        },
-        {
           "title": "OpenAI发布最强专业模型GPT-5.4",
           "url": "https://www.toutiao.com/trending/7613911179013918271/",
           "source": "今日头条",
@@ -259,13 +262,24 @@
           "time_info": "06时20分"
         },
         {
+          "title": "高通(QCOM.O)与越南电信公司Viettel达成协议，共同在越南生产AI智能手机。",
+          "url": "https://flash.jin10.com/detail/20260306140550608800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
           "url": "https://flash.jin10.com/detail/20260306120949776800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -287,7 +301,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -298,7 +312,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -342,7 +356,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -389,6 +403,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "春晚机器人开起便利店",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E8%B5%B7%E4%BE%BF%E5%88%A9%E5%BA%97",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股化工股持续拉升，卫星化学午后涨停，股价创历史新高，红墙股份、红宝丽此前封板，滨化股份、齐翔腾达、怡达股份、氯碱化工跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3064891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         }
       ]
     },
