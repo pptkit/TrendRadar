@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T21:46:44.122902+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-03-06T22:29:40.819192+08:00",
+  "total_titles_processed": 1941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 21时46分]"
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 22时29分]"
         },
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时46分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时29分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -110,6 +110,47 @@
           "time_info": "[01时53分 ~ 07时45分]"
         },
         {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时29分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            30,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 22时29分]"
+        },
+        {
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时29分]"
+        },
+        {
           "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
           "url": "https://www.cls.cn/detail/2304910",
           "source": "财联社热门",
@@ -121,18 +162,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时24分 ~ 21时46分]"
-        },
-        {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时46分]"
         },
         {
           "title": "社区食堂引入2台6万元的炒菜机器人",
@@ -149,21 +178,6 @@
           "time_info": "[12时01分 ~ 16时25分]"
         },
         {
-          "title": "破5亿播放AI短剧成本仅3000",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            30,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 21时46分]"
-        },
-        {
           "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
           "url": "https://www.cls.cn/detail/2304544",
           "source": "财联社热门",
@@ -175,19 +189,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时01分 ~ 17时28分]"
-        },
-        {
-          "title": "TES上报Naiyou不正当行为",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时46分]"
         },
         {
           "title": "食堂引入2台6万元的智能炒菜机器人",
@@ -237,6 +238,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
           "url": "https://flash.jin10.com/detail/20260306122409333800",
           "source": "金十数据",
@@ -258,6 +270,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时24分 ~ 19时21分]"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时29分]"
         },
         {
           "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
@@ -296,16 +320,17 @@
           "time_info": "[16时25分 ~ 19时21分]"
         },
         {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
+          "title": "国产AI短剧《霍去病》火到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            11
+            6,
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时29分]"
         },
         {
           "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
@@ -321,6 +346,17 @@
           "time_info": "[04时28分 ~ 06时20分]"
         },
         {
+          "title": "为什么现在买个家电满屏都是「AI」、「懂你」？",
+          "url": "https://www.zhihu.com/parker/campaign/2011131622125228105?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时29分]"
+        },
+        {
           "title": "详解OpenAI新模型GPT-5.4",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
           "source": "bilibili 热搜",
@@ -331,29 +367,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 14时34分]"
-        },
-        {
-          "title": "国产AI短剧《霍去病》火到海外",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时46分]"
-        },
-        {
-          "title": "为什么现在买个家电满屏都是「AI」、「懂你」？",
-          "url": "https://www.zhihu.com/parker/campaign/2011131622125228105?zh_hide_nav_bar=true",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时46分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -392,6 +405,18 @@
           "time_info": "[04时28分 ~ 05时25分]"
         },
         {
+          "title": "烧坏几十台宇树机器人换来“全能王”",
+          "url": "https://www.baidu.com/s?wd=%E7%83%A7%E5%9D%8F%E5%87%A0%E5%8D%81%E5%8F%B0%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8D%A2%E6%9D%A5%E2%80%9C%E5%85%A8%E8%83%BD%E7%8E%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时29分]"
+        },
+        {
           "title": "OpenAI发布最强专业模型GPT-5.4",
           "url": "https://www.toutiao.com/trending/7613911179013918271/",
           "source": "今日头条",
@@ -412,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
+          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "美国商务部：新出台的人工智能出口规则不会复制拜登政府的人工智能扩散规则，其过于严苛且难以遵循。",
@@ -612,17 +648,6 @@
           "time_info": "06时20分"
         },
         {
-          "title": "烧坏几十台宇树机器人换来“全能王”",
-          "url": "https://www.baidu.com/s?wd=%E7%83%A7%E5%9D%8F%E5%87%A0%E5%8D%81%E5%8F%B0%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8D%A2%E6%9D%A5%E2%80%9C%E5%85%A8%E8%83%BD%E7%8E%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
           "title": "印度金德尔不锈钢公司Jindal Stainless警示：发往中东的货物可能出现延迟。 Jindal Stainless是印度最大的不锈钢生产商。",
           "url": "https://wallstreetcn.com/livenews/3064988",
           "source": "华尔街见闻-快讯",
@@ -688,11 +713,12 @@
           "url": "https://www.cls.cn/detail/2305224",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时29分]"
         },
         {
           "title": "化工板块多头氛围浓郁，烧碱、纯苯、苯乙烯（EB）封涨停",
@@ -744,11 +770,12 @@
           "url": "https://www.cls.cn/detail/2305299",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时29分]"
         }
       ]
     },
