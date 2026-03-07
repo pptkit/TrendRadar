@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T15:22:01.604130+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-03-07T16:18:06.928400+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -29,21 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 15时22分]"
-        },
-        {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 15时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 16时18分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -59,6 +46,32 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时27分 ~ 13时32分]"
+        },
+        {
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 16时18分]"
+        },
+        {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时50分 ~ 16时18分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -142,18 +155,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 14时25分]"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时50分 ~ 15时22分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -305,6 +306,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时27分]"
+        },
+        {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
