@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T05:14:42.576986+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-03-09T06:13:35.366344+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "AI养“龙虾”警惕安全风险",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
@@ -73,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "当机器人越来越像人",
@@ -84,11 +84,12 @@
             22,
             21,
             24,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "AI对老师的影响",
@@ -97,11 +98,12 @@
           "ranks": [
             10,
             20,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -151,11 +153,12 @@
           "ranks": [
             19,
             14,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 06时13分]"
         }
       ]
     }
