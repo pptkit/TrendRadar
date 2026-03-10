@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T11:27:36.617404+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-03-10T13:05:47.623195+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -77,6 +77,17 @@
           "time_info": "[00时46分 ~ 09时01分]"
         },
         {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时05分]"
+        },
+        {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
           "url": "https://www.zhihu.com/question/2013945403444257055",
           "source": "知乎",
@@ -93,26 +104,26 @@
           "time_info": "[00时46分 ~ 07时18分]"
         },
         {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时27分]"
-        },
-        {
           "title": "苹果新电脑AI性能深度分析",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E7%94%B5%E8%84%91AI%E6%80%A7%E8%83%BD%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3067011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "清华经管院长谈AI“龙虾”",
@@ -174,6 +185,17 @@
           "time_info": "[01时40分 ~ 02时37分]"
         },
         {
+          "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",
+          "url": "https://flash.jin10.com/detail/20260310123947391800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "男子让AI实时看监控帮自己“摸鱼”",
           "url": "https://www.toutiao.com/trending/7615053570488172585/",
           "source": "今日头条",
@@ -205,6 +227,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-10）",
+          "url": "https://flash.jin10.com/detail/20260310120517295800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "腾讯股价涨超6%，领涨恒生科技指数成分股，此前腾讯正式推出AI智能助手WorkBuddy，花旗将腾讯此举视为其AI发展的里程碑。",
+          "url": "https://wallstreetcn.com/livenews/3066984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "智元机器人推出ACoT-VLA并开源",
@@ -245,6 +289,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025年德国光伏发电量创新高",
+          "url": "https://wallstreetcn.com/livenews/3066976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     }
