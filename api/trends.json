@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T14:35:57.691568+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-03-10T15:34:13.364530+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -49,6 +49,17 @@
           "time_info": "[00时46分 ~ 09时01分]"
         },
         {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时34分]"
+        },
+        {
           "title": "yilai加入BLG无畏契约",
           "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
           "source": "bilibili 热搜",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 09时01分]"
-        },
-        {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时35分]"
         },
         {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
@@ -185,6 +185,17 @@
           "time_info": "[01时40分 ~ 02时37分]"
         },
         {
+          "title": "人形机器人进厂“打工”还有多远",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E2%80%9C%E6%89%93%E5%B7%A5%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
+        },
+        {
           "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",
           "url": "https://flash.jin10.com/detail/20260310123947391800",
           "source": "金十数据",
@@ -202,7 +213,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -224,7 +235,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -268,7 +279,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -336,7 +347,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
