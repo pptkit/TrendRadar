@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T02:40:45.438048+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-03-12T03:36:18.936285+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "机器人当街吓到人 被治安警员带走",
@@ -62,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
@@ -74,8 +74,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -84,11 +84,12 @@
           "ranks": [
             30,
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -98,8 +99,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -109,8 +110,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -177,8 +178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         }
       ]
     },
@@ -194,8 +195,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时36分]"
         }
       ]
     }
