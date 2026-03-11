@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:11:38.481514+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-03-11T14:39:04.954344+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 13时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 14时39分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -41,8 +42,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 13时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 14时39分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -192,6 +193,30 @@
           "time_info": "[12时01分 ~ 13时11分]"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 14时39分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 14时39分]"
+        },
+        {
           "title": "豆包限制AI成毅",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -274,6 +299,17 @@
           "time_info": "[12时00分 ~ 12时01分]"
         },
         {
+          "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
+          "url": "https://wallstreetcn.com/livenews/3067827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
           "url": "https://www.cls.cn/detail/2308421",
           "source": "财联社热门",
@@ -283,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "黄仁勋：未来几年传统软件和APP形态或将消失，AI智能体极可能成主流",
+          "url": "https://wallstreetcn.com/livenews/3067825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
@@ -296,15 +343,15 @@
           "time_info": "09时14分"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "美的集团加码AI，拟未来三年投入超600亿元",
+          "url": "https://wallstreetcn.com/livenews/3067822",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时39分"
         },
         {
           "title": "原工信部部长苗圩：让制造业成为人工智能科技创新和产业创新深度融合的主战场",
@@ -316,17 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        },
-        {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
         },
         {
           "title": "AI短剧火热，业内人士称“是接下来最大风口”，行业内90%公司仍处于亏损状态",
@@ -412,7 +448,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -445,9 +481,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股电力股持续拉升，立新能源触及涨停，节能风电、赣能股份、华电能源、绿发电力此前封板，华银电力、乐山电力等冲高。",
+          "url": "https://wallstreetcn.com/livenews/3067835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)高管：通过合作伙伴，甲骨文已获得10吉瓦的电力和数据容量，这些设施将在未来三年内投入使用。",
+          "url": "https://flash.jin10.com/detail/20260311052410904800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -476,23 +540,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "甲骨文(ORCL.N)高管：通过合作伙伴，甲骨文已获得10吉瓦的电力和数据容量，这些设施将在未来三年内投入使用。",
-          "url": "https://flash.jin10.com/detail/20260311052410904800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         }
       ]
     },
