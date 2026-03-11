@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:37:44.903522+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-03-11T16:28:41.144856+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -15,11 +15,12 @@
             4,
             12,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 15时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时45分 ~ 16时28分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -41,11 +42,12 @@
             12,
             20,
             19,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 15时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时45分 ~ 16时28分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -134,6 +136,34 @@
           "time_info": "07时19分"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时11分 ~ 16时28分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            11,
+            14,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时11分 ~ 16时28分]"
+        },
+        {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
           "url": "https://wallstreetcn.com/livenews/3067532",
           "source": "华尔街见闻-快讯",
@@ -195,32 +225,6 @@
           "time_info": "[12时01分 ~ 13时11分]"
         },
         {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时11分 ~ 15时37分]"
-        },
-        {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            11,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时11分 ~ 15时37分]"
-        },
-        {
           "title": "豆包限制AI成毅",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -234,6 +238,18 @@
           "time_info": "[06时17分 ~ 09时14分]"
         },
         {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 16时28分]"
+        },
+        {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3067582",
           "source": "华尔街见闻-快讯",
@@ -244,6 +260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 16时28分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -314,17 +341,6 @@
           "time_info": "14时39分"
         },
         {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
           "url": "https://www.cls.cn/detail/2308421",
           "source": "财联社热门",
@@ -336,6 +352,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "黄仁勋：未来几年传统软件和APP形态或将消失，AI智能体极可能成主流",
           "url": "https://wallstreetcn.com/livenews/3067825",
           "source": "华尔街见闻-快讯",
@@ -345,17 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
-        },
-        {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
         },
         {
           "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
@@ -408,7 +424,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -591,7 +607,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         }
