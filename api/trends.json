@@ -1,860 +1,139 @@
 {
-  "generated_at": "2026-03-11T23:38:37.025472+08:00",
-  "total_titles_processed": 2150,
+  "generated_at": "2026-03-12T00:40:25.785608+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 69,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
+          "url": "https://www.cls.cn/detail/2309924",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
           "url": "https://www.cls.cn/detail/2309633",
           "source": "财联社热门",
           "ranks": [
-            7,
-            4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时33分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            6,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时28分 ~ 23时38分]"
-        },
-        {
-          "title": "高校出手,AI龙虾被禁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351656&amp;topic_name=%E9%AB%98%E6%A0%A1%E5%87%BA%E6%89%8B%2CAI%E9%BE%99%E8%99%BE%E8%A2%AB%E7%A6%81",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            12,
-            13,
-            14,
-            18,
-            19,
-            23,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时45分 ~ 22时43分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
           "url": "https://www.douyin.com/hot/2426364",
           "source": "抖音",
           "ranks": [
-            11,
-            14,
-            10,
-            12,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时11分 ~ 23时38分]"
-        },
-        {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时37分 ~ 22时43分]"
-        },
-        {
-          "title": "两会现场 我问了AI这样一个问题",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 13时11分]"
-        },
-        {
-          "title": "机器人当街吓到人 被治安警员带走",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%93%E5%88%B0%E4%BA%BA+%E8%A2%AB%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%91%98%E5%B8%A6%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            19,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时33分 ~ 23时38分]"
-        },
-        {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12,
-            20,
-            19,
-            21,
-            25,
-            26,
-            30,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时45分 ~ 23时38分]"
-        },
-        {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时11分 ~ 18时30分]"
-        },
-        {
-          "title": "AI龙虾爆火,大神在线答疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时34分 ~ 22时43分]"
-        },
-        {
-          "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
-          "url": "https://www.cls.cn/detail/2309924",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 23时38分]"
-        },
-        {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时19分]"
-        },
-        {
-          "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
-          "url": "https://www.cls.cn/detail/2308576",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时19分]"
-        },
-        {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时37分 ~ 20时34分]"
-        },
-        {
-          "title": "AI龙虾卸载潮,299元上门收尸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351662&amp;topic_name=AI%E9%BE%99%E8%99%BE%E5%8D%B8%E8%BD%BD%E6%BD%AE%2C299%E5%85%83%E4%B8%8A%E9%97%A8%E6%94%B6%E5%B0%B8",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
-          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
-          "url": "https://www.toutiao.com/trending/7615866634636365339/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时59分]"
-        },
-        {
-          "title": "建议不允许青少年用AI做作业",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 09时14分]"
-        },
-        {
-          "title": "一只龙虾如何搅动整个AI圈",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%AA%E9%BE%99%E8%99%BE%E5%A6%82%E4%BD%95%E6%90%85%E5%8A%A8%E6%95%B4%E4%B8%AAAI%E5%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
-        },
-        {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            29,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 06时17分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            26,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 23时38分]"
-        },
-        {
-          "title": "马斯克：Digital Optimus是xAI一特斯拉的一个联合项目。 这也是双方协议的一部分。",
-          "url": "https://wallstreetcn.com/livenews/3068208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "brahma AI与谷歌云构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3067459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行Rangu Salgame：我们正处于AI投资的“超级周期”之中。 对AI的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
-          "url": "https://wallstreetcn.com/livenews/3067605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "00时40分"
         },
         {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            17,
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时58分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
-          "url": "https://wallstreetcn.com/livenews/3067532",
-          "source": "华尔街见闻-快讯",
+          "title": "机器人当街吓到人 被治安警员带走",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%93%E5%88%B0%E4%BA%BA+%E8%A2%AB%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%91%98%E5%B8%A6%E8%B5%B0",
+          "source": "百度热搜",
           "ranks": [
-            1,
-            15,
-            28
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 05时21分]"
-        },
-        {
-          "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3067769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时11分]"
-        },
-        {
-          "title": "OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。",
-          "url": "https://flash.jin10.com/detail/20260311050854133800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时17分]"
-        },
-        {
-          "title": "美国投资级公司债券市场迎来历史上最繁忙的一天，历史上最近一个最大单日销售额出现在2013年。 亚马逊发售370亿美元债券，对此功不可没。 与此同时，Honeywell Aerospace Inc.募资160亿美元，还有一笔与收购Air Lease Corp.相关的40亿美元债券交易。",
-          "url": "https://wallstreetcn.com/livenews/3067564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时17分]"
-        },
-        {
-          "title": "黄仁勋定义“AI五层蛋糕”架构，预示万亿级基建浪潮",
-          "url": "https://wallstreetcn.com/livenews/3067764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时11分]"
-        },
-        {
-          "title": "豆包限制AI成毅",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 09时14分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
           "url": "https://m.thepaper.cn/newsDetail_forward_32746490",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时42分 ~ 23时38分]"
-        },
-        {
-          "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3067582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时19分]"
-        },
-        {
-          "title": "亚马逊在网站和APP推出健康AI智能体。",
-          "url": "https://wallstreetcn.com/livenews/3067481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时36分]"
-        },
-        {
-          "title": "亚马逊赢得美国法庭禁令，封杀Perplexity AI购物机器人",
-          "url": "https://wallstreetcn.com/livenews/3067538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时21分]"
-        },
-        {
-          "title": "AI短剧侵权肖战最高可判10年",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时14分]"
-        },
-        {
-          "title": "引入AI不是开除员工的挡箭牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%95%E5%85%A5AI%E4%B8%8D%E6%98%AF%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E7%9A%84%E6%8C%A1%E7%AE%AD%E7%89%8C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
-        },
-        {
-          "title": "记者体验成都按摩机器人",
-          "url": "https://www.toutiao.com/trending/7615475877618581540/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
-          "title": "AI动画揭“美洲之盾”实质",
-          "url": "https://www.toutiao.com/trending/7615781170035245110/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
-          "title": "Meta：宣布在先进AI领域的新投资，推出帮助用户识别和避开诈骗者的工具。 将在Facebook、Messenger和WhatsApp推出新工具，以帮助防范诈骗。",
-          "url": "https://wallstreetcn.com/livenews/3068045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
-          "url": "https://wallstreetcn.com/livenews/3067827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
-          "url": "https://www.cls.cn/detail/2308421",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "黄仁勋：未来几年传统软件和APP形态或将消失，AI智能体极可能成主流",
-          "url": "https://wallstreetcn.com/livenews/3067825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
-          "url": "https://wallstreetcn.com/livenews/3067648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "美的集团加码AI，拟未来三年投入超600亿元",
-          "url": "https://wallstreetcn.com/livenews/3067822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "中国央行：积极稳妥、安全有序推进金融领域人工智能应用，释放数字化、智能化发展动能",
-          "url": "https://wallstreetcn.com/livenews/3068039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "原工信部部长苗圩：让制造业成为人工智能科技创新和产业创新深度融合的主战场",
-          "url": "https://wallstreetcn.com/livenews/3067646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "据华尔街日报：美国电动汽车公司Rivian首席执行官的AI机器人初创公司融资5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260311230231434800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "浙江荣泰：公司拟将原生产项目“年产1.4万吨云母纸、4,500吨云母制品及700万套机器人部件生产项目”变更为“年产1.4万吨绝缘防火材料及4,500吨深加工制品生产项目”和“年产700万套工业丝杠生产项目”。",
-          "url": "https://wallstreetcn.com/livenews/3068034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "百度：DuClaw允许百度AI云用户访问OpenClaw。",
-          "url": "https://flash.jin10.com/detail/20260311200418601800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：将在不久的将来直至2027年，主要采用MTIA 400、450及500芯片来支持生成式人工智能的推理生产。",
-          "url": "https://flash.jin10.com/detail/20260311220456912800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "AI短剧火热，业内人士称“是接下来最大风口”，行业内90%公司仍处于亏损状态",
-          "url": "https://wallstreetcn.com/livenews/3067642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "据Business Insider：特斯拉加码类AI智能体项目，XAI的Macrohard项目陷入停滞。",
-          "url": "https://flash.jin10.com/detail/20260311180922364800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "国防部：人工智能军事应用应坚持由人主导、防止失控",
-          "url": "https://wallstreetcn.com/livenews/3067868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：将在澳大利亚投资7.5亿澳元建立一家机器人物流中心。",
-          "url": "https://flash.jin10.com/detail/20260311083302985800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
-          "url": "https://flash.jin10.com/detail/20260311035704540800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "市场消息：英伟达与NEBIUS合作扩展全栈人工智能云。",
-          "url": "https://flash.jin10.com/detail/20260311200029402800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：计划在未来两年内部署四个新一代 MTIA（Meta 训练与推理加速器）芯片，以支持排名与推荐系统，以及生成式人工智能工作负载。",
-          "url": "https://flash.jin10.com/detail/20260311220406642800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "包括OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3067569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "亚马逊：用户无需成为亚马逊Prime会员或One Medical会员即可使用健康AI。",
-          "url": "https://flash.jin10.com/detail/20260311010028428800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "亚马逊：今日起向客户推出健康AI助手，未来几周将继续扩大服务覆盖范围。",
-          "url": "https://flash.jin10.com/detail/20260311010016258800",
-          "source": "金十数据",
-          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "00时40分"
         },
         {
-          "title": "院士说文科生绝不会被AI替代",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E6%96%87%E7%A7%91%E7%94%9F%E7%BB%9D%E4%B8%8D%E4%BC%9A%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "Meta计划部署四款新型自研芯片，来应对AI需求",
-          "url": "https://wallstreetcn.com/livenews/3068157",
+          "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3068208",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-11）",
-          "url": "https://flash.jin10.com/detail/20260311120329501800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "互联网大厂启动春招，AI岗位占比大幅提升",
-          "url": "https://wallstreetcn.com/livenews/3067631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "东方汇理投资首席投资官：建议以人工智能和政策为导向，在亚洲进行投资。人工智能正在给某些行业施加压力，但不太可能将其彻底淘汰。",
-          "url": "https://flash.jin10.com/detail/20260311110821431800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "Meta公司：宣布对先进人工智能进行新投资，以及用于帮助人们识别和防范诈骗分子的工具。",
-          "url": "https://flash.jin10.com/detail/20260311190325537800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
-          "url": "https://flash.jin10.com/detail/20260311115744060800",
-          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "00时40分"
         },
         {
-          "title": "方太正式发布全球首款机器人厨房",
-          "url": "https://wallstreetcn.com/livenews/3068114",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达(NVDA.O)：新模型为人工智能体带来5倍更高的吞吐量。",
+          "url": "https://flash.jin10.com/detail/20260312000441068800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "00时40分"
         },
         {
-          "title": "抖音再战社交，“小火人”打头阵：上线世界广场，内测AI精灵聊天",
-          "url": "https://wallstreetcn.com/livenews/3068063",
-          "source": "华尔街见闻-快讯",
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时34分"
+          "time_info": "00时40分"
         }
       ]
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "A股电力股持续拉升，立新能源触及涨停，节能风电、赣能股份、华电能源、绿发电力此前封板，华银电力、乐山电力等冲高。",
-          "url": "https://wallstreetcn.com/livenews/3067835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
         {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
           "url": "https://wallstreetcn.com/articles/3767211",
@@ -863,141 +142,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时34分 ~ 23时38分]"
-        },
-        {
-          "title": "甲骨文(ORCL.N)高管：通过合作伙伴，甲骨文已获得10吉瓦的电力和数据容量，这些设施将在未来三年内投入使用。",
-          "url": "https://flash.jin10.com/detail/20260311052410904800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "《电力厂站足式机器人巡检》标准正式发布，咸亨国际子公司等13家企业参与起草",
-          "url": "https://wallstreetcn.com/livenews/3068041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "英国财政大臣里夫斯：目前我们并不考虑对电力生产商税进行任何更改。",
-          "url": "https://flash.jin10.com/detail/20260311180443017800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国宇航局NASA监察长：SpaceX“星舰”月球着陆器进度已落后两年，且预计将进一步延期。受此及蓝色起源（Blue Origin）开发延迟拖累，美国2028年登月目标面临延期风险。",
-          "url": "https://wallstreetcn.com/livenews/3067477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "美国中央司令部：太空部队正在帮助保护美军。",
-          "url": "https://flash.jin10.com/detail/20260311200003235800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "美国宇航局监察长表示，SpaceX和蓝色起源的月球着陆器延误可能危及NASA 2028年的登月目标。SpaceX公司的星舰月球着陆器比NASA宇航员任务的计划晚了两年，预计还会出现更多延误。",
-          "url": "https://flash.jin10.com/detail/20260311005236483800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "00时40分"
         }
       ]
     },
     {
       "keyword_group": "化工",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
           "url": "https://www.cls.cn/detail/2309697",
           "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时33分 ~ 23时38分]"
-        },
-        {
-          "title": "创业板指冲高回落涨1.31%，光储、化工板块集体走强",
-          "url": "https://wallstreetcn.com/livenews/3067865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时37分"
+          "time_info": "00时40分"
         }
       ]
     },
     {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 2,
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
       "titles": [
         {
-          "title": "3月11日午间收评：创业板指半日涨1.74%，锂电、光伏板块集体走强",
-          "url": "https://wallstreetcn.com/livenews/3067748",
-          "source": "华尔街见闻-快讯",
+          "title": "中国卫星公司发布从太空实拍船只视频",
+          "url": "https://www.toutiao.com/trending/7615874248779415558/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时11分]"
-        },
-        {
-          "title": "美股盘初，中概股阿特斯太阳能涨超4.9%，理想涨4.6%，小鹏涨2.8%，大全新能源涨2.3%，文远知行涨1.9%，比亚迪、贝壳、晶科能源涨超1%，蔚来涨0.8%。 小米、美团、拼多多、Boss直聘、奇富科技、唯品会、B站至多跌1.9%，华住、小马智行、腾讯音乐至多跌2.7%，世纪互联跌3%，万国数据跌4.1%，金山云跌4.5%，腾讯跌4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3068149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "00时40分"
         }
       ]
     }
