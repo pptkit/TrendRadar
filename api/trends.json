@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T14:39:04.954344+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-03-11T15:37:44.903522+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 14时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 15时37分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -39,11 +40,12 @@
             11,
             12,
             20,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 14时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 15时37分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -198,11 +200,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时37分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -210,11 +213,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时37分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -305,9 +309,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
@@ -327,9 +342,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
@@ -349,7 +375,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -374,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "国防部：人工智能军事应用应坚持由人主导、防止失控",
+          "url": "https://wallstreetcn.com/livenews/3067868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "亚马逊(AMZN.O)：将在澳大利亚投资7.5亿澳元建立一家机器人物流中心。",
@@ -498,7 +535,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -540,6 +577,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创业板指冲高回落涨1.31%，光储、化工板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3067865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
