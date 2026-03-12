@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-12T07:16:44.915122+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-03-12T08:59:46.906510+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
           "url": "https://www.cls.cn/detail/2309924",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 08时59分]"
         },
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -52,11 +53,12 @@
             12,
             16,
             21,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 08时59分]"
         },
         {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
@@ -64,11 +66,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 08时59分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -78,8 +81,24 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 08时59分]"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            20,
+            17,
+            18,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 08时59分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -91,21 +110,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 06时19分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            20,
-            17,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时16分]"
         },
         {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
@@ -153,6 +157,18 @@
           "time_info": "[06时19分 ~ 07时16分]"
         },
         {
+          "title": "AI龙虾安全风险真的那么可怕吗",
+          "url": "https://www.douyin.com/hot/2426974",
+          "source": "抖音",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 08时59分]"
+        },
+        {
           "title": "德意志银行：出于对人工智能（AI）未来造成干扰的恐惧，投资者对美联储降息前景的定价可能超过了美国经济所能保证的程度。",
           "url": "https://wallstreetcn.com/livenews/3068314",
           "source": "华尔街见闻-快讯",
@@ -186,6 +202,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "AI编程初创公司Cursor正与投资者就新一轮融资进行谈判。若交易达成，该公司的估值将达到约500亿美元，相较于去年秋季时几乎翻了一番。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3068424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "周三（3月11日），存储芯片与硬件供应链指数涨2.35%，报108.45点，美股盘初持续上涨，北京时间22:00以来持续高位窄幅震荡。 成分股Sandisk收涨5.90%，美光科技、Rambus至多涨3.86%，拉姆研究、应用材料至多涨1.69%，西部数据、希捷科技、泰瑞达TER至多涨0.97%。 信息科技指数涨1.51%，人工智能（AI）赢家指数涨1.43%，AI软件先驱指数涨0.97%。 北美科技软件股指数ETF收涨0.11%。",
           "url": "https://wallstreetcn.com/livenews/3068336",
           "source": "华尔街见闻-快讯",
@@ -217,17 +244,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国卫星公司发布从太空实拍船只视频",
+          "url": "https://www.toutiao.com/trending/7615874248779415558/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 08时59分]"
         },
         {
-          "title": "AI龙虾安全风险真的那么可怕吗",
-          "url": "https://www.douyin.com/hot/2426974",
-          "source": "抖音",
+          "title": "中国卫星公司发布太空实拍船只视频",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E5%A4%AA%E7%A9%BA%E5%AE%9E%E6%8B%8D%E8%88%B9%E5%8F%AA%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
           "ranks": [
-            28
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "08时59分"
+        },
+        {
+          "title": "杨利伟谈首次太空自拍细节",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%88%A9%E4%BC%9F%E8%B0%88%E9%A6%96%E6%AC%A1%E5%A4%AA%E7%A9%BA%E8%87%AA%E6%8B%8D%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
@@ -240,11 +295,12 @@
           "url": "https://wallstreetcn.com/articles/3767211",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 07时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 08时59分]"
         }
       ]
     },
@@ -260,23 +316,6 @@
             8,
             6,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国卫星公司发布从太空实拍船只视频",
-          "url": "https://www.toutiao.com/trending/7615874248779415558/",
-          "source": "今日头条",
-          "ranks": [
-            1
           ],
           "is_new": false,
           "appearance_count": 10,
