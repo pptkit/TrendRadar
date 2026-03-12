@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-13T04:23:42.698984+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-03-13T05:45:48.819604+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 05时45分]"
+        },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
           "url": "https://www.zhihu.com/question/2015029846779065089",
@@ -21,17 +32,6 @@
           "time_info": "[00时47分 ~ 03时35分]"
         },
         {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时23分]"
-        },
-        {
           "title": "沉迷AI的领导belike",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
           "source": "bilibili 热搜",
@@ -39,11 +39,12 @@
             20,
             22,
             18,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时45分]"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -110,7 +111,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -121,7 +122,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -132,7 +133,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -157,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "周四（3月12日），存储芯片与硬件供应链指数跌4.03%，报104.12点，跳空低开之后，整体低位震荡。 北美科技软件股指数ETF收跌0.87%。 信息科技指数跌2.70%，人工智能（AI）赢家指数跌2.55%，AI软件先驱指数跌1.00%。",
+          "url": "https://wallstreetcn.com/livenews/3069155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "马斯克：Digital Optimus将适用于所有配备AI4的汽车。",
@@ -239,7 +251,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         }
@@ -247,7 +259,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX震撼上市传闻引燃投资热潮，投资者涌入不透明的私人交易",
@@ -268,9 +280,37 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "标普考虑修改规则，以加快SpaceX进入标普500指数的进程",
+          "url": "https://flash.jin10.com/detail/20260313044714318800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普超级综合1500化工制品指数收涨8.04%，报19.22点。 利安德巴塞尔工业收涨10.33%，Olin公司涨9.42%，陶氏化学涨9.34%，Westlake公司涨6.72%，卡博特公司涨1.67%，KOP涨0.21%，Hawkins股份跌5.59%。",
+          "url": "https://wallstreetcn.com/livenews/3069139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         }
       ]
     },
@@ -288,8 +328,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时45分]"
         }
       ]
     }
