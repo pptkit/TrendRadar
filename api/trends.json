@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T21:56:10.724699+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-03-12T22:41:32.962936+08:00",
+  "total_titles_processed": 2052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -54,11 +54,12 @@
             9,
             10,
             12,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时39分 ~ 21时56分]"
+          "appearance_count": 11,
+          "time_info": "[15时39分 ~ 22时41分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -130,8 +131,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时40分 ~ 21时56分]"
+          "appearance_count": 24,
+          "time_info": "[00时40分 ~ 22时41分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -185,6 +186,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时25分 ~ 22时41分]"
+        },
+        {
           "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
           "url": "https://www.zhihu.com/question/2015067278698312603",
           "source": "知乎",
@@ -231,15 +243,15 @@
           "time_info": "04时23分"
         },
         {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
+          "title": "标普：AI扰动不会引发软件行业评级下调潮",
+          "url": "https://wallstreetcn.com/livenews/3069007",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时25分 ~ 21时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "科技秀肌肉、机器人 PK……为什么 AWE 2026 有种不顾死活的美？",
@@ -543,7 +555,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -554,7 +566,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -690,6 +702,68 @@
       ]
     },
     {
+      "keyword_group": "电力 变压器",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 11时32分]"
+        },
+        {
+          "title": "科威特方面表示，恢复因落物影响而停电地区的电力供应。",
+          "url": "https://flash.jin10.com/detail/20260312161126028800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗高官警告美勿袭电力系统",
+          "url": "https://wallstreetcn.com/livenews/3068953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "特斯拉能源部门获英国电力供应牌照",
+          "url": "https://wallstreetcn.com/livenews/3068719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰将与罗马尼亚新建两条电力线路。",
+          "url": "https://flash.jin10.com/detail/20260312215953448800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "太空 spaceX",
       "match_count": 5,
       "titles": [
@@ -751,57 +825,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
-          "url": "https://wallstreetcn.com/articles/3767211",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 11时32分]"
-        },
-        {
-          "title": "科威特方面表示，恢复因落物影响而停电地区的电力供应。",
-          "url": "https://flash.jin10.com/detail/20260312161126028800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "伊朗高官警告美勿袭电力系统",
-          "url": "https://wallstreetcn.com/livenews/3068953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "特斯拉能源部门获英国电力供应牌照",
-          "url": "https://wallstreetcn.com/livenews/3068719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         }
       ]
     },
