@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T14:40:35.683537+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-03-12T15:39:54.500045+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -100,8 +100,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 14时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 15时39分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -115,6 +115,18 @@
           "time_info": "[00时40分 ~ 08时59分]"
         },
         {
+          "title": "中国扫地机器人长出了手和腿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%95%BF%E5%87%BA%E4%BA%86%E6%89%8B%E5%92%8C%E8%85%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 15时39分]"
+        },
+        {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
           "url": "https://flash.jin10.com/detail/20260312012641938800",
           "source": "金十数据",
@@ -124,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "中国扫地机器人长出了手和腿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%95%BF%E5%87%BA%E4%BA%86%E6%89%8B%E5%92%8C%E8%85%BF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
         },
         {
           "title": "奈飞(NFLX.O)拟斥资最高6亿美元收购好莱坞影星本·阿弗莱克创立的人工智能电影制作公司InterPositive，这将是这家流媒体巨头有史以来规模最大的收购之一。",
@@ -161,6 +162,18 @@
           "time_info": "[11时31分 ~ 14时40分]"
         },
         {
+          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
+          "url": "https://www.cls.cn/detail/2310365",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时39分]"
+        },
+        {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
           "source": "财联社热门",
@@ -184,16 +197,28 @@
           "time_info": "[06时19分 ~ 07时16分]"
         },
         {
-          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
-          "url": "https://www.cls.cn/detail/2310365",
-          "source": "财联社热门",
+          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
+          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "source": "知乎",
           "ranks": [
-            10,
-            11
+            18,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时40分]"
+          "time_info": "[14时40分 ~ 15时39分]"
+        },
+        {
+          "title": "科技秀肌肉、机器人 PK……为什么 AWE 2026 有种不顾死活的美？",
+          "url": "https://www.zhihu.com/topic/2002753103485695027/hot",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 15时39分]"
         },
         {
           "title": "AI龙虾安全风险真的那么可怕吗",
@@ -214,9 +239,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "德意志银行：出于对人工智能（AI）未来造成干扰的恐惧，投资者对美联储降息前景的定价可能超过了美国经济所能保证的程度。",
@@ -285,17 +321,6 @@
           "time_info": "05时23分"
         },
         {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-12）",
           "url": "https://flash.jin10.com/detail/20260312120026460800",
           "source": "金十数据",
@@ -313,18 +338,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "科技秀肌肉、机器人 PK……为什么 AWE 2026 有种不顾死活的美？",
-          "url": "https://www.zhihu.com/topic/2002753103485695027/hot",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -365,7 +379,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国卫星公司发布从太空实拍船只视频",
@@ -386,11 +400,12 @@
             1,
             2,
             25,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 15时39分]"
         },
         {
           "title": "杨利伟揭秘航天员太空出征细节",
@@ -402,6 +417,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "中国卫星公司发布太空实拍船只视频",
+          "url": "https://wallstreetcn.com/livenews/3068691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "杨利伟谈首次太空自拍细节",
@@ -418,7 +444,7 @@
     },
     {
       "keyword_group": "化工",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
@@ -432,6 +458,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 07时16分]"
+        },
+        {
+          "title": "《智能家居产业标准化工作路线图》发布",
+          "url": "https://wallstreetcn.com/livenews/3068696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "3月12日午间收评：创业板指半日跌1.67%，煤炭、化工板块逆势走强",
@@ -485,11 +522,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时39分]"
         }
       ]
     }
