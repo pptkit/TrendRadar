@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T14:38:55.466772+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-03-13T15:38:19.809938+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -36,6 +36,29 @@
           "time_info": "[00时47分 ~ 09时05分]"
         },
         {
+          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
+          "url": "https://www.cls.cn/detail/2311468",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 15时38分]"
+        },
+        {
+          "title": "未来乡村会比AI生成的还漂亮",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时38分]"
+        },
+        {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
           "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
@@ -49,18 +72,6 @@
           "time_info": "[00时47分 ~ 03时35分]"
         },
         {
-          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
-          "url": "https://www.cls.cn/detail/2311468",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 14时38分]"
-        },
-        {
           "title": "揭秘龙虾AI智能体",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E9%BE%99%E8%99%BEAI%E6%99%BA%E8%83%BD%E4%BD%93",
           "source": "bilibili 热搜",
@@ -72,15 +83,18 @@
           "time_info": "12时02分"
         },
         {
-          "title": "未来乡村会比AI生成的还漂亮",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            4,
+            15,
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 15时38分]"
         },
         {
           "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
@@ -89,22 +103,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
           "ranks": [
-            4,
-            15,
-            18
+            9,
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时38分]"
         },
         {
           "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
@@ -117,18 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时18分]"
-        },
-        {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 14时38分]"
         },
         {
           "title": "今年加快研究人工智能立法",
@@ -236,6 +238,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
           "url": "https://flash.jin10.com/detail/20260313034321354800",
           "source": "金十数据",
@@ -280,6 +293,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "新华社：OpenClaw走红凸显AI智能体潜力与风险",
+          "url": "https://wallstreetcn.com/livenews/3069485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "MetaPlatforms(META.O)：在Facebook Marketplace上推出全新Meta公司人工智能功能。",
           "url": "https://flash.jin10.com/detail/20260313000215736800",
           "source": "金十数据",
@@ -300,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "不想看AI演戏",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "据Business Insider：xAI负责编码代理及其视频和图像生成工具的Guodong Zhang已告知他人，他计划在未来几天内离职。",
@@ -344,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
@@ -393,7 +439,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "乌克兰总统泽连斯基：发展两国间的能源网络至关重要，这不仅有助于乌克兰应对俄罗斯持续攻击能源基础设施造成的能源短缺，还能在我们电力盈余并可出口电力时为罗马尼亚提供支持。因此，能源领域的合作也是我们讨论的重点议题。",
@@ -431,6 +477,50 @@
           "time_info": "09时05分"
         },
         {
+          "title": "巴基斯坦电力部长：巴基斯坦将优先发展本土能源，避免采用危及能源安全的能源来源。",
+          "url": "https://flash.jin10.com/detail/20260313151509087800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "巴基斯坦电力部长：巴基斯坦液化天然气发电占比约10%。",
+          "url": "https://flash.jin10.com/detail/20260313151500897800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "巴基斯坦电力部长：巴基斯坦74%的电力来自国内资源，目标到2034年提升至96%。",
+          "url": "https://flash.jin10.com/detail/20260313151452918800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "巴基斯坦电力部长：随着国内电力供应能力提升，巴基斯坦应对液化天然气供应中断的脆弱性降低。",
+          "url": "https://flash.jin10.com/detail/20260313151442146800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "马斯克：正在超级充电站部署数百万个专用的Digital Optimus单元，目前这些站点大约拥有7吉瓦的可用电力。",
           "url": "https://flash.jin10.com/detail/20260312235715707800",
           "source": "金十数据",
@@ -451,6 +541,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "3月13日午间收评：三大指数小幅下跌，风电、化工板块持续走强",
+          "url": "https://wallstreetcn.com/livenews/3069341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "沪指收跌0.81%，化工、风电板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3069468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "标普超级综合1500化工制品指数收涨8.04%，报19.22点。 利安德巴塞尔工业收涨10.33%，Olin公司涨9.42%，陶氏化学涨9.34%，Westlake公司涨6.72%，卡博特公司涨1.67%，KOP涨0.21%，Hawkins股份跌5.59%。",
+          "url": "https://wallstreetcn.com/livenews/3069139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         }
       ]
     },
@@ -496,34 +625,6 @@
       ]
     },
     {
-      "keyword_group": "化工",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "3月13日午间收评：三大指数小幅下跌，风电、化工板块持续走强",
-          "url": "https://wallstreetcn.com/livenews/3069341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "标普超级综合1500化工制品指数收涨8.04%，报19.22点。 利安德巴塞尔工业收涨10.33%，Olin公司涨9.42%，陶氏化学涨9.34%，Westlake公司涨6.72%，卡博特公司涨1.67%，KOP涨0.21%，Hawkins股份跌5.59%。",
-          "url": "https://wallstreetcn.com/livenews/3069139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "太阳能 光伏",
       "match_count": 2,
       "titles": [
@@ -547,11 +648,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时38分]"
         }
       ]
     }
