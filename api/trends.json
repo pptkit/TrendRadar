@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T15:38:19.809938+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-03-13T16:28:33.934628+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 16时28分]"
         },
         {
           "title": "未来乡村会比AI生成的还漂亮",
@@ -55,8 +55,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时28分]"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 16时28分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -83,20 +98,6 @@
           "time_info": "12时02分"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            15,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 15时38分]"
-        },
-        {
           "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
           "url": "https://flash.jin10.com/detail/20260313143214386800",
           "source": "金十数据",
@@ -114,11 +115,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 16时28分]"
         },
         {
           "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
@@ -131,6 +133,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时18分]"
+        },
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时28分]"
         },
         {
           "title": "今年加快研究人工智能立法",
@@ -166,6 +180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 12时02分]"
+        },
+        {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时28分]"
         },
         {
           "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
@@ -204,6 +229,18 @@
           "time_info": "[13时42分 ~ 14时38分]"
         },
         {
+          "title": "不想看AI演戏",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时28分]"
+        },
+        {
           "title": "周四（3月12日），存储芯片与硬件供应链指数跌4.03%，报104.12点，跳空低开之后，整体低位震荡。 北美科技软件股指数ETF收跌0.87%。 信息科技指数跌2.70%，人工智能（AI）赢家指数跌2.55%，AI软件先驱指数跌1.00%。",
           "url": "https://wallstreetcn.com/livenews/3069155",
           "source": "华尔街见闻-快讯",
@@ -236,17 +273,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
         },
         {
           "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
@@ -299,7 +325,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -326,15 +352,15 @@
           "time_info": "07时18分"
         },
         {
-          "title": "不想看AI演戏",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "宇树科技四足机器人新专利获授权",
+          "url": "https://wallstreetcn.com/livenews/3069537",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时38分"
+          "time_info": "16时28分"
         },
         {
           "title": "据Business Insider：xAI负责编码代理及其视频和图像生成工具的Guodong Zhang已告知他人，他计划在未来几天内离职。",
@@ -381,17 +407,6 @@
           "time_info": "00时48分"
         },
         {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
           "url": "https://flash.jin10.com/detail/20260313023700863800",
           "source": "金十数据",
@@ -434,13 +449,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "王兴：物理世界数字化将是AI非常重要的底座",
+          "url": "https://wallstreetcn.com/livenews/3069517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "菲律宾能源部长表示，菲律宾将增加燃煤发电、减少液化天然气使用，为寻求紧急权力，菲方可能暂停部分电力市场规则。",
+          "url": "https://flash.jin10.com/detail/20260313161259956800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
         {
           "title": "乌克兰总统泽连斯基：发展两国间的能源网络至关重要，这不仅有助于乌克兰应对俄罗斯持续攻击能源基础设施造成的能源短缺，还能在我们电力盈余并可出口电力时为罗马尼亚提供支持。因此，能源领域的合作也是我们讨论的重点议题。",
           "url": "https://flash.jin10.com/detail/20260313012833651800",
@@ -483,7 +520,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -494,7 +531,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -505,7 +542,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -516,7 +553,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -545,47 +582,8 @@
       ]
     },
     {
-      "keyword_group": "化工",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "3月13日午间收评：三大指数小幅下跌，风电、化工板块持续走强",
-          "url": "https://wallstreetcn.com/livenews/3069341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "沪指收跌0.81%，化工、风电板块逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3069468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "标普超级综合1500化工制品指数收涨8.04%，报19.22点。 利安德巴塞尔工业收涨10.33%，Olin公司涨9.42%，陶氏化学涨9.34%，Westlake公司涨6.72%，卡博特公司涨1.67%，KOP涨0.21%，Hawkins股份跌5.59%。",
-          "url": "https://wallstreetcn.com/livenews/3069139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "太空 spaceX",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX震撼上市传闻引燃投资热潮，投资者涌入不透明的私人交易",
@@ -621,6 +619,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "追觅预计下周发射第一颗太空算力卫星",
+          "url": "https://wallstreetcn.com/livenews/3069529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "3月13日午间收评：三大指数小幅下跌，风电、化工板块持续走强",
+          "url": "https://wallstreetcn.com/livenews/3069341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "沪指收跌0.81%，化工、风电板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3069468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "标普超级综合1500化工制品指数收涨8.04%，报19.22点。 利安德巴塞尔工业收涨10.33%，Olin公司涨9.42%，陶氏化学涨9.34%，Westlake公司涨6.72%，卡博特公司涨1.67%，KOP涨0.21%，Hawkins股份跌5.59%。",
+          "url": "https://wallstreetcn.com/livenews/3069139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         }
       ]
     },
@@ -649,11 +697,12 @@
           "ranks": [
             7,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 15时38分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 16时28分]"
         }
       ]
     }
