@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T09:15:15.366696+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-03-15T12:24:13.364902+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时24分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -27,11 +27,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时24分]"
         },
         {
           "title": "湖北“省考”开考 人形机器人入考题",
@@ -81,11 +82,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时24分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -104,11 +106,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%90%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时24分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -125,6 +128,18 @@
           "time_info": "[00时19分 ~ 03时20分]"
         },
         {
+          "title": "机器人正要进电梯被人一脚踹倒",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时24分]"
+        },
+        {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
           "url": "https://wallstreetcn.com/articles/3767515",
           "source": "华尔街见闻",
@@ -137,15 +152,48 @@
           "time_info": "[07时17分 ~ 09时15分]"
         },
         {
-          "title": "机器人正要进电梯被人一脚踹倒",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
-          "source": "百度热搜",
+          "title": "AI时代家长如何教育孩子",
+          "url": "https://www.toutiao.com/trending/7616957895850246154/",
+          "source": "今日头条",
           "ranks": [
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "机器人踢球800个假动作",
+          "url": "https://www.toutiao.com/trending/7617234822351585289/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "人形机器人如何由表演走向实用",
+          "url": "https://www.toutiao.com/trending/7617256163113386003/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "xAI核心团队基本跑光",
+          "url": "https://www.toutiao.com/trending/7617270651551747634/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -157,6 +205,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 01时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "吉林一号太空实拍海上动态船只视频发布，甚至能看清甲板细节，这意味着什么？有哪些技术飞跃值得关注？",
+          "url": "https://www.zhihu.com/question/2015403166217234028",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
+          "title": "咱中国在太空炼出的“丹药”长这样",
+          "url": "https://www.baidu.com/s?wd=%E5%92%B1%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%82%BC%E5%87%BA%E7%9A%84%E2%80%9C%E4%B8%B9%E8%8D%AF%E2%80%9D%E9%95%BF%E8%BF%99%E6%A0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中东正在引发全球化工行业“大范围不可抗力”",
+          "url": "https://wallstreetcn.com/articles/3767513",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         }
       ]
     },
@@ -176,25 +271,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "咱中国在太空炼出的“丹药”长这样",
-          "url": "https://www.baidu.com/s?wd=%E5%92%B1%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%82%BC%E5%87%BA%E7%9A%84%E2%80%9C%E4%B8%B9%E8%8D%AF%E2%80%9D%E9%95%BF%E8%BF%99%E6%A0%B7",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     }
