@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T14:02:01.333789+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-03-15T14:56:37.453756+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 14时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时56分]"
         },
         {
           "title": "湖北“省考”开考 人形机器人入考题",
@@ -87,8 +87,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 14时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时56分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -124,8 +124,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时56分]"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 14时56分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -142,18 +154,6 @@
           "time_info": "[00时19分 ~ 03时20分]"
         },
         {
-          "title": "马斯克xAI联创团队几乎全跑了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时02分]"
-        },
-        {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
           "url": "https://wallstreetcn.com/articles/3767515",
           "source": "华尔街见闻",
@@ -164,6 +164,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时17分 ~ 09时15分]"
+        },
+        {
+          "title": "人形机器人夜跑备战半马",
+          "url": "https://www.douyin.com/hot/2431104",
+          "source": "抖音",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 14时56分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
@@ -188,6 +200,17 @@
           "time_info": "[14时00分 ~ 14时02分]"
         },
         {
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时56分]"
+        },
+        {
           "title": "机器人踢球800个假动作",
           "url": "https://www.toutiao.com/trending/7617234822351585289/",
           "source": "今日头条",
@@ -208,17 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 12时24分]"
-        },
-        {
-          "title": "人形机器人夜跑备战半马",
-          "url": "https://www.douyin.com/hot/2431104",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时02分]"
         },
         {
           "title": "xAI核心团队基本跑光",
@@ -243,15 +255,15 @@
           "time_info": "[01时17分 ~ 01时18分]"
         },
         {
-          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
-          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
-          "source": "凤凰网",
+          "title": "谁在渲染AI焦虑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%9C%A8%E6%B8%B2%E6%9F%93AI%E7%84%A6%E8%99%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "14时56分"
         }
       ]
     },
