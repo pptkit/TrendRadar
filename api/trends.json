@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T14:56:37.453756+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-03-15T15:39:15.421407+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时39分]"
         },
         {
           "title": "湖北“省考”开考 人形机器人入考题",
@@ -84,11 +84,12 @@
           "ranks": [
             12,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时39分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -103,6 +104,20 @@
           "time_info": "[00时19分 ~ 09时15分]"
         },
         {
+          "title": "机器人正要进电梯被人一脚踹倒",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 15时39分]"
+        },
+        {
           "title": "机器人正要进电梯被男子一脚踹倒",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%90%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -115,29 +130,17 @@
           "time_info": "[09时14分 ~ 12时24分]"
         },
         {
-          "title": "机器人正要进电梯被人一脚踹倒",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 14时56分]"
-        },
-        {
           "title": "马斯克xAI联创团队几乎全跑了",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             4,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时00分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[14时00分 ~ 15时39分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -154,6 +157,19 @@
           "time_info": "[00时19分 ~ 03时20分]"
         },
         {
+          "title": "人形机器人夜跑备战半马",
+          "url": "https://www.douyin.com/hot/2431104",
+          "source": "抖音",
+          "ranks": [
+            20,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时00分 ~ 15时39分]"
+        },
+        {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
           "url": "https://wallstreetcn.com/articles/3767515",
           "source": "华尔街见闻",
@@ -166,16 +182,26 @@
           "time_info": "[07时17分 ~ 09时15分]"
         },
         {
-          "title": "人形机器人夜跑备战半马",
-          "url": "https://www.douyin.com/hot/2431104",
-          "source": "抖音",
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            29
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时00分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 15时39分]"
+        },
+        {
+          "title": "人形机器人夜跑备战半马",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%9C%E8%B7%91%E5%A4%87%E6%88%98%E5%8D%8A%E9%A9%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
@@ -198,17 +224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时00分 ~ 14时02分]"
-        },
-        {
-          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
-          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时56分]"
         },
         {
           "title": "机器人踢球800个假动作",
@@ -261,7 +276,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         }
