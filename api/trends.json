@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T03:21:47.221219+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-03-16T04:17:35.789285+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -39,19 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
-        },
-        {
-          "title": "315晚会曝光“AI投毒产业链”",
-          "url": "https://www.douyin.com/hot/2431845",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
@@ -60,9 +49,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时17分]"
         },
         {
           "title": "六指内塔尼亚胡是AI替身？真相来了",
@@ -73,21 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
-        },
-        {
-          "title": "实测AI推荐如何被操控",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -96,11 +72,12 @@
           "ranks": [
             23,
             26,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -109,6 +86,17 @@
           "ranks": [
             27,
             28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时17分]"
+        },
+        {
+          "title": "315晚会曝光“AI投毒产业链”",
+          "url": "https://www.douyin.com/hot/2431845",
+          "source": "抖音",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -124,8 +112,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 04时17分]"
         },
         {
           "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
@@ -138,8 +126,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "给AI投毒",
@@ -148,11 +136,25 @@
           "ranks": [
             24,
             27,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 04时17分]"
+        },
+        {
+          "title": "实测AI推荐如何被操控",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时21分]"
         },
         {
           "title": "人形机器人夜跑备战半马",
@@ -181,6 +183,17 @@
           "time_info": "[00时19分 ~ 02时24分]"
         },
         {
+          "title": "AI时代家长如何教育孩子",
+          "url": "https://www.toutiao.com/trending/7616957895850246154/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 04时17分]"
+        },
+        {
           "title": "美国交通部长Duffy：我们准备就霍尔木兹海峡通航问题提供保险。 Caine正分析（美国军队）何时才能安全地（提供）护航。 可能会在一天之后开始提供护航，也可能还要一周。",
           "url": "https://wallstreetcn.com/livenews/3070357",
           "source": "华尔街见闻-快讯",
@@ -193,15 +206,16 @@
           "time_info": "[00时19分 ~ 01时19分]"
         },
         {
-          "title": "AI时代家长如何教育孩子",
-          "url": "https://www.toutiao.com/trending/7616957895850246154/",
-          "source": "今日头条",
+          "title": "315晚会曝光AI大模型被投毒",
+          "url": "https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%8A%95%E6%AF%92%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时17分]"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
@@ -215,15 +229,15 @@
           "time_info": "00时19分"
         },
         {
-          "title": "315晚会曝光AI大模型被投毒",
-          "url": "https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%8A%95%E6%AF%92%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "人形机器人夜跑备战半马",
+          "url": "https://www.douyin.com/hot/2431104",
+          "source": "抖音",
           "ranks": [
-            30
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "04时17分"
         }
       ]
     },
