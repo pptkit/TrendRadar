@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-17T07:26:26.973576+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-03-17T09:10:43.114045+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
           "url": "https://www.cls.cn/detail/2314550",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 09时10分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -71,11 +72,12 @@
             18,
             15,
             14,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 09时10分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -88,8 +90,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 09时10分]"
         },
         {
           "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
@@ -99,8 +101,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时51分 ~ 07时26分]"
+          "appearance_count": 5,
+          "time_info": "[05时51分 ~ 09时10分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -125,7 +127,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -158,7 +160,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -172,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "百度计划在智能音箱中接入OpenClaw AI智能体。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3071272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
@@ -230,6 +243,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时53分]"
+        },
+        {
+          "title": "苹果发布AirPods Max 2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83AirPods%20Max%202",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 09时10分]"
         },
         {
           "title": "AI对游戏版权有何影响",
@@ -352,18 +378,6 @@
           "time_info": "[00时53分 ~ 01时53分]"
         },
         {
-          "title": "苹果发布AirPods Max 2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83AirPods%20Max%202",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 07时26分]"
-        },
-        {
           "title": "人形机器人“网球运动员”来了",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E7%BD%91%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E2%80%9D%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -381,7 +395,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -392,9 +406,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
@@ -414,7 +439,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -436,7 +461,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -450,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "阿联酋富查伊拉（Fujairah）当局表示，富查伊拉石油工业区在遭到无人机袭击后发生火灾，目前暂无人员伤亡报告。",
+          "url": "https://wallstreetcn.com/livenews/3071264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "惠与（HPE）同英伟达发布AI Factory和Supercomputing Advancements。",
@@ -546,7 +582,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -678,11 +714,12 @@
           "url": "https://www.cls.cn/detail/2314862",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时10分]"
         },
         {
           "title": "英伟达CEO黄仁勋：太空计算这一最终前沿已经到来。",
@@ -694,6 +731,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "云南能投3月17日在互动平台表示，公司主营业务涵盖新能源、盐业两大业务板块，其中涉化工业务主要为盐业板块中工业盐、芒硝等的生产销售，不涉及硫化工相关业务。",
+          "url": "https://flash.jin10.com/detail/20260317085913495800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     }
