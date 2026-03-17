@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T13:52:19.298420+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-03-17T14:51:43.511369+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时51分 ~ 13时52分]"
+          "appearance_count": 9,
+          "time_info": "[05时51分 ~ 14时51分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -53,11 +53,12 @@
             9,
             13,
             18,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 14时51分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -128,9 +129,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时51分]"
+        },
+        {
+          "title": "中国机器人开始打网球了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%89%93%E7%BD%91%E7%90%83%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时51分]"
         },
         {
           "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
@@ -142,17 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "中国机器人开始打网球了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%89%93%E7%BD%91%E7%90%83%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "英伟达(NVDA.O)扩展开源模型系列，以支持下一波基于智能体、实体世界和医疗保健人工智能的发展。",
@@ -210,6 +211,20 @@
           "time_info": "09时10分"
         },
         {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 14时51分]"
+        },
+        {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
           "url": "https://flash.jin10.com/detail/20260317023121292800",
           "source": "金十数据",
@@ -230,19 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 13时52分]"
         },
         {
           "title": "AI拉动需求劲增，存储芯片全年涨价“无悬念”",
@@ -281,6 +283,19 @@
           "time_info": "[00时53分 ~ 01时53分]"
         },
         {
+          "title": "AI 裁员",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时51分]"
+        },
+        {
           "title": "AI对游戏版权有何影响",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -292,18 +307,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时46分 ~ 13时52分]"
-        },
-        {
-          "title": "AI 裁员",
-          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时52分]"
         },
         {
           "title": "苹果发布AirPods Max 2",
@@ -559,6 +562,28 @@
           "time_info": "09时10分"
         },
         {
+          "title": "NX8告别老三样拥抱AI新五件",
+          "url": "https://s.weibo.com/weibo?q=%23NX8%E5%91%8A%E5%88%AB%E8%80%81%E4%B8%89%E6%A0%B7%E6%8B%A5%E6%8A%B1AI%E6%96%B0%E4%BA%94%E4%BB%B6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "惠与（HPE）同英伟达发布AI Factory和Supercomputing Advancements。",
           "url": "https://wallstreetcn.com/livenews/3071168",
           "source": "华尔街见闻-快讯",
@@ -612,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "从夯到拉点评AI作品",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "英伟达Vera Rubin开启“智能体AI”新前沿",
@@ -738,7 +774,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
@@ -775,6 +811,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "恒生科技指数转跌，芯片、核电、电力设备等概念股跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260317140633920800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "英伟达将向韩国数据中心提供芯片。 Reflection AI计划开发韩语模型。 该公司Shinsegae数据中心将消耗250 MW电力。 （华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3071116",
           "source": "华尔街见闻-快讯",
@@ -809,7 +856,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -828,8 +875,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 13时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 14时51分]"
         },
         {
           "title": "英伟达CEO黄仁勋：太空计算这一最终前沿已经到来。",
