@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T20:42:57.489655+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2026-03-17T22:13:11.661936+08:00",
+  "total_titles_processed": 1990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 87,
+      "match_count": 90,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -39,11 +39,12 @@
             1,
             4,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时52分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[13时52分 ~ 22时13分]"
         },
         {
           "title": "AI大厂月薪3万疯抢文科生",
@@ -154,6 +155,19 @@
           "time_info": "[14时51分 ~ 19时36分]"
         },
         {
+          "title": "看机器人跳一支春天的芭蕾",
+          "url": "https://www.douyin.com/hot/2433980",
+          "source": "抖音",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时13分]"
+        },
+        {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
           "url": "https://www.zhihu.com/question/2015734176020656294",
           "source": "知乎",
@@ -196,18 +210,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时10分 ~ 15时47分]"
-        },
-        {
-          "title": "看机器人跳一支春天的芭蕾",
-          "url": "https://www.douyin.com/hot/2433980",
-          "source": "抖音",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时42分]"
         },
         {
           "title": "中国机器人开始打网球了",
@@ -272,6 +274,18 @@
           "time_info": "04时27分"
         },
         {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时13分]"
+        },
+        {
           "title": "英伟达首席执行官发布基于OpenCLAW AI代理的企业级安全工具NeMoCLAW。",
           "url": "https://flash.jin10.com/detail/20260317041556173800",
           "source": "金十数据",
@@ -327,15 +341,16 @@
           "time_info": "16时39分"
         },
         {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
+          "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
           "ranks": [
-            5
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时13分]"
         },
         {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
@@ -528,6 +543,17 @@
           "time_info": "[05时52分 ~ 06时29分]"
         },
         {
+          "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
+          "url": "https://www.zhihu.com/question/2016981407864414269",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
           "title": "Salesforce与英伟达就AI智能体（AI Agents）合作。",
           "url": "https://wallstreetcn.com/livenews/3071170",
           "source": "华尔街见闻-快讯",
@@ -651,17 +677,6 @@
           "time_info": "07时26分"
         },
         {
-          "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "英伟达(NVDA.O)：推出空间计算，将人工智能引入轨道数据中心。行业领导者Aetherflux、Axiom Space、Kepler Communications、Planet、Sophia Space、Starcloud正使用英伟达加速计算平台，为下一代太空任务提供算力支持。",
           "url": "https://flash.jin10.com/detail/20260317040907601800",
           "source": "金十数据",
@@ -679,7 +694,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -959,6 +974,17 @@
           "time_info": "05时52分"
         },
         {
+          "title": "AI大厂月薪3万疯抢文科生的话题冲上热搜",
+          "url": "https://wallstreetcn.com/livenews/3071708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "亚马逊、英伟达围绕车用高级AI助理合作。",
           "url": "https://wallstreetcn.com/livenews/3071154",
           "source": "华尔街见闻-快讯",
@@ -1001,6 +1027,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "人工智能博士分析AI影视化",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%9A%E5%A3%AB%E5%88%86%E6%9E%90AI%E5%BD%B1%E8%A7%86%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
@@ -1187,11 +1224,12 @@
           "url": "https://www.cls.cn/detail/2315651",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时13分]"
         }
       ]
     }
