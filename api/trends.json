@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T14:51:43.511369+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-03-17T15:47:12.883611+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -54,11 +54,12 @@
             13,
             18,
             21,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 14时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 15时47分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -107,6 +108,17 @@
           "time_info": "[00时52分 ~ 09时10分]"
         },
         {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 15时47分]"
+        },
+        {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
           "url": "https://www.zhihu.com/question/2015734176020656294",
           "source": "知乎",
@@ -123,26 +135,59 @@
           "time_info": "[01时53分 ~ 07时26分]"
         },
         {
-          "title": "于谦说怕AI偷看相册",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
-          "source": "bilibili 热搜",
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            6,
+            9,
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 15时47分]"
         },
         {
           "title": "中国机器人开始打网球了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%89%93%E7%BD%91%E7%90%83%E4%BA%86%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 15时47分]"
+        },
+        {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            24,
+            28,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时46分 ~ 15时47分]"
+        },
+        {
+          "title": "AI 裁员",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 15时47分]"
         },
         {
           "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
@@ -211,20 +256,6 @@
           "time_info": "09时10分"
         },
         {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 14时51分]"
-        },
-        {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
           "url": "https://flash.jin10.com/detail/20260317023121292800",
           "source": "金十数据",
@@ -283,30 +314,28 @@
           "time_info": "[00时53分 ~ 01时53分]"
         },
         {
-          "title": "AI 裁员",
-          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
           "ranks": [
-            12,
-            13,
-            16
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时47分]"
         },
         {
-          "title": "AI对游戏版权有何影响",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "title": "从夯到拉点评AI作品",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
           "source": "bilibili 热搜",
           "ranks": [
-            30,
-            24,
+            18,
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时46分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时47分]"
         },
         {
           "title": "苹果发布AirPods Max 2",
@@ -394,6 +423,17 @@
           "time_info": "[05时52分 ~ 06时29分]"
         },
         {
+          "title": "人形机器人能打网球了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E6%89%93%E7%BD%91%E7%90%83%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 15时47分]"
+        },
+        {
           "title": "STMicoroElectronics与英伟达围绕物理AI构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3071171",
           "source": "华尔街见闻-快讯",
@@ -450,6 +490,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 15时47分]"
         },
         {
           "title": "人形机器人“网球运动员”来了",
@@ -568,18 +619,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -637,17 +677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "从夯到拉点评AI作品",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
         },
         {
           "title": "英伟达Vera Rubin开启“智能体AI”新前沿",
@@ -817,7 +846,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -875,8 +904,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时26分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 15时47分]"
         },
         {
           "title": "英伟达CEO黄仁勋：太空计算这一最终前沿已经到来。",
