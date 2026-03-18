@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:42:25.498259+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-03-18T18:41:20.944325+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 72,
+      "match_count": 75,
       "titles": [
         {
           "title": "看机器人跳一支春天的芭蕾",
@@ -37,22 +37,6 @@
           "time_info": "[00时56分 ~ 09时11分]"
         },
         {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            9,
-            12,
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时04分 ~ 17时42分]"
-        },
-        {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
           "url": "https://www.zhihu.com/question/2016981407864414269",
           "source": "知乎",
@@ -67,6 +51,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时04分 ~ 07时22分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9,
+            12,
+            13,
+            14,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时04分 ~ 18时41分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
@@ -122,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 18时41分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -133,11 +134,12 @@
             3,
             6,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 17时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 18时41分]"
         },
         {
           "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
@@ -149,8 +151,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 17时42分]"
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 18时41分]"
+        },
+        {
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 18时41分]"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -190,17 +203,6 @@
           "time_info": "[09时10分 ~ 13时57分]"
         },
         {
-          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 17时42分]"
-        },
-        {
           "title": "百度智能云发布AI算力、存储等产品调价公告",
           "url": "https://wallstreetcn.com/livenews/3072235",
           "source": "华尔街见闻-快讯",
@@ -212,15 +214,18 @@
           "time_info": "15时45分"
         },
         {
-          "title": "腾讯首席财务官：腾讯计划减少股票回购，将资金用于AI投资。",
-          "url": "https://wallstreetcn.com/livenews/3072308",
-          "source": "华尔街见闻-快讯",
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
           "ranks": [
-            2
+            12,
+            9,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 18时41分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -295,6 +300,18 @@
           "time_info": "[12时13分 ~ 16时36分]"
         },
         {
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时41分]"
+        },
+        {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
           "url": "https://flash.jin10.com/detail/20260318024409341800",
           "source": "金十数据",
@@ -333,17 +350,16 @@
           "time_info": "[02时46分 ~ 04时29分]"
         },
         {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
+          "title": "腾讯首席财务官：腾讯计划减少股票回购，将资金用于AI投资。",
+          "url": "https://wallstreetcn.com/livenews/3072308",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            9,
-            6
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时42分]"
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时41分]"
         },
         {
           "title": "欧莱雅与英伟达扩大AI合作伙伴关系。",
@@ -442,15 +458,16 @@
           "time_info": "[01时54分 ~ 02时46分]"
         },
         {
-          "title": "短剧演员谈被AI替代",
-          "url": "https://www.douyin.com/hot/2434994",
-          "source": "抖音",
+          "title": "耀客签约AI演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%80%E5%AE%A2%E7%AD%BE%E7%BA%A6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            22,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时41分]"
         },
         {
           "title": "消息人士：埃利奥特已在商船三井持有“相当规模”的股份。埃利奥特正推动商船三井提升股东回报与资本效率，认为商船三井应审视其房地产资产组合，并考虑重新上市Daibiru。",
@@ -470,7 +487,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -492,9 +509,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
@@ -536,9 +564,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "北京：对重点领域“人工智能+”示范项目，按有关政策给予不超过5000万元支持",
+          "url": "https://wallstreetcn.com/livenews/3072337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "摩根士丹利：上调宁德时代A和H股目标价 储能出货量料受AI需求提振",
@@ -572,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "石景山区人形机器人数据训练中心三期将投用",
+          "url": "https://flash.jin10.com/detail/20260318181515107800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "裕信银行CEO：人工智能未来五年可能将成本降低多达5亿欧元。",
@@ -723,7 +773,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -748,17 +798,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "耀客签约AI演员",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%80%E5%AE%A2%E7%AD%BE%E7%BA%A6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "德国央行行长：AI创造的就业有望多于被取缔的岗位",
@@ -877,8 +916,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 18时41分]"
         },
         {
           "title": "银行多渠道补充资本，特别国债与市场化工具并举",
@@ -898,7 +937,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
