@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T12:12:56.430455+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-03-19T13:51:30.561361+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 13时51分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -85,11 +85,12 @@
             13,
             12,
             8,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时01分 ~ 12时12分]"
+          "appearance_count": 11,
+          "time_info": "[02时01分 ~ 13时51分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -100,8 +101,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 13时51分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -126,8 +127,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 13时51分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -139,8 +140,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 12时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 13时51分]"
         },
         {
           "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
@@ -187,6 +188,44 @@
           "time_info": "05时26分"
         },
         {
+          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
+          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时51分]"
+        },
+        {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时51分]"
+        },
+        {
+          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时51分]"
+        },
+        {
           "title": "短剧演员谈被AI替代",
           "url": "https://www.douyin.com/hot/2434994",
           "source": "抖音",
@@ -198,16 +237,16 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
-          "source": "澎湃新闻",
+          "title": "微短剧专业学生制作AI漫剧1分钟100元",
+          "url": "https://www.toutiao.com/trending/7617807310119288875/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            13
+            10,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时12分]"
+          "time_info": "[12时12分 ~ 13时51分]"
         },
         {
           "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
@@ -221,27 +260,27 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时12分]"
-        },
-        {
-          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
-          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2017645383652696499",
           "source": "知乎",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时12分]"
+          "time_info": "[12时12分 ~ 13时51分]"
+        },
+        {
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时51分]"
         },
         {
           "title": "摩根士丹利：下调腾讯港股目标价，重申超配评级，AI领域投资短期料拖累利润率",
@@ -261,7 +300,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -288,17 +327,6 @@
           "time_info": "09时10分"
         },
         {
-          "title": "微短剧专业学生制作AI漫剧1分钟100元",
-          "url": "https://www.toutiao.com/trending/7617807310119288875/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3072598",
           "source": "华尔街见闻-快讯",
@@ -321,15 +349,15 @@
           "time_info": "07时24分"
         },
         {
-          "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
-          "url": "https://www.zhihu.com/question/2017645383652696499",
-          "source": "知乎",
+          "title": "昆仑万维拉升涨近7%，天工AI大模型SkyReels V4登上Artificial Analysis榜单全球第一。",
+          "url": "https://wallstreetcn.com/livenews/3072940",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "13时51分"
         },
         {
           "title": "美光科技：AI服务器需求继续表现强劲。",
@@ -354,15 +382,15 @@
           "time_info": "04时25分"
         },
         {
-          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
+          "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787960",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "13时51分"
         },
         {
           "title": "上个月，当Anthropic公司与美国国防部就人工智能在战争中的应用发生冲突时，谷歌(GOOG.O)的一位高管悄悄地与五角大楼官员会面，力荐该公司成为完美的国防合作伙伴。",
@@ -393,7 +421,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -404,7 +432,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -444,6 +472,85 @@
       ]
     },
     {
+      "keyword_group": "电力 变压器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日本电力企业集团负责人：中东液化天然气占日本进口总量的6%，因此电力供应的稳定性不会立即出现中断。",
+          "url": "https://flash.jin10.com/detail/20260319131646959800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "日本电力企业集团负责人：将加入全国性行动，以确保在伊朗危机背景下液化天然气供应稳定。",
+          "url": "https://flash.jin10.com/detail/20260319131514956800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "远光软件：未来将围绕虚拟电厂、零碳园区、能碳平台、电力交易四大业务方向强化协同",
+          "url": "https://flash.jin10.com/detail/20260319110932300800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
+          "url": "https://www.cls.cn/detail/2316929",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时24分]"
+        },
+        {
+          "title": "A股三大指数持续下挫，深成指跌超2%，沪指、创业板指均跌超1%。有色金属、化学化工板块跌幅居前，全市场近5000只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3072950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "中国化工装备有限公司原副总经理李东平接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3072885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "太阳能 光伏",
       "match_count": 3,
       "titles": [
@@ -453,11 +560,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时51分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。",
@@ -520,52 +628,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化工",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
-          "url": "https://www.cls.cn/detail/2316929",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 07时24分]"
-        },
-        {
-          "title": "中国化工装备有限公司原副总经理李东平接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3072885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "远光软件：未来将围绕虚拟电厂、零碳园区、能碳平台、电力交易四大业务方向强化协同",
-          "url": "https://flash.jin10.com/detail/20260319110932300800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         }
       ]
     }
