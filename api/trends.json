@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T05:25:47.729836+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-03-20T06:17:34.873660+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时25分]"
-        },
-        {
-          "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3073578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时17分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -37,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时17分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -47,11 +36,34 @@
           "ranks": [
             19,
             17,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时17分]"
+        },
+        {
+          "title": "美国白宫计划周五推出人工智能（AI）框架。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3073585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
+          "url": "https://wallstreetcn.com/livenews/3073582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "雪宝机器人让童年照进现实",
@@ -67,6 +79,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 04时27分]"
+        },
+        {
+          "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3073578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时17分]"
         },
         {
           "title": "机器人是否已踏入日常生活",
@@ -116,6 +140,28 @@
           "time_info": "01时47分"
         },
         {
+          "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
+          "url": "https://flash.jin10.com/detail/20260320052711190800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "据Punchbowl：白宫计划发布人工智能监管框架。",
+          "url": "https://flash.jin10.com/detail/20260320052330041800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
           "url": "https://flash.jin10.com/detail/20260320020259710800",
           "source": "金十数据",
@@ -149,11 +195,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时17分]"
         },
         {
           "title": "扎哈罗娃：美国在太空领域政策日益具有侵略性",
@@ -229,8 +276,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时17分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.00%，报6945.39点，跳空低开之后跌幅迅速扩大至将近3.12%，绝大部分时间持稳于6900点上方——形成高位窄幅震荡。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.22%，中国科技指数ETF（CQQQ）收跌0.89%。 XtrackersHarvest中证50（ASHS）收跌0.86%，德银嘉实沪深300指数ETF（ASHR）收跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3073553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时17分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。",
@@ -242,17 +301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.00%，报6945.39点，跳空低开之后跌幅迅速扩大至将近3.12%，绝大部分时间持稳于6900点上方——形成高位窄幅震荡。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.22%，中国科技指数ETF（CQQQ）收跌0.89%。 XtrackersHarvest中证50（ASHS）收跌0.86%，德银嘉实沪深300指数ETF（ASHR）收跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3073553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
         }
       ]
     },
@@ -282,11 +330,12 @@
           "url": "https://wallstreetcn.com/livenews/3073569",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时17分]"
         }
       ]
     }
