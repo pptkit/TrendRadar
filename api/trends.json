@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T07:24:35.971336+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-03-19T09:10:45.893350+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -37,23 +37,24 @@
           "time_info": "[00时01分 ~ 07时24分]"
         },
         {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 07时24分]"
-        },
-        {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
           "url": "https://wallstreetcn.com/articles/3767836",
           "source": "华尔街见闻",
           "ranks": [
             7,
             8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 09时10分]"
+        },
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
             6
           ],
           "is_new": false,
@@ -80,8 +81,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 09时10分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -105,8 +106,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 09时10分]"
         },
         {
           "title": "易小星参加B站AI创作大赛",
@@ -118,22 +119,12 @@
             21,
             13,
             12,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 07时24分]"
-        },
-        {
-          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
-          "url": "https://wallstreetcn.com/livenews/3072731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 09时10分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -145,8 +136,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 07时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 09时10分]"
+        },
+        {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -204,15 +206,37 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "摩根士丹利：下调腾讯港股目标价，重申超配评级，AI领域投资短期料拖累利润率",
+          "url": "https://wallstreetcn.com/livenews/3072785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
           "url": "https://flash.jin10.com/detail/20260319065232382800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "鲍威尔：尚未看到AI对生产率的影响",
+          "url": "https://www.toutiao.com/trending/7618676949431369747/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -232,9 +256,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
+          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "美光科技：AI服务器需求继续表现强劲。",
@@ -290,6 +347,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "挪威主权财富基金警告人工智能泡沫和地缘政治风险对市场构成威胁",
+          "url": "https://wallstreetcn.com/livenews/3072764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "报道：汇丰考虑在未来几年大幅裁员，出于AI因素考量",
+          "url": "https://wallstreetcn.com/livenews/3072758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。",
+          "url": "https://wallstreetcn.com/livenews/3072672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "能源账单面临失控风险 欧洲消费者把目光投向太阳能与电动车",
+          "url": "https://www.cls.cn/detail/2317403",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.06%，报7015.70点，微幅高开之后，整体持续走低。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.19%，中国科技指数ETF（CQQQ）收跌1.54%。 德银嘉实沪深300指数ETF（ASHR）收跌1.19%，XtrackersHarvest中证50（ASHS）收跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3072672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
@@ -330,34 +448,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。",
-          "url": "https://wallstreetcn.com/livenews/3072672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.06%，报7015.70点，微幅高开之后，整体持续走低。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.19%，中国科技指数ETF（CQQQ）收跌1.54%。 德银嘉实沪深300指数ETF（ASHR）收跌1.19%，XtrackersHarvest中证50（ASHS）收跌0.50%。",
-          "url": "https://wallstreetcn.com/livenews/3072672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
         }
       ]
     },
