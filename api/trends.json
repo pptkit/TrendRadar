@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T20:33:45.869162+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2026-03-20T21:54:29.759391+08:00",
+  "total_titles_processed": 1927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -15,22 +15,24 @@
             1,
             2,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时06分 ~ 20时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时06分 ~ 21时54分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时33分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时54分]"
         },
         {
           "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
@@ -43,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时41分 ~ 20时33分]"
+          "appearance_count": 10,
+          "time_info": "[14时41分 ~ 21时54分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -105,8 +107,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 20时33分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 21时54分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时54分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -161,26 +177,13 @@
           "time_info": "06时17分"
         },
         {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时33分]"
-        },
-        {
           "title": "白宫发布国家人工智能框架",
           "url": "https://wallstreetcn.com/livenews/3074149",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -233,6 +236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时17分]"
+        },
+        {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时54分]"
         },
         {
           "title": "机器人是否已踏入日常生活",
@@ -308,13 +323,37 @@
           "time_info": "[00时45分 ~ 01时47分]"
         },
         {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时54分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 21时54分]"
+        },
+        {
           "title": "美联储理事鲍曼：将关注人工智能领域的杠杆水平。 预计今年经济将强劲增长。 强劲增长将受到政府供应端政策支持。 听证会称人工智能将增强而非取代员工。 仍然对就业市场感到担忧。 仍预计2026年将降息三次。 期待与沃什合作。 如果确认，沃什将在美联储产生强大影响。",
           "url": "https://wallstreetcn.com/livenews/3074143",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -350,17 +389,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         },
         {
           "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
@@ -405,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "腾讯撤销AI Lab",
+          "url": "https://wallstreetcn.com/livenews/3074180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "据Punchbowl：白宫计划发布人工智能监管框架。",
@@ -462,15 +501,15 @@
           "time_info": "09时06分"
         },
         {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
+          "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796766",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "21时54分"
         },
         {
           "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
@@ -506,13 +545,24 @@
           "time_info": "04时27分"
         },
         {
+          "title": "xAI派工程师上门服务，争夺OpenAI企业客户",
+          "url": "https://wallstreetcn.com/livenews/3074174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "宇树：计划在3年内发布“通用人形机器人具身基础模型”",
           "url": "https://wallstreetcn.com/livenews/3074112",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -550,17 +600,6 @@
           "time_info": "16时29分"
         },
         {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
           "title": "消息人士称，亚马逊(AMZN.O)希望通过Alexa助手将人工智能语音功能集成到手机中。",
           "url": "https://flash.jin10.com/detail/20260320175942375800",
           "source": "金十数据",
@@ -578,7 +617,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -592,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "【何小鹏：IRON人形机器人将于2026年底量产，月产能目标上千台】小鹏董事长、CEO何小鹏表示，全新一代的IRON机器人将会在2026年底量产。小鹏IRON搭载三颗图灵AI芯片，端侧的有效算力远高于行业里的机器人。当前，小鹏VLA2.0技术栈已经在机器人上成功跑通，结合小鹏机器人的全新第4代运动控制系统。小鹏机器人主攻商业、工业和家庭三大场景。IRON将首先支持在小鹏中国和海外的门店和园区落地服务、导览和导购等商业场景。今年一季度，小鹏在广州启动了人形机器人量产基地的建设。IRON今年底的月产能目标是上千台。",
+          "url": "https://wallstreetcn.com/livenews/3074165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "沪指尾盘跌幅扩大至1%，深成指涨0.06%，创业板指涨1.61%，算力租赁、AI应用、油气、多元金融等方向跌幅居前，沪深京三市下跌个股近4700只。",
@@ -622,8 +672,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时04分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[12时04分 ~ 21时54分]"
         },
         {
           "title": "光伏产业仍大面积亏损，2026 年或更艰难，其主要原因及未来出路是什么？",
@@ -663,6 +713,17 @@
           "time_info": "14时41分"
         },
         {
+          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
+          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时54分]"
+        },
+        {
           "title": "券商调研名单出炉 风电、光伏、存储芯片热度高",
           "url": "https://wallstreetcn.com/livenews/3073627",
           "source": "华尔街见闻-快讯",
@@ -685,17 +746,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时44分]"
-        },
-        {
-          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
-          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时33分]"
         },
         {
           "title": "特斯拉欲采购中国光伏设备 企业回应",
@@ -829,7 +879,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "亚马逊创始人贝索斯旗下蓝色起源计划在太空部署5万多颗卫星",
@@ -890,6 +940,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "黄仁勋谈太空数据中心：冷却是最大难题之一 解决或需数年！",
+          "url": "https://www.cls.cn/detail/2319623",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美国NASA计划扩大SpaceX在登月任务中的角色，此举对波音构成打击",
           "url": "https://wallstreetcn.com/livenews/3073519",
           "source": "华尔街见闻-快讯",
@@ -918,7 +979,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
@@ -935,11 +996,12 @@
           "ranks": [
             20,
             12,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 20时33分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时54分]"
         },
         {
           "title": "2025年我国变压器行业产值超3000亿元",
