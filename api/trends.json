@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T04:15:24.063793+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-03-23T05:17:41.598877+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时17分]"
         },
         {
           "title": "AI演员为啥遭网友抵制",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时17分]"
         },
         {
           "title": "全网给U航机器人写剧本",
@@ -42,8 +42,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时17分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -54,8 +54,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时17分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -66,8 +66,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时17分]"
         },
         {
           "title": "小孩看机器人跳舞挨了一巴掌",
@@ -77,11 +77,12 @@
             29,
             25,
             22,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时17分]"
         },
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -89,11 +90,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时17分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -121,8 +123,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时17分]"
         },
         {
           "title": "双良节能：因发布涉及SpaceX相关海外订单的误导性信息 公司及控股股东拟各被处以400万元罚款",
@@ -130,11 +132,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时17分]"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
@@ -145,8 +148,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时17分]"
         },
         {
           "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
@@ -157,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时17分]"
         }
       ]
     },
