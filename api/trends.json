@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T16:43:18.233685+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-03-23T17:53:27.446620+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -179,7 +179,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -267,6 +267,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "古巴全国电力系统恢复",
+          "url": "https://www.toutiao.com/trending/7619957059766255667/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时53分]"
+        },
+        {
           "title": "国产变压器海外爆单背后",
           "url": "https://www.toutiao.com/trending/7620327050582167049/",
           "source": "今日头条",
@@ -276,17 +288,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
-        },
-        {
-          "title": "古巴全国电力系统恢复",
-          "url": "https://www.toutiao.com/trending/7619957059766255667/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "伊朗伊斯兰革命卫队再发声明：如果伊朗电力系统遭受攻击 将采取对等报复措施",
