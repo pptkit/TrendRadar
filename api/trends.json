@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T04:28:42.864109+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-03-24T05:27:13.474694+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 05时27分]"
         },
         {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时28分]"
+        },
+        {
+          "title": "深度解析AI对影视行业的影响",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 05时27分]"
         },
         {
           "title": "苹果将于6月召开年度全球开发者大会 料将发布一系列AI功能",
@@ -164,8 +175,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 05时27分]"
         }
       ]
     }
