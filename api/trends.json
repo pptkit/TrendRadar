@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T17:53:27.446620+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-03-23T18:43:20.853976+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -113,6 +113,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "国家数据局局长刘烈宏：2026年数据工作明确为“数据价值释放年” 加速人工智能与实体经济的深度融合",
+          "url": "https://flash.jin10.com/detail/20260323182959958800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-23）",
           "url": "https://flash.jin10.com/detail/20260323115801203800",
           "source": "金十数据",
@@ -173,6 +184,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "国家数据局局长刘烈宏：2026年数据工作明确为“数据价值释放年” 加速人工智能与实体经济的深度融合",
+          "url": "https://wallstreetcn.com/livenews/3075107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "高盛警告：AI或是最后的抛售来源",
           "url": "https://www.toutiao.com/trending/7620340271837875763/",
           "source": "今日头条",
@@ -217,6 +239,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "AI短剧付费后竟然变成PPT",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
           "url": "https://wallstreetcn.com/livenews/3074856",
           "source": "华尔街见闻-快讯",
@@ -228,6 +261,17 @@
           "time_info": "14时04分"
         },
         {
+          "title": "霍启刚形象被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "A股AI应用概念股多数走弱，天地在线跌停，卓易信息跌超8%，生意宝、真视通、创业黑马、新开普跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3074849",
           "source": "华尔街见闻-快讯",
@@ -237,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "中美算力变局：中国AI开始争夺定价权",
+          "url": "https://www.toutiao.com/trending/7620326265257463359/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "专家：发展服务业应对AI对就业的冲击",
@@ -264,8 +319,19 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "特朗普对伊朗48小时最后通牒将至，专家：双方恐互袭电力设施",
+          "url": "https://news.ifeng.com/c/8rjRZBJrthr",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
         {
           "title": "古巴全国电力系统恢复",
           "url": "https://www.toutiao.com/trending/7619957059766255667/",
@@ -326,7 +392,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
@@ -380,6 +446,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "“太空加油站”卫星成功入轨",
+          "url": "https://www.toutiao.com/trending/7620242440986591258/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         }
       ]
     },
