@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T07:18:11.637974+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-03-23T09:11:40.603185+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -31,6 +31,23 @@
           "time_info": "[00时17分 ~ 07时18分]"
         },
         {
+          "title": "小孩看机器人跳舞挨了一巴掌",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E%E6%8C%A8%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25,
+            22,
+            10,
+            20,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 09时11分]"
+        },
+        {
           "title": "全网给U航机器人写剧本",
           "url": "https://www.douyin.com/hot/2439561",
           "source": "抖音",
@@ -42,8 +59,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时11分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -54,8 +71,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时11分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -66,24 +83,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时18分]"
-        },
-        {
-          "title": "小孩看机器人跳舞挨了一巴掌",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E%E6%8C%A8%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            25,
-            22,
-            10,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时11分]"
         },
         {
           "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
@@ -92,9 +93,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "郑强教授：AI发展不能低端化平庸化",
+          "url": "https://www.toutiao.com/trending/7619238244945346579/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -122,6 +134,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 06时15分]"
+        },
+        {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.toutiao.com/trending/7619981033894821924/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
+          "url": "https://www.cls.cn/detail/2320476",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "开源证券：AI应用有望带动推理需求持续增长",
+          "url": "https://flash.jin10.com/detail/20260323083051028800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "专家：发展服务业应对AI对就业的冲击",
+          "url": "https://www.toutiao.com/trending/7620220795323236398/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     },
@@ -138,8 +194,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时11分]"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
@@ -147,11 +203,26 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时11分]"
+        },
+        {
+          "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
+          "url": "https://www.zhihu.com/question/2018971986232132974",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时21分 ~ 09时11分]"
         },
         {
           "title": "双良节能：因发布涉及SpaceX相关海外订单的误导性信息 公司及控股股东拟各被处以400万元罚款",
@@ -166,19 +237,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
-          "url": "https://www.zhihu.com/question/2018971986232132974",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时21分 ~ 07时18分]"
         }
       ]
     },
