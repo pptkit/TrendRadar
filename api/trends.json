@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T04:31:30.947787+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-03-25T05:28:35.680339+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,69 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时28分]"
+        },
+        {
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时28分]"
+        },
+        {
+          "title": "报告称AI将全面取代这六大岗位",
+          "url": "https://www.toutiao.com/trending/7620795844911959606/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时28分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时28分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时28分]"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            20,
+            26,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时28分]"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -37,79 +98,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时31分]"
-        },
-        {
-          "title": "报告称AI将全面取代这六大岗位",
-          "url": "https://www.toutiao.com/trending/7620795844911959606/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时31分]"
-        },
-        {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时31分]"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时31分]"
-        },
-        {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            20,
-            26,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时31分]"
-        },
-        {
-          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -138,6 +127,30 @@
           "time_info": "[02时46分 ~ 03时47分]"
         },
         {
+          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时28分]"
+        },
+        {
+          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
+          "url": "https://wallstreetcn.com/livenews/3076185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时28分]"
+        },
+        {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
           "url": "https://wallstreetcn.com/livenews/3076134",
           "source": "华尔街见闻-快讯",
@@ -160,17 +173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时46分]"
-        },
-        {
-          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
-          "url": "https://wallstreetcn.com/livenews/3076185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
         },
         {
           "title": "OpenAI：扩大智能体商务协议（Agentic Commerce Protocol，简称ACP）。 ACP将支持产品发现。 （ACP）在ChatGPT中支持产品发现。",
@@ -201,7 +203,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -289,7 +291,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -300,7 +302,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -322,7 +324,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -344,7 +346,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -410,7 +412,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -421,7 +423,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -432,7 +434,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -465,24 +467,24 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "【每日收评】沪指探底回升涨1.78%，全市场超5100股收红，电力板块持续爆发",
-          "url": "https://www.cls.cn/detail/2323009",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时31分]"
-        },
-        {
           "title": "电力股成“香饽饽”！板块成交额历史新高，时隔2月再现7连板，这些股也曾频涨停",
           "url": "https://www.cls.cn/detail/2323118",
           "source": "财联社热门",
           "ranks": [
             11,
             10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时28分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升涨1.78%，全市场超5100股收红，电力板块持续爆发",
+          "url": "https://www.cls.cn/detail/2323009",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -502,8 +504,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时28分]"
         }
       ]
     }
