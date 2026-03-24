@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T02:46:52.153478+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-03-25T03:47:16.667979+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时47分]"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -31,15 +31,64 @@
           "time_info": "01时47分"
         },
         {
-          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076139",
-          "source": "华尔街见闻-快讯",
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
           "ranks": [
-            3
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时46分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时47分]"
+        },
+        {
+          "title": "报告称AI将全面取代这六大岗位",
+          "url": "https://www.toutiao.com/trending/7620795844911959606/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时47分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时47分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时47分]"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            20,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时47分]"
         },
         {
           "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
@@ -54,63 +103,28 @@
           "time_info": "[00时51分 ~ 01时47分]"
         },
         {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
+          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076139",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            3,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时46分]"
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时47分]"
         },
         {
-          "title": "报告称AI将全面取代这六大岗位",
-          "url": "https://www.toutiao.com/trending/7620795844911959606/",
-          "source": "今日头条",
+          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
+          "url": "https://wallstreetcn.com/livenews/3076134",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时46分]"
-        },
-        {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时46分]"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时46分]"
-        },
-        {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            20,
+            8,
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时46分]"
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时47分]"
         },
         {
           "title": "谷歌公司Quantum AI拓展量子计算研究，将中性原子量子计算（Neutral Atom Quantum Computing）纳入其中。",
@@ -136,17 +150,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
-          "url": "https://wallstreetcn.com/livenews/3076134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
           "title": "据华尔街日报：Meta首席技术官安德鲁·博斯沃思将负责监管公司的“面向工作的AI”计划，公司重心正从元宇宙转移。",
           "url": "https://flash.jin10.com/detail/20260325002113000800",
           "source": "金十数据",
@@ -164,7 +167,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -180,15 +183,37 @@
           "time_info": "00时51分"
         },
         {
+          "title": "苹果计划通过Siri应用、全新外观及“提问”按钮重启AI战略",
+          "url": "https://wallstreetcn.com/livenews/3076153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "市场消息：OpenAI拟从MGX、Coatue、Thrive处筹集约100亿美元。",
           "url": "https://flash.jin10.com/detail/20260325021429443800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "苹果计划通过Siri应用、全新界面以及iOS 27中的“问Siri”按钮，重启其人工智能战略。",
+          "url": "https://flash.jin10.com/detail/20260325025306673800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
@@ -219,7 +244,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -326,8 +351,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时47分]"
         },
         {
           "title": "电力股成“香饽饽”！板块成交额历史新高，时隔2月再现7连板，这些股也曾频涨停",
@@ -338,8 +363,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时47分]"
         }
       ]
     },
@@ -355,8 +380,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时47分]"
         }
       ]
     }
