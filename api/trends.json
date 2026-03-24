@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-24T07:22:45.026747+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-03-24T09:03:48.045010+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 09时03分]"
         },
         {
           "title": "OpenAI在投资者文件中将依赖微软称作风险。（CNBC）",
@@ -25,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -144,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
+          "url": "https://www.cls.cn/detail/2322062",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
