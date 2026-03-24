@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T16:39:18.395309+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-03-24T17:45:23.828153+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -26,11 +26,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 17时45分]"
         },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -39,11 +40,26 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 17时45分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 17时45分]"
         },
         {
           "title": "OpenAI在投资者文件中将依赖微软称作风险。（CNBC）",
@@ -66,19 +82,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 16时39分]"
         },
         {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
@@ -130,6 +133,19 @@
           "time_info": "[06时21分 ~ 07时22分]"
         },
         {
+          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
+          "url": "https://www.zhihu.com/question/2019761369977767358",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 17时45分]"
+        },
+        {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
           "url": "https://www.cls.cn/detail/2322062",
           "source": "财联社热门",
@@ -140,18 +156,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时03分 ~ 13时53分]"
-        },
-        {
-          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
-          "url": "https://www.zhihu.com/question/2019761369977767358",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 16时39分]"
         },
         {
           "title": "Meta挖角AI初创公司Dreamer团队",
@@ -188,6 +192,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%",
+          "url": "https://wallstreetcn.com/livenews/3075834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "苹果将于6月召开年度全球开发者大会 料将发布一系列AI功能",
           "url": "https://flash.jin10.com/detail/20260324030521664800",
           "source": "金十数据",
@@ -197,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%",
+          "url": "https://flash.jin10.com/detail/20260324172743485800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：（谈退出美国核聚变初创公司Helion董事会）随着Helion和OpenAI开始探索合作，我很难同时兼任两家公司的董事。",
@@ -238,9 +264,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "国家数据局局长刘烈宏：第九届数字中国建设峰会现场体验区新增“人工智能”板块",
@@ -263,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "朱一旦AI短片瘀血黑帮",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%B1%E4%B8%80%E6%97%A6AI%E7%9F%AD%E7%89%87%E7%98%80%E8%A1%80%E9%BB%91%E5%B8%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
