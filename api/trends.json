@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T05:28:35.680339+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-03-25T06:21:07.772129+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时21分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时21分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时21分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -50,8 +50,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时21分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -62,8 +62,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时21分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -74,11 +74,12 @@
             20,
             26,
             23,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时21分]"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -115,6 +116,19 @@
           "time_info": "[00时51分 ~ 01时47分]"
         },
         {
+          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时21分]"
+        },
+        {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3076139",
           "source": "华尔街见闻-快讯",
@@ -127,28 +141,17 @@
           "time_info": "[02时46分 ~ 03时47分]"
         },
         {
-          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时28分]"
-        },
-        {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
           "url": "https://wallstreetcn.com/livenews/3076185",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时28分]"
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时21分]"
         },
         {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
@@ -475,8 +478,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时21分]"
         },
         {
           "title": "【每日收评】沪指探底回升涨1.78%，全市场超5100股收红，电力板块持续爆发",
@@ -504,8 +507,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时21分]"
         }
       ]
     }
