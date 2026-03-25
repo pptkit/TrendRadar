@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T19:34:48.890464+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2026-03-25T20:40:24.513428+08:00",
+  "total_titles_processed": 1920,
   "failed_sources": [],
   "trends": [
     {
@@ -127,8 +127,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时09分 ~ 19时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 20时40分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -141,11 +141,12 @@
             19,
             17,
             18,
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时09分 ~ 19时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 20时40分]"
         },
         {
           "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
@@ -159,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时55分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[13时55分 ~ 20时40分]"
         },
         {
           "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
@@ -172,8 +173,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 20时40分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -249,7 +250,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -265,6 +266,18 @@
           "time_info": "09时09分"
         },
         {
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时50分 ~ 20时40分]"
+        },
+        {
           "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
           "url": "https://flash.jin10.com/detail/20260325085413773800",
           "source": "金十数据",
@@ -276,16 +289,17 @@
           "time_info": "09时09分"
         },
         {
-          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
-          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
+          "url": "https://www.zhihu.com/question/2010673619001419372",
           "source": "知乎",
           "ranks": [
             20,
-            16
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时50分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时40分]"
         },
         {
           "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
@@ -323,18 +337,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时47分]"
-        },
-        {
-          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
-          "url": "https://www.zhihu.com/question/2010673619001419372",
-          "source": "知乎",
-          "ranks": [
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时34分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -964,11 +966,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 20时40分]"
         },
         {
           "title": "报道：SpaceX计划最早本周提交IPO申请",
