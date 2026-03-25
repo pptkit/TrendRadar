@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T07:22:04.900989+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-03-25T09:09:21.623425+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 45,
+      "match_count": 55,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -24,11 +24,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 09时09分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -44,27 +45,29 @@
           "time_info": "[00时50分 ~ 07时22分]"
         },
         {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时22分]"
-        },
-        {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 09时09分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 09时09分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -79,8 +82,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 09时09分]"
+        },
+        {
+          "title": "AI时代最离谱的KPI",
+          "url": "https://www.douyin.com/hot/2442005",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -103,6 +117,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "SK海力士：得益于AI，存储需求预计将在中长期内持续扩大。 2026年，HBM预计将继续成为存储市场增长的核心驱动力。",
+          "url": "https://wallstreetcn.com/livenews/3076282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
+          "url": "https://flash.jin10.com/detail/20260325085413773800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
@@ -190,6 +226,17 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
+          "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
+          "url": "https://www.cls.cn/detail/2323532",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "OpenAI：扩大智能体商务协议（Agentic Commerce Protocol，简称ACP）。 ACP将支持产品发现。 （ACP）在ChatGPT中支持产品发现。",
           "url": "https://wallstreetcn.com/livenews/3076085",
           "source": "华尔街见闻-快讯",
@@ -199,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
+          "url": "https://wallstreetcn.com/articles/3768225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "据华尔街日报：Meta首席技术官安德鲁·博斯沃思将负责监管公司的“面向工作的AI”计划，公司重心正从元宇宙转移。",
@@ -223,6 +281,28 @@
           "time_info": "04时31分"
         },
         {
+          "title": "华科大老校长称机器人发展搞错重点",
+          "url": "https://www.toutiao.com/trending/7619844115865419818/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "OpenAI 计划从MGX、Coatue和Thrive等公司融资约100亿美元",
           "url": "https://flash.jin10.com/detail/20260325021945780800",
           "source": "金十数据",
@@ -245,6 +325,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
+          "url": "https://www.cls.cn/detail/2323553",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "苹果计划通过Siri应用、全新外观及“提问”按钮重启AI战略",
           "url": "https://wallstreetcn.com/livenews/3076153",
           "source": "华尔街见闻-快讯",
@@ -262,7 +353,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -309,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "短剧撞脸迪丽热巴别甩锅AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%92%9E%E8%84%B8%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%AB%E7%94%A9%E9%94%85AI%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼将专注于筹集资金、供应链和“以前所未有的规模建设数据中心”。",
@@ -372,7 +474,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -416,9 +518,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "深圳：到2028年AI服务器全产业链产品产能与出货量实现跨越式增长",
+          "url": "https://flash.jin10.com/detail/20260325082104187800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
@@ -471,7 +584,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -522,6 +635,67 @@
       ]
     },
     {
+      "keyword_group": "太空 spaceX",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "太空加油站新进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时22分]"
+        },
+        {
+          "title": "报道：SpaceX计划最早本周提交IPO申请",
+          "url": "https://wallstreetcn.com/livenews/3076268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "据The Information：SpaceX的最新估值为1.25万亿美元，但要到IPO前几周才会确定实际的发行规模和估值。",
+          "url": "https://flash.jin10.com/detail/20260325082008523800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "据The Information： SpaceX或将通过IPO筹集超过750亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260325081815487800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "据The Information：SpaceX计划最早于本周提交IPO申请。",
+          "url": "https://flash.jin10.com/detail/20260325081722550800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电力 变压器",
       "match_count": 3,
       "titles": [
@@ -555,11 +729,12 @@
           "url": "https://www.zhihu.com/question/2019356040198583652",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时09分]"
         }
       ]
     },
@@ -574,26 +749,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "太空加油站新进展",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时22分]"
         }
       ]
     }
