@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T13:55:37.467964+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-03-25T14:50:41.117876+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -31,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时50分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -45,8 +45,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时50分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -72,8 +72,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时50分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -147,6 +147,19 @@
           "time_info": "09时09分"
         },
         {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时50分]"
+        },
+        {
           "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
           "url": "https://flash.jin10.com/detail/20260325085413773800",
           "source": "金十数据",
@@ -168,6 +181,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时47分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时50分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -195,30 +221,6 @@
           "time_info": "[02时46分 ~ 03时47分]"
         },
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时55分]"
-        },
-        {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时55分]"
-        },
-        {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
           "url": "https://wallstreetcn.com/livenews/3076185",
           "source": "华尔街见闻-快讯",
@@ -244,18 +246,6 @@
           "time_info": "[09时09分 ~ 13时55分]"
         },
         {
-          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
-          "url": "https://wallstreetcn.com/livenews/3076134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时47分]"
-        },
-        {
           "title": "Token AI时代的新KPI",
           "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
@@ -264,8 +254,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时50分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -276,8 +266,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时50分]"
+        },
+        {
+          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
+          "url": "https://wallstreetcn.com/livenews/3076134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时55分]"
+          "time_info": "[02时46分 ~ 03时47分]"
         },
         {
           "title": "谷歌公司Quantum AI拓展量子计算研究，将中性原子量子计算（Neutral Atom Quantum Computing）纳入其中。",
@@ -292,6 +294,17 @@
           "time_info": "[01时47分 ~ 02时46分]"
         },
         {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 14时50分]"
+        },
+        {
           "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
           "url": "https://www.cls.cn/detail/2323553",
           "source": "财联社热门",
@@ -304,6 +317,18 @@
           "time_info": "[09时09分 ~ 12时09分]"
         },
         {
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时50分]"
+        },
+        {
           "title": "如何看待 Ai 音乐创作这个趋势？",
           "url": "https://www.zhihu.com/question/1937236067859306429",
           "source": "知乎",
@@ -313,6 +338,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "AI将军凯旋归来",
+          "url": "https://www.douyin.com/hot/2442407",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 14时50分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-25）",
@@ -392,17 +429,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
           "title": "OpenAI 计划从MGX、Coatue和Thrive等公司融资约100亿美元",
           "url": "https://flash.jin10.com/detail/20260325021945780800",
           "source": "金十数据",
@@ -445,17 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "市场消息：OpenAI拟从MGX、Coatue、Thrive处筹集约100亿美元。",
@@ -566,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "OpenAI：沃伊切赫·扎雷姆巴加入OpenAI基金会，担任人工智能韧性负责人。",
@@ -728,20 +754,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "AI将军凯旋归来",
-          "url": "https://www.douyin.com/hot/2442407",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "13时55分"
         },
         {
           "title": "恒帅股份：公司电机产品已逐步涉及工业自动化领域及机器人领域",
@@ -775,6 +790,82 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "电力股成“香饽饽”！板块成交额历史新高，时隔2月再现7连板，这些股也曾频涨停",
+          "url": "https://www.cls.cn/detail/2323118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时22分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升涨1.78%，全市场超5100股收红，电力板块持续爆发",
+          "url": "https://www.cls.cn/detail/2323009",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时31分]"
+        },
+        {
+          "title": "把发电炼成世界的算力，Token 是否是中国未来电力出口的核心形式？",
+          "url": "https://www.zhihu.com/question/2019356040198583652",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时09分]"
+        },
+        {
+          "title": "A股福建本地股短线拉升，平潭发展、闽东电力双双涨停，海峡创新涨超10%，路桥信息、漳州发展、福建金森、东百集团、福建水泥跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3076462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "A股福建本地股短线拉升，平潭发展、闽东电力双双涨停，海峡创新涨超10%，路桥信息、漳州发展、福建金森、东百集团、福建水泥跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325143056564800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "A股午评：深成指、创业板指半日涨超1% 电力板块延续强势",
+          "url": "https://flash.jin10.com/detail/20260325114615266800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         }
       ]
     },
@@ -840,60 +931,6 @@
       ]
     },
     {
-      "keyword_group": "电力 变压器",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "电力股成“香饽饽”！板块成交额历史新高，时隔2月再现7连板，这些股也曾频涨停",
-          "url": "https://www.cls.cn/detail/2323118",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时22分]"
-        },
-        {
-          "title": "【每日收评】沪指探底回升涨1.78%，全市场超5100股收红，电力板块持续爆发",
-          "url": "https://www.cls.cn/detail/2323009",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时31分]"
-        },
-        {
-          "title": "把发电炼成世界的算力，Token 是否是中国未来电力出口的核心形式？",
-          "url": "https://www.zhihu.com/question/2019356040198583652",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时09分]"
-        },
-        {
-          "title": "A股午评：深成指、创业板指半日涨超1% 电力板块延续强势",
-          "url": "https://flash.jin10.com/detail/20260325114615266800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "化工",
       "match_count": 1,
       "titles": [
@@ -907,6 +944,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我国科研团队实现新型薄膜光伏研究新突破",
+          "url": "https://wallstreetcn.com/livenews/3076443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     }
