@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-26T07:24:48.227903+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-03-26T09:14:41.849919+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            13,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 09时14分]"
+        },
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
@@ -19,21 +33,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时24分]"
-        },
-        {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 09时14分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -47,8 +48,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时55分 ~ 07时24分]"
+          "appearance_count": 7,
+          "time_info": "[02时55分 ~ 09时14分]"
+        },
+        {
+          "title": "华尔街惊呼：AI最大赢家已换人",
+          "url": "https://www.toutiao.com/trending/7620277693901586442/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
@@ -88,6 +100,18 @@
           "time_info": "[02时00分 ~ 03时39分]"
         },
         {
+          "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
+          "url": "https://www.zhihu.com/question/2020204147274642238",
+          "source": "知乎",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 09时14分]"
+        },
+        {
           "title": "Sparc AI：在乌克兰推荐代理商，以加快OverwatchGPS无信号导航平台的部署。",
           "url": "https://flash.jin10.com/detail/20260326044901012800",
           "source": "金十数据",
@@ -98,17 +122,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时25分]"
-        },
-        {
-          "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
-          "url": "https://www.zhihu.com/question/2020204147274642238",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
@@ -146,15 +159,37 @@
           "time_info": "02时00分"
         },
         {
+          "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
+          "url": "https://wallstreetcn.com/livenews/3076984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "俄乌战场现持枪机器人",
           "url": "https://www.toutiao.com/trending/7620829717026455558/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正投资人工智能初创公司Isara，该公司最近从投资者处筹集了9400万美元，而OpenAI以6.5亿美元的估值投资了该公司。",
+          "url": "https://flash.jin10.com/detail/20260326083429340800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "量价齐升提振业绩，AI为半导体公司注入“芯”动力",
@@ -163,9 +198,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "英国政府表示，将优先考虑将政府合同授予本国造船、钢铁、人工智能及能源基础设施领域，以保障国家安全。",
+          "url": "https://flash.jin10.com/detail/20260326081054356800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
@@ -248,6 +294,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沪指涨逾1%重回3900点，电力掀涨停潮，算力硬件爆发，恒科指大涨近2%，美团爆涨超10%，泡泡玛特重挫22%",
+          "url": "https://wallstreetcn.com/articles/3768324",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     }
