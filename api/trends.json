@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T09:14:41.849919+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-03-26T12:24:24.861622+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "Token AI时代的新KPI",
@@ -15,11 +15,12 @@
             15,
             13,
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时14分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 12时24分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -33,8 +34,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时14分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 12时24分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -58,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -159,13 +160,35 @@
           "time_info": "02时00分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-26）",
+          "url": "https://flash.jin10.com/detail/20260326120140166800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "伊朗官媒发炸毁自由女神像AI视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%AA%92%E5%8F%91%E7%82%B8%E6%AF%81%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8FAI%E8%A7%86%E9%A2%91%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
           "url": "https://wallstreetcn.com/livenews/3076984",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -187,9 +210,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至2%，恒指跌1.4%，快手跌超13%，地平线机器人、阿里巴巴、华虹半导体、腾讯音乐跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3077061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "量价齐升提振业绩，AI为半导体公司注入“芯”动力",
@@ -209,7 +243,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         }
@@ -268,6 +302,46 @@
       ]
     },
     {
+      "keyword_group": "电力 变压器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沪指涨逾1%重回3900点，电力掀涨停潮，算力硬件爆发，恒科指大涨近2%，美团爆涨超10%，泡泡玛特重挫22%",
+          "url": "https://wallstreetcn.com/articles/3768324",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 12时24分]"
+        },
+        {
+          "title": "菲律宾能源监管机构表示，在暂停期间，电力系统将按照能源部发布的特别运行指引进行运作。",
+          "url": "https://flash.jin10.com/detail/20260326120356713800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "市场消息：菲律宾能源监管委员会下令暂停全国所有电网的批发电力现货市场运营。",
+          "url": "https://flash.jin10.com/detail/20260326120153545800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "太阳能 光伏",
       "match_count": 2,
       "titles": [
@@ -294,23 +368,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沪指涨逾1%重回3900点，电力掀涨停潮，算力硬件爆发，恒科指大涨近2%，美团爆涨超10%，泡泡玛特重挫22%",
-          "url": "https://wallstreetcn.com/articles/3768324",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
         }
       ]
     }
