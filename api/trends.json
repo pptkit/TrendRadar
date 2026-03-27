@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:42:24.876763+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-03-28T03:35:31.075912+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
         },
         {
           "title": "中国人工智能走在世界前列",
@@ -39,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -50,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -61,19 +48,45 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
         },
         {
           "title": "人形机器人高质量真机数据集",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9C%9F%E6%9C%BA%E6%95%B0%E6%8D%AE%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
+        },
+        {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -87,27 +100,17 @@
           "time_info": "01时42分"
         },
         {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
-        },
-        {
           "title": "湘女多情AI陶喆版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -115,11 +118,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -127,22 +131,24 @@
           "source": "抖音",
           "ranks": [
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
         },
         {
           "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
           "url": "https://www.zhihu.com/question/2020941462666305824",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
         },
         {
           "title": "美国费城联储主席Anna Paulson（2026年FOMC票委）：（美国和以色列发动的）伊朗战争已经给美国通胀也经济增长带来新的风险。 长期通胀预期可能变得更加脆弱。 并没有迹象表明劳动力市场助燃通胀。 不可能预料到人工智能（AI）的影响范围。",
@@ -166,11 +172,12 @@
           "url": "https://wallstreetcn.com/livenews/3078430",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
         },
         {
           "title": "国际能源署（IEA）署长Birol：建议欧盟考虑打破天然气与电力成本之间的关系，从而限制伊朗战争的外溢效应。",
@@ -210,8 +217,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时35分]"
         }
       ]
     },
