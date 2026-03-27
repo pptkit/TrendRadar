@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T22:04:26.777179+08:00",
-  "total_titles_processed": 1967,
+  "generated_at": "2026-03-27T23:41:37.480100+08:00",
+  "total_titles_processed": 2094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 07时31分]"
+        },
+        {
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时43分 ~ 23时41分]"
         },
         {
           "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
@@ -43,21 +56,27 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时06分 ~ 22时04分]"
+          "appearance_count": 12,
+          "time_info": "[14时06分 ~ 23时41分]"
         },
         {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            1,
-            4
+            12,
+            18,
+            13,
+            26,
+            27,
+            23,
+            25,
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时43分 ~ 22时04分]"
+          "appearance_count": 12,
+          "time_info": "[12时25分 ~ 23时41分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -74,24 +93,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时02分 ~ 09时14分]"
-        },
-        {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            18,
-            13,
-            26,
-            27,
-            23,
-            25,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时25分 ~ 22时04分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -125,11 +126,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时43分 ~ 22时04分]"
+          "appearance_count": 8,
+          "time_info": "[17时43分 ~ 23时41分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -149,11 +151,45 @@
           "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 19时35分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 23时41分]"
+        },
+        {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时41分]"
+        },
+        {
+          "title": "中国人工智能走在世界前列",
+          "url": "https://www.toutiao.com/trending/7621371545780715574/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时41分]"
+        },
+        {
+          "title": "中国AI模型调用量爆发式增长",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时41分]"
         },
         {
           "title": "AI复刻周杰伦2000万MV",
@@ -176,39 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "中国人工智能走在世界前列",
-          "url": "https://www.toutiao.com/trending/7621371545780715574/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "中国AI模型调用量爆发式增长",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "人形机器人高质量真机数据集",
@@ -293,6 +296,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时27分]"
+        },
+        {
+          "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
+          "url": "https://www.zhihu.com/question/2020885312767881505",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时41分]"
         },
         {
           "title": "交通银行首席信息官钱斌：持续推动人工智能应用场景落地",
@@ -389,17 +404,6 @@
           "time_info": "02时51分"
         },
         {
-          "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
-          "url": "https://www.zhihu.com/question/2020885312767881505",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "俄乌战场惊现持枪机器人",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "百度热搜",
@@ -475,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "美联储巴尔金：人工智能领域变革的步伐和不确定性，让许多美联储官员感到不安。",
+          "url": "https://flash.jin10.com/detail/20260327230033275800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "加拿大央行高级副行长罗杰斯：贸易紧张局势、移民规模缩减以及人工智能的广泛应用将永久性地改变格局。",
@@ -726,11 +741,12 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 22时04分]"
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 23时41分]"
         },
         {
           "title": "港股午评：恒指收涨0.55% 创新药概念股领涨大市",
