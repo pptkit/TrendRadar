@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:35:10.932599+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-03-27T20:38:37.348889+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时06分 ~ 19时35分]"
+          "appearance_count": 10,
+          "time_info": "[14时06分 ~ 20时38分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 20时38分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -153,6 +153,18 @@
           "time_info": "[17时43分 ~ 17时44分]"
         },
         {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 20时38分]"
+        },
+        {
           "title": "AI复刻周杰伦2000万MV",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%8D%E5%88%BB%E5%91%A8%E6%9D%B0%E4%BC%A62000%E4%B8%87MV",
           "source": "bilibili 热搜",
@@ -173,18 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 19时35分]"
         },
         {
           "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
@@ -224,6 +224,17 @@
           "time_info": "[03时50分 ~ 04时27分]"
         },
         {
+          "title": "雷军介绍小米机器人团队在灵巧手领域的新进展",
+          "url": "https://www.cls.cn/detail/2326662",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 20时38分]"
+        },
+        {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3077691",
           "source": "华尔街见闻-快讯",
@@ -248,6 +259,18 @@
           "time_info": "[03时50分 ~ 04时27分]"
         },
         {
+          "title": "交通银行首席信息官钱斌：持续推动人工智能应用场景落地",
+          "url": "https://wallstreetcn.com/livenews/3078193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时38分]"
+        },
+        {
           "title": "美联储理事库克：人工智能对劳动力市场具有变革性作用。",
           "url": "https://flash.jin10.com/detail/20260327045347252800",
           "source": "金十数据",
@@ -270,17 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时17分]"
-        },
-        {
-          "title": "雷军介绍小米机器人团队在灵巧手领域的新进展",
-          "url": "https://www.cls.cn/detail/2326662",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
@@ -327,17 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "交通银行首席信息官钱斌：持续推动人工智能应用场景落地",
-          "url": "https://wallstreetcn.com/livenews/3078193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "俄乌战场惊现持枪机器人",
@@ -470,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "机器人扎双马尾在樱花树下翩翩起舞",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%9C%A8%E6%A8%B1%E8%8A%B1%E6%A0%91%E4%B8%8B%E7%BF%A9%E7%BF%A9%E8%B5%B7%E8%88%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "雷军发文，小米机器人有新进展",
@@ -616,6 +628,46 @@
       ]
     },
     {
+      "keyword_group": "电力 变压器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3077656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时27分]"
+        },
+        {
+          "title": "1—2月全国电力市场交易电量同比增长25.5%",
+          "url": "https://wallstreetcn.com/livenews/3078230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "国家能源局：1—2月，全国累计完成电力市场交易电量同比增长25.5%",
+          "url": "https://wallstreetcn.com/livenews/3078182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创新药",
       "match_count": 3,
       "titles": [
@@ -624,11 +676,12 @@
           "url": "https://www.cls.cn/detail/2327070",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 20时38分]"
         },
         {
           "title": "港股午评：恒指收涨0.55% 创新药概念股领涨大市",
@@ -690,35 +743,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3077656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时27分]"
-        },
-        {
-          "title": "国家能源局：1—2月，全国累计完成电力市场交易电量同比增长25.5%",
-          "url": "https://wallstreetcn.com/livenews/3078182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         }
       ]
     }
