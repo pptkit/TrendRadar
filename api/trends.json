@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T14:06:57.744277+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-03-27T15:54:00.281433+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -57,8 +57,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时54分]"
+        },
+        {
+          "title": "Naiyou终身禁赛",
+          "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时25分 ~ 14时06分]"
+          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
@@ -70,6 +81,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
+          "url": "https://www.cls.cn/detail/2326528",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时54分]"
         },
         {
           "title": "白宫顾问戴维·萨克斯：美国国会可在数月内通过两党人工智能立法。",
@@ -84,16 +108,54 @@
           "time_info": "[03时50分 ~ 04时27分]"
         },
         {
-          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
-          "url": "https://www.cls.cn/detail/2326528",
-          "source": "财联社热门",
+          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
+          "url": "https://www.zhihu.com/question/2020423157757028308",
+          "source": "知乎",
           "ranks": [
-            7,
-            6
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 14时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时54分]"
+        },
+        {
+          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
+          "url": "https://www.zhihu.com/question/2020472799739814121",
+          "source": "知乎",
+          "ranks": [
+            10,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时54分]"
+        },
+        {
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时54分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 15时54分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -120,30 +182,6 @@
           "time_info": "[03时50分 ~ 04时27分]"
         },
         {
-          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
-          "url": "https://www.zhihu.com/question/2020423157757028308",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 14时06分]"
-        },
-        {
-          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
-          "url": "https://www.zhihu.com/question/2020472799739814121",
-          "source": "知乎",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 14时06分]"
-        },
-        {
           "title": "美联储理事库克：人工智能对劳动力市场具有变革性作用。",
           "url": "https://flash.jin10.com/detail/20260327045347252800",
           "source": "金十数据",
@@ -154,18 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时17分]"
-        },
-        {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 14时06分]"
         },
         {
           "title": "美联储理事库克：我们正在密切关注人工智能和就业市场的相关数据。",
@@ -265,7 +291,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -303,17 +329,6 @@
           "time_info": "12时25分"
         },
         {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
           "title": "加拿大央行高级副行长罗杰斯：贸易紧张局势、移民规模缩减以及人工智能的广泛应用将永久性地改变格局。",
           "url": "https://flash.jin10.com/detail/20260327011340513800",
           "source": "金十数据",
@@ -342,7 +357,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -356,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "科威特称无人机袭击Shuwaikh港 造成破坏",
+          "url": "https://wallstreetcn.com/livenews/3077989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "报道：苹果向iPhone设计师发放罕见奖金，应对AI企业挖角",
@@ -490,7 +516,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         }
@@ -507,7 +533,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -518,7 +544,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         }
