@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T04:25:52.709204+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-03-28T05:25:59.400343+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时25分]"
         },
         {
           "title": "中国人工智能走在世界前列",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时25分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时25分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时25分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -74,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时42分 ~ 05时25分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -85,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时25分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -95,11 +95,12 @@
           "ranks": [
             12,
             9,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时25分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -108,11 +109,12 @@
           "ranks": [
             13,
             15,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时25分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -145,11 +147,23 @@
           "ranks": [
             14,
             13,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时42分 ~ 05时25分]"
+        },
+        {
+          "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
+          "url": "https://wallstreetcn.com/livenews/3078490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国费城联储主席Anna Paulson（2026年FOMC票委）：（美国和以色列发动的）伊朗战争已经给美国通胀也经济增长带来新的风险。 长期通胀预期可能变得更加脆弱。 并没有迹象表明劳动力市场助燃通胀。 不可能预料到人工智能（AI）的影响范围。",
@@ -169,9 +183,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "警惕AI“过度谄媚”",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95AI%E2%80%9C%E8%BF%87%E5%BA%A6%E8%B0%84%E5%AA%9A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     },
@@ -229,8 +254,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时25分]"
         }
       ]
     },
