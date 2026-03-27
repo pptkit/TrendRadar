@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T17:44:02.419892+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-03-27T18:38:22.014083+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 07时31分]"
+        },
+        {
+          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
+          "url": "https://www.cls.cn/detail/2326528",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时25分 ~ 18时38分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -49,20 +63,6 @@
           "time_info": "[00时02分 ~ 09时14分]"
         },
         {
-          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
-          "url": "https://www.cls.cn/detail/2326528",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时25分 ~ 17时44分]"
-        },
-        {
           "title": "小孩观看表演遭机器人回旋巴掌误伤，暴露出机器人在目标识别、防碰撞方面的哪些问题？当前技术水平能规避吗？",
           "url": "https://www.zhihu.com/question/2019377327549674299",
           "source": "知乎",
@@ -85,20 +85,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时06分 ~ 17时44分]"
+          "appearance_count": 7,
+          "time_info": "[14时06分 ~ 18时38分]"
         },
         {
-          "title": "Naiyou终身禁赛",
-          "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
           "ranks": [
-            4,
-            12
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 18时38分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -109,22 +109,25 @@
             18,
             13,
             26,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时25分 ~ 17时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时25分 ~ 18时38分]"
         },
         {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
+          "title": "Naiyou终身禁赛",
+          "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            4,
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
+          "appearance_count": 6,
+          "time_info": "[15时53分 ~ 18时38分]"
         },
         {
           "title": "人形机器人高质量真机数据集",
@@ -174,6 +177,17 @@
           "time_info": "[12时25分 ~ 16时39分]"
         },
         {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时38分]"
+        },
+        {
           "title": "白宫顾问戴维·萨克斯：美国国会可在数月内通过两党人工智能立法。",
           "url": "https://flash.jin10.com/detail/20260327034051169800",
           "source": "金十数据",
@@ -186,17 +200,6 @@
           "time_info": "[03时50分 ~ 04时27分]"
         },
         {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时44分]"
-        },
-        {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
           "url": "https://news.ifeng.com/c/8rpvER227kd",
           "source": "凤凰网",
@@ -204,8 +207,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 18时38分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -418,7 +421,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -432,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "雷军发文，小米机器人有新进展",
+          "url": "https://wallstreetcn.com/livenews/3078127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "科威特称无人机袭击Shuwaikh港 造成破坏",
