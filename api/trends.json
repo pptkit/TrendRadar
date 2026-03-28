@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T14:45:17.634263+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-03-28T15:38:49.500589+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国人工智能走在世界前列",
@@ -36,11 +36,12 @@
           "ranks": [
             2,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 14时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 15时38分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -50,11 +51,12 @@
             4,
             6,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 14时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 15时38分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -76,11 +78,12 @@
             9,
             11,
             18,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 15时38分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -157,11 +160,12 @@
           "ranks": [
             3,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时38分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -191,6 +195,18 @@
           "time_info": "[02时42分 ~ 05时25分]"
         },
         {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 15时38分]"
+        },
+        {
           "title": "警惕AI“过度谄媚”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95AI%E2%80%9C%E8%BF%87%E5%BA%A6%E8%B0%84%E5%AA%9A%E2%80%9D",
           "source": "百度热搜",
@@ -203,18 +219,6 @@
           "time_info": "[05时25分 ~ 06时21分]"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 14时45分]"
-        },
-        {
           "title": "百度一贴吧疑全机器人禁止人类发帖",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E4%B8%80%E8%B4%B4%E5%90%A7%E7%96%91%E5%85%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%81%E6%AD%A2%E4%BA%BA%E7%B1%BB%E5%8F%91%E5%B8%96%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -225,6 +229,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时49分 ~ 14时45分]"
+        },
+        {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "国家人工智能应用上海中试基地发布五大核心创新成果",
@@ -313,6 +328,34 @@
       ]
     },
     {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多地光伏项目击穿收益底线 发展模式面临全方位重构",
+          "url": "https://flash.jin10.com/detail/20260328111017309800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "多地光伏项目击穿收益底线，发展模式面临全方位重构",
+          "url": "https://www.cls.cn/detail/2327818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创新药",
       "match_count": 1,
       "titles": [
@@ -346,23 +389,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多地光伏项目击穿收益底线 发展模式面临全方位重构",
-          "url": "https://flash.jin10.com/detail/20260328111017309800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
         }
       ]
     }
