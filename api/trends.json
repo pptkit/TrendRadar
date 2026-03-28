@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T01:20:54.030367+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-03-29T02:25:14.064490+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
-          "url": "https://flash.jin10.com/detail/20260329004806006800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -38,8 +27,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
+          "url": "https://flash.jin10.com/detail/20260329004806006800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时25分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -50,8 +51,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -62,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -74,8 +75,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -85,8 +86,19 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "人工智能会取代哪些岗位？",
+          "url": "https://www.zhihu.com/question/2019355746328932969",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "time_info": "[02时24分 ~ 02时25分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -95,7 +107,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -106,7 +118,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
@@ -124,8 +136,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     }
