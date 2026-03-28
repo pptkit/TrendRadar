@@ -1,212 +1,12 @@
 {
-  "generated_at": "2026-03-28T23:21:44.050343+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-03-29T00:21:34.027477+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 26,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "中国人工智能走在世界前列",
-          "url": "https://www.toutiao.com/trending/7621371545780715574/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 09时08分]"
-        },
-        {
-          "title": "中国AI模型调用量爆发式增长",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 09时08分]"
-        },
-        {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            9,
-            11,
-            12,
-            15,
-            16,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时41分 ~ 23时21分]"
-        },
-        {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            11,
-            13,
-            14,
-            17,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时41分 ~ 23时21分]"
-        },
-        {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时49分 ~ 23时21分]"
-        },
-        {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 09时08分]"
-        },
-        {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            9,
-            11,
-            18,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 15时38分]"
-        },
-        {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            15,
-            28,
-            19,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时23分]"
-        },
-        {
-          "title": "人形机器人高质量真机数据集",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9C%9F%E6%9C%BA%E6%95%B0%E6%8D%AE%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时42分 ~ 09时08分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 03时35分]"
-        },
-        {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时38分 ~ 23时21分]"
-        },
-        {
-          "title": "国家人工智能应用上海中试基地：发布五大核心创新成果",
-          "url": "https://wallstreetcn.com/livenews/3078534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            10,
-            14,
-            18,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 18时21分]"
-        },
-        {
-          "title": "Naiyou终身禁赛",
-          "url": "https://www.douyin.com/hot/2446027",
-          "source": "抖音",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时25分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
-          "url": "https://flash.jin10.com/detail/20260328013224717800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
         {
           "title": "一个视频了解AI常识",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
@@ -214,293 +14,81 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "00时21分"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
           "url": "https://wallstreetcn.com/livenews/3078600",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 23时21分]"
-        },
-        {
-          "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
-          "url": "https://wallstreetcn.com/livenews/3078490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时25分 ~ 09时08分]"
-        },
-        {
-          "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
-          "url": "https://www.zhihu.com/question/2020941462666305824",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 05时25分]"
-        },
-        {
-          "title": "警惕AI“过度谄媚”",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95AI%E2%80%9C%E8%BF%87%E5%BA%A6%E8%B0%84%E5%AA%9A%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 06时21分]"
-        },
-        {
-          "title": "郑纬民院士：AI产业核心已从模型服务转向Token服务",
-          "url": "https://wallstreetcn.com/livenews/3078594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 22时23分]"
-        },
-        {
-          "title": "百度一贴吧疑全机器人禁止人类发帖",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E4%B8%80%E8%B4%B4%E5%90%A7%E7%96%91%E5%85%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%81%E6%AD%A2%E4%BA%BA%E7%B1%BB%E5%8F%91%E5%B8%96%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 14时45分]"
-        },
-        {
-          "title": "国家人工智能应用上海中试基地发布五大核心创新成果",
-          "url": "https://flash.jin10.com/detail/20260328110545535800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "美国费城联储主席Anna Paulson（2026年FOMC票委）：（美国和以色列发动的）伊朗战争已经给美国通胀也经济增长带来新的风险。 长期通胀预期可能变得更加脆弱。 并没有迹象表明劳动力市场助燃通胀。 不可能预料到人工智能（AI）的影响范围。",
-          "url": "https://wallstreetcn.com/livenews/3078369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "据英国金融时报：因AI驱动的短缺交易回落，内存芯片股票市值蒸发1000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260328034557564800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "科技大佬们还能管“战争杀器”AI吗",
-          "url": "https://www.toutiao.com/trending/7621327107440312330/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "雄安“人工智能+”产业生态融合发展论坛举行",
-          "url": "https://flash.jin10.com/detail/20260328122058917800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
-          "url": "https://wallstreetcn.com/livenews/3078430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时35分]"
-        },
-        {
-          "title": "国际能源署（IEA）署长Birol：建议欧盟考虑打破天然气与电力成本之间的关系，从而限制伊朗战争的外溢效应。",
-          "url": "https://wallstreetcn.com/livenews/3078375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "道达尔能源与法国电力公司签署长期合作协议，以确保道达尔能源在法国的炼油与化工基地获得低碳电力供应。",
-          "url": "https://flash.jin10.com/detail/20260328011019475800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指缩量反弹收复3900点，两市成交额续创年内地量，创新药概念现久违大涨",
-          "url": "https://www.cls.cn/detail/2327070",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 09时08分]"
-        },
-        {
-          "title": "今年前三个月我国创新药对外授权交易总额超600亿美元，接近2025年全年的一半",
-          "url": "https://wallstreetcn.com/livenews/3078562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时31分]"
-        },
-        {
-          "title": "今年前三个月我国创新药对外授权交易总额超600亿美元",
-          "url": "https://flash.jin10.com/detail/20260328180250154800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时31分]"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "太阳能 光伏",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "多地光伏项目击穿收益底线，发展模式面临全方位重构",
           "url": "https://www.cls.cn/detail/2327818",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            9,
-            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时38分 ~ 23时21分]"
-        },
-        {
-          "title": "多地光伏项目击穿收益底线 发展模式面临全方位重构",
-          "url": "https://flash.jin10.com/detail/20260328111017309800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化工",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "道达尔能源：能源将满足集团在法国炼油和化工业务60%的能源需求。",
-          "url": "https://flash.jin10.com/detail/20260328000909082800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX冲击史上最大IPO",
-          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%86%B2%E5%87%BB%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时19分]"
+          "time_info": "00时21分"
         }
       ]
     }
