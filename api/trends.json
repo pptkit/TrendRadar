@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T06:17:58.491616+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-03-29T07:21:26.896756+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             16,
             8,
             4,
-            26
+            26,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -31,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -43,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -55,8 +56,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -67,8 +68,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "人工智能会取代哪些岗位？",
@@ -78,11 +79,12 @@
             10,
             5,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时24分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[02时24分 ~ 07时21分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -92,8 +94,21 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时21分]"
+        },
+        {
+          "title": "做量化搞 quant 会被 ai 取代吗?",
+          "url": "https://www.zhihu.com/question/598668295",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时18分 ~ 07时21分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -108,16 +123,28 @@
           "time_info": "[01时20分 ~ 02时25分]"
         },
         {
-          "title": "做量化搞 quant 会被 ai 取代吗?",
-          "url": "https://www.zhihu.com/question/598668295",
-          "source": "知乎",
+          "title": "就是你是RAIN也得接孩子放学",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%98%AFRAIN%E4%B9%9F%E5%BE%97%E6%8E%A5%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            9
+            29,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时18分 ~ 06时17分]"
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时21分]"
+        },
+        {
+          "title": "中国AI不会因几张邀请函停滞",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E4%B8%8D%E4%BC%9A%E5%9B%A0%E5%87%A0%E5%BC%A0%E9%82%80%E8%AF%B7%E5%87%BD%E5%81%9C%E6%BB%9E%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时21分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -142,35 +169,13 @@
           "time_info": "01时20分"
         },
         {
-          "title": "中国AI不会因几张邀请函停滞",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E4%B8%8D%E4%BC%9A%E5%9B%A0%E5%87%A0%E5%BC%A0%E9%82%80%E8%AF%B7%E5%87%BD%E5%81%9C%E6%BB%9E%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "就是你是RAIN也得接孩子放学",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%98%AFRAIN%E4%B9%9F%E5%BE%97%E6%8E%A5%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "AI医院真的要来了吗",
           "url": "https://www.baidu.com/s?wd=AI%E5%8C%BB%E9%99%A2%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         }
@@ -185,11 +190,12 @@
           "url": "https://www.cls.cn/detail/2327942",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时21分]"
         }
       ]
     },
@@ -205,8 +211,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         }
       ]
     }
