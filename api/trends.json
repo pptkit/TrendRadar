@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T03:25:35.902404+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-03-30T04:20:46.046928+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -51,8 +51,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -64,8 +64,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -76,8 +76,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 04时20分]"
         },
         {
           "title": "“下个月比赛 机器人将跑得比人快”",
@@ -101,22 +101,24 @@
           "url": "https://flash.jin10.com/detail/20260330023940153800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时20分]"
         },
         {
           "title": "伊媒：在基础设施遭袭后，德黑兰部分地区电力供应中断",
           "url": "https://flash.jin10.com/detail/20260330023536937800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时20分]"
         }
       ]
     },
@@ -132,8 +134,25 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗革命卫队：针对伊朗基础设施遭袭的报复行动正在进行中，我们正在摧毁该地区与美以敌对势力有关联的战略性工业设施。目前，被占领土上的尼奥特·霍瓦夫化工厂、一座炼油厂、两座钢铁综合体、两座大型铝业综合体已遭打击，这些沉痛的打击将持续下去。",
+          "url": "https://flash.jin10.com/detail/20260330035029456800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     }
