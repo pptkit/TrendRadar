@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T14:06:36.886481+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-03-29T15:45:45.952978+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -18,11 +18,12 @@
             4,
             26,
             10,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 15时45分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -32,11 +33,12 @@
             7,
             8,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 14时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 15时45分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -46,11 +48,12 @@
             12,
             13,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 14时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 15时45分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -59,11 +62,12 @@
           "ranks": [
             19,
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 14时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 15时45分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -72,11 +76,12 @@
           "ranks": [
             21,
             22,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 14时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 15时45分]"
         },
         {
           "title": "人工智能会取代哪些岗位？",
@@ -111,7 +116,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -134,11 +139,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时06分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时45分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -157,11 +163,12 @@
           "url": "https://wallstreetcn.com/livenews/3078656",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时06分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时45分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -169,11 +176,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时06分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时45分]"
         },
         {
           "title": "就是你是RAIN也得接孩子放学",
@@ -233,6 +241,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
+          "url": "https://flash.jin10.com/detail/20260329141015916800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "AI医院真的要来了吗",
           "url": "https://www.baidu.com/s?wd=AI%E5%8C%BB%E9%99%A2%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
           "source": "百度热搜",
@@ -260,19 +279,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时17分 ~ 14时06分]"
+          "appearance_count": 7,
+          "time_info": "[06时17分 ~ 15时45分]"
         },
         {
           "title": "今年首季我国创新药对外授权交易额超600亿美元",
           "url": "https://wallstreetcn.com/livenews/3078652",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时06分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时45分]"
         }
       ]
     },
@@ -285,11 +305,12 @@
           "url": "https://wallstreetcn.com/livenews/3078659",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时06分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时45分]"
         }
       ]
     },
@@ -322,11 +343,12 @@
           "ranks": [
             19,
             20,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 14时06分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 15时45分]"
         }
       ]
     }
