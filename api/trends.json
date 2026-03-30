@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T20:51:53.888184+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-03-30T22:20:59.991994+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -29,11 +29,12 @@
             9,
             13,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 20时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 22时20分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -62,8 +63,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 20时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 22时20分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -101,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "美联储理事米兰：各国央行不应阻碍人工智能创造就业。",
+          "url": "https://flash.jin10.com/detail/20260330221029651800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "韩红秀牙缝自证“不是AI人”",
@@ -160,6 +172,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "美联储理事米兰：各大央行不应当妨碍到人工智能（AI）创造就业岗位。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3079444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "据日经新闻：日本半导体材料生产商SUMCO无限期推迟原计划在日本佐贺县新建的硅片工厂，以优先满足人工智能数据中心的需求，而非手机芯片。",
           "url": "https://flash.jin10.com/detail/20260330115832004800",
           "source": "金十数据",
@@ -215,6 +238,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "奥尼电子：与沐曦股份签署战略合作协议书，就沐曦桌面AI工作站等硬件产品进行全方位、多层次、长期稳固的合作，建立战略合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3079085",
           "source": "华尔街见闻-快讯",
@@ -224,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "人工智能时代，我们应该学习什么样的知识才能不被淘汰？",
+          "url": "https://www.zhihu.com/question/1977151242334672705",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "京东关联公司等入股超仿生仿人机器人研发商首形科技",
@@ -248,6 +293,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "阅文集团CEO侯晓楠谈AI定位：是助手、引擎和桥梁",
+          "url": "https://wallstreetcn.com/livenews/3079422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "智元第10000台通用具身机器人下线",
           "url": "https://wallstreetcn.com/livenews/3078924",
           "source": "华尔街见闻-快讯",
@@ -257,6 +313,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "韩国人工智能（AI）芯片初创公司Rebellions按23.4亿美元估值融资4亿美元。 该公司的投资者包括三星，计划利用这笔资金来扩大美国业务。 该公司对标英伟达、以及初创公司Groq和Cerebras等，其芯片产品侧重于AI推理。",
+          "url": "https://wallstreetcn.com/livenews/3079421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "农业银行：未来2至3年 银行的分水岭不在AI而在风险管理",
+          "url": "https://wallstreetcn.com/livenews/3079420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "“中国AI智能体领航者”征集活动启动",
+          "url": "https://wallstreetcn.com/livenews/3079419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
@@ -273,7 +362,7 @@
     },
     {
       "keyword_group": "创新药",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
@@ -333,6 +422,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "阿斯利康罕见病创新药在华获批",
+          "url": "https://wallstreetcn.com/livenews/3079435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。",
           "url": "https://wallstreetcn.com/livenews/3078940",
           "source": "华尔街见闻-快讯",
@@ -374,6 +474,19 @@
           "time_info": "[03时25分 ~ 05时22分]"
         },
         {
+          "title": "【每日收评】沪指探底回升小幅收红，医药、商业航天领涨，电力股批量跌停",
+          "url": "https://www.cls.cn/detail/2329050",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 22时20分]"
+        },
+        {
           "title": "伊媒：在基础设施遭袭后，德黑兰部分地区电力供应中断",
           "url": "https://flash.jin10.com/detail/20260330023536937800",
           "source": "金十数据",
@@ -385,19 +498,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时22分]"
-        },
-        {
-          "title": "【每日收评】沪指探底回升小幅收红，医药、商业航天领涨，电力股批量跌停",
-          "url": "https://www.cls.cn/detail/2329050",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 20时51分]"
         }
       ]
     },
@@ -410,11 +510,12 @@
           "url": "https://www.cls.cn/detail/2329372",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 22时20分]"
         },
         {
           "title": "三角轮胎在互动平台表示，公司目前没有发展太空轮胎。",
@@ -450,11 +551,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 22时20分]"
         },
         {
           "title": "伊朗革命卫队：针对伊朗基础设施遭袭的报复行动正在进行中，我们正在摧毁该地区与美以敌对势力有关联的战略性工业设施。目前，被占领土上的尼奥特·霍瓦夫化工厂、一座炼油厂、两座钢铁综合体、两座大型铝业综合体已遭打击，这些沉痛的打击将持续下去。",
