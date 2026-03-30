@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T16:17:47.814292+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-03-30T18:06:34.087258+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             1,
             8,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 16时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 18时06分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -54,11 +55,12 @@
             24,
             18,
             21,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 16时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 18时06分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -93,9 +95,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 18时06分]"
         },
         {
           "title": "“下个月比赛 机器人将跑得比人快”",
@@ -160,7 +174,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -171,7 +185,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -193,7 +207,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -207,17 +221,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
-        },
-        {
-          "title": "韩红秀牙缝自证“不是AI人”",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
         },
         {
           "title": "市场监管总局：平衡好数据保护和数据利用的关系，加大对人工智能等新兴产业的保护力度",
@@ -245,7 +248,7 @@
     },
     {
       "keyword_group": "创新药",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
@@ -258,6 +261,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 09时18分]"
+        },
+        {
+          "title": "科兴制药：创新药GB19注射液药品临床试验申请获FDA批准",
+          "url": "https://flash.jin10.com/detail/20260330174003368800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "创新药收入强势增长，生物医药公司业绩含“新”量高",
@@ -296,7 +310,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗能源部副部长表示，德黑兰部分地区的电力将在数小时内恢复。",
@@ -323,12 +337,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时22分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升小幅收红，医药、商业航天领涨，电力股批量跌停",
+          "url": "https://www.cls.cn/detail/2329050",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
     {
       "keyword_group": "化工",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗革命卫队：针对伊朗基础设施遭袭的报复行动正在进行中，我们正在摧毁该地区与美以敌对势力有关联的战略性工业设施。目前，被占领土上的尼奥特·霍瓦夫化工厂、一座炼油厂、两座钢铁综合体、两座大型铝业综合体已遭打击，这些沉痛的打击将持续下去。",
@@ -342,6 +367,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 06时19分]"
+        },
+        {
+          "title": "【数据看盘】化工ETF上周份额大减 多家游资联手量化“爆买”平潭发展",
+          "url": "https://www.cls.cn/detail/2329177",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "三角轮胎在互动平台表示，公司目前没有发展太空轮胎。",
+          "url": "https://flash.jin10.com/detail/20260330154120626800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "2026太空算力产业大会将于4月3日在京启幕",
+          "url": "https://wallstreetcn.com/livenews/3079184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
@@ -359,23 +423,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三角轮胎在互动平台表示，公司目前没有发展太空轮胎。",
-          "url": "https://flash.jin10.com/detail/20260330154120626800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
         }
       ]
     }
