@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T04:21:04.560896+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-03-31T04:34:34.447023+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 04时34分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -29,11 +29,12 @@
             17,
             23,
             21,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 04时34分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -44,8 +45,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 04时34分]"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
+          "url": "https://flash.jin10.com/detail/20260331042636136800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -55,8 +67,19 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时44分 ~ 04时34分]"
+        },
+        {
+          "title": "文科生能吃到什么 ai 红利？",
+          "url": "https://www.zhihu.com/question/2016910965501871946",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时44分 ~ 04时21分]"
+          "time_info": "[04时20分 ~ 04时34分]"
         },
         {
           "title": "人工智能时代，我们应该学习什么样的知识才能不被淘汰？",
@@ -68,17 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "文科生能吃到什么 ai 红利？",
-          "url": "https://www.zhihu.com/question/2016910965501871946",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 04时21分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -106,8 +118,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 04时34分]"
         },
         {
           "title": "剑指SpaceX等独角兽！纳斯达克“快速纳入”指数新规5月1日生效",
@@ -119,8 +131,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时34分]"
         },
         {
           "title": "SpaceX等巨型IPO将获准快速纳入纳斯达克100指数",
@@ -172,6 +184,34 @@
       ]
     },
     {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.3%。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，CQQQ跌0.8%，KWEB跌0.5%，ASHS涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3079562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.36%，报6569.63点。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.75%，中概互联网指数ETF（KWEB）收跌0.47%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3079562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "化工",
       "match_count": 1,
       "titles": [
@@ -184,25 +224,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.3%。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，CQQQ跌0.8%，KWEB跌0.5%，ASHS涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3079562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 04时34分]"
         }
       ]
     }
