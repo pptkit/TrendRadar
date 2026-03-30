@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T14:24:38.100377+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-03-30T16:17:47.814292+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 14时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 16时17分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -56,8 +57,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 14时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 16时17分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -84,6 +85,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 06时19分]"
+        },
+        {
+          "title": "雷军：小米AI人才招聘专项正式启动",
+          "url": "https://flash.jin10.com/detail/20260330160410563800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "“下个月比赛 机器人将跑得比人快”",
@@ -126,7 +138,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -142,6 +154,28 @@
           "time_info": "12时36分"
         },
         {
+          "title": "雷军：小米AI人才招聘专项正式启动",
+          "url": "https://wallstreetcn.com/livenews/3079092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "奥尼电子：与沐曦股份联合开发沐曦桌面AI工作站系列产品",
+          "url": "https://flash.jin10.com/detail/20260330155102770800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
           "url": "https://wallstreetcn.com/livenews/3078783",
           "source": "华尔街见闻-快讯",
@@ -151,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "奥尼电子：与沐曦股份签署战略合作协议书，就沐曦桌面AI工作站等硬件产品进行全方位、多层次、长期稳固的合作，建立战略合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3079085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "京东关联公司等入股超仿生仿人机器人研发商首形科技",
@@ -164,13 +209,24 @@
           "time_info": "12时36分"
         },
         {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "市场监管总局：平衡好数据保护和数据利用的关系，加大对人工智能等新兴产业的保护力度",
           "url": "https://wallstreetcn.com/livenews/3078972",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -300,9 +356,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三角轮胎在互动平台表示，公司目前没有发展太空轮胎。",
+          "url": "https://flash.jin10.com/detail/20260330154120626800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     }
