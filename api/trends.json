@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T05:33:16.183620+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-03-31T06:24:21.801565+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时24分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -33,8 +34,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时24分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -45,8 +46,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时24分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -84,6 +85,41 @@
           "time_info": "[04时20分 ~ 04时34分]"
         },
         {
+          "title": "复旦教授解析AI冲击职场真相",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 06时24分]"
+        },
+        {
+          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
+          "url": "https://wallstreetcn.com/livenews/3079576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时24分]"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
+          "url": "https://flash.jin10.com/detail/20260331044951046800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时24分]"
+        },
+        {
           "title": "人工智能时代，我们应该学习什么样的知识才能不被淘汰？",
           "url": "https://www.zhihu.com/question/1977151242334672705",
           "source": "知乎",
@@ -101,40 +137,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "复旦教授解析AI冲击职场真相",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
-          "url": "https://wallstreetcn.com/livenews/3079576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
-          "url": "https://flash.jin10.com/detail/20260331044951046800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -145,7 +148,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
@@ -164,8 +167,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时24分]"
         },
         {
           "title": "剑指SpaceX等独角兽！纳斯达克“快速纳入”指数新规5月1日生效",
@@ -271,8 +274,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时24分]"
         }
       ]
     }
