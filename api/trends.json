@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T19:46:42.888338+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-03-30T20:51:53.888184+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 19时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 20时51分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -58,11 +58,12 @@
             21,
             22,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 19时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 20时51分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -187,7 +188,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -264,7 +265,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         }
@@ -291,11 +292,12 @@
           "url": "https://wallstreetcn.com/articles/3768695",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时51分]"
         },
         {
           "title": "科兴制药：创新药GB19注射液药品临床试验申请获FDA批准",
@@ -354,7 +356,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -390,77 +392,30 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化工",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗革命卫队：针对伊朗基础设施遭袭的报复行动正在进行中，我们正在摧毁该地区与美以敌对势力有关联的战略性工业设施。目前，被占领土上的尼奥特·霍瓦夫化工厂、一座炼油厂、两座钢铁综合体、两座大型铝业综合体已遭打击，这些沉痛的打击将持续下去。",
-          "url": "https://flash.jin10.com/detail/20260330035029456800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            30
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时19分]"
-        },
-        {
-          "title": "【数据看盘】化工ETF上周份额大减 多家游资联手量化“爆买”平潭发展",
-          "url": "https://www.cls.cn/detail/2329177",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://www.cls.cn/detail/2328703",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3078970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "[18时06分 ~ 20时51分]"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "独家|中国商业航天重大突破！力箭二号首飞成功 成本直追SpaceX",
+          "url": "https://www.cls.cn/detail/2329372",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
         {
           "title": "三角轮胎在互动平台表示，公司目前没有发展太空轮胎。",
           "url": "https://flash.jin10.com/detail/20260330154120626800",
@@ -482,6 +437,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【数据看盘】化工ETF上周份额大减 多家游资联手量化“爆买”平潭发展",
+          "url": "https://www.cls.cn/detail/2329177",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 20时51分]"
+        },
+        {
+          "title": "伊朗革命卫队：针对伊朗基础设施遭袭的报复行动正在进行中，我们正在摧毁该地区与美以敌对势力有关联的战略性工业设施。目前，被占领土上的尼奥特·霍瓦夫化工厂、一座炼油厂、两座钢铁综合体、两座大型铝业综合体已遭打击，这些沉痛的打击将持续下去。",
+          "url": "https://flash.jin10.com/detail/20260330035029456800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://www.cls.cn/detail/2328703",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时51分]"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3078970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     }
