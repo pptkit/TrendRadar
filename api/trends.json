@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T18:06:34.087258+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-03-30T19:46:42.888338+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -28,11 +28,12 @@
             8,
             9,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 18时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 19时46分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -56,11 +57,12 @@
             18,
             21,
             22,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 18时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 19时46分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -179,6 +181,17 @@
           "time_info": "16时17分"
         },
         {
+          "title": "节卡机器人获新一轮股权融资 临港数科基金领投",
+          "url": "https://wallstreetcn.com/livenews/3079291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "奥尼电子：与沐曦股份联合开发沐曦桌面AI工作站系列产品",
           "url": "https://flash.jin10.com/detail/20260330155102770800",
           "source": "金十数据",
@@ -243,12 +256,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
+          "url": "https://wallstreetcn.com/livenews/3079263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         }
       ]
     },
     {
       "keyword_group": "创新药",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
@@ -263,13 +287,24 @@
           "time_info": "[00时22分 ~ 09时18分]"
         },
         {
+          "title": "沪指探底回升收涨0.2%，有色铝集体爆发，创新药活跃，恒科指跌近2%，科网股普遍低迷",
+          "url": "https://wallstreetcn.com/articles/3768695",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "科兴制药：创新药GB19注射液药品临床试验申请获FDA批准",
           "url": "https://flash.jin10.com/detail/20260330174003368800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -310,8 +345,19 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特朗普：正与伊朗进行严肃谈判 若谈判破裂将摧毁伊能源、电力设施和哈尔克岛",
+          "url": "https://flash.jin10.com/detail/20260330193159286800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗能源部副部长表示，德黑兰部分地区的电力将在数小时内恢复。",
           "url": "https://flash.jin10.com/detail/20260330023940153800",
@@ -343,11 +389,12 @@
           "url": "https://www.cls.cn/detail/2329050",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 19时46分]"
         }
       ]
     },
@@ -373,11 +420,40 @@
           "url": "https://www.cls.cn/detail/2329177",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 19时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://www.cls.cn/detail/2328703",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "19时46分"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3078970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
@@ -403,26 +479,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3078970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "18时06分"
         }
       ]
     }
