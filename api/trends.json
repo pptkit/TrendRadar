@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-31T20:48:23.721138+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2026-03-31T22:23:06.199652+08:00",
+  "total_titles_processed": 1910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
       "match_count": 40,
       "titles": [
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            6,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 22时23分]"
+        },
         {
           "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
           "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
@@ -24,6 +40,23 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时01分 ~ 18时44分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            9,
+            14,
+            15,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 22时23分]"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -68,39 +101,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时01分 ~ 14时10分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            6,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 20时48分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9,
-            14,
-            15,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 20时48分]"
         },
         {
           "title": "报告：2025年中国线路板产业投资同比增长约3% AI算力PCB成增长核心引擎",
@@ -337,7 +337,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -586,7 +586,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
