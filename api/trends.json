@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-02T00:02:28.904881+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-02T00:59:46.424043+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "消息人士称，SpaceX将于5月4日与与多家银行举行线上财务讨论会。",
+          "url": "https://flash.jin10.com/detail/20260402003356301800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
         {
           "title": "报道：SpaceX已经秘密递交美国IPO申请",
           "url": "https://wallstreetcn.com/livenews/3081005",
@@ -17,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "消息人士称，SpaceX将于4月21日举办分析师日活动。",
+          "url": "https://flash.jin10.com/detail/20260402001538372800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "SpaceX据报已秘密提交IPO文件",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E6%8D%AE%E6%8A%A5%E5%B7%B2%E7%A7%98%E5%AF%86%E6%8F%90%E4%BA%A4IPO%E6%96%87%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
           "title": "美股太空股上涨，Intuitive Machines涨8.7%，Rocket Lab涨4.8%， Planet Labs涨8.4%，Howmet Aerospace涨3.1%。",
@@ -55,29 +88,19 @@
     },
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "如果 AI 能提供完美情绪价值，人需要 / 不需要真实的关系？",
-          "url": "https://www.zhihu.com/question/2021960266758317386",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
           "url": "https://www.baidu.com/s?wd=%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E6%88%90%E4%B8%91%E8%A7%92+%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时59分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -85,6 +108,50 @@
           "source": "贴吧",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时59分]"
+        },
+        {
+          "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3081032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "消息人士称，SpaceX邀请分析师于4月23日参观在田纳西州孟菲斯市的XAI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260402002058725800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "如果 AI 能提供完美情绪价值，人需要 / 不需要真实的关系？",
+          "url": "https://www.zhihu.com/question/2021960266758317386",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -101,11 +168,12 @@
           "url": "https://www.cls.cn/detail/2332176",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时59分]"
         }
       ]
     },
@@ -121,8 +189,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时59分]"
         }
       ]
     }
