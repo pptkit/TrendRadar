@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T02:53:02.653568+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-04-02T03:52:00.709215+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -15,19 +15,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 02时53分]"
-        },
-        {
-          "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
-          "url": "https://flash.jin10.com/detail/20260402023533205800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 03时52分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -39,8 +28,31 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 03时52分]"
+        },
+        {
+          "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
+          "url": "https://flash.jin10.com/detail/20260402031852137800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
+          "url": "https://flash.jin10.com/detail/20260402023533205800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时52分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -121,11 +133,12 @@
           "url": "https://www.baidu.com/s?wd=SpaceX%E6%8D%AE%E6%8A%A5%E5%B7%B2%E7%A7%98%E5%AF%86%E6%8F%90%E4%BA%A4IPO%E6%96%87%E4%BB%B6",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 03时52分]"
         },
         {
           "title": "消息人士称，SpaceX将于5月4日与与多家银行举行线上财务讨论会。",
@@ -208,8 +221,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 02时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 03时52分]"
         }
       ]
     },
@@ -225,8 +238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 02时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 03时52分]"
         }
       ]
     }
