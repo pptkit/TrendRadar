@@ -1,678 +1,128 @@
 {
-  "generated_at": "2026-04-01T22:24:57.865950+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2026-04-02T00:02:28.904881+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 机器人",
-      "match_count": 36,
+      "keyword_group": "太空 spaceX",
+      "match_count": 4,
       "titles": [
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15,
-            19,
-            18,
-            20,
-            24,
-            22,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 22时24分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            26,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 16时12分]"
-        },
-        {
-          "title": "AI清明短片《纸手机》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时58分 ~ 20时52分]"
-        },
-        {
-          "title": "男子靠AI开一人公司年营收达150万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0AI%E5%BC%80%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%B9%B4%E8%90%A5%E6%94%B6%E8%BE%BE150%E4%B8%87%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时39分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
-          "url": "https://flash.jin10.com/detail/20260401041908272800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时28分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 14时21分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 19时43分]"
-        },
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 16时12分]"
-        },
-        {
-          "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
-          "url": "https://www.zhihu.com/question/2021882744435646530",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 05时28分]"
-        },
-        {
-          "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
-          "url": "https://flash.jin10.com/detail/20260401041102848800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时28分]"
-        },
-        {
-          "title": "最没人味的AI制作出最有人味的短片",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%B2%A1%E4%BA%BA%E5%91%B3%E7%9A%84AI%E5%88%B6%E4%BD%9C%E5%87%BA%E6%9C%80%E6%9C%89%E4%BA%BA%E5%91%B3%E7%9A%84%E7%9F%AD%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时43分]"
-        },
-        {
-          "title": "市场消息：OpenAI完成1220亿美元融资，估值达8520亿美元。",
-          "url": "https://flash.jin10.com/detail/20260401041014408800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时28分]"
-        },
-        {
-          "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865901",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 14时21分]"
-        },
-        {
-          "title": "周深新歌禁止用于AI训练",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E7%A6%81%E6%AD%A2%E7%94%A8%E4%BA%8EAI%E8%AE%AD%E7%BB%83%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时43分]"
-        },
-        {
-          "title": "甲骨文启动新一轮大规模裁员，AI数据中心投入持续加码",
-          "url": "https://www.cls.cn/detail/2331293",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 14时21分]"
-        },
-        {
-          "title": "77部作品看到AI创作可能性",
-          "url": "https://search.bilibili.com/all?keyword=77%E9%83%A8%E4%BD%9C%E5%93%81%E7%9C%8B%E5%88%B0AI%E5%88%9B%E4%BD%9C%E5%8F%AF%E8%83%BD%E6%80%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资，估值8520亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3080357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "国行版苹果AI",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
-          "url": "https://wallstreetcn.com/livenews/3080416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "英国央行：金融体系迄今表现出韧性，但风险上升，多项脆弱性可能同时暴露。 中东冲突已对全球经济造成“重大负面供应冲击”。 主权债务市场、高风险资产估值、私募信贷领域仍存在风险。 外债市场或股票估值出现冲击，可能传导至英国。 MFS违约凸显高风险信贷市场的弱点。 美国科技公司估值“依然明显偏高”，伊朗冲突加剧风险，因AI数据中心和供应链能源消耗巨大。 市场预计中东冲突为短期事件，但对其走势和长期影响存在高度不确定性。 按当前市场利率预期，到2028年第四季度，58%的英国房贷持有人还款将增加，且大多数幅度较为温和。 银行使用人工智能带来的风险可能会“迅速增加”。",
-          "url": "https://wallstreetcn.com/livenews/3080798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "美国圣路易斯联储主席Musalem：若伊朗冲突结束，将关注持续存在的风险溢价。 冲突结束后需要一段时间才能恢复生产能力。 人工智能目前对经济的影响主要体现在资本支出热潮上。",
-          "url": "https://wallstreetcn.com/livenews/3080961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "A股机器人概念股走势活跃，科森科技午后涨停，瑞迪智驱涨超10%，震裕科技、绿的谐波、上纬新材、道通科技涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3080633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "12家企业宣布无限Token计划，支持深度使用飞书AI产品",
-          "url": "https://wallstreetcn.com/livenews/3080861",
+          "title": "报道：SpaceX已经秘密递交美国IPO申请",
+          "url": "https://wallstreetcn.com/livenews/3081005",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "00时02分"
         },
         {
-          "title": "重仓“隐藏款”浮出水面，基金经理沿AI主线布局",
-          "url": "https://wallstreetcn.com/livenews/3080408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "英国央行称AI应用或构成金融稳定威胁 伊朗冲突带来重大负面供给冲击",
-          "url": "https://wallstreetcn.com/livenews/3080859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "美联储穆萨莱姆：人工智能对经济的影响主要体现在数据中心的扩建和能源投资上。",
-          "url": "https://flash.jin10.com/detail/20260401215234450800",
+          "title": "美股太空股上涨，Intuitive Machines涨8.7%，Rocket Lab涨4.8%， Planet Labs涨8.4%，Howmet Aerospace涨3.1%。",
+          "url": "https://flash.jin10.com/detail/20260401232819708800",
           "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "OpenAI创下史上最大融资纪录",
-          "url": "https://www.toutiao.com/trending/7623555636134940203/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-04-01）",
-          "url": "https://flash.jin10.com/detail/20260401120044278800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "市场消息：微软将在泰国投资超过10亿美元用于人工智能基础设施建设。",
-          "url": "https://flash.jin10.com/detail/20260401215057298800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "港股人工智能板块午后冲高，智谱(02513.HK)涨近30%，MINIMAX-W(00100.HK)涨超16%，兆易创新(03986.HK)涨超8%，哔哩哔哩(09626.HK)涨超7%，百度(09888.HK)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260401132954043800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "美国圣路易斯联储主席Musalem：我决心将通货膨胀率降至 2%。 预计未来两个季度关税影响将逐渐减弱。 降低通胀有利于经济增长。 长期通胀预期仍然看起来得到锚定。 尚未看到石油冲击将如何在经济中传导。 部分潜在的通胀压力无法用关税来解释。 目前尚无法在宏观层面看到人工智能带来的生产力提升。 我们的职责不是以较低的利率为赤字融资。",
-          "url": "https://wallstreetcn.com/livenews/3080943",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "00时02分"
         },
         {
-          "title": "韩国总统府：韩国与印度尼西亚将双边关系提升为“特别全面战略伙伴关系”，双方同意在贸易、国防、投资、人工智能、核电站及能源转型等领域开展合作。",
-          "url": "https://wallstreetcn.com/livenews/3080471",
-          "source": "华尔街见闻-快讯",
+          "title": "美股Destiny Tech100成交量激增；现涨8%，报道称SpaceX已秘密提交IPO申请。",
+          "url": "https://flash.jin10.com/detail/20260401232552665800",
+          "source": "金十数据",
           "ranks": [
-            26
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "00时02分"
         },
         {
-          "title": "美联储理事Barr：目前人工智能还不太可能提高美国的生产效率。 人工智能对劳动力市场的影响迄今相对较小。",
-          "url": "https://wallstreetcn.com/livenews/3080941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
-          "url": "https://wallstreetcn.com/livenews/3080773",
-          "source": "华尔街见闻-快讯",
+          "title": "消息称SpaceX已秘密提交 IPO申请 估值或超1.75万亿美元",
+          "url": "https://flash.jin10.com/detail/20260401232458636800",
+          "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
-          "url": "https://wallstreetcn.com/livenews/3080357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 9,
+      "keyword_group": "AI 人工智能 机器人",
+      "match_count": 3,
       "titles": [
         {
-          "title": "千亿光伏龙头5连跌！股价同期回调两成，近期高回撤权重盘点，这些方向占比较高",
-          "url": "https://www.cls.cn/detail/2332240",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 22时24分]"
-        },
-        {
-          "title": "拉普拉斯回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单",
-          "url": "https://wallstreetcn.com/livenews/3080615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 14时21分]"
-        },
-        {
-          "title": "太阳能量子产率突破物理极限",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E9%98%B3%E8%83%BD%E9%87%8F%E5%AD%90%E4%BA%A7%E7%8E%87%E7%AA%81%E7%A0%B4%E7%89%A9%E7%90%86%E6%9E%81%E9%99%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "大赚135亿！3000亿光伏龙头发布2025年年报|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2331060",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "广东建工：两个光伏发电项目并网运行",
-          "url": "https://flash.jin10.com/detail/20260401182619440800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "晶科能源：二季度光伏出口退税取消后 公司排产仍保持相对稳定",
-          "url": "https://flash.jin10.com/detail/20260401215946611800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。",
-          "url": "https://wallstreetcn.com/livenews/3080623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "传闻中标特斯拉光伏项目第二期，拉普拉斯股价涨停，公司回应：不太清楚。（北京商报）",
-          "url": "https://wallstreetcn.com/livenews/3080583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "光伏大规模退役潮来了 企业扎堆入局光伏回收赛道",
-          "url": "https://wallstreetcn.com/livenews/3080890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股电力板块持续下挫，惠天热电、华电辽能触及跌停，深南电A、中闽能源逼近跌停，东方新能、拓日新能跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3080634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "微软与雪佛龙及Engine No. 1洽谈，寻求电力供应协议",
-          "url": "https://wallstreetcn.com/livenews/3080405",
-          "source": "华尔街见闻-快讯",
+          "title": "如果 AI 能提供完美情绪价值，人需要 / 不需要真实的关系？",
+          "url": "https://www.zhihu.com/question/2021960266758317386",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "00时02分"
         },
         {
-          "title": "A股电力板块震荡走低，惠天热电跌停，中闽能源跌超9%，华电辽能跌超8%，深南电A、东方新能、拓日新能跟跌。",
-          "url": "https://flash.jin10.com/detail/20260401132616997800",
-          "source": "金十数据",
+          "title": "被AI短剧盗脸成丑角 女模特发声",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E6%88%90%E4%B8%91%E8%A7%92+%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
           "ranks": [
-            26
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "00时02分"
         },
         {
-          "title": "晋控电力4月1日在互动平台表示，公司目前没有开展独立储能项目。",
-          "url": "https://flash.jin10.com/detail/20260401115552819800",
-          "source": "金十数据",
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
-            27
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "创新药",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
           "url": "https://www.cls.cn/detail/2332176",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 22时24分]"
-        },
-        {
-          "title": "4月1日午间收评：三大指数均涨超1%，创新药、太空光伏概念集体走强",
-          "url": "https://wallstreetcn.com/livenews/3080587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "化工",
-      "match_count": 2,
+      "keyword_group": "太阳能 光伏",
+      "match_count": 1,
       "titles": [
         {
-          "title": "甘肃能化：正在筹划以发行股份及支付现金的方式购买甘肃能源化工投资集团有限公司持有的甘肃能化金昌能源化工开发有限公司100%股权，并募集配套资金事项，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3080848",
-          "source": "华尔街见闻-快讯",
+          "title": "千亿光伏龙头5连跌！股价同期回调两成，近期高回撤权重盘点，这些方向占比较高",
+          "url": "https://www.cls.cn/detail/2332240",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时43分]"
-        },
-        {
-          "title": "甘肃能化：拟购买金昌化工100%股权并募集配套资金，股票停牌",
-          "url": "https://flash.jin10.com/detail/20260401182621552800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据知情人士透露，SpaceX将于下周一举办银团会议。（IFR）",
-          "url": "https://wallstreetcn.com/livenews/3080344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 04时33分]"
-        },
-        {
-          "title": "SpaceX为代号“顶级项目（Project Apex）”的巨型IPO集结21家银行",
-          "url": "https://wallstreetcn.com/livenews/3080472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "00时02分"
         }
       ]
     }
