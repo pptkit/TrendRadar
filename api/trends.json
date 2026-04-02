@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T04:24:57.928639+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-04-03T05:27:09.973919+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 04时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 05时27分]"
         },
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 04时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 05时27分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 04时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 05时27分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
@@ -97,7 +97,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -119,7 +119,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
@@ -127,7 +127,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "SpaceX被曝已秘密提交IPO申请",
@@ -139,8 +139,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 04时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 05时27分]"
         },
         {
           "title": "据彭博报道，SpaceX在IPO中的目标估值超过2万亿美元。 随后，EchoStar股价涨幅扩大。",
@@ -149,7 +149,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -178,6 +178,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
+          "url": "https://flash.jin10.com/detail/20260403041548791800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
           "title": "消息人士称，SpaceX已与沙特公共投资基金就2026年IPO的基石投资进行洽谈。一家沙特基金正考虑在SpaceX的IPO中认购50亿美元的基石投资。",
           "url": "https://flash.jin10.com/detail/20260403015702486800",
           "source": "金十数据",
@@ -195,9 +206,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "报道：SpaceX寻求按逾2万亿美元估值上市",
+          "url": "https://wallstreetcn.com/livenews/3081773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     }
