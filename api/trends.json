@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T15:58:50.934245+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-04-02T16:52:03.993883+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -73,17 +73,6 @@
           "time_info": "[06时26分 ~ 14时06分]"
         },
         {
-          "title": "商务部：持续深化中国与东盟国家在云基础设施、人工智能、绿色电源等前沿领域合作",
-          "url": "https://wallstreetcn.com/livenews/3081438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
           "title": "工信部原副部长王江平谈“龙虾”：要关注AI发展的一体两面",
           "url": "https://wallstreetcn.com/livenews/3081305",
           "source": "华尔街见闻-快讯",
@@ -117,6 +106,29 @@
           "time_info": "14时06分"
         },
         {
+          "title": "男子利用AI编造谣言获刑6个月",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 16时52分]"
+        },
+        {
+          "title": "商务部：持续深化中国与东盟国家在云基础设施、人工智能、绿色电源等前沿领域合作",
+          "url": "https://wallstreetcn.com/livenews/3081438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 16时52分]"
+        },
+        {
           "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
           "url": "https://flash.jin10.com/detail/20260402031852137800",
           "source": "金十数据",
@@ -142,17 +154,6 @@
           "time_info": "[02时53分 ~ 03时52分]"
         },
         {
-          "title": "男子利用AI编造谣言获刑6个月",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 15时58分]"
-        },
-        {
           "title": "如何把 AI 训练成自己的「第二大脑」？",
           "url": "https://www.zhihu.com/question/2017266017961736190",
           "source": "知乎",
@@ -174,6 +175,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时49分]"
+        },
+        {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "我的专业真被AI取代了吗",
@@ -391,8 +403,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 15时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 16时52分]"
+        },
+        {
+          "title": "SpaceX被曝已秘密提交IPO申请",
+          "url": "https://www.douyin.com/hot/2452014",
+          "source": "抖音",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 16时52分]"
         },
         {
           "title": "消息人士称，SpaceX将于5月4日与与多家银行举行线上财务讨论会。",
@@ -437,17 +461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "SpaceX被曝已秘密提交IPO申请",
-          "url": "https://www.douyin.com/hot/2452014",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
         },
         {
           "title": "美股Destiny Tech100成交量激增；现涨8%，报道称SpaceX已秘密提交IPO申请。",
