@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T17:51:42.745522+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-04-02T18:42:28.739987+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时02分 ~ 09时12分]"
+        },
+        {
+          "title": "男子利用AI编造谣言获刑6个月",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 18时42分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -71,28 +82,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时26分 ~ 14时06分]"
-        },
-        {
-          "title": "行业组织发布声明严禁AI换脸合成",
-          "url": "https://wallstreetcn.com/livenews/3081500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "男子利用AI编造谣言获刑6个月",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 17时51分]"
         },
         {
           "title": "工信部原副部长王江平谈“龙虾”：要关注AI发展的一体两面",
@@ -140,6 +129,18 @@
           "time_info": "[15时58分 ~ 16时52分]"
         },
         {
+          "title": "行业组织发布声明严禁AI换脸合成",
+          "url": "https://wallstreetcn.com/livenews/3081500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时42分]"
+        },
+        {
           "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
           "url": "https://flash.jin10.com/detail/20260402031852137800",
           "source": "金十数据",
@@ -173,8 +174,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 18时42分]"
         },
         {
           "title": "如何把 AI 训练成自己的「第二大脑」？",
@@ -395,6 +396,20 @@
           "time_info": "[00时59分 ~ 07时28分]"
         },
         {
+          "title": "商业航天竞争加剧：亚马逊计划收购卫星公司 以与SpaceX星链竞争",
+          "url": "https://www.cls.cn/detail/2332935",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时06分 ~ 18时42分]"
+        },
+        {
           "title": "史上最大IPO要来了！马斯克旗下SpaceX据悉已递交上市申请",
           "url": "https://www.cls.cn/detail/2332689",
           "source": "财联社热门",
@@ -407,30 +422,18 @@
           "time_info": "[09时12分 ~ 14时06分]"
         },
         {
-          "title": "商业航天竞争加剧：亚马逊计划收购卫星公司 以与SpaceX星链竞争",
-          "url": "https://www.cls.cn/detail/2332935",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时06分 ~ 17时51分]"
-        },
-        {
           "title": "SpaceX被曝已秘密提交IPO申请",
           "url": "https://www.douyin.com/hot/2452014",
           "source": "抖音",
           "ranks": [
             25,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 18时42分]"
         },
         {
           "title": "消息人士称，SpaceX将于5月4日与与多家银行举行线上财务讨论会。",
@@ -524,7 +527,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -533,11 +536,12 @@
           "url": "https://wallstreetcn.com/livenews/3081492",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时42分]"
         }
       ]
     },
@@ -552,9 +556,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时42分]"
         }
       ]
     },
