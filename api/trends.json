@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T03:42:08.349200+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-03T04:24:57.928639+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "年薪最高1.24亿！“人形机器人第一股”招首席",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时24分]"
         },
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时24分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时24分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
@@ -91,6 +91,17 @@
           "time_info": "[02时41分 ~ 03时42分]"
         },
         {
+          "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
+          "url": "https://wallstreetcn.com/livenews/3081768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
           "url": "https://flash.jin10.com/detail/20260403014329436800",
           "source": "金十数据",
@@ -100,12 +111,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)已调整其人工智能销售策略，转而专注于销售Copilot，而非将其作为软件捆绑包的一部分免费提供。",
+          "url": "https://flash.jin10.com/detail/20260403033413623800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "SpaceX被曝已秘密提交IPO申请",
@@ -113,11 +135,23 @@
           "source": "抖音",
           "ranks": [
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 03时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时24分]"
+        },
+        {
+          "title": "据彭博报道，SpaceX在IPO中的目标估值超过2万亿美元。 随后，EchoStar股价涨幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3081773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已与沙特公共投资基金就2026年IPO的基石投资进行洽谈。 一家沙特基金正考虑在SpaceX的IPO中认购50亿美元的基石投资。（路透）",
@@ -125,11 +159,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 04时24分]"
         },
         {
           "title": "沙特公共投资基金正考虑在SpaceX IPO中认购50亿美元股份",
@@ -152,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "据悉SpaceX计划在IPO中寻求超过2万亿美元的估值。",
+          "url": "https://flash.jin10.com/detail/20260403034411317800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     }
