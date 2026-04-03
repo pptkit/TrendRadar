@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T04:24:27.230602+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-04-04T05:24:24.538195+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -28,11 +29,12 @@
             20,
             17,
             16,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -42,8 +44,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -51,11 +53,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 05时24分]"
         },
         {
           "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
@@ -63,11 +66,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时24分]"
         },
         {
           "title": "数千年炼铁方式变了 中国AI高炉出铁",
@@ -104,11 +108,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 05时24分]"
         },
         {
           "title": "据纽约时报：马斯克要求参与SpaceX IPO的公司购买Grok。",
@@ -159,8 +164,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时24分]"
         }
       ]
     }
