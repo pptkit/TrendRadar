@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T02:26:47.226141+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-04-05T03:24:28.361927+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时24分]"
+        },
+        {
+          "title": "“没中国，美国机器人就动不了”",
+          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时24分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -33,17 +45,6 @@
           "time_info": "[00时22分 ~ 02时26分]"
         },
         {
-          "title": "“没中国，美国机器人就动不了”",
-          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
-        },
-        {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
           "url": "https://www.zhihu.com/question/2023363667584927528",
           "source": "知乎",
@@ -52,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 03时24分]"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
@@ -61,11 +62,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 03时24分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -75,8 +77,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时24分]"
         },
         {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
@@ -100,11 +102,12 @@
           "url": "https://flash.jin10.com/detail/20260405012945391800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时24分]"
         }
       ]
     }
