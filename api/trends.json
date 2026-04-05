@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T15:49:14.921799+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-04-05T16:32:07.965268+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -47,8 +47,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 15时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 16时32分]"
         },
         {
           "title": "“没中国，美国机器人就动不了”",
@@ -71,6 +71,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时20分]"
+        },
+        {
+          "title": "腾讯AI闯祸,拿唐山地震玩梗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "夫妻AI写公众号年赚200万",
@@ -110,6 +121,18 @@
           "time_info": "[07时20分 ~ 09时18分]"
         },
         {
+          "title": "AI时代，如何打赢人脸保护战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 16时32分]"
+        },
+        {
           "title": "易烊千玺遭AI短剧“盗脸”牟利，平台方已下架相关产品",
           "url": "https://wallstreetcn.com/livenews/3082550",
           "source": "华尔街见闻-快讯",
@@ -120,6 +143,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 15时49分]"
+        },
+        {
+          "title": "米哈游刘伟、蔡浩宇、罗宇皓向母校上海交大捐资设立“AI未来基石”基金",
+          "url": "https://wallstreetcn.com/livenews/3082566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时32分]"
         },
         {
           "title": "新型AI模型可通过血检识别多种神经退行性疾病",
@@ -134,17 +169,6 @@
           "time_info": "[12时28分 ~ 14时09分]"
         },
         {
-          "title": "AI时代，如何打赢人脸保护战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
-        },
-        {
           "title": "易烊千玺方回应被AI短剧换脸",
           "url": "https://www.baidu.com/s?wd=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E6%8D%A2%E8%84%B8",
           "source": "百度热搜",
@@ -156,15 +180,26 @@
           "time_info": "[09时18分 ~ 12时28分]"
         },
         {
-          "title": "米哈游刘伟、蔡浩宇、罗宇皓向母校上海交大捐资设立“AI未来基石”基金",
-          "url": "https://wallstreetcn.com/livenews/3082566",
+          "title": "男子发私照请求AI评价身材遭封号",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E7%A7%81%E7%85%A7%E8%AF%B7%E6%B1%82AI%E8%AF%84%E4%BB%B7%E8%BA%AB%E6%9D%90%E9%81%AD%E5%B0%81%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "鸿海：二季度主要产品进入新旧产品转换期，唯AI机柜仍将保持成长趋势",
+          "url": "https://wallstreetcn.com/livenews/3082582",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "16时32分"
         },
         {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
@@ -176,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "鸿海：仍需密切关注动荡的全球政治经济形势所带来的影响。富士康：人工智能机柜预计将保持持续增长态势。",
+          "url": "https://flash.jin10.com/detail/20260405153339263800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "当下的 AI 是不是被过度神化了？",
@@ -202,26 +248,20 @@
       ]
     },
     {
-      "keyword_group": "电力 变压器",
-      "match_count": 1,
+      "keyword_group": "化工",
+      "match_count": 4,
       "titles": [
         {
-          "title": "【科威特称两座发电和海水淡化厂遭伊朗无人机袭击】记者获悉，科威特电力、水利和可再生能源部当地时间5日凌晨发表声明称，科威特两座发电和海水淡化厂遭到伊朗无人机袭击，造成重大财产损失，两台发电机组停运，暂无人员伤亡报告。 声明称，技术和应急团队正根据应急预案开展工作，以保障电力和水供应系统正常运作。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3082516",
-          "source": "华尔街见闻-快讯",
+          "title": "巴林海湾石化工业公司称伊朗无人机袭击后装置起火已得到控制",
+          "url": "https://flash.jin10.com/detail/20260405155704548800",
+          "source": "金十数据",
           "ranks": [
-            20
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化工",
-      "match_count": 1,
-      "titles": [
+          "time_info": "16时32分"
+        },
         {
           "title": "以色列总理内塔尼亚胡表示，以色列在打击用于生产武器基础材料的钢铁厂设施后，又袭击了伊朗的石化工厂。",
           "url": "https://flash.jin10.com/detail/20260405012945391800",
@@ -236,6 +276,45 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时26分 ~ 06时18分]"
+        },
+        {
+          "title": "据巴林国家通讯社：巴林海湾石化工业公司表示，火灾已得到控制，相关团队正对事故造成的损失进行评估。",
+          "url": "https://flash.jin10.com/detail/20260405154005499800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "据巴林国家通讯社：巴林海湾石化工业公司表示，伊朗无人机袭击后，其生产装置发生火灾，暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260405153903410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【科威特称两座发电和海水淡化厂遭伊朗无人机袭击】记者获悉，科威特电力、水利和可再生能源部当地时间5日凌晨发表声明称，科威特两座发电和海水淡化厂遭到伊朗无人机袭击，造成重大财产损失，两台发电机组停运，暂无人员伤亡报告。 声明称，技术和应急团队正根据应急预案开展工作，以保障电力和水供应系统正常运作。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3082516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     }
