@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T04:21:14.412661+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-04-06T05:22:35.296769+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "AI时代，如何打赢人脸保护战？",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "妈妈不知儿子去世跟AI儿子聊了1年",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
@@ -63,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -72,11 +72,34 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时22分]"
+        },
+        {
+          "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3082679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260406043433475800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         }
       ]
     },
@@ -92,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "伊朗能源部长：目前全国所有重要中心的电力供应都已得到保障，而且我们还有剩余电力。",
@@ -102,11 +125,12 @@
           "ranks": [
             2,
             9,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 05时22分]"
         }
       ]
     },
@@ -122,8 +146,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时27分 ~ 05时22分]"
         }
       ]
     }
