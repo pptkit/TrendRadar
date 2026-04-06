@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T18:55:02.537423+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-04-06T19:41:27.819703+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -77,6 +77,20 @@
           "time_info": "[00时24分 ~ 12时35分]"
         },
         {
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 19时41分]"
+        },
+        {
           "title": "机器人保姆“上岗”了",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
@@ -85,8 +99,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 18时55分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 19时41分]"
+        },
+        {
+          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
+          "url": "https://www.zhihu.com/question/2024413032667772670",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 19时41分]"
         },
         {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
@@ -100,19 +128,6 @@
           "time_info": "[00时24分 ~ 05时22分]"
         },
         {
-          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
-          "url": "https://wallstreetcn.com/articles/3769308",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 18时55分]"
-        },
-        {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
           "url": "https://www.toutiao.com/trending/7625239644062023743/",
           "source": "今日头条",
@@ -121,24 +136,12 @@
             16,
             17,
             14,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 18时55分]"
-        },
-        {
-          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
-          "url": "https://www.zhihu.com/question/2024413032667772670",
-          "source": "知乎",
-          "ranks": [
-            16,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 18时55分]"
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 19时41分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年4月5日",
@@ -147,11 +150,12 @@
           "ranks": [
             19,
             17,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 19时41分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -173,7 +177,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -235,6 +239,17 @@
           "time_info": "12时35分"
         },
         {
+          "title": "室内空气系统供应商Madison Air Solutions寻求通过IPO筹资至多22.3亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "AirAsia X创始人：马来西亚国家石油公司告知我们，燃油储备可维持至6月。越南和泰国对飞机加油仍有一定限制。",
           "url": "https://flash.jin10.com/detail/20260406120124811800",
           "source": "金十数据",
@@ -255,6 +270,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "OpenAI发布文章 提出AI时代产业政策建议",
+          "url": "https://wallstreetcn.com/livenews/3082798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "有投资者在互动平台上提问“公司有无机器人软件开发的项目？”光庭信息4月6日回复称，目前暂未有相关业务项目。",
@@ -315,7 +352,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科威特2座电力和海水淡化设施遭袭",
@@ -341,6 +378,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时28分 ~ 05时22分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：为阿萨卢耶石化工厂提供电力、水和氧气的公司遭到袭击，帕尔斯石化公司未受影响。",
+          "url": "https://flash.jin10.com/detail/20260406192321854800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "以色列国防部长说以军空袭伊朗最大石油化工设施",
+          "url": "https://wallstreetcn.com/livenews/3082816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "伊朗布什尔省石油化工设施遭袭",
+          "url": "https://wallstreetcn.com/livenews/3082803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
@@ -369,8 +445,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 18时55分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 19时41分]"
         }
       ]
     },
