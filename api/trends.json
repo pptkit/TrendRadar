@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T05:29:37.910965+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-04-07T06:25:41.007842+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
@@ -27,8 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "如何看软著申请严查AI新规",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[02时41分 ~ 06时25分]"
         },
         {
           "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
@@ -52,11 +52,12 @@
             20,
             16,
             14,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时37分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时37分 ~ 06时25分]"
         },
         {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
@@ -69,8 +70,24 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时37分 ~ 06时25分]"
+        },
+        {
+          "title": "机器人保姆“上岗”了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            12,
+            18,
+            28,
+            19,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时37分 ~ 05时29分]"
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
@@ -84,21 +101,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 03时45分]"
-        },
-        {
-          "title": "机器人保姆“上岗”了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            12,
-            18,
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时29分]"
         },
         {
           "title": "公司用AI复刻离职员工继续工作",
@@ -171,6 +173,39 @@
           "time_info": "[02时42分 ~ 03时45分]"
         },
         {
+          "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
+          "url": "https://flash.jin10.com/detail/20260407054852467800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "博通公司与谷歌达成至2031年的长期TPU和网络供应协议。 与谷歌、Anthropic扩大合作。 Anthropic将从2027年起接入3.5吉瓦的TPU人工智能算力。",
+          "url": "https://wallstreetcn.com/livenews/3082983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "博通公司：与谷歌、Anthropic扩大合作；Anthropic将从2027年起接入3.5吉瓦的TPU人工智能算力。",
+          "url": "https://flash.jin10.com/detail/20260407052427059800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "报道：OpenAI计划最早今年四季度IPO",
           "url": "https://wallstreetcn.com/livenews/3082897",
           "source": "华尔街见闻-快讯",
@@ -217,8 +252,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时37分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时37分 ~ 06时25分]"
         },
         {
           "title": "以军称空袭伊朗最大石油化工设施",
@@ -258,8 +293,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "美宇航员太空中意外半裸出镜",
@@ -274,6 +309,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时37分 ~ 05时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "有报道称，沙特东部省份朱拜勒的电力设施附近发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260407061748809800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     }
