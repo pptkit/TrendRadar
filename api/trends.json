@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T12:24:32.951291+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-04-07T14:13:21.642085+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -136,9 +136,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "宇树科技移动机器人专利获授权 发明人为王兴兴等",
+          "url": "https://wallstreetcn.com/livenews/3083180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 14时13分]"
         },
         {
           "title": "美媒：Meta将发布其下一代AI模型的开源版本",
@@ -201,17 +223,6 @@
           "time_info": "[03时45分 ~ 04时29分]"
         },
         {
-          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
-          "url": "https://www.zhihu.com/question/667901263",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 12时24分]"
-        },
-        {
           "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
           "url": "https://wallstreetcn.com/livenews/3082921",
           "source": "华尔街见闻-快讯",
@@ -268,6 +279,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "芭比大战AI偶像",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "AI翻唱淘金小镇",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BF%BB%E5%94%B1%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87",
           "source": "bilibili 热搜",
@@ -293,7 +315,7 @@
     },
     {
       "keyword_group": "化工",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "以色列国防部长：以军空袭伊朗最大石油化工设施",
@@ -304,8 +326,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时37分 ~ 12时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时37分 ~ 14时13分]"
         },
         {
           "title": "以军称空袭伊朗最大石油化工设施",
@@ -326,9 +348,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "据法新社：消息人士称，沙特阿美石油化工厂遭遇空袭。",
+          "url": "https://flash.jin10.com/detail/20260407134032105800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "以军称空袭伊朗最大石油化工设施",
@@ -353,13 +386,24 @@
           "time_info": "09时16分"
         },
         {
+          "title": "甘肃玉门一化工厂发生火灾致3死2伤。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3083161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "A股午评：三大股指早盘冲高回落 草甘膦等化工板块表现强势",
           "url": "https://flash.jin10.com/detail/20260407113251089800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -390,8 +434,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 12时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 14时13分]"
         },
         {
           "title": "美宇航员太空中意外半裸出镜",
@@ -436,11 +480,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%85%89%E4%BC%8F%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 14时13分]"
         }
       ]
     }
