@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T05:34:43.355297+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-08T06:28:26.360363+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7625141542522650674/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 06时28分]"
         },
         {
           "title": "伊朗电力部门已部署3万人待命保障供电",
@@ -66,6 +67,57 @@
       ]
     },
     {
+      "keyword_group": "化工",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股三大股指震荡上涨，化工掀起涨停潮，煤炭股活跃，芯片股拉升、寒武纪大涨9%",
+          "url": "https://wallstreetcn.com/articles/3769354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 05时34分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡小幅收红，全市场超百股涨停，化工板块集体爆发",
+          "url": "https://www.cls.cn/detail/2336637",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时28分]"
+        },
+        {
+          "title": "伊朗多处石化工厂及铝厂设施遭袭",
+          "url": "https://wallstreetcn.com/livenews/3083729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "伊朗多处石化工厂及铝厂设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260408051137391800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 人工智能 机器人",
       "match_count": 4,
       "titles": [
@@ -77,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时28分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -88,8 +140,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时28分]"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
@@ -117,34 +169,6 @@
       ]
     },
     {
-      "keyword_group": "化工",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股三大股指震荡上涨，化工掀起涨停潮，煤炭股活跃，芯片股拉升、寒武纪大涨9%",
-          "url": "https://wallstreetcn.com/articles/3769354",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 05时34分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡小幅收红，全市场超百股涨停，化工板块集体爆发",
-          "url": "https://www.cls.cn/detail/2336637",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "太阳能 光伏",
       "match_count": 1,
       "titles": [
@@ -159,8 +183,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时28分]"
         }
       ]
     }
