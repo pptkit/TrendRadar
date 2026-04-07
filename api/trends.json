@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T14:13:21.642085+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-04-07T16:05:30.449735+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -108,6 +108,17 @@
           "time_info": "[00时35分 ~ 03时45分]"
         },
         {
+          "title": "Faker称已准备好迎战马斯克AI",
+          "url": "https://search.bilibili.com/all?keyword=Faker%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%88%98%E9%A9%AC%E6%96%AF%E5%85%8BAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "公司用AI复刻离职员工继续工作",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%94%A8AI%E5%A4%8D%E5%88%BB%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E7%BB%A7%E7%BB%AD%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -147,7 +158,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -235,6 +246,17 @@
           "time_info": "[02时42分 ~ 03时45分]"
         },
         {
+          "title": "大魔王迎战硬刚马斯克AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352857&amp;topic_name=%E5%A4%A7%E9%AD%94%E7%8E%8B%E8%BF%8E%E6%88%98%E7%A1%AC%E5%88%9A%E9%A9%AC%E6%96%AF%E5%85%8BAI",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "博通公司与谷歌达成至2031年的长期TPU和网络供应协议。 与谷歌、Anthropic扩大合作。 Anthropic将从2027年起接入3.5吉瓦的TPU人工智能算力。",
           "url": "https://wallstreetcn.com/livenews/3082983",
           "source": "华尔街见闻-快讯",
@@ -244,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "AI编程：全民狂欢还是屎山危机",
+          "url": "https://www.baidu.com/s?wd=AI%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E8%BF%98%E6%98%AF%E5%B1%8E%E5%B1%B1%E5%8D%B1%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "三星一季度销售远超预期，利润暴增八倍，AI芯片销售无惧战争阴云",
@@ -268,6 +301,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "花旗：三星预计在下半年继续受益于持续的人工智能推理内存需求",
+          "url": "https://flash.jin10.com/detail/20260407153209437800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "报道：OpenAI计划最早今年四季度IPO",
           "url": "https://wallstreetcn.com/livenews/3082897",
           "source": "华尔街见闻-快讯",
@@ -285,7 +329,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -326,8 +370,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时37分 ~ 14时13分]"
+          "appearance_count": 14,
+          "time_info": "[01时37分 ~ 16时05分]"
         },
         {
           "title": "以军称空袭伊朗最大石油化工设施",
@@ -359,7 +403,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -392,7 +436,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -434,8 +478,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 14时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 16时05分]"
         },
         {
           "title": "美宇航员太空中意外半裸出镜",
@@ -481,11 +525,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 16时05分]"
         }
       ]
     }
