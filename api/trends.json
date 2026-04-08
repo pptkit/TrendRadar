@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T06:29:45.500660+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-04-09T07:34:20.858216+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时34分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -26,8 +26,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时34分]"
         },
         {
           "title": "Meta发布自家第一款重磅AI大模型Muse Spark，试图追赶谷歌、OpenAI的脚步。",
@@ -81,7 +81,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -125,7 +125,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -136,7 +136,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -158,7 +158,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -176,8 +176,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时34分]"
         },
         {
           "title": "光伏产品出口退税为何取消",
@@ -189,8 +189,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时34分]"
         }
       ]
     },
@@ -221,11 +221,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时34分]"
         }
       ]
     }
