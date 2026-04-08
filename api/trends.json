@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T03:24:32.097605+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-09T04:32:56.148273+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时32分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -37,8 +37,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时32分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -48,8 +48,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时32分]"
         },
         {
           "title": "Meta推出新AI模型Muse Spark 加码追赶竞争对手",
@@ -98,19 +98,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时32分]"
         },
         {
           "title": "光伏产品出口退税为何取消",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%89%E4%BC%8F%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时32分]"
         }
       ]
     },
@@ -144,8 +145,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时32分]"
         }
       ]
     }
