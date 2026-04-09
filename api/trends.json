@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-09T09:07:37.684684+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-04-09T12:24:26.607531+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 09时07分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 12时24分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -70,9 +71,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "两人用AI洗稿编造车企谣言被抓",
+          "url": "https://www.toutiao.com/trending/7625974933612773417/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "Meta推出新AI模型Muse Spark 加码追赶竞争对手",
@@ -84,6 +96,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "工业和信息化部办公厅关于公布面向人工智能赋能的高质量行业数据集建设先行先试联合体名单的通知",
+          "url": "https://flash.jin10.com/detail/20260409114931811800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-04-09）",
+          "url": "https://flash.jin10.com/detail/20260409114852508800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "AI21 Labs曾在2025年讨论出售给英伟达。 Nebius洽谈收购AI初创公司AI21。（The Information）",
@@ -119,6 +153,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "万斯称十点提案有多个版本 有些像是AI写的",
           "url": "https://flash.jin10.com/detail/20260409042844092800",
           "source": "金十数据",
@@ -152,6 +197,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "高盛资产管理：AI投资热持续 应布局半导体和相关“铲与镐”股",
+          "url": "https://wallstreetcn.com/livenews/3084724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "高盛资产管理的Brook Dane表示，随着人工智能（AI）支出加速，即便伊朗战争加剧地缘政治紧张，投资者仍需配置半导体公司及其他AI“卖铲人”类资产。",
           "url": "https://wallstreetcn.com/livenews/3084500",
           "source": "华尔街见闻-快讯",
@@ -161,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "华为AI眼镜即将发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAAI%E7%9C%BC%E9%95%9C%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
@@ -197,7 +264,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         }
@@ -236,7 +303,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "破解地面算力“能耗焦虑”，太空算力产业生态提速构建",
@@ -251,6 +318,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 09时07分]"
+        },
+        {
+          "title": "我国加快太空算力产业生态培育",
+          "url": "https://www.toutiao.com/trending/7626429435123417114/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     }
