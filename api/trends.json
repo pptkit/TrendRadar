@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T19:40:15.156768+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-04-10T20:43:24.601115+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -49,6 +49,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 07时31分]"
+        },
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 20时43分]"
         },
         {
           "title": "Wait清唱挑战",
@@ -98,21 +113,6 @@
           "time_info": "[00时12分 ~ 09时18分]"
         },
         {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            6,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时37分 ~ 19时40分]"
-        },
-        {
           "title": "人工智能将纳入教师资格考试和认证内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
@@ -123,8 +123,24 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 20时43分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
+          "ranks": [
+            17,
+            7,
+            18,
+            26,
+            29,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时37分 ~ 19时40分]"
+          "time_info": "[14时50分 ~ 20时43分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -147,21 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
-          "ranks": [
-            17,
-            7,
-            18,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时50分 ~ 19时40分]"
         },
         {
           "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
@@ -549,9 +550,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "王自如聊中美AI模型上新",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）",
@@ -738,8 +750,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时00分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[18时00分 ~ 20时43分]"
         },
         {
           "title": "SpaceX去年亏损近50亿美元。 SpaceX去年总营收突破185亿美元。（The Information）",
