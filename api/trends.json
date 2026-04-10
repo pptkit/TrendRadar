@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T20:43:24.601115+08:00",
-  "total_titles_processed": 1796,
+  "generated_at": "2026-04-10T22:10:25.989533+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -39,18 +39,6 @@
           "time_info": "[00时12分 ~ 16时15分]"
         },
         {
-          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
-          "url": "https://www.cls.cn/detail/2339282",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 07时31分]"
-        },
-        {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
           "source": "澎湃新闻",
@@ -62,8 +50,35 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时37分 ~ 20时43分]"
+          "appearance_count": 10,
+          "time_info": "[12时37分 ~ 22时10分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时37分 ~ 22时10分]"
+        },
+        {
+          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
+          "url": "https://www.cls.cn/detail/2339282",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时31分]"
         },
         {
           "title": "Wait清唱挑战",
@@ -113,20 +128,6 @@
           "time_info": "[00时12分 ~ 09时18分]"
         },
         {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时37分 ~ 20时43分]"
-        },
-        {
           "title": "人工智能将纳入教师资格考试",
           "url": "https://www.douyin.com/hot/2461467",
           "source": "抖音",
@@ -136,11 +137,12 @@
             18,
             26,
             29,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时50分 ~ 20时43分]"
+          "appearance_count": 9,
+          "time_info": "[14时50分 ~ 22时10分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -363,6 +365,18 @@
           "time_info": "[12时37分 ~ 14时50分]"
         },
         {
+          "title": "王自如聊中美AI模型上新",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时10分]"
+        },
+        {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
           "url": "https://flash.jin10.com/detail/20260410041947855800",
           "source": "金十数据",
@@ -555,17 +569,6 @@
           "time_info": "19时40分"
         },
         {
-          "title": "王自如聊中美AI模型上新",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3085564",
           "source": "华尔街见闻-快讯",
@@ -641,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "交通运输部：推动交通运输绿色低碳转型，深入实施“人工智能+交通运输”行动",
+          "url": "https://wallstreetcn.com/livenews/3085943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-04-10）",
