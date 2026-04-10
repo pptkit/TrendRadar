@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T16:15:59.351217+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-04-10T18:01:27.639631+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -120,6 +120,20 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时01分]"
+        },
+        {
           "title": "消息称Anthropic考虑自主研发AI芯片",
           "url": "https://flash.jin10.com/detail/20260410070524223800",
           "source": "金十数据",
@@ -151,6 +165,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "工信部：加快构建高效统一的人工智能芯片计算互联生态 坚决破除光伏行业“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3085774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 18时01分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
@@ -199,19 +238,6 @@
           "time_info": "[03时38分 ~ 04时42分]"
         },
         {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 16时15分]"
-        },
-        {
           "title": "OpenAI声称其算力比Anthropic更有优势",
           "url": "https://flash.jin10.com/detail/20260410043705456800",
           "source": "金十数据",
@@ -248,17 +274,16 @@
           "time_info": "[06时57分 ~ 07时31分]"
         },
         {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
           "ranks": [
-            11,
-            6,
+            17,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 16时15分]"
+          "appearance_count": 4,
+          "time_info": "[14时50分 ~ 18时01分]"
         },
         {
           "title": "AI写作年赚200万夫妻被封号",
@@ -274,16 +299,28 @@
           "time_info": "[12时37分 ~ 16时15分]"
         },
         {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
+          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
+          "url": "https://www.cls.cn/detail/2340102",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            7
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 18时01分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025880248273618520",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 18时01分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -357,6 +394,17 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "穆迪报告指出 AI 行业存在循环融资风险，五大巨头承诺资本开支高达 6800 亿美元，你怎么看？",
+          "url": "https://www.zhihu.com/question/2025517870495392629",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
           "title": "件股再度集体重挫，AI智能体令行业增长前景受到沉重打击",
           "url": "https://wallstreetcn.com/livenews/3085278",
           "source": "华尔街见闻-快讯",
@@ -377,6 +425,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 03时58分]"
+        },
+        {
+          "title": "工信部：加快构建高效统一的人工智能芯片计算互联生态",
+          "url": "https://flash.jin10.com/detail/20260410174416302800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "OpenAI：即将推出新的每月100美元的ChatGPT Pro会员套餐。",
@@ -407,7 +466,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -434,6 +493,17 @@
           "time_info": "12时37分"
         },
         {
+          "title": "智元发布Genie Envisioner 2.0，让机器人在“模型世界”中学习与进化",
+          "url": "https://wallstreetcn.com/livenews/3085763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "美国财长贝森特召集华尔街CEO们讨论Anthropic的AI模型Mythos",
           "url": "https://wallstreetcn.com/livenews/3085414",
           "source": "华尔街见闻-快讯",
@@ -445,17 +515,6 @@
           "time_info": "09时18分"
         },
         {
-          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
-          "url": "https://www.cls.cn/detail/2340102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3085564",
           "source": "华尔街见闻-快讯",
@@ -465,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "智元独立四足机器人业务，智元酷拓目标2030年出货量30万台、营收100亿元",
+          "url": "https://wallstreetcn.com/livenews/3085752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "智元机器人等成立酷拓科技新公司",
@@ -487,17 +557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025880248273618520",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
         },
         {
           "title": "微信支付发布“AI接入工具箱”",
@@ -619,8 +678,19 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "什么是太空算力",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%AA%E7%A9%BA%E7%AE%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
         {
           "title": "SpaceX去年亏损近50亿美元。 SpaceX去年总营收突破185亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3085410",
