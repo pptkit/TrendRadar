@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T05:27:24.171486+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-04-11T06:27:01.329162+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时27分]"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时27分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -39,8 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时27分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时40分 ~ 06时27分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -64,9 +64,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -81,6 +81,20 @@
           "time_info": "[02时39分 ~ 04时24分]"
         },
         {
+          "title": "中国AI芯片格局反转",
+          "url": "https://www.toutiao.com/trending/7627057914037289014/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            28,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时36分 ~ 06时27分]"
+        },
+        {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
           "url": "https://wallstreetcn.com/livenews/3086079",
           "source": "华尔街见闻-快讯",
@@ -91,19 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时27分]"
-        },
-        {
-          "title": "中国AI芯片格局反转",
-          "url": "https://www.toutiao.com/trending/7627057914037289014/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时36分 ~ 05时27分]"
         },
         {
           "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
@@ -145,7 +146,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -164,7 +165,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "法国总理勒科尔尼：到2030年，我们将用电力替代85太瓦时的天然气用量。（外媒更正非“45”）",
@@ -177,6 +178,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时41分]"
+        },
+        {
+          "title": "美国电网运营商PJM Internationalconnection LLC.寻求新增15 GW电力供应，来满足数据中心繁荣。",
+          "url": "https://wallstreetcn.com/livenews/3086117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "法国总理勒科尔尼：我们将把国家对发展电力能源的支持力度翻一番。",
@@ -224,7 +236,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
