@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T04:20:42.990128+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-04-12T05:23:33.324419+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时23分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时23分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时23分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时23分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -62,11 +62,12 @@
             17,
             19,
             28,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时23分]"
         },
         {
           "title": "人工智能卖瓜",
@@ -76,11 +77,12 @@
             18,
             22,
             24,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时23分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
@@ -101,11 +103,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时23分]"
         }
       ]
     },
@@ -121,8 +124,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时23分]"
         }
       ]
     }
