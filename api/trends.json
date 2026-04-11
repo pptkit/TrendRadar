@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T01:23:36.766650+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-04-12T02:28:06.633270+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
           "url": "https://wallstreetcn.com/articles/3769738",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -49,31 +50,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时23分]"
-        },
-        {
-          "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3086252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "我也来试一下这个wait",
           "url": "https://www.douyin.com/hot/2462368",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "人工智能卖瓜",
@@ -81,11 +71,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时28分]"
+        },
+        {
+          "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3086252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时28分]"
         }
       ]
     },
@@ -101,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时28分]"
         }
       ]
     }
