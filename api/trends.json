@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T00:23:58.123910+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-12T01:23:36.766650+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -37,30 +37,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
           "url": "https://wallstreetcn.com/articles/3769740",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3086252",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -70,19 +72,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "人工智能卖瓜",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时23分]"
         }
       ]
     },
@@ -98,8 +101,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时23分]"
         }
       ]
     }
