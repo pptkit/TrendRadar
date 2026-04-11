@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T17:31:47.405612+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-04-11T18:23:54.683907+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -32,6 +32,22 @@
           "time_info": "[00时40分 ~ 07时25分]"
         },
         {
+          "title": "郑丽文参访清华附中称想带机器人回家",
+          "url": "https://www.toutiao.com/trending/7626947452634234922/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7,
+            10,
+            9,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时12分 ~ 18时23分]"
+        },
+        {
           "title": "夫妻称用AI写公众号年赚200万被封号",
           "url": "https://www.toutiao.com/trending/7626953352832040996/",
           "source": "今日头条",
@@ -48,19 +64,20 @@
           "time_info": "[01时40分 ~ 07时25分]"
         },
         {
-          "title": "郑丽文参访清华附中称想带机器人回家",
-          "url": "https://www.toutiao.com/trending/7626947452634234922/",
-          "source": "今日头条",
+          "title": "人工智能卖瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            7,
-            10,
             9,
-            17
+            3,
+            12,
+            23,
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 17时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时12分 ~ 18时23分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -77,21 +94,6 @@
           "time_info": "[00时40分 ~ 07时25分]"
         },
         {
-          "title": "人工智能卖瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            3,
-            12,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 17时31分]"
-        },
-        {
           "title": "水军机器人走错片场露马脚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353086&amp;topic_name=%E6%B0%B4%E5%86%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E9%94%99%E7%89%87%E5%9C%BA%E9%9C%B2%E9%A9%AC%E8%84%9A",
           "source": "贴吧",
@@ -100,8 +102,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 18时23分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 18时23分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -128,17 +144,15 @@
           "time_info": "[12时11分 ~ 14时48分]"
         },
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
           "ranks": [
-            13,
-            10,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 17时31分]"
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时23分]"
         },
         {
           "title": "广汽集团董事长：广汽集团具身智能机器人即将量产",
@@ -147,11 +161,27 @@
           "ranks": [
             2,
             5,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 18时23分]"
+        },
+        {
+          "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3086174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            9,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时48分 ~ 18时23分]"
         },
         {
           "title": "侵入式脑机“首秀”、康养机器人扎堆CMEF，前沿技术能否撑起智慧康养新蓝海？",
@@ -182,40 +212,18 @@
           "time_info": "[03时36分 ~ 07时25分]"
         },
         {
-          "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3086174",
-          "source": "华尔街见闻-快讯",
+          "title": "广汽集团董事长冯兴亚：广汽集团具身智能机器人即将量产",
+          "url": "https://flash.jin10.com/detail/20260411150945202800",
+          "source": "金十数据",
           "ranks": [
             2,
-            6,
-            9,
-            15
+            7,
+            19,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时48分 ~ 17时31分]"
-        },
-        {
-          "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
-          "url": "https://wallstreetcn.com/livenews/3086184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "[15时43分 ~ 18时23分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -228,19 +236,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 04时24分]"
-        },
-        {
-          "title": "广汽集团董事长冯兴亚：广汽集团具身智能机器人即将量产",
-          "url": "https://flash.jin10.com/detail/20260411150945202800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 17时31分]"
         },
         {
           "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
@@ -268,6 +263,18 @@
           "time_info": "[04时24分 ~ 05时27分]"
         },
         {
+          "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
+          "url": "https://wallstreetcn.com/livenews/3086184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时23分]"
+        },
+        {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
           "url": "https://wallstreetcn.com/livenews/3086151",
           "source": "华尔街见闻-快讯",
@@ -280,6 +287,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时11分 ~ 15时43分]"
+        },
+        {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 18时23分]"
         },
         {
           "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
@@ -321,28 +342,27 @@
           "time_info": "[13时54分 ~ 15时43分]"
         },
         {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 17时31分]"
-        },
-        {
           "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
           "url": "https://flash.jin10.com/detail/20260411165101237800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时23分]"
+        },
+        {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "18时23分"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
@@ -461,7 +481,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         }
@@ -485,6 +505,18 @@
           "time_info": "[06时27分 ~ 09时13分]"
         },
         {
+          "title": "变压器出口高增长 取向硅钢价格在底部 产业链上市公司获益几何？|传真",
+          "url": "https://www.cls.cn/detail/2341238",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 18时23分]"
+        },
+        {
           "title": "法国总理勒科尔尼：到2030年，我们将用电力替代85太瓦时的天然气用量。（外媒更正非“45”）",
           "url": "https://flash.jin10.com/detail/20260411001314085800",
           "source": "金十数据",
@@ -495,18 +527,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时41分]"
-        },
-        {
-          "title": "变压器出口高增长 取向硅钢价格在底部 产业链上市公司获益几何？|传真",
-          "url": "https://www.cls.cn/detail/2341238",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 17时31分]"
         },
         {
           "title": "法国总理勒科尔尼：我们将把国家对发展电力能源的支持力度翻一番。",
