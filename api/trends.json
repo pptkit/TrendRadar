@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T05:24:26.491578+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-13T06:22:47.544458+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "机器人冲线后坐车休息脚搭车架上",
@@ -52,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "宇树机器人百米冲刺 10 米每秒，逼近博尔特记录，这个速度是什么水平？能应用到哪些现实场景？",
@@ -67,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -80,11 +80,12 @@
             10,
             8,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "人形机器人半马完成全流程测试",
@@ -95,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -107,8 +108,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "水军机器人走错片场露马脚",
@@ -118,8 +119,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -128,11 +129,25 @@
           "ranks": [
             27,
             30,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时22分]"
+        },
+        {
+          "title": "AI 会有情绪吗？",
+          "url": "https://www.zhihu.com/question/583568899",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时32分 ~ 06时22分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -146,19 +161,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时31分 ~ 04时23分]"
-        },
-        {
-          "title": "AI 会有情绪吗？",
-          "url": "https://www.zhihu.com/question/583568899",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时32分 ~ 05时24分]"
         },
         {
           "title": "机器人闪电展现提速能力",
@@ -198,8 +200,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         }
       ]
     }
