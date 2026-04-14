@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T07:35:06.212908+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-04-14T09:22:56.975273+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国人形机器人在波兰街头驱赶野猪",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 09时22分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -28,8 +29,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 09时22分]"
+        },
+        {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 09时22分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -40,21 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时35分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 09时22分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -65,11 +67,12 @@
             15,
             19,
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 09时22分]"
         },
         {
           "title": "水军机器人走错片场露马脚",
@@ -80,8 +83,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 09时22分]"
         },
         {
           "title": "中国机器人在波兰街头驱赶野猪",
@@ -93,11 +96,12 @@
             20,
             28,
             24,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 09时22分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -147,6 +151,17 @@
           "time_info": "[00时05分 ~ 00时06分]"
         },
         {
+          "title": "日产：计划在未来90%的车型中应用日产AI驾驶技术。",
+          "url": "https://flash.jin10.com/detail/20260414091720782800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
           "url": "https://wallstreetcn.com/livenews/3087118",
           "source": "华尔街见闻-快讯",
@@ -164,7 +179,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -182,37 +197,20 @@
       ]
     },
     {
-      "keyword_group": "太空 spaceX",
+      "keyword_group": "电力 变压器",
       "match_count": 2,
       "titles": [
         {
-          "title": "据The Information：SpaceX的星链业务2025年营收增长50%，达到114亿美元。",
-          "url": "https://flash.jin10.com/detail/20260414072123151800",
-          "source": "金十数据",
+          "title": "我国算力电力如何协同",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E7%AE%97%E5%8A%9B%E7%94%B5%E5%8A%9B%E5%A6%82%E4%BD%95%E5%8D%8F%E5%90%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "09时22分"
         },
-        {
-          "title": "SpaceX的星链业务2025年营收增长50%，达到114亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3087221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 1,
-      "titles": [
         {
           "title": "甲骨文同意，为了AI数据中心而从Bloom Energy Corp.购买电力供应。",
           "url": "https://wallstreetcn.com/livenews/3087180",
@@ -223,6 +221,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据The Information：SpaceX的星链业务2025年营收增长50%，达到114亿美元。",
+          "url": "https://flash.jin10.com/detail/20260414072123151800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "SpaceX的星链业务2025年营收增长50%，达到114亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3087221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
@@ -253,11 +279,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 09时22分]"
         }
       ]
     }
