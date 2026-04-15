@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T01:11:59.678616+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-16T02:02:10.395830+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 02时02分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -26,19 +26,53 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 02时02分]"
         },
         {
           "title": "机器人跑马拉松也穿跑鞋了",
           "url": "https://www.douyin.com/hot/2466169",
           "source": "抖音",
           "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 02时02分]"
+        },
+        {
+          "title": "机器人切除肿瘤两年后患者去世",
+          "url": "https://www.toutiao.com/trending/7628813241162170431/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "机器人切除肿瘤不彻底患者去世",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%87%E9%99%A4%E8%82%BF%E7%98%A4%E4%B8%8D%E5%BD%BB%E5%BA%95%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
             26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "Cadence与英伟达扩大合作伙伴关系，以在人工智能与加速计算时代重塑工程设计。",
+          "url": "https://flash.jin10.com/detail/20260416013048356800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "02时02分"
         }
       ]
     },
@@ -68,11 +102,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%9C%AA%E6%9D%A5%E5%A4%AA%E7%A9%BA%E5%8C%BB%E9%99%A2%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 02时02分]"
         }
       ]
     }
