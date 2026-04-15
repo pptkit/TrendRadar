@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T19:47:08.444941+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2026-04-15T20:57:41.123520+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -29,11 +29,12 @@
           "ranks": [
             1,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 19时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时37分 ~ 20时57分]"
         },
         {
           "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
@@ -75,11 +76,12 @@
             10,
             7,
             9,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 19时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 20时57分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -138,6 +140,19 @@
           "time_info": "[00时01分 ~ 06时36分]"
         },
         {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 20时57分]"
+        },
+        {
           "title": "英伟达推出全球首个开源量子AI模型",
           "url": "https://www.toutiao.com/trending/7627728168379547654/",
           "source": "今日头条",
@@ -159,18 +174,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时36分]"
-        },
-        {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时47分]"
         },
         {
           "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
@@ -203,7 +206,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -288,6 +291,18 @@
           "time_info": "[04时56分 ~ 05时41分]"
         },
         {
+          "title": "机器人切除肿瘤两年后患者去世",
+          "url": "https://www.toutiao.com/trending/7628813241162170431/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时46分 ~ 20时57分]"
+        },
+        {
           "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
           "url": "https://www.cls.cn/detail/2344320",
           "source": "财联社热门",
@@ -299,17 +314,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时37分 ~ 16时22分]"
-        },
-        {
-          "title": "机器人切除肿瘤两年后患者去世",
-          "url": "https://www.toutiao.com/trending/7628813241162170431/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
@@ -348,6 +352,18 @@
           "time_info": "[06时36分 ~ 07时36分]"
         },
         {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 20时57分]"
+        },
+        {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
           "url": "https://wallstreetcn.com/livenews/3087974",
           "source": "华尔街见闻-快讯",
@@ -372,6 +388,17 @@
           "time_info": "[03时24分 ~ 04时25分]"
         },
         {
+          "title": "美联储Hammack：目前是美联储制定政策的“艰难时期”。 目前尚不清楚人工智能会对经济产生什么影响。 美联储的独立性非常重要。",
+          "url": "https://wallstreetcn.com/livenews/3088538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
           "url": "https://wallstreetcn.com/livenews/3087885",
           "source": "华尔街见闻-快讯",
@@ -381,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "AI初创公司Hilbert完成2800万美元A轮融资",
+          "url": "https://flash.jin10.com/detail/20260415204514760800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "曝爱奇艺与深度合作艺人签约AI授权",
@@ -416,6 +454,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "国芯科技：新一代基于RISC-V架构的抗量子高性能汽车电子AI MCU新产品CCRC4XXX(原CCFC3009PT)于近日在公司内部测试中获得成功。",
+          "url": "https://flash.jin10.com/detail/20260415204421303800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "英伟达推出面向量子计算的AI模型 全球量子科技产业加速发展",
           "url": "https://www.cls.cn/detail/2344233",
           "source": "财联社热门",
@@ -449,26 +498,26 @@
           "time_info": "18时07分"
         },
         {
+          "title": "美联储哈玛克：目前尚不清楚人工智能将对经济产生何种影响。",
+          "url": "https://flash.jin10.com/detail/20260415204225720800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "李力耘将加入众擎机器人，曾是小鹏智驾负责人",
           "url": "https://wallstreetcn.com/livenews/3088462",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "19时47分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：担忧石油冲击分散了人们对包括人工智能和金融稳定风险在内的紧迫问题的关注。",
@@ -493,6 +542,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "OpenAI 开撕 Anthropic 称 300 亿收入有 80 亿是造假，如何看待当前两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/2027692500500969204",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "报道：Anthropic正准备Opus 4.7模型和AI设计工具",
           "url": "https://wallstreetcn.com/livenews/3087917",
           "source": "华尔街见闻-快讯",
@@ -510,7 +570,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -524,6 +584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "机器人切除肿瘤不彻底 医院担主责",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%87%E9%99%A4%E8%82%BF%E7%98%A4%E4%B8%8D%E5%BD%BB%E5%BA%95+%E5%8C%BB%E9%99%A2%E6%8B%85%E4%B8%BB%E8%B4%A3",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "AI时代打工人何去何从",
@@ -598,7 +669,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -612,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "英国首相发言人：英国对人工智能增长区的承诺保持不变。 美英之间关于贸易协议的谈判“仍在进行中”。",
+          "url": "https://wallstreetcn.com/livenews/3088509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
@@ -638,11 +720,12 @@
           "url": "https://www.cls.cn/detail/2344771",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 20时57分]"
         },
         {
           "title": "港股收盘，恒生指数收涨0.29%，恒生科技指数收涨1.23%。科网股走高，京东涨超4%，阿里巴巴、百度涨超3%。创新药表现强势，荣昌生物涨超9%，君实生物涨超6%。",
