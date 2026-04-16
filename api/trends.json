@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-16T21:02:20.692385+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2026-04-16T23:18:02.733249+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 23时18分]"
+        },
         {
           "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
           "url": "https://wallstreetcn.com/articles/3770049",
@@ -20,6 +32,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时43分 ~ 21时02分]"
+        },
+        {
+          "title": "警惕人工智能让人类陷入“自恋”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 23时18分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -49,8 +76,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时11分 ~ 21时02分]"
+          "appearance_count": 21,
+          "time_info": "[01时11分 ~ 23时18分]"
         },
         {
           "title": "机器人跑马拉松也穿跑鞋了",
@@ -69,30 +96,20 @@
           "time_info": "[01时11分 ~ 14时28分]"
         },
         {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
           "source": "贴吧",
           "ranks": [
-            1,
-            4
+            15,
+            14,
+            17,
+            21,
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 21时02分]"
-        },
-        {
-          "title": "警惕人工智能让人类陷入“自恋”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时24分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时43分 ~ 23时18分]"
         },
         {
           "title": "机器人切除肿瘤不彻底患者去世",
@@ -107,22 +124,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 06时33分]"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            14,
-            17,
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 21时02分]"
         },
         {
           "title": "中国机器人火到波兰：街头撵野猪，登台讲笑话",
@@ -207,6 +208,29 @@
           "time_info": "[14时28分 ~ 16时22分]"
         },
         {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时51分 ~ 23时18分]"
+        },
+        {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
           "title": "小米18Pro新增AI按键",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318Pro%E6%96%B0%E5%A2%9EAI%E6%8C%89%E9%94%AE%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -240,13 +264,24 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
+          "title": "美联储理事米兰：AI开始影响美国的劳动力市场。",
+          "url": "https://wallstreetcn.com/livenews/3089449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "曝常春藤名校用打字机对抗AI",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -306,15 +341,15 @@
           "time_info": "12时43分"
         },
         {
-          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
-          "url": "https://www.cls.cn/detail/2346308",
-          "source": "财联社热门",
+          "title": "美联储理事米兰：人工智能开始影响美国劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20260416225524101800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "23时18分"
         },
         {
           "title": "台积电(TSM.N)：人工智能需求极为强劲。",
@@ -350,6 +385,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "美联储理事米兰：经济增长与失业率之间的关联性不如过去紧密；原因尚不明确，但可能与人工智能有关。",
+          "url": "https://flash.jin10.com/detail/20260416225307362800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链",
           "url": "https://wallstreetcn.com/livenews/3088801",
           "source": "华尔街见闻-快讯",
@@ -378,9 +424,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "据行业组织American Securities Association：Anthropic的Mythos模型对美国证券交易委员会（SEC）市场追踪数据库构成风险。 这款新型AI模型可能会让交易员和金融系统面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3089434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "Cadence与英伟达扩大合作伙伴关系，以在人工智能与加速计算时代重塑工程设计。",
@@ -411,7 +468,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -449,13 +506,24 @@
           "time_info": "12时43分"
         },
         {
+          "title": "告别高危人工作业，云深处“AI防汛勇士”机器狗首次亮相",
+          "url": "https://wallstreetcn.com/livenews/3089423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "微软与Stellantis组建联合团队，共同开发人工智能项目。",
           "url": "https://wallstreetcn.com/livenews/3089325",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
