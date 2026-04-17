@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T16:21:18.500851+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-04-17T18:04:57.893171+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -16,11 +16,12 @@
             6,
             15,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 16时21分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 18时04分]"
         },
         {
           "title": "警惕人工智能让人类陷入“自恋”",
@@ -88,11 +89,12 @@
           "url": "https://www.cls.cn/detail/2347047",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 18时04分]"
         },
         {
           "title": "AI来了消博会 消费行业会怎么变",
@@ -123,11 +125,26 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 18时04分]"
+        },
+        {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            2,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 18时04分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -141,17 +158,18 @@
           "time_info": "01时02分"
         },
         {
-          "title": "国产AI激光“灭蚊神器”海外爆单",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
-          "source": "百度热搜",
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
           "ranks": [
-            14,
-            2,
-            7
+            17,
+            18,
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 18时04分]"
         },
         {
           "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
@@ -175,19 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 16时21分]"
         },
         {
           "title": "苹果公司负责手表、AirPods和智能家居的营销副总裁Stan Ng即将退休。Stan Ng在网页发文称，将在任职31年后离开公司。",
@@ -250,6 +255,17 @@
           "time_info": "[05时34分 ~ 06时31分]"
         },
         {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时04分]"
+        },
+        {
           "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
           "url": "https://www.zhihu.com/question/2025259986431787811",
           "source": "知乎",
@@ -283,17 +299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时41分]"
-        },
-        {
-          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
-          "url": "https://www.cls.cn/detail/2346971",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
@@ -374,13 +379,24 @@
           "time_info": "02时57分"
         },
         {
+          "title": "英国央行副行长Sarah Breeden：战争增加了市场压力叠加的可能性。 与人工智能相关的美国科技股看起来尤其高估。 全球金融体系迄今表现出韧性。 反映了自全球金融危机以来深层次的结构性改善。 增长、通胀和利率的冲击会同时影响所有借款人。",
+          "url": "https://wallstreetcn.com/livenews/3089954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "具身智能机器人进驻产线与园区，智平方与西子联合达成战略合作",
           "url": "https://wallstreetcn.com/livenews/3089889",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -413,7 +429,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -435,7 +451,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -468,7 +484,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
