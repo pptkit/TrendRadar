@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-17T19:42:19.241038+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-04-17T20:53:43.393447+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
+          "url": "https://www.cls.cn/detail/2347047",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 20时53分]"
+        },
         {
           "title": "番茄作者AI代笔,读者白追",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
@@ -17,23 +29,12 @@
             15,
             16,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时02分 ~ 19时42分]"
-        },
-        {
-          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
-          "url": "https://www.cls.cn/detail/2347047",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 19时42分]"
+          "appearance_count": 18,
+          "time_info": "[01时02分 ~ 20时53分]"
         },
         {
           "title": "警惕人工智能让人类陷入“自恋”",
@@ -97,15 +98,20 @@
           "time_info": "[01时02分 ~ 09时22分]"
         },
         {
-          "title": "AI来了消博会 消费行业会怎么变",
-          "url": "https://www.baidu.com/s?wd=AI%E6%9D%A5%E4%BA%86%E6%B6%88%E5%8D%9A%E4%BC%9A+%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8F%98",
-          "source": "百度热搜",
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
           "ranks": [
-            3
+            17,
+            18,
+            20,
+            22,
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 20时53分]"
         },
         {
           "title": "国产AI激光“灭蚊神器”海外爆单",
@@ -116,11 +122,12 @@
             2,
             7,
             19,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 20时53分]"
         },
         {
           "title": "机器人马拉松排位赛大赏",
@@ -130,26 +137,23 @@
             5,
             15,
             17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 19时42分]"
-        },
-        {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
             20,
-            22,
-            27
+            14
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时22分 ~ 19时42分]"
+          "time_info": "[12时40分 ~ 20时53分]"
+        },
+        {
+          "title": "AI来了消博会 消费行业会怎么变",
+          "url": "https://www.baidu.com/s?wd=AI%E6%9D%A5%E4%BA%86%E6%B6%88%E5%8D%9A%E4%BC%9A+%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8F%98",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 14时29分]"
         },
         {
           "title": "国产AI激光“灭蚊神器”海外爆单",
@@ -173,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
@@ -487,7 +502,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -557,8 +572,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 20时53分]"
         },
         {
           "title": "136家化工行业上市公司发布2025年年报，过半企业净利增长，头部公司业绩亮眼",
