@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T04:24:37.523502+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-04-19T05:24:39.014031+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -50,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "机器人马拉松排位赛大赏",
@@ -64,8 +64,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -75,8 +75,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "北京人形具身天工3.0获亦庄机器人勇士挑战赛冠军",
@@ -87,8 +87,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -96,11 +96,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 05时24分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -119,11 +120,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时34分 ~ 05时24分]"
         },
         {
           "title": "自制“长腿豆包”参加机器人半马",
@@ -131,11 +133,24 @@
           "source": "抖音",
           "ranks": [
             23,
-            17
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时24分]"
+        },
+        {
+          "title": "三月三机器人来广西也要跳竹竿舞",
+          "url": "https://www.douyin.com/hot/2469938",
+          "source": "抖音",
+          "ranks": [
+            22,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 04时24分]"
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "AI 说的「稳稳地接住你」到底是什么意思？",
@@ -143,17 +158,6 @@
           "source": "知乎",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "三月三机器人来广西也要跳竹竿舞",
-          "url": "https://www.douyin.com/hot/2469938",
-          "source": "抖音",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
