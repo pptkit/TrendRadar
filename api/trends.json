@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T05:24:39.014031+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-04-19T06:22:46.730503+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -50,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "机器人马拉松排位赛大赏",
@@ -61,11 +61,12 @@
             16,
             20,
             23,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -75,8 +76,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "北京人形具身天工3.0获亦庄机器人勇士挑战赛冠军",
@@ -87,8 +88,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -97,11 +98,26 @@
           "ranks": [
             13,
             8,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 06时22分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
+          "url": "https://flash.jin10.com/detail/20260419024853734800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时22分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -113,19 +129,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 03时34分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
-          "url": "https://flash.jin10.com/detail/20260419024853734800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时24分]"
         },
         {
           "title": "自制“长腿豆包”参加机器人半马",
