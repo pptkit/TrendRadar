@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T20:36:27.464086+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-04-18T21:55:18.264275+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "机器人马拉松拼的是什么",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 20时36分]"
+          "appearance_count": 10,
+          "time_info": "[12时23分 ~ 21时55分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             2,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 20时36分]"
+          "appearance_count": 10,
+          "time_info": "[12时23分 ~ 21时55分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -42,11 +43,28 @@
             13,
             14,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 20时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 21时55分]"
+        },
+        {
+          "title": "人形机器人半马明日开跑，这份比赛看点和队伍解析请收好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32993801",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时23分 ~ 21时55分]"
         },
         {
           "title": "高盛：AI的未来，要有光！",
@@ -74,11 +92,12 @@
             14,
             19,
             18,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 20时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 21时55分]"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -92,22 +111,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时42分 ~ 12时23分]"
-        },
-        {
-          "title": "人形机器人半马明日开跑，这份比赛看点和队伍解析请收好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32993801",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 20时36分]"
         },
         {
           "title": "三月三机器人来广西也要跳竹竿舞",
@@ -133,15 +136,28 @@
           "time_info": "02时42分"
         },
         {
-          "title": "起点百分之十的新书使用 AI 润色，起点会因为 AI 文而完蛋吗？",
-          "url": "https://www.zhihu.com/question/2028416884643472906",
-          "source": "知乎",
+          "title": "北京人形具身天工3.0获亦庄机器人勇士挑战赛冠军",
+          "url": "https://wallstreetcn.com/livenews/3090491",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "21时55分"
+        },
+        {
+          "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
+          "url": "https://wallstreetcn.com/articles/3770313",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 21时55分]"
         },
         {
           "title": "智元携手Hitch Open发起全球首个AI自主决策机器人乒乓球赛",
@@ -197,16 +213,16 @@
           "time_info": "[04时35分 ~ 05时33分]"
         },
         {
-          "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
-          "url": "https://wallstreetcn.com/articles/3770313",
-          "source": "华尔街见闻",
+          "title": "起点百分之十的新书使用 AI 润色，起点会因为 AI 文而完蛋吗？",
+          "url": "https://www.zhihu.com/question/2028416884643472906",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 20时36分]"
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时55分]"
         },
         {
           "title": "广东：大力推动人工智能高质量发展和全域全时全行业应用",
@@ -247,6 +263,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时35分 ~ 07时31分]"
+        },
+        {
+          "title": "粉红蓝莓是AI生成的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 21时55分]"
         },
         {
           "title": "AI重塑竞争格局，券商金融科技投入稳增长",
@@ -300,6 +329,18 @@
           "time_info": "[15时53分 ~ 17时38分]"
         },
         {
+          "title": "2026机器人勇士挑战赛在北京举行",
+          "url": "https://wallstreetcn.com/livenews/3090466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时55分]"
+        },
+        {
           "title": "周五（4月17日），美股存储芯片与硬件供应链指数收涨1.90%，报139.09点，本周累计上涨5.94%。 周五当天，成分股Rambus收涨5.75%，泰瑞达TER涨3.95%，希捷科技涨3%，西部数据、拉姆研究至少涨2.54%，应用材料涨1.81%，SanDisk涨0.17%，美光科技跌0.47%。 信息科技指数涨1.21%，报323.02点，本周累涨10.44%，整体平滑地持续走高。 人工智能（AI）赢家指数涨1.34%，报340.68点，本周累涨8.26%。 AI软件先驱指数涨0.70%，报97.60点，本周累涨15.83%。",
           "url": "https://wallstreetcn.com/livenews/3090359",
           "source": "华尔街见闻-快讯",
@@ -310,18 +351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 09时16分]"
-        },
-        {
-          "title": "粉红蓝莓是AI生成的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 18时31分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -407,15 +436,15 @@
           "time_info": "[14时06分 ~ 14时07分]"
         },
         {
-          "title": "2026机器人勇士挑战赛在北京举行",
-          "url": "https://wallstreetcn.com/livenews/3090466",
+          "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
+          "url": "https://wallstreetcn.com/livenews/3090487",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "21时55分"
         },
         {
           "title": "记者和人形机器人赛跑：太快了追不上",
