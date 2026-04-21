@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T18:10:08.691912+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-04-21T19:53:54.010709+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 49,
+      "match_count": 58,
       "titles": [
         {
           "title": "机器人半马见证大国创造澎湃动能",
@@ -66,11 +66,12 @@
             9,
             17,
             18,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 18时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 19时53分]"
         },
         {
           "title": "深度解读机器人马拉松跑向何方",
@@ -82,11 +83,12 @@
             15,
             18,
             17,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 18时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 19时53分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -201,15 +203,52 @@
           "time_info": "[01时50分 ~ 05时37分]"
         },
         {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 19时53分]"
+        },
+        {
+          "title": "据CNBC：大众汽车将在今年为其中国市场车型增加语音人工智能功能。",
+          "url": "https://flash.jin10.com/detail/20260421193427236800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "摩根大通上调标普500指数目标值，因人工智能板块涨势再度增强",
           "url": "https://flash.jin10.com/detail/20260421180101344800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正在与包括埃森哲、凯捷和普华永道在内的咨询公司合作，帮助将Codex销售给企业。",
+          "url": "https://flash.jin10.com/detail/20260421193335407800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "贝佐斯的AI实验室在融资交易中估值接近380亿美元",
@@ -221,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI表示Codex每周活跃用户数达到了400万，较两周前的300万有所增加。上个月用户超过200万。",
+          "url": "https://flash.jin10.com/detail/20260421193249889800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "阿里巴巴支持的视频AI初创公司PIXVERSE据悉计划香港IPO。（彭博）",
@@ -292,6 +342,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "据华尔街日报：OpenAI正与咨询公司合作，推进其Codex的销售。",
+          "url": "https://flash.jin10.com/detail/20260421193119519800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "AI短剧是如何诞生的",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
           "source": "bilibili 热搜",
@@ -306,18 +367,16 @@
           "time_info": "[12时40分 ~ 18时10分]"
         },
         {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
+          "title": "机器人半马成绩从近 3 小时压缩到 50 分，打破了人类世界纪录，「跑赢」后，它们真正的战场在哪里？",
+          "url": "https://www.zhihu.com/question/2029516146806669538",
+          "source": "知乎",
           "ranks": [
-            16,
-            13,
-            12,
-            8
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时53分]"
         },
         {
           "title": "华为首款AI眼镜来了",
@@ -372,16 +431,16 @@
           "time_info": "[00时53分 ~ 07时34分]"
         },
         {
-          "title": "机器人半马成绩从近 3 小时压缩到 50 分，打破了人类世界纪录，「跑赢」后，它们真正的战场在哪里？",
-          "url": "https://www.zhihu.com/question/2029516146806669538",
-          "source": "知乎",
+          "title": "日本开发新脑洞:机器人拆开做",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353542&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%BC%80%E5%8F%91%E6%96%B0%E8%84%91%E6%B4%9E%3A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%86%E5%BC%80%E5%81%9A",
+          "source": "贴吧",
           "ranks": [
-            6,
-            12
+            8,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时10分]"
+          "time_info": "[18时09分 ~ 19时53分]"
         },
         {
           "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
@@ -416,17 +475,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时21分 ~ 09时22分]"
-        },
-        {
-          "title": "日本开发新脑洞:机器人拆开做",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353542&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%BC%80%E5%8F%91%E6%96%B0%E8%84%91%E6%B4%9E%3A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%86%E5%BC%80%E5%81%9A",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
@@ -464,6 +512,17 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
+          "title": "唐诡导演 真人能演为啥让AI演",
+          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "AI艺人库为何遭抵制",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%B8%BA%E4%BD%95%E9%81%AD%E6%8A%B5%E5%88%B6",
           "source": "bilibili 热搜",
@@ -497,6 +556,39 @@
           "time_info": "14时29分"
         },
         {
+          "title": "OpenAI正与顾问合作销售Codex。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3091798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "机器人马拉松赛的回顾与展望",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B%E7%9A%84%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B1%95%E6%9C%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "远东股份：拟定增募资不超过20亿元，用于AIDC用全合成光纤预制棒制造项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3091797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "上海：实施“AI+制造”和“5G+工业互联网”专项行动 支持研发行业垂类大模型",
           "url": "https://wallstreetcn.com/livenews/3091582",
           "source": "华尔街见闻-快讯",
@@ -506,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "你每天用的AI 可能被“投毒”了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "人工智能开源生态共识在广州发布",
@@ -558,7 +661,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -602,7 +705,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         }
@@ -622,8 +725,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 18时10分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 19时53分]"
         },
         {
           "title": "据报道，SpaceX本周将在得州发射场及田纳西州数据中心举行分析师见面会，分析师见面会活动包括三天闭门会议。",
@@ -703,11 +806,12 @@
           "url": "https://www.cls.cn/detail/2350714",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 19时53分]"
         },
         {
           "title": "A股绿电概念快速回暖，粤电力A直线涨停，陕西能源涨超7%，乐山电力、宝新能源、浙江新能、拓日新能跟涨。",
