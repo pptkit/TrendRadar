@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-23T20:57:34.197486+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2026-04-23T23:10:00.088507+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时55分 ~ 23时10分]"
+        },
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
           "url": "https://www.cls.cn/detail/2352317",
@@ -20,18 +32,6 @@
           "time_info": "[00时02分 ~ 07时38分]"
         },
         {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 20时57分]"
-        },
-        {
           "title": "受AI冲击 短剧霸总回家种地",
           "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
           "source": "百度热搜",
@@ -40,11 +40,28 @@
             16,
             5,
             2,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 20时57分]"
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 23时10分]"
+        },
+        {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            13,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 23时10分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -81,11 +98,12 @@
             17,
             18,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 20时57分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 23时10分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -98,6 +116,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时51分 ~ 09时25分]"
+        },
+        {
+          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
+          "url": "https://www.cls.cn/detail/2353290",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 23时10分]"
         },
         {
           "title": "用AI办了场车展",
@@ -126,31 +156,31 @@
           "time_info": "[09时25分 ~ 16时28分]"
         },
         {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
+          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
+          "url": "https://www.zhihu.com/question/2027998176116777421",
+          "source": "知乎",
           "ranks": [
-            19,
-            20,
-            13,
-            9,
-            6
+            14,
+            7,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 23时10分]"
         },
         {
-          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
-          "url": "https://www.cls.cn/detail/2353290",
-          "source": "财联社热门",
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            4
+            8,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 23时10分]"
         },
         {
           "title": "监管文件显示，SpaceX预计企业级人工智能应用的总可服务市场规模为22.7万亿美元。",
@@ -162,19 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
-        },
-        {
-          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
-          "url": "https://www.zhihu.com/question/2027998176116777421",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 20时57分]"
         },
         {
           "title": "监管文件显示，SpaceX认为，相较航天业务，人工智能领域拥有更大的市场机会。SpaceX预计其所有业务的总可服务市场规模为28.5万亿美元，预计人工智能的总可服务市场规模为26.5万亿美元。",
@@ -209,18 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 18时13分]"
-        },
-        {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 20时57分]"
         },
         {
           "title": "特斯拉(TSLA.O)：正在为得州超级工厂准备第二代生产线，设计年产能为1000万台机器人。",
@@ -442,7 +447,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -453,7 +458,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -555,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "抖音上线AI创作功能，设独立入口",
+          "url": "https://wallstreetcn.com/livenews/3093388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850512&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/tkqLuXqkUDUaqE011Sbj4.jpg/lite\" height=\"120\"/></a>",
@@ -667,13 +683,24 @@
           "time_info": "02时57分"
         },
         {
+          "title": "自由港麦克莫兰公司首席执行官：受全球电网压力影响，我们观察到全球铜需求正在上升。 受人工智能及相关基础设施建设的推动，美国铜需求持续增长。 在中国，电网投资正带动铜需求“显著回升”，中国铜库存也出现“大幅”消耗。",
+          "url": "https://wallstreetcn.com/livenews/3093377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "谷歌云与CVC启动人工智能合作伙伴关系。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3093296",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -706,7 +733,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -877,7 +904,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
