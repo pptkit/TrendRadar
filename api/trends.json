@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T06:34:06.016019+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-04-24T07:36:11.664215+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 07时36分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 07时36分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -38,11 +38,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 07时36分]"
         },
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 07时36分]"
         },
         {
           "title": "宇树人形机器人解锁轮子形态",
@@ -64,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 07时36分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -75,8 +77,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 07时36分]"
         },
         {
           "title": "对比实测3大AI生图模型",
@@ -94,15 +96,15 @@
           "time_info": "[01时09分 ~ 05时37分]"
         },
         {
-          "title": "在S-1文件中，SpaceX警告称，政府对Grok AI的调查可能导致公司失去部分市场准入。",
-          "url": "https://flash.jin10.com/detail/20260424055631858800",
+          "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
+          "url": "https://flash.jin10.com/detail/20260424064650416800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时34分"
+          "time_info": "07时36分"
         },
         {
           "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
@@ -116,6 +118,18 @@
           "time_info": "01时09分"
         },
         {
+          "title": "在S-1文件中，SpaceX警告称，政府对Grok AI的调查可能导致公司失去部分市场准入。",
+          "url": "https://flash.jin10.com/detail/20260424055631858800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时36分]"
+        },
+        {
           "title": "英特尔：AI产品的“脊柱”是CPU。 代工业务（Intel Foundry）将是一个漫长的旅程。",
           "url": "https://wallstreetcn.com/livenews/3093533",
           "source": "华尔街见闻-快讯",
@@ -126,6 +140,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时34分]"
+        },
+        {
+          "title": "美国总统特朗普：我正考虑收购航空公司Spirit Airlines。 有人希望经营Spirit Airlines。 如果经营得当，会是一笔不错的资产。",
+          "url": "https://wallstreetcn.com/livenews/3093549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时36分]"
         },
         {
           "title": "OpenAI发布新模型GPT 5.5，能更好地帮助科学家们、简化软件开发、执行更复杂的任务。",
@@ -148,17 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        },
-        {
-          "title": "美国总统特朗普：我正考虑收购航空公司Spirit Airlines。 有人希望经营Spirit Airlines。 如果经营得当，会是一笔不错的资产。",
-          "url": "https://wallstreetcn.com/livenews/3093549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
         },
         {
           "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
@@ -244,7 +259,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
