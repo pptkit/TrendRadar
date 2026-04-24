@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T05:38:40.378421+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-04-25T06:32:14.356311+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时32分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时32分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -37,11 +37,12 @@
             9,
             12,
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时32分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -53,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时32分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -64,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时32分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -79,19 +80,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时32分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
           "url": "https://m.thepaper.cn/newsDetail_forward_33040900",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时32分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -104,8 +106,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 05时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时32分]"
+        },
+        {
+          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
+          "url": "https://wallstreetcn.com/articles/3770753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 06时32分]"
+        },
+        {
+          "title": "中国AI隐形王者股价一年翻10倍",
+          "url": "https://www.toutiao.com/trending/7632244941749489179/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 06时32分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
@@ -132,27 +158,15 @@
           "time_info": "[02时36分 ~ 03时43分]"
         },
         {
-          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
-          "url": "https://wallstreetcn.com/articles/3770753",
-          "source": "华尔街见闻",
+          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 05时38分]"
-        },
-        {
-          "title": "中国AI隐形王者股价一年翻10倍",
-          "url": "https://www.toutiao.com/trending/7632244941749489179/",
-          "source": "今日头条",
-          "ranks": [
-            8
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 04时35分]"
+          "time_info": "[06时31分 ~ 06时32分]"
         },
         {
           "title": "AI科研绘图哪家强",
