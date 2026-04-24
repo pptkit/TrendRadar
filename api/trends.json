@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T04:35:39.758102+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-04-25T05:38:40.378421+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时38分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时38分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时38分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时38分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -64,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时38分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -75,11 +75,12 @@
             17,
             15,
             14,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时38分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -89,8 +90,22 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时38分]"
+        },
+        {
+          "title": "中方反对美方污蔑抹黑中国AI产业",
+          "url": "https://www.douyin.com/hot/2477525",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 05时38分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
@@ -117,29 +132,16 @@
           "time_info": "[02时36分 ~ 03时43分]"
         },
         {
-          "title": "中方反对美方污蔑抹黑中国AI产业",
-          "url": "https://www.douyin.com/hot/2477525",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 04时35分]"
-        },
-        {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
           "url": "https://wallstreetcn.com/articles/3770753",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 05时38分]"
         },
         {
           "title": "中国AI隐形王者股价一年翻10倍",
