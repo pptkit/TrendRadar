@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T21:57:52.423057+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-04-25T22:37:49.538157+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,19 @@
           "time_info": "[06时31分 ~ 18时34分]"
         },
         {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时15分 ~ 22时37分]"
+        },
+        {
           "title": "DeepSeek V4揭开AI内卷终局",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
           "source": "bilibili 热搜",
@@ -78,24 +91,23 @@
             8,
             9,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 21时57分]"
+          "appearance_count": 22,
+          "time_info": "[00时50分 ~ 22时37分]"
         },
         {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时15分 ~ 21时57分]"
+          "appearance_count": 10,
+          "time_info": "[14时15分 ~ 22时37分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -134,11 +146,24 @@
             20,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 21时57分]"
+          "appearance_count": 22,
+          "time_info": "[00时50分 ~ 22时37分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时15分 ~ 22时37分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -171,27 +196,16 @@
           "time_info": "[00时50分 ~ 07时32分]"
         },
         {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时15分 ~ 21时57分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时15分 ~ 21时57分]"
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 22时37分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -210,16 +224,20 @@
           "time_info": "[01时43分 ~ 18时34分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
+          "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
+          "url": "https://www.zhihu.com/question/2031087393374041169",
+          "source": "知乎",
           "ranks": [
+            10,
             7,
-            4
+            8,
+            14,
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 21时57分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 22时37分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -250,22 +268,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
-          "url": "https://www.zhihu.com/question/2031087393374041169",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            8,
-            14,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 21时57分]"
         },
         {
           "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
@@ -429,7 +431,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -545,8 +547,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时18分 ~ 21时57分]"
+          "appearance_count": 12,
+          "time_info": "[09时18分 ~ 22时37分]"
         }
       ]
     }
