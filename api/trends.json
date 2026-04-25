@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T04:27:32.792538+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-26T05:27:12.863919+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时27分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时27分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 05时27分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -51,8 +51,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时27分]"
         },
         {
           "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
@@ -63,8 +63,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时27分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -75,8 +75,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时27分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -86,8 +86,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时27分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -125,8 +125,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 05时27分]"
         }
       ]
     }
