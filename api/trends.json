@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:31:59.783422+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-04-25T20:37:51.802277+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时50分 ~ 19时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时50分 ~ 20时37分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -122,8 +122,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时50分 ~ 19时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时50分 ~ 20时37分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -156,6 +156,19 @@
           "time_info": "[00时50分 ~ 07时32分]"
         },
         {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时15分 ~ 20时37分]"
+        },
+        {
           "title": "戛纳电影宫的中国AI时刻",
           "url": "https://www.douyin.com/hot/2476611",
           "source": "抖音",
@@ -172,19 +185,6 @@
           "time_info": "[01时43分 ~ 18时34分]"
         },
         {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时15分 ~ 19时31分]"
-        },
-        {
           "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
           "url": "https://www.toutiao.com/trending/7632545381678878254/",
           "source": "今日头条",
@@ -192,8 +192,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时15分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时15分 ~ 20时37分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时15分 ~ 20时37分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -213,6 +225,18 @@
           "time_info": "[07时32分 ~ 17时41分]"
         },
         {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 20时37分]"
+        },
+        {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
           "url": "https://wallstreetcn.com/articles/3770753",
           "source": "华尔街见闻",
@@ -224,30 +248,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时15分 ~ 19时31分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 19时31分]"
         },
         {
           "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
@@ -530,8 +530,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时18分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时18分 ~ 20时37分]"
         }
       ]
     }
