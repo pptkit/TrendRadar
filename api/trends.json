@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T20:39:13.156975+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-04-26T21:59:26.307125+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,20 @@
           "time_info": "[00时30分 ~ 12时51分]"
         },
         {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 21时59分]"
+        },
+        {
           "title": "AI图以假乱真,恐怖谷效应拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
@@ -55,11 +69,12 @@
             19,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 20时39分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 21时59分]"
         },
         {
           "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
@@ -98,20 +113,6 @@
           "time_info": "[00时29分 ~ 09时27分]"
         },
         {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时54分 ~ 20时39分]"
-        },
-        {
           "title": "第一次被一台机器人美到",
           "url": "https://www.douyin.com/hot/2478959",
           "source": "抖音",
@@ -120,11 +121,12 @@
             22,
             18,
             27,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时51分 ~ 20时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时51分 ~ 21时59分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -133,11 +135,12 @@
           "ranks": [
             17,
             21,
-            22
+            22,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 20时39分]"
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 21时59分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -153,6 +156,18 @@
           "time_info": "[12时51分 ~ 16时11分]"
         },
         {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 21时59分]"
+        },
+        {
           "title": "AI帮忙投资靠谱吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
           "source": "bilibili 热搜",
@@ -165,16 +180,15 @@
           "time_info": "[00时29分 ~ 07时28分]"
         },
         {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            20
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时43分 ~ 19时32分]"
+          "time_info": "[20时38分 ~ 21时59分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
@@ -187,17 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时11分 ~ 17时43分]"
-        },
-        {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -237,11 +240,12 @@
             12,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 20时39分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 21时59分]"
         },
         {
           "title": "如果石油枯竭了，化工行业包括塑料、硅胶、橡胶、泡沫这些材料是不是全部要消失了？",
@@ -255,8 +259,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时51分 ~ 20时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时51分 ~ 21时59分]"
         }
       ]
     },
