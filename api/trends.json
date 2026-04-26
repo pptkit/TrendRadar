@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:36:18.643904+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-04-26T19:32:20.582096+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,12 @@
             14,
             19,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 18时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 19时32分]"
         },
         {
           "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
@@ -106,8 +107,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 19时32分]"
         },
         {
           "title": "第一次被一台机器人美到",
@@ -120,8 +121,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 19时32分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -149,6 +150,31 @@
           "time_info": "[00时29分 ~ 07时28分]"
         },
         {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时32分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时32分]"
+        },
+        {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
           "url": "https://flash.jin10.com/detail/20260426150306413800",
           "source": "金十数据",
@@ -159,29 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时11分 ~ 17时43分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时36分]"
-        },
-        {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时36分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -219,11 +222,12 @@
             6,
             11,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 18时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 19时32分]"
         },
         {
           "title": "如果石油枯竭了，化工行业包括塑料、硅胶、橡胶、泡沫这些材料是不是全部要消失了？",
@@ -236,8 +240,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 19时32分]"
         }
       ]
     }
