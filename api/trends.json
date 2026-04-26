@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T21:59:26.307125+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-04-26T22:40:55.687691+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -34,6 +34,20 @@
           "time_info": "[00时29分 ~ 07时28分]"
         },
         {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时54分 ~ 22时40分]"
+        },
+        {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
@@ -45,20 +59,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时30分 ~ 12时51分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时54分 ~ 21时59分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -73,8 +73,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 21时59分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 22时40分]"
         },
         {
           "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
@@ -88,6 +88,22 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时29分 ~ 12时51分]"
+        },
+        {
+          "title": "第一次被一台机器人美到",
+          "url": "https://www.douyin.com/hot/2478959",
+          "source": "抖音",
+          "ranks": [
+            28,
+            22,
+            18,
+            27,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时51分 ~ 22时40分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -113,22 +129,6 @@
           "time_info": "[00时29分 ~ 09时27分]"
         },
         {
-          "title": "第一次被一台机器人美到",
-          "url": "https://www.douyin.com/hot/2478959",
-          "source": "抖音",
-          "ranks": [
-            28,
-            22,
-            18,
-            27,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时51分 ~ 21时59分]"
-        },
-        {
           "title": "专家热议AI短剧以规范促发展",
           "url": "https://www.douyin.com/hot/2479735",
           "source": "抖音",
@@ -139,8 +139,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时43分 ~ 21时59分]"
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 22时40分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 22时40分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -156,16 +168,16 @@
           "time_info": "[12时51分 ~ 16时11分]"
         },
         {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            20
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时43分 ~ 21时59分]"
+          "time_info": "[20时38分 ~ 22时40分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -178,17 +190,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 07时28分]"
-        },
-        {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 21时59分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
@@ -214,6 +215,28 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2029541889469096343",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "AI对广告行业有何冲击",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E5%B9%BF%E5%91%8A%E8%A1%8C%E4%B8%9A%E6%9C%89%E4%BD%95%E5%86%B2%E5%87%BB",
           "source": "bilibili 热搜",
@@ -231,6 +254,22 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如果石油枯竭了，化工行业包括塑料、硅胶、橡胶、泡沫这些材料是不是全部要消失了？",
+          "url": "https://www.zhihu.com/question/646519478",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            5,
+            10,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时51分 ~ 22时40分]"
+        },
+        {
           "title": "化工原料被管制,日企直接停摆",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353716&amp;topic_name=%E5%8C%96%E5%B7%A5%E5%8E%9F%E6%96%99%E8%A2%AB%E7%AE%A1%E5%88%B6%2C%E6%97%A5%E4%BC%81%E7%9B%B4%E6%8E%A5%E5%81%9C%E6%91%86",
           "source": "贴吧",
@@ -244,23 +283,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 21时59分]"
-        },
-        {
-          "title": "如果石油枯竭了，化工行业包括塑料、硅胶、橡胶、泡沫这些材料是不是全部要消失了？",
-          "url": "https://www.zhihu.com/question/646519478",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            5,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时51分 ~ 21时59分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 22时40分]"
         }
       ]
     },
@@ -278,6 +302,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时38分 ~ 20时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国太空军披露“金穹”合同细节：SpaceX、安杜里尔等12家公司获32亿美元订单",
+          "url": "https://www.cls.cn/detail/2355816",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     }
