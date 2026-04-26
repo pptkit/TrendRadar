@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T06:27:15.057030+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-04-27T07:30:19.023022+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时30分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -27,11 +27,12 @@
             13,
             7,
             10,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时30分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -42,8 +43,24 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时30分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14,
+            10,
+            8,
+            18,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "time_info": "[00时31分 ~ 07时30分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -55,8 +72,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时30分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -66,23 +83,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时27分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14,
-            10,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时30分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -113,8 +115,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时30分]"
         },
         {
           "title": "如果石油枯竭了，化工行业包括塑料、硅胶、橡胶、泡沫这些材料是不是全部要消失了？",
@@ -141,8 +143,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时30分]"
         },
         {
           "title": "中国布局太空算力",
@@ -153,8 +155,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 05时28分]"
+          "appearance_count": 6,
+          "time_info": "[03时38分 ~ 07时30分]"
         }
       ]
     }
