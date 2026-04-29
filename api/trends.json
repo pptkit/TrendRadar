@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T13:18:15.878661+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-04-29T15:58:00.850536+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时44分 ~ 15时58分]"
+        },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2358592",
@@ -19,6 +30,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时29分 ~ 09时51分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时45分 ~ 15时58分]"
+        },
+        {
+          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
+          "url": "https://www.cls.cn/detail/2358910",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 15时58分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -40,22 +76,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时29分 ~ 13时18分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[01时29分 ~ 15时58分]"
         },
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -94,28 +120,16 @@
           "time_info": "[01时29分 ~ 05时52分]"
         },
         {
-          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
-          "url": "https://www.cls.cn/detail/2358910",
-          "source": "财联社热门",
+          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
+          "url": "https://www.zhihu.com/question/2030222424457703714",
+          "source": "知乎",
           "ranks": [
-            5,
+            9,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时18分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时45分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 15时58分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -159,7 +173,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -181,7 +195,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -196,17 +210,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时17分]"
-        },
-        {
-          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
-          "url": "https://www.zhihu.com/question/2030222424457703714",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时18分]"
         },
         {
           "title": "岗位被AI替代怎么办？杭州发布指引",
@@ -231,6 +234,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时44分 ~ 09时51分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -368,7 +382,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -379,7 +393,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -401,7 +415,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
