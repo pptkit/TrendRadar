@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T06:41:21.661393+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-05-01T07:42:16.750521+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "假如AI能模拟去世亲人",
@@ -15,22 +15,24 @@
             8,
             7,
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时42分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
           "url": "https://www.cls.cn/detail/2361477",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时42分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -40,8 +42,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时42分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -80,6 +82,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
+          "url": "https://wallstreetcn.com/livenews/3097751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -110,11 +123,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时45分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[05时45分 ~ 07时42分]"
+        },
+        {
+          "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
+          "url": "https://flash.jin10.com/detail/20260501054951579800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时42分]"
         },
         {
           "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
@@ -152,17 +178,6 @@
           "time_info": "02时03分"
         },
         {
-          "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
-          "url": "https://flash.jin10.com/detail/20260501054951579800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
           "url": "https://wallstreetcn.com/livenews/3097631",
           "source": "华尔街见闻-快讯",
@@ -194,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "宇树双臂人形机器人价格",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%8C%E8%87%82%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "马斯克再次重返证人席，接受OpenAI律师反询问",
