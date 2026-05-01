@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T15:59:43.264377+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-05-01T17:44:26.187507+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "假如AI能模拟去世亲人",
@@ -32,11 +32,12 @@
             8,
             10,
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 15时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 17时44分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -44,11 +45,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 15时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 17时44分]"
         },
         {
           "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
@@ -61,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时45分 ~ 15时59分]"
+          "appearance_count": 9,
+          "time_info": "[05时45分 ~ 17时44分]"
         },
         {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
@@ -72,8 +74,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时34分 ~ 17时44分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            8,
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 17时44分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -112,19 +128,6 @@
           "time_info": "13时34分"
         },
         {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 15时59分]"
-        },
-        {
           "title": "人民日报：不能让AI生成内容误导公众",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
           "source": "百度热搜",
@@ -147,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -234,6 +248,18 @@
           "time_info": "[05时46分 ~ 06时41分]"
         },
         {
+          "title": "女子被AI误导闯入响尾蛇窝",
+          "url": "https://www.toutiao.com/trending/7634484856417468470/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 17时44分]"
+        },
+        {
           "title": "美国国防部长赫格塞思：人工智能并未做出致命决策；Anthropic公司由一位“意识形态狂人”领导。",
           "url": "https://flash.jin10.com/detail/20260501014458806800",
           "source": "金十数据",
@@ -278,13 +304,24 @@
           "time_info": "02时03分"
         },
         {
+          "title": "全国首个交通管理机器人中队上岗",
+          "url": "https://www.toutiao.com/trending/7634423336931442707/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "法国总理：将开发和部署人工智能工具，以检测系统存在的漏洞和弱点。这是一个安全和主权的问题。",
           "url": "https://flash.jin10.com/detail/20260501142522147800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -295,7 +332,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -316,17 +353,6 @@
           "source": "金十数据",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "女子被AI误导闯入响尾蛇窝",
-          "url": "https://www.toutiao.com/trending/7634484856417468470/",
-          "source": "今日头条",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
