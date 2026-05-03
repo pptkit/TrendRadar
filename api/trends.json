@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T07:33:41.136757+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-05-03T09:45:56.169125+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -16,19 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时45分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时45分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -38,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时45分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -79,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时45分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -119,11 +120,27 @@
           "ranks": [
             1,
             3,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 07时33分]"
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 09时45分]"
+        },
+        {
+          "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260503021929638800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            10,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时46分 ~ 09时45分]"
         },
         {
           "title": "误导女子闯入毒蛇窝AI道歉",
@@ -155,18 +172,27 @@
           "time_info": "[00时35分 ~ 07时33分]"
         },
         {
-          "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
-          "url": "https://flash.jin10.com/detail/20260503021929638800",
-          "source": "金十数据",
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
           "ranks": [
-            3,
-            8,
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
+          "url": "https://wallstreetcn.com/articles/3771481",
+          "source": "华尔街见闻",
+          "ranks": [
             10,
-            14
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时46分 ~ 07时33分]"
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 09时45分]"
         },
         {
           "title": "在 AI 时代，最重要的能力是什么？",
@@ -224,17 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 00时36分]"
-        },
-        {
-          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
-          "url": "https://wallstreetcn.com/articles/3771481",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
         },
         {
           "title": "伯克希尔CEO格雷格·阿贝尔：人工智能的应用将在所有业务领域创造机遇。",
