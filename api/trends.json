@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T16:14:54.362138+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-05-04T18:54:54.052956+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -163,8 +163,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 16时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 18时54分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -217,11 +217,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 16时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 18时54分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -232,8 +233,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 16时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 18时54分]"
         },
         {
           "title": "AI狂潮继续！亚太股市创盘中纪录新高，韩股暴涨5%，SK海力士市值首破1000万亿韩元，恒科指大涨近3%",
@@ -242,7 +243,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -265,8 +266,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时29分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[06时29分 ~ 18时54分]"
         },
         {
           "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
@@ -278,8 +279,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 18时54分]"
+        },
+        {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时54分]"
         },
         {
           "title": "内存对AI CPU至关重要？韩媒：DRAM短缺将再持续一年",
@@ -316,15 +329,26 @@
           "time_info": "[06时29分 ~ 06时30分]"
         },
         {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
+          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
+          "url": "https://wallstreetcn.com/articles/3771537",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "18时54分"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
@@ -333,7 +357,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -347,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "“房东”骗完租客转头问AI会被抓吗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%BF%E4%B8%9C%E2%80%9D%E9%AA%97%E5%AE%8C%E7%A7%9F%E5%AE%A2%E8%BD%AC%E5%A4%B4%E9%97%AEAI%E4%BC%9A%E8%A2%AB%E6%8A%93%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "马桶巨头进军AI芯片行业",
@@ -366,7 +401,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
@@ -376,6 +411,19 @@
       "keyword_group": "太空 spaceX",
       "match_count": 2,
       "titles": [
+        {
+          "title": "为了上车SpaceX，华尔街准备先卖掉Mag 7！",
+          "url": "https://wallstreetcn.com/articles/3771521",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 18时54分]"
+        },
         {
           "title": "据瑞典电视台：瑞典已将首颗军用侦察卫星送入太空，据悉该卫星将用于监视俄罗斯。",
           "url": "https://flash.jin10.com/detail/20260504030039843800",
@@ -388,18 +436,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时45分 ~ 05时33分]"
-        },
-        {
-          "title": "为了上车SpaceX，华尔街准备先卖掉Mag 7！",
-          "url": "https://wallstreetcn.com/articles/3771521",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 16时14分]"
         }
       ]
     }
