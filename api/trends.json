@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T05:58:36.833117+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-05-06T06:46:18.073682+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -16,19 +16,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
-          "title": "AMD给出的季度营收指引高于市场预期，得益于AI芯片需求保持强劲",
-          "url": "https://wallstreetcn.com/livenews/3098957",
+          "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
+          "url": "https://www.zhihu.com/question/2034044394312037174",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098967",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时46分"
         },
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -42,20 +57,6 @@
           "time_info": "03时08分"
         },
         {
-          "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
-          "url": "https://www.zhihu.com/question/2034044394312037174",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时58分]"
-        },
-        {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
           "url": "https://news.ifeng.com/c/8ssll5TyVCi",
           "source": "凤凰网",
@@ -63,8 +64,57 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "机器人爆火 哪些赚钱哪些裸泳",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%86%E7%81%AB+%E5%93%AA%E4%BA%9B%E8%B5%9A%E9%92%B1%E5%93%AA%E4%BA%9B%E8%A3%B8%E6%B3%B3",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21,
+            18,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "AMD给出的季度营收指引高于市场预期，得益于AI芯片需求保持强劲",
+          "url": "https://wallstreetcn.com/livenews/3098957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时46分]"
         },
         {
           "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
@@ -79,40 +129,17 @@
           "time_info": "[01时17分 ~ 03时08分]"
         },
         {
-          "title": "机器人爆火 哪些赚钱哪些裸泳",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%86%E7%81%AB+%E5%93%AA%E4%BA%9B%E8%B5%9A%E9%92%B1%E5%93%AA%E4%BA%9B%E8%A3%B8%E6%B3%B3",
+          "title": "从猫狗到水果 AI短剧还能火多久",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E7%8C%AB%E7%8B%97%E5%88%B0%E6%B0%B4%E6%9E%9C+AI%E7%9F%AD%E5%89%A7%E8%BF%98%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85",
           "source": "百度热搜",
           "ranks": [
+            23,
             26,
-            21,
-            18,
-            19
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时58分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时58分]"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时58分]"
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
@@ -127,16 +154,40 @@
           "time_info": "[01时17分 ~ 04时53分]"
         },
         {
-          "title": "从猫狗到水果 AI短剧还能火多久",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E7%8C%AB%E7%8B%97%E5%88%B0%E6%B0%B4%E6%9E%9C+AI%E7%9F%AD%E5%89%A7%E8%BF%98%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85",
-          "source": "百度热搜",
+          "title": "Cerence AI：国际贸易委员会诉状请求发布有限排除令，禁止包括音箱、显示器、电视、平板电脑和流媒体设备在内的某些智能设备进口至美国。",
+          "url": "https://flash.jin10.com/detail/20260506052544732800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            26
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时53分]"
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时46分]"
+        },
+        {
+          "title": "Cerence AI：也提起了地区法院诉讼。",
+          "url": "https://flash.jin10.com/detail/20260506052339847800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时46分]"
+        },
+        {
+          "title": "Cerence AI：向美国国际贸易委员会对亚马逊提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260506052300378800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时46分]"
         },
         {
           "title": "OpenAI：在所有ChatGPT模型中引入内存源。",
@@ -172,17 +223,6 @@
           "time_info": "01时17分"
         },
         {
-          "title": "Cerence AI：国际贸易委员会诉状请求发布有限排除令，禁止包括音箱、显示器、电视、平板电脑和流媒体设备在内的某些智能设备进口至美国。",
-          "url": "https://flash.jin10.com/detail/20260506052544732800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
           "title": "OpenAI：对于付费用户，GPT‑5.3 Instant将在未来3个月内继续可用，用户可通过模型配置设置访问，之后该版本将正式退役。",
           "url": "https://flash.jin10.com/detail/20260506010453455800",
           "source": "金十数据",
@@ -194,17 +234,6 @@
           "time_info": "01时17分"
         },
         {
-          "title": "Cerence AI：也提起了地区法院诉讼。",
-          "url": "https://flash.jin10.com/detail/20260506052339847800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
           "title": "OpenAI：GPT-5.5 Instant从今天开始向所有ChatGPT用户推出。",
           "url": "https://flash.jin10.com/detail/20260506010425675800",
           "source": "金十数据",
@@ -214,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "Cerence AI：向美国国际贸易委员会对亚马逊提起诉讼。",
-          "url": "https://flash.jin10.com/detail/20260506052300378800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
@@ -258,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         },
         {
           "title": "OpenAI：在我们持续测试和完善体验的过程中，将逐步向更多企业开放广告管理器。",
@@ -332,7 +361,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -415,7 +444,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
