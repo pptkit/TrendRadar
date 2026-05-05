@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T18:02:20.190956+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-05-05T19:10:11.856350+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
@@ -95,11 +95,12 @@
             8,
             17,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时20分 ~ 18时02分]"
+          "appearance_count": 16,
+          "time_info": "[01时20分 ~ 19时10分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -109,11 +110,12 @@
             9,
             18,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时20分 ~ 18时02分]"
+          "appearance_count": 16,
+          "time_info": "[01时20分 ~ 19时10分]"
         },
         {
           "title": "用AI写出20亿播放量神曲？音乐人发声",
@@ -123,8 +125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 19时10分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -134,8 +136,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 19时10分]"
+        },
+        {
+          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
+          "url": "https://wallstreetcn.com/articles/3771568",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 19时10分]"
+        },
+        {
+          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771556",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 19时10分]"
         },
         {
           "title": "据纽约时报：美国白宫考虑在发布人工智能模型前对其进行审查。",
@@ -186,30 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 15时14分]"
-        },
-        {
-          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
-          "url": "https://wallstreetcn.com/articles/3771568",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 18时02分]"
-        },
-        {
-          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771556",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 18时02分]"
         },
         {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
@@ -282,6 +284,18 @@
           "time_info": "[15时13分 ~ 15时14分]"
         },
         {
+          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
+          "url": "https://wallstreetcn.com/livenews/3098735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时10分]"
+        },
+        {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
           "url": "https://wallstreetcn.com/livenews/3098593",
           "source": "华尔街见闻-快讯",
@@ -337,17 +351,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
-          "url": "https://wallstreetcn.com/livenews/3098735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "黄仁勋为何炮轰渲染AI末日论硅谷高管",
           "url": "https://www.toutiao.com/trending/7636229378715684371/",
           "source": "今日头条",
@@ -387,7 +390,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
