@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T19:02:13.965995+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-05-07T20:28:53.652567+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -96,8 +96,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时12分 ~ 20时28分]"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 20时28分]"
         },
         {
           "title": "10后小孩哥用AI帮妈妈管店",
@@ -159,19 +172,6 @@
           "time_info": "13时22分"
         },
         {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 19时02分]"
-        },
-        {
           "title": "市场消息：由Meta支持的Scale AI公司获得了一份价值5亿美元的美国国防部合同。",
           "url": "https://flash.jin10.com/detail/20260507042354436800",
           "source": "金十数据",
@@ -181,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时12分 ~ 20时28分]"
         },
         {
           "title": "“湖北惊现人造毒大米”系AI生成",
@@ -194,15 +205,17 @@
           "time_info": "[13时22分 ~ 19时02分]"
         },
         {
-          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
-          "url": "https://www.zhihu.com/question/2035667399110653049",
-          "source": "知乎",
+          "title": "AMD股价暴涨19%！华尔街密集上调目标价 代理式AI引爆CPU需求",
+          "url": "https://www.cls.cn/detail/2364555",
+          "source": "财联社热门",
           "ranks": [
-            8
+            9,
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时12分 ~ 19时02分]"
+          "time_info": "[19时00分 ~ 20时28分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -228,18 +241,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 05时03分]"
-        },
-        {
-          "title": "AMD股价暴涨19%！华尔街密集上调目标价 代理式AI引爆CPU需求",
-          "url": "https://www.cls.cn/detail/2364555",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时02分]"
         },
         {
           "title": "EXO ai篡改记忆",
@@ -308,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "AI时代三星怎么更猛了",
+          "url": "https://www.toutiao.com/trending/7637076739255963187/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
@@ -484,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "国产机器人成中国外贸新名片，清洁机器人海外卖爆了",
+          "url": "https://wallstreetcn.com/livenews/3099955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     },
@@ -513,8 +536,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 20时28分]"
         },
         {
           "title": "SpaceX估计芯片工厂耗资至少550亿美元",
@@ -632,7 +655,7 @@
     },
     {
       "keyword_group": "化工",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股煤化工概念板块盘初下跌，诚志股份、宝丰能源跌超5%，*ST瑞茂一字跌停，华鲁恒升、卫星化学、泸天化等跟跌。",
@@ -644,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "永杉锂业：截至本公告披露日，公司正在筹划与四川南充经济开发区管理委员会签署《锂盐项目投资协议》，并计划于四川省南充市经开化工园区投资建设锂盐项目。目前双方已初步达成相关投资协议，公司拟于近期尽快召开董事会审议该事项。",
+          "url": "https://wallstreetcn.com/livenews/3099972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     }
