@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T20:28:53.652567+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-05-07T23:27:46.278677+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -42,6 +42,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 07时41分]"
+        },
+        {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时12分 ~ 23时27分]"
         },
         {
           "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
@@ -87,19 +100,6 @@
           "time_info": "[01时21分 ~ 09时49分]"
         },
         {
-          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
-          "url": "https://www.cls.cn/detail/2364810",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时12分 ~ 20时28分]"
-        },
-        {
           "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
           "url": "https://www.cls.cn/detail/2364594",
           "source": "财联社热门",
@@ -137,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "“人工智能+”走向智能经济新形态",
+          "url": "https://www.toutiao.com/trending/7636674300020015155/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "OpenAI：我们推出B2B Signals，这是OpenAI Signals的商业扩展版。",
@@ -317,7 +328,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -331,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
+          "url": "https://wallstreetcn.com/articles/3771688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
@@ -504,7 +526,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         }
@@ -512,7 +534,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "SpaceX成算力租赁巨头 Anthropic大手一挥包下Colossus 1全部容量",
@@ -572,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "SpaceX在IPO前准备大规模支出。",
+          "url": "https://flash.jin10.com/detail/20260507231056015800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "Anthropic与SpaceX达成算力协议，将接入Colossus 1数据中心",
@@ -675,7 +708,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         }
