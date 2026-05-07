@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T16:12:49.028163+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-05-07T19:02:13.965995+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -87,6 +87,19 @@
           "time_info": "[01时21分 ~ 09时49分]"
         },
         {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 19时02分]"
+        },
+        {
           "title": "10后小孩哥用AI帮妈妈管店",
           "url": "https://www.baidu.com/s?wd=10%E5%90%8E%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%94%A8AI%E5%B8%AE%E5%A6%88%E5%A6%88%E7%AE%A1%E5%BA%97",
           "source": "百度热搜",
@@ -146,6 +159,19 @@
           "time_info": "13时22分"
         },
         {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 19时02分]"
+        },
+        {
           "title": "市场消息：由Meta支持的Scale AI公司获得了一份价值5亿美元的美国国防部合同。",
           "url": "https://flash.jin10.com/detail/20260507042354436800",
           "source": "金十数据",
@@ -155,6 +181,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 19时02分]"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 19时02分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -182,27 +230,16 @@
           "time_info": "[01时21分 ~ 05时03分]"
         },
         {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
+          "title": "AMD股价暴涨19%！华尔街密集上调目标价 代理式AI引爆CPU需求",
+          "url": "https://www.cls.cn/detail/2364555",
           "source": "财联社热门",
           "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时12分]"
-        },
-        {
-          "title": "“湖北惊现人造毒大米”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
+            9,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时12分]"
+          "time_info": "[19时00分 ~ 19时02分]"
         },
         {
           "title": "EXO ai篡改记忆",
@@ -215,6 +252,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 13时22分]"
+        },
+        {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时02分]"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -257,18 +305,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        },
-        {
-          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
-          "url": "https://www.zhihu.com/question/2035667399110653049",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -282,17 +319,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
-          "url": "https://www.cls.cn/detail/2364810",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
         },
         {
           "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
@@ -463,7 +489,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "SpaceX成算力租赁巨头 Anthropic大手一挥包下Colossus 1全部容量",
@@ -477,6 +503,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时49分 ~ 16时12分]"
+        },
+        {
+          "title": "Anthropic大手笔租下SpaceX顶级数据中心！深扒协议细节：22万块GPU是个什么水平？",
+          "url": "https://www.cls.cn/detail/2364674",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时02分]"
         },
         {
           "title": "SpaceX估计芯片工厂耗资至少550亿美元",
@@ -575,7 +613,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
