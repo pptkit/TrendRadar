@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T12:47:55.797448+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-05-08T14:28:14.301717+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时31分 ~ 12时47分]"
-        },
-        {
-          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
-          "url": "https://www.cls.cn/detail/2364810",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 04时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时31分 ~ 14时28分]"
         },
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -38,11 +27,12 @@
             9,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时24分 ~ 12时47分]"
+          "appearance_count": 10,
+          "time_info": "[03时24分 ~ 14时28分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -57,8 +47,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 12时47分]"
+          "appearance_count": 11,
+          "time_info": "[01时31分 ~ 14时28分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -69,8 +59,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 12时47分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 14时28分]"
+        },
+        {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 04时57分]"
         },
         {
           "title": "据日经新闻：软银集团正考虑在英伟达、富士康等企业的协助下，于本十年末前开始设计和组装自主研发的人工智能服务器部件。",
@@ -104,6 +105,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "宇树机器人以佛弟子身份在韩国寺庙受戒，「五戒」要求「不过度充电、不顶撞人类」等，如何看待机器人皈依？",
+          "url": "https://www.zhihu.com/question/2035738175893714497",
+          "source": "知乎",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时28分]"
         },
         {
           "title": "据日经新闻：软银正与英伟达(NVDA.O)商谈开发“日本制造”的人工智能服务器。",
@@ -164,6 +177,53 @@
           "time_info": "[01时32分 ~ 03时24分]"
         },
         {
+          "title": "AI四小龙估值破万亿",
+          "url": "https://www.toutiao.com/trending/7637337803117825590/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时28分]"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时28分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时28分]"
+        },
+        {
+          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
+          "url": "https://www.zhihu.com/question/2035662942067225907",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时28分]"
+        },
+        {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
           "url": "https://www.cls.cn/detail/2365476",
           "source": "财联社热门",
@@ -204,9 +264,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "科技行业裁员或体现在美国4月非农中，但AI担忧或被夸大",
+          "url": "https://flash.jin10.com/detail/20260508142001821800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "传奇投资者：AI牛市“还能再持续一两年”",
@@ -231,17 +302,6 @@
           "time_info": "03时24分"
         },
         {
-          "title": "AI四小龙估值破万亿",
-          "url": "https://www.toutiao.com/trending/7637337803117825590/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "解散xAI ，马斯克和Anthropic都赢麻了",
           "url": "https://wallstreetcn.com/articles/3771763",
           "source": "华尔街见闻",
@@ -264,17 +324,6 @@
           "time_info": "07时43分"
         },
         {
-          "title": "宇树机器人以佛弟子身份在韩国寺庙受戒，「五戒」要求「不过度充电、不顶撞人类」等，如何看待机器人皈依？",
-          "url": "https://www.zhihu.com/question/2035738175893714497",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "OpenAI推出新模型，以供网络安全团队使用",
           "url": "https://flash.jin10.com/detail/20260508065544953800",
           "source": "金十数据",
@@ -286,37 +335,26 @@
           "time_info": "07时43分"
         },
         {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "法拉第未来：FF AI-Robotics与波士顿国际商学院（BIBS）达成战略合作，共同成立BIBS–FF AI Robotics Institute，这是美国首个由产业驱动的实体人工智能与机器人研究所。",
           "url": "https://flash.jin10.com/detail/20260508121027450800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "AI建设热潮持续，台积电4月营收增长17.5%",
+          "url": "https://flash.jin10.com/detail/20260508141054350800",
+          "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "14时28分"
         },
         {
           "title": "5月8日午间收评：科创50指数半日跌近3%，机器人概念股逆势大涨",
@@ -325,7 +363,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -358,20 +396,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
         {
-          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
-          "url": "https://www.zhihu.com/question/2035662942067225907",
-          "source": "知乎",
+          "title": "印度外交部：外交部长与阿联酋国际合作国务部长和法国欧洲与外交事务部秘书长于2026年5月7日在阿布扎比参加了印度-阿联酋-法国三方会议。 会议讨论了在人工智能、太空和文化遗产领域的战略合作。各方一致同意以结构化方式推进三方合作。",
+          "url": "https://flash.jin10.com/detail/20260508140704728800",
+          "source": "金十数据",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "14时28分"
         },
         {
           "title": "博通(AVGO.O)股价小幅走低，下跌3.6%，报410美元。有报道称博通与OpenAI的交易因融资问题受阻。",
@@ -413,7 +451,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -424,7 +462,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
@@ -441,7 +479,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -496,7 +534,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
