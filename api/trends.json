@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T18:46:18.564544+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-05-09T19:41:23.356285+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,22 @@
           "time_info": "[00时08分 ~ 06时44分]"
         },
         {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            9,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 19时41分]"
+        },
+        {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
           "url": "https://www.cls.cn/detail/2366653",
           "source": "财联社热门",
@@ -28,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 19时41分]"
         },
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
@@ -42,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 19时41分]"
         },
         {
           "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
@@ -59,19 +75,17 @@
           "time_info": "[00时08分 ~ 07时45分]"
         },
         {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
-          "source": "澎湃新闻",
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            11,
-            9,
-            6,
-            3
+            8,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 19时41分]"
         },
         {
           "title": "GAI新歌星梦MV",
@@ -99,6 +113,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时04分 ~ 07时45分]"
+        },
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
           "title": "私募和AI合体意味着什么",
@@ -148,27 +174,17 @@
           "time_info": "04时04分"
         },
         {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            13,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 18时46分]"
-        },
-        {
-          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://wallstreetcn.com/articles/3771900",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 19时41分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -194,6 +210,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时47分 ~ 07时45分]"
+        },
+        {
+          "title": "工信部启动人工智能科技伦理审查与服务先导计划，加快推动审查工作落地实施",
+          "url": "https://wallstreetcn.com/livenews/3101030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 19时41分]"
         },
         {
           "title": "AI算力的下一个瓶颈：涨价的CPU、抢不到的货",
@@ -244,29 +273,29 @@
           "time_info": "[17时07分 ~ 18时46分]"
         },
         {
-          "title": "工信部启动人工智能科技伦理审查与服务先导计划，加快推动审查工作落地实施",
-          "url": "https://wallstreetcn.com/livenews/3101030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时46分]"
-        },
-        {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            11
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 17时07分]"
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 19时41分]"
+        },
+        {
+          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
+          "url": "https://wallstreetcn.com/livenews/3101029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 19时41分]"
         },
         {
           "title": "创业板跌近1%，芯片半导体集体调整，机器人逆势爆发，恒指跌近1%，科网股多跌，快手涨超9%",
@@ -292,18 +321,6 @@
           "time_info": "[05时47分 ~ 07时45分]"
         },
         {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时46分]"
-        },
-        {
           "title": "据悉字节跳动计划将AI基础设施支出增加25%",
           "url": "https://flash.jin10.com/detail/20260509162004695800",
           "source": "金十数据",
@@ -316,16 +333,27 @@
           "time_info": "[17时07分 ~ 18时46分]"
         },
         {
-          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
-          "url": "https://wallstreetcn.com/livenews/3101029",
-          "source": "华尔街见闻-快讯",
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            21
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时07分 ~ 18时46分]"
+          "time_info": "[17时07分 ~ 19时41分]"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
           "title": "AI修复美国公布UFO照片",
@@ -383,17 +411,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时07分"
-        },
-        {
           "title": "美国拟发布AI安全行政令，但将不包含强制性模型测试",
           "url": "https://flash.jin10.com/detail/20260509033607893800",
           "source": "金十数据",
@@ -414,17 +431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
-        },
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：美国4月非农就业报告相当稳定。 并没有太多证据表明劳动力市场在崩溃。 通胀并不严重，（只是）处于错误的方向上。 通胀压力不仅仅来自能源（冲击），在美国和以色列发动伊朗战争前就已经处于高位。 正试图判断能源冲击是否会持续。 主要的担忧在于服务通胀。 美联储必须密切关注通胀形势。 美联储应当始终保留所有政策选项。 不怎么喜欢用言论来引导（口头干预）政策决策。 担心市场在 AI 生产力提升真正到来之前就提前将其计入定价。（CNBC）",
@@ -590,11 +596,12 @@
             18,
             16,
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 19时41分]"
         }
       ]
     }
