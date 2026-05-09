@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T07:45:07.209570+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-05-09T09:48:36.256689+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -45,6 +45,20 @@
           "time_info": "[04时04分 ~ 07时45分]"
         },
         {
+          "title": "私募和AI合体意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            29,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时04分 ~ 09时48分]"
+        },
+        {
           "title": "Anthropic与Akamai达成价值18亿美元的计算协议。",
           "url": "https://flash.jin10.com/detail/20260509015729389800",
           "source": "金十数据",
@@ -54,17 +68,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
-          "url": "https://wallstreetcn.com/livenews/3100961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
         },
         {
           "title": "美联储报告：人们越来越担心人工智能的扩张依赖于债务融资。",
@@ -87,31 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
-          "url": "https://wallstreetcn.com/livenews/3100960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "私募和AI合体意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            29,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时04分 ~ 07时45分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -151,6 +129,44 @@
           "time_info": "[02时06分 ~ 04时04分]"
         },
         {
+          "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
+          "url": "https://wallstreetcn.com/livenews/3100961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 09时48分]"
+        },
+        {
+          "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
+          "url": "https://wallstreetcn.com/livenews/3100960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 09时48分]"
+        },
+        {
+          "title": "GAI新歌星梦MV",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            25,
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 09时48分]"
+        },
+        {
           "title": "美联储报告：地缘政治风险、石油冲击、人工智能、私人信贷以及持续通胀/货币紧缩是威胁美国金融稳定的五大主要风险。",
           "url": "https://flash.jin10.com/detail/20260509040340876800",
           "source": "金十数据",
@@ -162,19 +178,6 @@
           "time_info": "[05时47分 ~ 07时45分]"
         },
         {
-          "title": "GAI新歌星梦MV",
-          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 06时44分]"
-        },
-        {
           "title": "美联储报告：人工智能技术的广泛应用可能推高失业率。",
           "url": "https://flash.jin10.com/detail/20260509040109485800",
           "source": "金十数据",
@@ -184,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国拟发布AI安全令，不含强制性模型测试",
@@ -217,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：美国4月非农就业报告相当稳定。 并没有太多证据表明劳动力市场在崩溃。 通胀并不严重，（只是）处于错误的方向上。 通胀压力不仅仅来自能源（冲击），在美国和以色列发动伊朗战争前就已经处于高位。 正试图判断能源冲击是否会持续。 主要的担忧在于服务通胀。 美联储必须密切关注通胀形势。 美联储应当始终保留所有政策选项。 不怎么喜欢用言论来引导（口头干预）政策决策。 担心市场在 AI 生产力提升真正到来之前就提前将其计入定价。（CNBC）",
