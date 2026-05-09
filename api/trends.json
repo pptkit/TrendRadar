@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T22:13:20.076338+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-05-09T23:41:07.456099+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
@@ -17,11 +17,12 @@
             9,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时48分 ~ 22时13分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 23时41分]"
         },
         {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
@@ -33,8 +34,35 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 23时41分]"
+        },
+        {
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时59分 ~ 22时13分]"
+          "time_info": "[15时08分 ~ 23时41分]"
+        },
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 23时41分]"
         },
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
@@ -63,32 +91,6 @@
           "time_info": "[00时08分 ~ 06时44分]"
         },
         {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 22时13分]"
-        },
-        {
-          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://wallstreetcn.com/articles/3771900",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 22时13分]"
-        },
-        {
           "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
           "url": "https://www.cls.cn/detail/2366145",
           "source": "财联社热门",
@@ -100,6 +102,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 07时45分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时07分 ~ 23时41分]"
         },
         {
           "title": "GAI新歌星梦MV",
@@ -143,6 +159,18 @@
           "time_info": "[04时04分 ~ 09时48分]"
         },
         {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 23时41分]"
+        },
+        {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
           "url": "https://www.cls.cn/detail/2366733",
           "source": "财联社热门",
@@ -154,6 +182,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时59分 ~ 20时50分]"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 23时41分]"
         },
         {
           "title": "Anthropic与Akamai达成价值18亿美元的计算协议。",
@@ -187,19 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 22时13分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -276,18 +306,6 @@
           "time_info": "[07时45分 ~ 09时48分]"
         },
         {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 22时13分]"
-        },
-        {
           "title": "工信部启动人工智能科技伦理审查与服务先导计划",
           "url": "https://flash.jin10.com/detail/20260509162114709800",
           "source": "金十数据",
@@ -298,20 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时07分 ~ 18时46分]"
-        },
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 22时13分]"
         },
         {
           "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
@@ -339,6 +343,41 @@
           "time_info": "[12时59分 ~ 15时08分]"
         },
         {
+          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
+          "url": "https://wallstreetcn.com/articles/3771893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时13分 ~ 23时41分]"
+        },
+        {
+          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3101062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 23时41分]"
+        },
+        {
+          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
+          "url": "https://www.zhihu.com/question/2034624017219499142",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时13分 ~ 23时41分]"
+        },
+        {
           "title": "美联储报告：地缘政治风险、石油冲击、人工智能、私人信贷以及持续通胀/货币紧缩是威胁美国金融稳定的五大主要风险。",
           "url": "https://flash.jin10.com/detail/20260509040340876800",
           "source": "金十数据",
@@ -348,6 +387,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时47分 ~ 07时45分]"
+        },
+        {
+          "title": "韩国机器人出家,皈依佛门受戒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354142&amp;topic_name=%E9%9F%A9%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%87%BA%E5%AE%B6%2C%E7%9A%88%E4%BE%9D%E4%BD%9B%E9%97%A8%E5%8F%97%E6%88%92",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "据悉字节跳动计划将AI基础设施支出增加25%",
@@ -362,16 +412,15 @@
           "time_info": "[17时07分 ~ 18时46分]"
         },
         {
-          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3101062",
-          "source": "华尔街见闻-快讯",
+          "title": "SK 海力士利润率 72% 碾压英伟达，人均年终奖超 60 万元，带飞韩国楼市婚恋市场，这场 AI 造富能持续多久？",
+          "url": "https://www.zhihu.com/question/2036476955948799322",
+          "source": "知乎",
           "ranks": [
-            11,
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时50分 ~ 22时13分]"
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "AI修复美国公布UFO照片",
@@ -429,17 +478,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
-          "url": "https://wallstreetcn.com/articles/3771893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "美国拟发布AI安全行政令，但将不包含强制性模型测试",
           "url": "https://flash.jin10.com/detail/20260509033607893800",
           "source": "金十数据",
@@ -468,7 +506,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -482,17 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
-          "url": "https://www.zhihu.com/question/2034624017219499142",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "市场消息：美国拟定的人工智能安全行政令未包含强制性模型测试要求；知情人士称，白宫起草的人工智能行政令仍可能有所调整。",
@@ -600,6 +627,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "太空快递跑出中国加速度",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%BF%AB%E9%80%92%E8%B7%91%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%BA%A6%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时13分 ~ 23时41分]"
+        },
+        {
           "title": "我国“太极计划”获关键突破 太空引力波探测再进一步",
           "url": "https://flash.jin10.com/detail/20260509143739985800",
           "source": "金十数据",
@@ -609,17 +647,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        },
-        {
-          "title": "太空快递跑出中国加速度",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%BF%AB%E9%80%92%E8%B7%91%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%BA%A6%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "我国“太极计划”获关键突破 太空引力波探测再进一步",
@@ -660,11 +687,12 @@
             13,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时59分 ~ 22时13分]"
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 23时41分]"
         }
       ]
     }
