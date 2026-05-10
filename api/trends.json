@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-11T05:38:26.764202+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-11T06:36:16.816069+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
           "url": "https://www.cls.cn/detail/2367077",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时36分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时36分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -41,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时36分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -55,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时36分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -66,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时36分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -78,28 +79,29 @@
             20,
             17,
             15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时38分]"
-        },
-        {
-          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
-          "source": "澎湃新闻",
-          "ranks": [
             18,
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时36分]"
         },
         {
           "title": "韩国机器人出家,皈依佛门受戒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354142&amp;topic_name=%E9%9F%A9%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%87%BA%E5%AE%B6%2C%E7%9A%88%E4%BE%9D%E4%BD%9B%E9%97%A8%E5%8F%97%E6%88%92",
           "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时36分]"
+        },
+        {
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
           "ranks": [
             18,
             19
@@ -155,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "消息人士：人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，并计划发行3000万股股票。若按指导区间上限定价，IPO融资规模可能达到48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260511053851456800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         },
         {
           "title": "世界周刊谈美国AI暗钱网络",
