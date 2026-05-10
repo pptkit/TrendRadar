@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T04:37:07.290878+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-05-11T05:38:26.764202+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时38分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
           "url": "https://wallstreetcn.com/articles/3771913",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时38分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -36,11 +37,12 @@
           "ranks": [
             9,
             6,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时38分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -49,11 +51,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时38分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -63,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时38分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -74,11 +77,12 @@
             24,
             20,
             17,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时38分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -89,8 +93,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时38分]"
         },
         {
           "title": "韩国机器人出家,皈依佛门受戒",
@@ -101,8 +105,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时38分]"
+        },
+        {
+          "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
+          "url": "https://flash.jin10.com/detail/20260511030929783800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 05时38分]"
         },
         {
           "title": "乌克兰亚速旅称，该部队利用人工智能辅助无人机对俄控马里乌波尔纵深地区实施了打击，命中前线后方160公里处的目标。亚速旅表示，这是对该城的象征性“回归”。",
@@ -115,18 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时52分]"
-        },
-        {
-          "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
-          "url": "https://flash.jin10.com/detail/20260511030929783800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时37分]"
         },
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
