@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T22:16:13.462504+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-05-10T23:42:21.283963+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 22时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 23时42分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -50,11 +50,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 22时16分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 23时42分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -112,6 +113,20 @@
           "time_info": "[00时40分 ~ 15时55分]"
         },
         {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5,
+            9,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时54分 ~ 23时42分]"
+        },
+        {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
           "url": "https://www.cls.cn/detail/2366653",
           "source": "财联社热门",
@@ -123,20 +138,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            5,
-            9,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时54分 ~ 22时16分]"
         },
         {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
@@ -162,11 +163,12 @@
             11,
             12,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时40分 ~ 22时16分]"
+          "appearance_count": 27,
+          "time_info": "[00时40分 ~ 23时42分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -223,6 +225,19 @@
           "time_info": "[13时27分 ~ 17时21分]"
         },
         {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 23时42分]"
+        },
+        {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
           "url": "https://www.zhihu.com/question/2034624017219499142",
           "source": "知乎",
@@ -266,17 +281,20 @@
           "time_info": "[00时40分 ~ 07时37分]"
         },
         {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
+          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
+          "url": "https://wallstreetcn.com/livenews/3101113",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8
+            4,
+            8,
+            13,
+            17,
+            20,
+            25
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时20分 ~ 22时16分]"
+          "time_info": "[15时55分 ~ 23时42分]"
         },
         {
           "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
@@ -290,22 +308,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时48分 ~ 22时16分]"
-        },
-        {
-          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
-          "url": "https://wallstreetcn.com/livenews/3101113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            13,
-            17,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时55分 ~ 22时16分]"
         },
         {
           "title": "机器人有没有体面一点的打包方式",
@@ -366,8 +368,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时42分]"
         },
         {
           "title": "AI修复美国公布UFO照片",
@@ -415,6 +417,17 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "上海科创基金总裁杨斌：人工智能带来的不仅是技术层面的迭代 而是生产要素的革命性重构",
           "url": "https://flash.jin10.com/detail/20260510114605762800",
           "source": "金十数据",
@@ -439,6 +452,34 @@
       ]
     },
     {
+      "keyword_group": "太空 spaceX",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "太空快递跑出中国加速度",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%BF%AB%E9%80%92%E8%B7%91%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%BA%A6%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 09时49分]"
+        },
+        {
+          "title": "美国总统特朗普：我们正在监测伊朗掩埋在废墟下的浓缩铀，美国太空部队将接管相关任务。",
+          "url": "https://flash.jin10.com/detail/20260510221311512800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "化工",
       "match_count": 1,
       "titles": [
@@ -453,23 +494,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 06时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "太空快递跑出中国加速度",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%BF%AB%E9%80%92%E8%B7%91%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%BA%A6%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 09时49分]"
         }
       ]
     }
