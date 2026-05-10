@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T06:36:16.816069+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-05-11T07:40:43.822435+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时40分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时40分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -39,36 +39,24 @@
             9,
             6,
             8,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时36分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时40分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
           "url": "https://www.cls.cn/detail/2367107",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时40分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -83,8 +71,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时40分]"
         },
         {
           "title": "韩国机器人出家,皈依佛门受戒",
@@ -93,6 +81,20 @@
           "ranks": [
             18,
             19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时40分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -136,6 +138,18 @@
           "time_info": "[02时44分 ~ 03时52分]"
         },
         {
+          "title": "AI正在污染我们的判断力",
+          "url": "https://www.toutiao.com/trending/7638257796718267946/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 07时40分]"
+        },
+        {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
           "url": "https://wallstreetcn.com/livenews/3101113",
           "source": "华尔街见闻-快讯",
@@ -165,7 +179,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -179,17 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "AI正在污染我们的判断力",
-          "url": "https://www.toutiao.com/trending/7638257796718267946/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
         }
       ]
     }
