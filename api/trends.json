@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T16:23:22.690028+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-05-12T19:11:28.085956+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -18,11 +18,12 @@
             2,
             1,
             6,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 16时23分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 19时11分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -35,11 +36,12 @@
             19,
             24,
             13,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时17分 ~ 19时11分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -54,8 +56,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时17分 ~ 19时11分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -67,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 19时11分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -80,11 +82,12 @@
             26,
             21,
             28,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 19时11分]"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -96,6 +99,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时11分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时11分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -110,40 +139,17 @@
           "time_info": "[05时09分 ~ 06时45分]"
         },
         {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 16时23分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 16时23分]"
-        },
-        {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
           "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时11分]"
         },
         {
           "title": "孟子义AI换脸高叶",
@@ -174,7 +180,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -251,9 +257,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
+          "url": "https://www.zhihu.com/question/2033154931448918850",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "日本财务大臣片山皋月：与美国财长贝森特举行了会谈，讨论了包括汇率在内的市场情况，还讨论了人工智能和关键矿产问题。",
@@ -317,7 +334,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -350,7 +367,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -452,7 +469,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股电力板块反复活跃，大唐发电5连板，韶能股份直线涨停，甘肃能源、华电辽能、赣能股份、晋控电力、深南电A等纷纷走高。",
@@ -464,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "【每日收评】三大指数震荡整理涨跌不一，电力、电网设备逆势走强，中际旭创股价突破千元",
+          "url": "https://www.cls.cn/detail/2369089",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "5月12日午间收评：深成指半日跌近1%，电力、电网股逆势走强",
