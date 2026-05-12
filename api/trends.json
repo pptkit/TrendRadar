@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T00:17:01.671687+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-13T02:47:55.985966+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 10,
+      "match_count": 20,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时47分]"
+        },
+        {
+          "title": "Meta：将为竞争对手的人工智能聊天机器人提供一个月的WhatsApp免费访问权限。",
+          "url": "https://flash.jin10.com/detail/20260513023414045800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "汤森路透（Thomson Reuters）一度跌超过5%，该公司正将Anthropic的Claude整合至其人工智能法律工具CoCounsel Legal中。",
+          "url": "https://wallstreetcn.com/livenews/3102465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -26,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时47分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
@@ -37,41 +59,44 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时47分]"
         },
         {
           "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
           "url": "https://www.zhihu.com/question/2033154931448918850",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时47分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时47分]"
         },
         {
           "title": "AI原创短片国产爱死机",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时47分]"
         },
         {
           "title": "AI巨头面临严峻的“芯片通货膨胀”",
@@ -96,15 +121,92 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
+          "title": "据The Information：谷歌将招聘数百名工程师，助力客户落地采用其人工智能技术。",
+          "url": "https://flash.jin10.com/detail/20260513022035588800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3102458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "据The Information：微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
+          "url": "https://flash.jin10.com/detail/20260513021716741800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
+          "url": "https://www.cls.cn/detail/2369195",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850527&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/TpZPvYZMP1EK1cVx4hCcI.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260512233217953800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "据The Information：OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260513021041332800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "Ai 时代，现在还有人在坚持古法编程吗？",
+          "url": "https://www.zhihu.com/question/2031495233876251385",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "纽约金日内跌幅达1.0%，报4680.9美元/盎司。 立陶宛国防军司令Raimundas Vaiksnoras宣称，这个波罗的海国家可能会为旨在保护霍尔木兹海峡航运的潜在任务提供扫雷能力，并为该任务的指挥部提供资源。",
@@ -113,9 +215,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "全国首例AI代写“种草笔记”案宣判",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E4%BB%A3%E5%86%99%E2%80%9C%E7%A7%8D%E8%8D%89%E7%AC%94%E8%AE%B0%E2%80%9D%E6%A1%88%E5%AE%A3%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         }
       ]
     },
@@ -128,11 +241,12 @@
           "url": "https://www.cls.cn/detail/2369089",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时47分]"
         }
       ]
     },
@@ -148,8 +262,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时47分]"
         }
       ]
     }
