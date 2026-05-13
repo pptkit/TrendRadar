@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T13:42:03.128362+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-05-13T16:32:42.706629+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 16时32分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -87,6 +87,55 @@
           "time_info": "02时47分"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.15%，恒生科技指数收涨0.46%。京东涨超8%；港股AI概念股大幅上涨，智谱涨超35%，MINIMAX涨超18%，澜起科技涨超21%。",
+          "url": "https://wallstreetcn.com/livenews/3102849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
+          "url": "https://wallstreetcn.com/articles/3772076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 16时32分]"
+        },
+        {
+          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
+          "url": "https://wallstreetcn.com/articles/3772082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 16时32分]"
+        },
+        {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 16时32分]"
+        },
+        {
           "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
           "url": "https://www.zhihu.com/question/2033154931448918850",
           "source": "知乎",
@@ -110,30 +159,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 04时25分]"
-        },
-        {
-          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
-          "url": "https://wallstreetcn.com/articles/3772082",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 13时42分]"
-        },
-        {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 13时42分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -173,6 +198,18 @@
           "time_info": "[02时47分 ~ 06时02分]"
         },
         {
+          "title": "贾跃亭宣布转战机器人业务",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%AE%A3%E5%B8%83%E8%BD%AC%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 16时32分]"
+        },
+        {
           "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3102458",
           "source": "华尔街见闻-快讯",
@@ -183,28 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 04时25分]"
-        },
-        {
-          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
-          "url": "https://www.cls.cn/detail/2369925",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "贾跃亭宣布转战机器人业务",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%AE%A3%E5%B8%83%E8%BD%AC%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "AI巨头面临严峻的“芯片通货膨胀”",
@@ -227,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
+          "url": "https://www.cls.cn/detail/2369967",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "Create2026百度AI开发者大会",
@@ -306,6 +332,28 @@
           "time_info": "09时57分"
         },
         {
+          "title": "港股AI概念股尾盘持续拉升，澜起科技涨超20%，兆易创新、爱芯元智纷纷拉升；智谱大涨超37%，股价突破1100港元，MiniMax涨超17%。",
+          "url": "https://wallstreetcn.com/livenews/3102832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "A股收盘：沪指涨0.67% AI算力走高",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.67%25+AI%E7%AE%97%E5%8A%9B%E8%B5%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "据The Information：OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260513021041332800",
           "source": "金十数据",
@@ -334,7 +382,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -356,7 +404,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -526,7 +574,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【每日收评】三大指数震荡整理涨跌不一，电力、电网设备逆势走强，中际旭创股价突破千元",
@@ -547,7 +595,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -572,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "算力与电力双向融合已成必然趋势 机构称算电协同大有可为",
+          "url": "https://www.cls.cn/detail/2369639",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
