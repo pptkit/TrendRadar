@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T07:48:48.387133+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-05-14T10:00:35.940302+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 10时00分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -40,11 +40,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 10时00分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
@@ -54,11 +55,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 10时00分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -68,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 10时00分]"
         },
         {
           "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
@@ -78,11 +80,12 @@
           "ranks": [
             13,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 10时00分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -92,11 +95,34 @@
             18,
             17,
             22,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 10时00分]"
+        },
+        {
+          "title": "博主：这轮AI暴富潮太吓人",
+          "url": "https://www.toutiao.com/trending/7639525316553084457/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时00分]"
+        },
+        {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时15分 ~ 10时00分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -147,15 +173,26 @@
           "time_info": "[05时16分 ~ 06时56分]"
         },
         {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
+          "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
+          "url": "https://www.cls.cn/detail/2370695",
+          "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时15分 ~ 07时48分]"
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时00分]"
+        },
+        {
+          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
+          "url": "https://www.zhihu.com/question/2037950969506428373",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时00分]"
         },
         {
           "title": "思科盘后涨幅扩大至15%。该公司预计，2026财年，超大规模云服务商（Hyperscalers）AI基础设施订单将高达90亿美元。所给业绩指引超过市场预期，宣布裁员不到4000人。",
@@ -206,6 +243,28 @@
           "time_info": "[06时56分 ~ 07时48分]"
         },
         {
+          "title": "如何看待前阿里通义千问（Qwen）负责人林俊旸新成立 AI 实验室融资，预计估值 20 亿美元？",
+          "url": "https://www.zhihu.com/question/2037920346959868531",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时00分]"
+        },
+        {
+          "title": "日媒曝光日本批量生成AI视频抹黑中国",
+          "url": "https://www.toutiao.com/trending/7639005443850797110/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时00分]"
+        },
+        {
           "title": "微软为OpenAI相关交易合作未雨绸缪，考虑达成多笔AI交易。 此前，该公司考虑收购Cursor。（路透）",
           "url": "https://wallstreetcn.com/livenews/3103215",
           "source": "华尔街见闻-快讯",
@@ -215,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "港股机器人概念股盘初冲高，禾赛-W(02525.HK)涨超10%，阿里巴巴(09988.HK)涨超8%，速腾聚创(02498.HK)、理想汽车(02015.HK)涨超4%，小米集团(01810.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260514093124500800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时00分"
         },
         {
           "title": "据知情人士透露，人工智能芯片制造商Cerebras Systems预计将把其美国IPO定价定为每股185美元。",
@@ -295,7 +365,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -314,7 +384,7 @@
     },
     {
       "keyword_group": "创新药",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "百亿基金经理调仓新信号：葛兰减持创新药，任桀建仓芯片分销商",
@@ -326,6 +396,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 01时23分]"
+        },
+        {
+          "title": "A股创新药概念表现活跃，昂利康走出2连板，多瑞医药、赛伦生物、粤万年青、济民健康跟涨。",
+          "url": "https://flash.jin10.com/detail/20260514093853138800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "化工股逆势拉升，永和股份封涨停，肯特催化涨超7%，中化国际、怡达股份、滨化股份、卫星化学跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3103339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时00分"
         }
       ]
     }
