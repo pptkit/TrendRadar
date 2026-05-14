@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T06:01:39.057362+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-05-15T06:56:02.882273+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 06时56分]"
         },
         {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             16,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 06时56分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -41,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 06时56分]"
         },
         {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
@@ -53,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 06时56分]"
         },
         {
           "title": "黄仁勋谈中国AI发展",
@@ -64,11 +65,12 @@
             30,
             25,
             20,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 06时56分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -78,8 +80,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 06时56分]"
         },
         {
           "title": "摩根资产管理：全球股市的赢家不仅局限于AI",
@@ -157,11 +159,56 @@
           "url": "https://wallstreetcn.com/livenews/3103910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时56分]"
+        },
+        {
+          "title": "美联储威廉姆斯：强劲的生产力不仅仅是人工智能的崛起。",
+          "url": "https://flash.jin10.com/detail/20260515062144580800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "06时56分"
+        },
+        {
+          "title": "AI扩建，驱动美国最大电网电费暴涨76%",
+          "url": "https://wallstreetcn.com/livenews/3103927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：生产力强劲，不仅仅与AI有关。 预计生产力将继续强劲增长。 理解市场为何对经济的未来感到乐观。",
+          "url": "https://wallstreetcn.com/livenews/3103926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "福特汽车股价两日飙升21%，AI热潮向传统行业扩散",
+          "url": "https://wallstreetcn.com/livenews/3103925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
@@ -181,7 +228,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -203,7 +250,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -231,7 +278,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -242,7 +289,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -253,7 +300,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -289,8 +336,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 06时56分]"
         }
       ]
     }
