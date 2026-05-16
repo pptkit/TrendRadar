@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T13:19:04.021972+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-05-16T15:48:09.333172+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -8,17 +8,31 @@
       "match_count": 23,
       "titles": [
         {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 15时48分]"
+        },
+        {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
             7,
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时20分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[01时20分 ~ 15时48分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -51,18 +65,6 @@
           "time_info": "[01时20分 ~ 09时51分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 13时19分]"
-        },
-        {
           "title": "人形机器人“上岗”快递分拣员",
           "url": "https://www.douyin.com/hot/2499915",
           "source": "抖音",
@@ -75,6 +77,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时49分 ~ 13时19分]"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时48分]"
         },
         {
           "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
@@ -99,15 +113,16 @@
           "time_info": "[01时20分 ~ 04时50分]"
         },
         {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
+          "title": "机器人上岗快递分拣员",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%BF%AB%E9%80%92%E5%88%86%E6%8B%A3%E5%91%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时48分]"
         },
         {
           "title": "美国总统特朗普：AI是一个了不起的东西。",
@@ -132,17 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时43分]"
-        },
-        {
-          "title": "机器人上岗快递分拣员",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%BF%AB%E9%80%92%E5%88%86%E6%8B%A3%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "把宇树机器人变成手办",
@@ -283,6 +287,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "史上最大IPO来了！SpaceX确定上市“目标日期”：6月12日",
+          "url": "https://wallstreetcn.com/articles/3772398",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时48分]"
+        },
+        {
           "title": "报道：SpaceX股票最早将于6月12日上市",
           "url": "https://wallstreetcn.com/livenews/3104592",
           "source": "华尔街见闻-快讯",
@@ -293,17 +309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时50分]"
-        },
-        {
-          "title": "史上最大IPO来了！SpaceX确定上市“目标日期”：6月12日",
-          "url": "https://wallstreetcn.com/articles/3772398",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "知情人士：SpaceX股票最早将于6月12日上市",
@@ -323,7 +328,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -334,7 +339,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -345,7 +350,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -374,7 +379,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -385,7 +390,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
