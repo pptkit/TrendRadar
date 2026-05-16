@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T03:56:20.247121+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-05-17T04:38:08.905532+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
@@ -60,8 +60,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "基地启用 机器人有了国家级职业技能训练场",
@@ -73,8 +84,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -86,19 +97,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
@@ -147,8 +147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "报道：贝莱德或将在SpaceX IPO中投资数十亿美元",
@@ -158,8 +158,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时38分]"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "贝莱德考虑向SpaceX的IPO投资50亿至100亿美元",
@@ -208,17 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时45分]"
-        },
-        {
-          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2373172",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时56分]"
         }
       ]
     }
