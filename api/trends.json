@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T18:55:34.910078+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-05-18T22:25:03.756036+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -94,6 +94,17 @@
           "time_info": "[00时43分 ~ 05时44分]"
         },
         {
+          "title": "AI恶意P图白嫖,卖家哭晕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 22时25分]"
+        },
+        {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
           "url": "https://wallstreetcn.com/livenews/3104889",
           "source": "华尔街见闻-快讯",
@@ -119,26 +130,84 @@
           "time_info": "[14时43分 ~ 18时55分]"
         },
         {
-          "title": "AI恶意P图白嫖,卖家哭晕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "【伊朗主要原油出口枢纽哈尔克岛油轮积压 创美军实施封锁以来的峰值】据报道，大约23艘油轮目前聚集在伊朗主要原油出口枢纽附近，这是自一个月前美国海军开始封锁伊朗港口、拦截并扣押船只以来，哈尔克岛周边出现的最大规模油轮集结。5月16日卫星图像显示，这些运输船停泊在哈尔克岛附近锚地，或靠泊于液化石油气装载码头。相关情况也得到专注于伊朗问题的美国非营利政策咨询机构United Against Nuclear Iran (简称UANI)的分析确认。相比之下，4月13日，也就是美国军舰开始在阿曼湾集结、对船只进行检查和拦截之前，当地仅有4艘油轮。“越来越多船只聚集在该岛周边锚地，显示伊朗原油和石油出口体系中的延误与瓶颈正在加剧，”UANI顾问Charlie Brown表示。",
           "url": "https://wallstreetcn.com/livenews/3105359",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
+          "url": "https://www.cls.cn/detail/2374260",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 22时25分]"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
+          "url": "https://www.cls.cn/detail/2374303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 22时25分]"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 22时25分]"
+        },
+        {
+          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
+          "url": "https://wallstreetcn.com/articles/3772508",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
+          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+          "url": "https://www.cls.cn/detail/2374609",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
+          "title": "AI自动驾驶赛车有搞头吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B5%9B%E8%BD%A6%E6%9C%89%E6%90%9E%E5%A4%B4%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "诺贝尔经济学奖得主迈克尔・斯宾塞：AI有望提升劳动生产率，给全球经济带来积极影响",
@@ -169,7 +238,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -180,20 +249,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
         {
-          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
-          "url": "https://www.cls.cn/detail/2374260",
-          "source": "财联社热门",
+          "title": "矩阵超智发布MATRIX-3全能旗舰级人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3105463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "22时25分"
         },
         {
           "title": "中国人民银行原副行长朱民：需要形成适当的政策来引领AI使用",
@@ -216,17 +285,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
-        },
-        {
-          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
-          "url": "https://www.cls.cn/detail/2374303",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
@@ -273,6 +331,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "马斯克的xAI为员工提供了420美元的报税补贴，但尚未支付。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3105445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "法国财长Lescure：未来如有需要，七国集团将再次释放石油储备。 欧洲经济展现出相当强的韧性，欧洲经济正在放缓，但并未陷入衰退。 欧洲经济并未处于高通胀状态。 法国经济应该会在第二季度反弹。 欧洲必须将人工智能视为机遇。",
           "url": "https://wallstreetcn.com/livenews/3105131",
           "source": "华尔街见闻-快讯",
@@ -290,20 +359,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
         {
-          "title": "用AI记录早餐奶奶的一生",
-          "url": "https://www.douyin.com/hot/2503064",
-          "source": "抖音",
+          "title": "李强在北京调研时强调 推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+          "url": "https://wallstreetcn.com/livenews/3105438",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "22时25分"
         }
       ]
     },
@@ -327,22 +396,24 @@
           "url": "https://www.cls.cn/detail/2374133",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 22时25分]"
         },
         {
           "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
           "url": "https://wallstreetcn.com/articles/3772477",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 22时25分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -359,7 +430,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "三大指数集体翻红，半导体、存储芯片、CPO、电力电网等方向涨幅居前，沪深京三市上涨个股超2000只。",
@@ -371,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "A股电力板块盘初拉升，京能电力涨停，江苏国信、粤电力A、皖能电力、甘肃能源跟涨。",
@@ -426,7 +508,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
