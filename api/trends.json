@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-20T04:24:01.192257+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-05-20T06:05:26.720304+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
           "url": "https://www.cls.cn/detail/2375797",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -27,30 +28,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
           "url": "https://www.cls.cn/detail/2375531",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
-        },
-        {
-          "title": "xAI允许在OpenClaw中使用Grok。",
-          "url": "https://flash.jin10.com/detail/20260520035518052800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
@@ -61,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -72,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -84,8 +75,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -95,8 +86,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -106,8 +97,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
+        },
+        {
+          "title": "xAI允许在OpenClaw中使用Grok。",
+          "url": "https://flash.jin10.com/detail/20260520035518052800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -137,11 +139,12 @@
           "url": "https://www.toutiao.com/trending/7640988449969864731/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时05分]"
         },
         {
           "title": "谷歌AI模型大幅降价迎战OpenAI与Anthropic",
@@ -150,7 +153,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -166,13 +169,24 @@
           "time_info": "02时52分"
         },
         {
+          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://flash.jin10.com/detail/20260520043717324800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "谷歌搜索宣布大改版 AI模式与代理助手全面嵌入",
           "url": "https://flash.jin10.com/detail/20260520032918013800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -194,7 +208,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -205,7 +219,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -216,7 +230,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -254,13 +268,24 @@
           "time_info": "00时44分"
         },
         {
+          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://wallstreetcn.com/livenews/3106251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
           "url": "https://flash.jin10.com/detail/20260520024925231800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -293,7 +318,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -320,11 +345,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "报道：SpaceX若上市，华乐投资与创始基金各自有望斩获超600亿美元回报",
@@ -363,18 +389,30 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【每日收评】科创50探底回升涨近4%，电力股反复活跃，半导体产业链午后再度爆发",
           "url": "https://www.cls.cn/detail/2375505",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
+        },
+        {
+          "title": "国际原子能机构总干事格罗西：（关于阿联酋巴拉卡核电站）辐射水平正常，外部电力已恢复，但情况令人严重担忧。",
+          "url": "https://flash.jin10.com/detail/20260520053123824800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         }
       ]
     },
@@ -391,8 +429,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 06时05分]"
         }
       ]
     }
