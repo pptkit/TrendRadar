@@ -1,11 +1,270 @@
 {
-  "generated_at": "2026-05-21T03:12:41.261204+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-05-21T05:29:52.521880+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "太空 spaceX",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "SpaceX的COO（首席运营官）去年总薪酬8580万美元。",
+          "url": "https://wallstreetcn.com/livenews/3106936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX在全球拥有超过2.2万全职员工。",
+          "url": "https://wallstreetcn.com/livenews/3106933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：Anthropic将在2029年5月前每月向公司支付12.5亿美元，而2026年5月和6月的算力提升期间将按较低费率计费。",
+          "url": "https://flash.jin10.com/detail/20260521045829764800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "截至3月31日，SpaceX在近地轨道上拥有约9600颗星链宽带和移动通信卫星。",
+          "url": "https://flash.jin10.com/detail/20260521045718057800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：Valor创始人Antonio J. Gracias持股7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX IPO承销商包括高盛、摩根士丹利、美国银行证券、花旗、摩根大通证券。",
+          "url": "https://flash.jin10.com/detail/20260521045646803800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：预计太空探索工作将催化可能重塑地球产业的变革性突破，并催生在月球、火星及其他星球上价值数万亿美元的新市场。",
+          "url": "https://flash.jin10.com/detail/20260521045626812800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：根据期权协议，Cursor公司有权获得15亿美元的终止费；根据算力协议，有权获得85亿美元的递延服务费。",
+          "url": "https://flash.jin10.com/detail/20260521045446353800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
+          "url": "https://wallstreetcn.com/livenews/3106924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：在五月，与Anthropic签署了云服务协议。",
+          "url": "https://flash.jin10.com/detail/20260521045425582800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：计划开展小行星采矿业务，从近地小行星和主带小行星中提取金属及其他关键资源。",
+          "url": "https://flash.jin10.com/detail/20260521045345880800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：计划公开推出金融产品，提供支付、银行及其他金融服务功能。",
+          "url": "https://flash.jin10.com/detail/20260521045320737800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：预计每年将能够实现数千次发射。",
+          "url": "https://flash.jin10.com/detail/20260521045214136800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX 2025年营收为186.7亿美元，第一季度净亏损为42.76亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521045203290800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：马斯克可以选举、罢免或填补B类董事的空缺。",
+          "url": "https://flash.jin10.com/detail/20260521045052638800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：IPO后，马斯克将担任首席执行官、首席技术官及董事会主席。",
+          "url": "https://flash.jin10.com/detail/20260521044946662800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：马斯克拥有12.3%的A类股份和93.6%的B类股份。",
+          "url": "https://flash.jin10.com/detail/20260521044857800800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：在可预见的未来，预计不会向A类股股东宣布或支付股息。",
+          "url": "https://flash.jin10.com/detail/20260521044839970800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX将在纳斯达克上市，股票代码为SPCX。",
+          "url": "https://flash.jin10.com/detail/20260521044749138800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX第一季度太空部门收入为6.19亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521044723154800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：马斯克的投票权合计为85.1%。",
+          "url": "https://flash.jin10.com/detail/20260521044647237800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "文件显示，SpaceX将发行两类普通股，A类普通股（每股将拥有1票投票权）和B类普通股（每股将拥有10票投票权）。",
+          "url": "https://flash.jin10.com/detail/20260521044603172800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，SpaceX第一季度收入46.94亿美元，运营亏损19.43亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521044506948800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "机器人穿上皮肤 正处在爆发前夜",
@@ -15,8 +274,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 05时29分]"
         },
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -49,8 +308,53 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 05时29分]"
+        },
+        {
+          "title": "机器人穿上皮肤 正处在爆发前夜",
+          "url": "https://www.toutiao.com/trending/7641893274647117887/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 03时12分]"
+          "time_info": "[03时12分 ~ 05时29分]"
+        },
+        {
+          "title": "SpaceX：预计最早将在2028年开始部署轨道人工智能计算卫星。 计划在月球和火星建立制造基础设施。 公司将把融资用于AI计算、基础设施、发射卫星等。",
+          "url": "https://wallstreetcn.com/livenews/3106928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX：计划在月球和火星建立制造基础设施。预计最早将在2028年开始部署轨道人工智能计算卫星。",
+          "url": "https://flash.jin10.com/detail/20260521045533791800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX一季度营收46.9亿美元，（运营）净亏损42.8亿美元。 一季度调整后EBITDA为11.3亿美元。 一季度资本开支101.1亿美元，其中AI资本开支77.2亿美元。 2025年营收113.9亿美元，运营净利润44.2亿美元。 2025年资本支出207.4亿美元，其中AI资本开支127.3亿美元。 星链（Starlink）拥有大约1030万用户。 至3月31日，大约9600颗卫星在近地点轨道运行。 Grok和X等AI平台活跃账户超过13亿。",
+          "url": "https://wallstreetcn.com/livenews/3106925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "消息称OpenAI最早或于本周五秘密提交IPO申请",
@@ -108,6 +412,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "SpaceX：截至3月31日的过去12个月，Grok和X的集成AI平台活跃用户超过13亿。",
+          "url": "https://flash.jin10.com/detail/20260521045113625800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，OpenAI正准备在近期提交IPO申请。",
           "url": "https://flash.jin10.com/detail/20260521002407958800",
           "source": "金十数据",
@@ -119,13 +434,35 @@
           "time_info": "00时51分"
         },
         {
+          "title": "报道：白宫向人工智能公司介绍审查AI模型的行政令",
+          "url": "https://wallstreetcn.com/livenews/3106911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX第一季度人工智能部门收入为8.18亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521044706973800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3106863",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -139,17 +476,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "机器人穿上皮肤 正处在爆发前夜",
-          "url": "https://www.toutiao.com/trending/7641893274647117887/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
         },
         {
           "title": "谷歌(GOOG.O)将在人工智能模式中推出更有帮助的广告。",
@@ -177,8 +503,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 05时29分]"
         }
       ]
     },
@@ -195,8 +521,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 05时29分]"
         }
       ]
     }
