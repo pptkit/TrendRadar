@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T14:39:15.223126+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-05-20T18:17:17.498321+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -28,11 +28,12 @@
             5,
             8,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 14时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 18时17分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -41,11 +42,12 @@
           "ranks": [
             12,
             13,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 14时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 18时17分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -76,6 +78,19 @@
           "time_info": "[00时43分 ~ 14时39分]"
         },
         {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 18时17分]"
+        },
+        {
           "title": "AI恶意P图白嫖,卖家哭晕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
           "source": "贴吧",
@@ -97,19 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时03分 ~ 14时39分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 14时39分]"
         },
         {
           "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
@@ -265,6 +267,17 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "谷歌AI模型大幅降价迎战OpenAI与Anthropic",
           "url": "https://flash.jin10.com/detail/20260520033552705800",
           "source": "金十数据",
@@ -293,9 +306,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "王力宏演唱会主题曲是 AI 制作，《在梅边》新版也被指 AI 编曲，他是第一个全面拥抱 AI 的主流歌手吗？",
+          "url": "https://www.zhihu.com/question/2040077336809322399",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
@@ -340,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "高盛交易台预警：市场主导叙事正悄然从AI转向利率",
+          "url": "https://wallstreetcn.com/articles/3772653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "OpenAI担保给予开支水平的算力。",
@@ -417,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "胜利精密：轻量化镁合金业务尚未与特斯拉机器人形成合作，复合铜箔项目前期已实现小批量供货",
+          "url": "https://flash.jin10.com/detail/20260520173343996800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
@@ -529,6 +575,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "中国音像与数字出版协会围绕出版业人工智能技术应用情况开展专题调研",
+          "url": "https://flash.jin10.com/detail/20260520172835218800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
           "url": "https://wallstreetcn.com/livenews/3106273",
           "source": "华尔街见闻-快讯",
@@ -554,7 +611,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "【每日收评】科创50探底回升涨近4%，电力股反复活跃，半导体产业链午后再度爆发",
@@ -612,6 +669,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "【每日收评】科创50指数震荡走高涨超3%，半导体产业链持续爆发，电力股批量跌停",
+          "url": "https://www.cls.cn/detail/2376768",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "粤电力A：光伏业务新投产项目受电力市场环境及政策影响，发电产能及效益未能充分释放",
+          "url": "https://flash.jin10.com/detail/20260520173919482800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "烈日炙烤美东北部及纽约，酷暑引爆电力供应紧急预警",
@@ -703,6 +782,34 @@
       ]
     },
     {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股光伏设备板块盘初拉升，欧晶科技涨停，联泓新科、双良节能、德业股份、晶盛机电、钧达股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260520093650433800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "中环新能源：子公司与苏州黑冕订立合作协议，共同开发适用于太空应用的钙钛矿/晶硅叠层光伏电池技术",
+          "url": "https://flash.jin10.com/detail/20260520172813193800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "化工",
       "match_count": 1,
       "titles": [
@@ -718,23 +825,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 14时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股光伏设备板块盘初拉升，欧晶科技涨停，联泓新科、双良节能、德业股份、晶盛机电、钧达股份跟涨。",
-          "url": "https://flash.jin10.com/detail/20260520093650433800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
         }
       ]
     }
