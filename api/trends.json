@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T10:02:42.118936+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-05-21T14:41:31.056965+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 35,
+      "match_count": 45,
       "titles": [
         {
           "title": "机器人穿上皮肤 正处在爆发前夜",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 10时02分]"
+        },
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 14时41分]"
         },
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -53,19 +66,6 @@
           "time_info": "07时04分"
         },
         {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 10时02分]"
-        },
-        {
           "title": "马斯克：最近与AnthropicAI扩展的合作关系表明，SpaceX正在大规模提供人工智能计算服务。",
           "url": "https://flash.jin10.com/detail/20260521063630853800",
           "source": "金十数据",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
@@ -112,6 +123,40 @@
           "time_info": "[03时12分 ~ 07时04分]"
         },
         {
+          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
+          "url": "https://www.cls.cn/detail/2377385",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时41分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时41分]"
+        },
+        {
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "SpaceX：预计最早将在2028年开始部署轨道人工智能计算卫星。 计划在月球和火星建立制造基础设施。 公司将把融资用于AI计算、基础设施、发射卫星等。",
           "url": "https://wallstreetcn.com/livenews/3106928",
           "source": "华尔街见闻-快讯",
@@ -123,15 +168,26 @@
           "time_info": "05时29分"
         },
         {
-          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
-          "url": "https://www.cls.cn/detail/2377385",
-          "source": "财联社热门",
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "14时41分"
+        },
+        {
+          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
+          "url": "https://www.cls.cn/detail/2377373",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "SpaceX：计划在月球和火星建立制造基础设施。预计最早将在2028年开始部署轨道人工智能计算卫星。",
@@ -143,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "罢工威胁解除+英伟达助攻：韩国股市暴拉逾8%！亚洲AI叙事卷土重来",
+          "url": "https://flash.jin10.com/detail/20260521140203154800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "SpaceX一季度营收46.9亿美元，（运营）净亏损42.8亿美元。 一季度调整后EBITDA为11.3亿美元。 一季度资本开支101.1亿美元，其中AI资本开支77.2亿美元。 2025年营收113.9亿美元，运营净利润44.2亿美元。 2025年资本支出207.4亿美元，其中AI资本开支127.3亿美元。 星链（Starlink）拥有大约1030万用户。 至3月31日，大约9600颗卫星在近地点轨道运行。 Grok和X等AI平台活跃账户超过13亿。",
@@ -162,9 +229,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "最快周五递表？据称OpenAI正秘密筹备IPO 华尔街或迎史诗级上市潮",
+          "url": "https://www.cls.cn/detail/2377274",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "消息称OpenAI最早或于本周五秘密提交IPO申请",
@@ -187,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
+          "url": "https://www.zhihu.com/question/2040425345606578251",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "谷歌在AI模型推出更有用的广告。",
@@ -244,17 +333,6 @@
           "time_info": "07时04分"
         },
         {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "据华尔街日报：消息人士称，高盛和摩根士丹利银行家正在处理OpenAI的IPO文件。",
           "url": "https://flash.jin10.com/detail/20260521002456095800",
           "source": "金十数据",
@@ -305,7 +383,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -354,6 +432,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "刘擎被机器人整破防",
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%93%8E%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B4%E7%A0%B4%E9%98%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "SpaceX第一季度人工智能部门收入为8.18亿美元。",
           "url": "https://flash.jin10.com/detail/20260521044706973800",
           "source": "金十数据",
@@ -376,6 +465,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "A股机器人概念股再度走强，模塑科技午后涨停，北特科技、埃斯顿、美湖股份此前封板，昊志机电、三协电机、上纬新材、奥比中光均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3107168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "谷歌推出通用商业协议功能和零售商人工智能工具。",
           "url": "https://flash.jin10.com/detail/20260521000514109800",
           "source": "金十数据",
@@ -396,12 +496,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "特斯拉陶琳：最后一批Model S/X车型下线，工厂将转为人型机器人生产线",
+          "url": "https://wallstreetcn.com/livenews/3107163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
@@ -410,9 +521,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时41分]"
         },
         {
           "title": "SpaceX的COO（首席运营官）去年总薪酬8580万美元。",
@@ -432,7 +543,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -446,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "SpaceX递交IPO文件冲刺纳斯达克 更多财务和技术细节曝光",
+          "url": "https://www.cls.cn/detail/2377327",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时41分]"
         },
         {
           "title": "SpaceX：Anthropic将在2029年5月前每月向公司支付12.5亿美元，而2026年5月和6月的算力提升期间将按较低费率计费。",
@@ -492,17 +614,6 @@
           "time_info": "07时04分"
         },
         {
-          "title": "SpaceX递交IPO文件冲刺纳斯达克 更多财务和技术细节曝光",
-          "url": "https://www.cls.cn/detail/2377327",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "SpaceX IPO承销商包括高盛、摩根士丹利、美国银行证券、花旗、摩根大通证券。",
           "url": "https://flash.jin10.com/detail/20260521045646803800",
           "source": "金十数据",
@@ -534,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "SpaceX：根据期权协议，Cursor公司有权获得15亿美元的终止费；根据算力协议，有权获得85亿美元的递延服务费。",
@@ -729,7 +851,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
