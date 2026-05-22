@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T02:28:06.865539+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-05-23T04:27:51.110180+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时27分]"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -38,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时27分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时27分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -61,8 +61,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时27分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -70,11 +70,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时27分]"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时27分]"
         },
         {
           "title": "马斯克重建xAI组织图曝光",
@@ -86,17 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
-        },
-        {
-          "title": "夏奇拉来批daidai作业啦",
-          "url": "https://www.douyin.com/hot/2508674",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 02时28分]"
         }
       ]
     },
@@ -112,8 +114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时27分]"
         }
       ]
     },
