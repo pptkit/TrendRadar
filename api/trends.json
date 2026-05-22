@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T06:51:53.251558+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-05-23T07:56:47.229049+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时56分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时56分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -51,11 +51,12 @@
           "ranks": [
             15,
             17,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时56分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -67,8 +68,23 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 07时56分]"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            30,
+            22,
+            27,
+            26,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时13分 ~ 06时51分]"
+          "time_info": "[02时27分 ~ 07时56分]"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -82,30 +98,17 @@
           "time_info": "00时14分"
         },
         {
-          "title": "夏奇拉来批daidai作业啦",
-          "url": "https://www.douyin.com/hot/2508674",
-          "source": "抖音",
-          "ranks": [
-            30,
-            22,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时27分 ~ 06时51分]"
-        },
-        {
           "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3108254",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时51分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时56分]"
         },
         {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
@@ -113,11 +116,12 @@
           "source": "微博",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时51分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时56分]"
         },
         {
           "title": "马斯克重建xAI组织图曝光",
@@ -134,29 +138,42 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
-          "title": "SpaceX：“超重型助推器”（Super Heavy Booster）似乎在墨西哥湾上空失控下坠。 在六个星舰（Starship）引擎中，有一个失效。 星舰飞抵太空。",
-          "url": "https://wallstreetcn.com/livenews/3108268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
-          "url": "https://wallstreetcn.com/livenews/3108267",
+          "title": "SpaceX：星舰重返地球的大气层，准备在海洋溅落。",
+          "url": "https://wallstreetcn.com/livenews/3108275",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时51分"
+          "time_info": "07时56分"
+        },
+        {
+          "title": "SpaceX：“超重型助推器”（Super Heavy Booster）似乎在墨西哥湾上空失控下坠。 在六个星舰（Starship）引擎中，有一个失效。 星舰飞抵太空。",
+          "url": "https://wallstreetcn.com/livenews/3108268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时56分]"
+        },
+        {
+          "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
+          "url": "https://wallstreetcn.com/livenews/3108267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时56分]"
         },
         {
           "title": "美银策略师就SpaceX等超大型IPO发出警告，称市场集中度将超过泡沫时期",
@@ -168,6 +185,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "SpaceX：星舰（Starship）在太空部署（多颗）试验卫星。",
+          "url": "https://wallstreetcn.com/livenews/3108270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "马斯克SpaceX星舰V3首飞成功",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0V3%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
@@ -180,11 +219,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33205118",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时56分]"
         }
       ]
     }
