@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-22T07:49:46.153847+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-05-22T10:05:00.120216+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 07时49分]"
-        },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
           "url": "https://wallstreetcn.com/articles/3772765",
           "source": "华尔街见闻",
           "ranks": [
             2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 10时05分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
             1
           ],
           "is_new": false,
@@ -43,17 +43,6 @@
           "time_info": "[00时33分 ~ 07时49分]"
         },
         {
-          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
-          "url": "https://www.cls.cn/detail/2377977",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 06时10分]"
-        },
-        {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
           "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
           "source": "澎湃新闻",
@@ -62,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 10时05分]"
         },
         {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
@@ -74,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 10时05分]"
         },
         {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
@@ -88,8 +77,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 10时05分]"
+        },
+        {
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 06时10分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -101,8 +101,41 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 10时05分]"
+        },
+        {
+          "title": "为何AI总会一本正经地胡说八道",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰：下一波重大趋势将是物理人工智能，包括机器人技术。",
+          "url": "https://flash.jin10.com/detail/20260522095440020800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "A股机器人概念股反复活跃，龙星科技直线涨停，埃夫特涨近10%，欧科亿、卡倍亿、奥比中光、迅捷兴跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3107712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -141,6 +174,17 @@
           "time_info": "[04时29分 ~ 07时49分]"
         },
         {
+          "title": "用上AI后工作时间反而更长了",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 10时05分]"
+        },
+        {
           "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
           "url": "https://flash.jin10.com/detail/20260522022849271800",
           "source": "金十数据",
@@ -162,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 04时30分]"
+        },
+        {
+          "title": "导游机器人、外卖机器狗上岗",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E7%8B%97%E4%B8%8A%E5%B2%97",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "微软推出必应图像搜索。 微软对其推出由人工智能（AI）引导的升级。",
@@ -197,13 +252,24 @@
           "time_info": "04时30分"
         },
         {
+          "title": "AMD首席执行官苏姿丰：没有人真正从AI训练中赚钱。但我们现在所看到的是，人工智能不仅进入了推理阶段，还能真正做一些智能的事情。",
+          "url": "https://flash.jin10.com/detail/20260522094909706800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "为何AI总会一本正经地胡说八道",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
           "source": "bilibili 热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -250,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "用上AI后工作时间反而更长了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
         },
         {
           "title": "加密货币交易平台Blockchain.com秘密提交IPO申请",
@@ -329,13 +384,24 @@
           "time_info": "00时33分"
         },
         {
+          "title": "港股联想集团(00992.HK)持续走强，涨超10%，公司财报显示Q4业绩增长创纪录，AI收入占比提升至近四成。",
+          "url": "https://flash.jin10.com/detail/20260522093755682800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
           "url": "https://flash.jin10.com/detail/20260522061919828800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         }
@@ -343,19 +409,8 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
-          "url": "https://news.ifeng.com/c/8tJGUCBF9B8",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 07时49分]"
-        },
         {
           "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
           "url": "https://m.thepaper.cn/newsDetail_forward_33204831",
@@ -363,6 +418,17 @@
           "ranks": [
             17,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 10时05分]"
+        },
+        {
+          "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
+          "url": "https://news.ifeng.com/c/8tJGUCBF9B8",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -391,6 +457,39 @@
           "time_info": "[00时33分 ~ 06时10分]"
         },
         {
+          "title": "网传星舰第三代星舰试飞在即，SpaceX 基地发生致死事故，真实情况如何？",
+          "url": "https://www.zhihu.com/question/2040059585222764057",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国空间站将迎第八次“太空会师”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E8%BF%8E%E7%AC%AC%E5%85%AB%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E4%BC%9A%E5%B8%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国空间站将迎第八次“太空会师”",
+          "url": "https://www.toutiao.com/trending/7642474982513278985/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
           "title": "SpaceX：现计划于中部时间下午6:00（北京时间07:00）发射星舰。",
           "url": "https://flash.jin10.com/detail/20260522052909426800",
           "source": "金十数据",
@@ -408,9 +507,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "火箭实验室（Rocket Lab）获得美国太空军9000万美元合同。",
+          "url": "https://wallstreetcn.com/livenews/3107671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
@@ -477,7 +587,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "算力爆发倒逼电力系统重构 算电协同从“寄生”到“共生”“新生”",
@@ -489,8 +599,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 10时05分]"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰：其他瓶颈包括电力。我们需要建设数据中心和产能。",
+          "url": "https://flash.jin10.com/detail/20260522095248317800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     }
