@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T02:54:08.613326+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-24T04:01:50.085967+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时01分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时01分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -38,8 +39,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时01分]"
         },
         {
           "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
@@ -100,19 +101,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时01分]"
         },
         {
           "title": "SpaceX完成IPO前“大考”：升级版星舰V3成功发射",
           "url": "https://www.cls.cn/detail/2379685",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时01分]"
         }
       ]
     }
