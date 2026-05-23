@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T04:01:50.085967+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-24T04:55:01.145737+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时55分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时55分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -39,8 +39,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时55分]"
+        },
+        {
+          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
+          "url": "https://www.cls.cn/detail/2378982",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 04时55分]"
         },
         {
           "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
@@ -98,11 +109,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时55分]"
         },
         {
           "title": "SpaceX完成IPO前“大考”：升级版星舰V3成功发射",
@@ -113,8 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时55分]"
         }
       ]
     }
