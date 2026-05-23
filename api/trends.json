@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T05:43:22.728441+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-24T06:42:06.251394+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -40,19 +41,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
           "url": "https://www.cls.cn/detail/2378982",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 05时43分]"
+          "appearance_count": 5,
+          "time_info": "[04时54分 ~ 06时42分]"
         },
         {
           "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
@@ -115,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "SpaceX完成IPO前“大考”：升级版星舰V3成功发射",
@@ -127,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 06时42分]"
         }
       ]
     }
