@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T06:42:06.251394+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-05-24T07:46:31.324599+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时46分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -27,11 +27,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时46分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -53,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时54分 ~ 06时42分]"
+          "appearance_count": 6,
+          "time_info": "[04时54分 ~ 07时46分]"
         },
         {
           "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时53分]"
+        },
+        {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "你觉得 ai 会完全替代人类吗？",
@@ -114,11 +126,12 @@
             3,
             5,
             6,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时46分]"
         },
         {
           "title": "SpaceX完成IPO前“大考”：升级版星舰V3成功发射",
@@ -129,8 +142,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 07时46分]"
         }
       ]
     }
