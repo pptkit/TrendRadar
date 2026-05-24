@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T05:44:47.918183+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-05-25T06:45:41.888942+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 06时45分]"
         },
         {
           "title": "直击山西留神峪煤矿救援：凌晨三点巡检机器人下井探测",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 06时45分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -39,11 +39,26 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 05时44分]"
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 06时45分]"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            24,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 06时45分]"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -56,19 +71,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时59分]"
-        },
-        {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 04时02分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -105,12 +107,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时59分]"
+        },
+        {
+          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "直播丨太空，我们来了！神舟二十三号载人飞船发射任务取得圆满成功",
@@ -121,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 06时45分]"
         },
         {
           "title": "SpaceX IPO在即！太空ETF迎“井喷式”爆发 火热背后隐忧浮现",
@@ -133,8 +146,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 06时45分]"
         },
         {
           "title": "中国香港航天员首上太空",
@@ -147,6 +160,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 04时02分]"
+        },
+        {
+          "title": "神舟二十三号航天员乘组顺利进驻“天宫” 中国航天员完成第8次“太空会师”",
+          "url": "https://wallstreetcn.com/livenews/3108553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”。",
+          "url": "https://flash.jin10.com/detail/20260525053623012800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "香港观众来送Madam黎出征太空",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%A7%82%E4%BC%97%E6%9D%A5%E9%80%81Madam%E9%BB%8E%E5%87%BA%E5%BE%81%E5%A4%AA%E7%A9%BA%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         }
       ]
     }
