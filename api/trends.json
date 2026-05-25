@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T04:18:40.924555+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-05-26T07:02:13.632429+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时02分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时02分]"
         },
         {
           "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时02分]"
         },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
@@ -52,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时02分]"
         },
         {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
@@ -62,11 +63,12 @@
           "ranks": [
             16,
             14,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时02分]"
         },
         {
           "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
@@ -76,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时02分]"
         },
         {
           "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
@@ -121,7 +123,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -132,7 +134,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         }
@@ -161,8 +163,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时02分]"
         }
       ]
     }
