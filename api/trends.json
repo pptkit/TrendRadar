@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T19:12:41.735899+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-05-25T22:32:16.698564+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -50,6 +50,29 @@
           "time_info": "[01时51分 ~ 15时02分]"
         },
         {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 22时32分]"
+        },
+        {
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 22时32分]"
+        },
+        {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3108534",
           "source": "华尔街见闻-快讯",
@@ -76,35 +99,13 @@
           "time_info": "15时02分"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
           "title": "智能机器人加速走进日常生活",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E9%80%9F%E8%B5%B0%E8%BF%9B%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
-          "url": "https://wallstreetcn.com/articles/3773014",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -142,6 +143,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时59分]"
+        },
+        {
+          "title": "为什么具身智能、智能机器人、智能矿山这些概念已经炙手可热，而煤矿工人仍在人力下井采矿？",
+          "url": "https://www.zhihu.com/question/2041546699521225998",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 22时32分]"
+        },
+        {
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 22时32分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -203,26 +228,48 @@
           "time_info": "[06时45分 ~ 07时50分]"
         },
         {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
+          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
+          "url": "https://www.cls.cn/detail/2380627",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
-          "title": "为什么具身智能、智能机器人、智能矿山这些概念已经炙手可热，而煤矿工人仍在人力下井采矿？",
-          "url": "https://www.zhihu.com/question/2041546699521225998",
-          "source": "知乎",
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时12分"
+          "time_info": "22时32分"
+        },
+        {
+          "title": "【李强同巴基斯坦总理夏巴兹会谈】5月25日上午，国务院总理李强在北京人民大会堂同来华进行正式访问的巴基斯坦总理夏巴兹举行会谈。李强指出，中方愿同巴方深入推进中巴经济走廊建设，继续抓好两国重大联通项目，加强产业、矿业、农业、民生、金融等领域合作。中方愿进口巴方更多优质产品，同巴方积极打造双边自贸协定升级版，促进两国贸易不断扩容提质。双方还可以探讨开展人工智能、数字经济、绿色能源等领域合作，共同培育发展新动能。中方也愿同巴方深化人力资源开发合作，欢迎更多巴基斯坦青年学生来华学习深造。希望巴方继续采取必要措施，保护在巴中国人员、项目和机构安全，营造安全稳定的合作环境。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3108917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "九安医疗：不涉及AI业务单独收费，糖尿病照护业务收入占比低",
+          "url": "https://wallstreetcn.com/livenews/3108907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "上海：布局市级“AI+微短剧”中试基地 支持“AI+微短剧”应用创新",
@@ -231,7 +278,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -239,7 +286,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "直播丨太空，我们来了！神舟二十三号载人飞船发射任务取得圆满成功",
@@ -266,6 +313,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时49分 ~ 10时09分]"
+        },
+        {
+          "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33225525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时50分 ~ 22时32分]"
         },
         {
           "title": "中国航天员完成第8次太空会师",
@@ -305,19 +366,6 @@
           "time_info": "[00时49分 ~ 07时50分]"
         },
         {
-          "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33225525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 19时12分]"
-        },
-        {
           "title": "中国航天员第8次太空会师",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E7%AC%AC8%E6%AC%A1%E5%A4%AA%E7%A9%BA%E4%BC%9A%E5%B8%88%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -352,6 +400,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时08分 ~ 19时12分]"
+        },
+        {
+          "title": "8张“太空全家福”来了",
+          "url": "https://www.douyin.com/hot/2511178",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
+        },
+        {
+          "title": "看到香港航天员去太空台湾同胞啥心情",
+          "url": "https://www.toutiao.com/trending/7643714953576415268/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "中国航天员第8次太空会师",
