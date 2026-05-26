@@ -1,65 +1,33 @@
 {
-  "generated_at": "2026-05-26T21:45:01.170459+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-05-27T01:18:53.778727+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 33,
+      "match_count": 6,
       "titles": [
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 21时45分]"
-        },
-        {
-          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
-          "url": "https://www.cls.cn/detail/2381067",
+          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
+          "url": "https://www.cls.cn/detail/2382007",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 10时01分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
-          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
-          "url": "https://wallstreetcn.com/articles/3773014",
-          "source": "华尔街见闻",
+          "title": "交易员寻猎AI赢家，目光投向日本调味品巨头",
+          "url": "https://wallstreetcn.com/livenews/3109577",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时02分]"
-        },
-        {
-          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
-          "url": "https://wallstreetcn.com/articles/3773034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 14时06分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
           "title": "中国机器人正在创造下一个奇迹",
@@ -69,451 +37,91 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时02分]"
-        },
-        {
-          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
-          "url": "https://www.zhihu.com/question/2040478565859381749",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时02分]"
-        },
-        {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 21时45分]"
-        },
-        {
-          "title": "机器人概念股逆势活跃，首开股份触及涨停，长盛轴承、中大力德、金发科技、上纬新材、三瑞智能涨超6%，据上交所上市委消息，宇树科技科创板IPO将于6月1日上会，拟募资42.02亿元。",
-          "url": "https://wallstreetcn.com/livenews/3109114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "我国工业机器人出口量暴增9成",
-          "url": "https://www.douyin.com/hot/2512898",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "商务部：4月份智能眼镜和人形机器人网零额分别增长175.2%和20.6%",
-          "url": "https://wallstreetcn.com/livenews/3109112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "双星新材：目前公司MLCC产品的营业收入占公司整体营业收入比例未达1%，公司MLCC离型膜主要应用于消费电子和汽车电子用领域，暂未应用于AI算力服务器，该业务短期内对公司业绩影响较小。",
-          "url": "https://wallstreetcn.com/livenews/3109383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "人形机器人第一股大考在即，谁是宇树科技IPO背后的超级赢家？",
-          "url": "https://www.cls.cn/detail/2381451",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 18时40分]"
+          "time_info": "01时18分"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
           "url": "https://www.cls.cn/detail/2381769",
           "source": "财联社热门",
           "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 21时45分]"
-        },
-        {
-          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
-          "url": "https://wallstreetcn.com/articles/3773084",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 21时45分]"
-        },
-        {
-          "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
-          "url": "https://www.zhihu.com/question/649375328",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时23分]"
-        },
-        {
-          "title": "惠誉评级：北美企业面临战争溢出效应、关税和人工智能带来的信用风险",
-          "url": "https://wallstreetcn.com/livenews/3108971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时23分]"
-        },
-        {
-          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
-          "url": "https://www.cls.cn/detail/2382007",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "惠誉评级：北美企业面临来自战争溢出、关税和人工智能的信用风险。",
-          "url": "https://flash.jin10.com/detail/20260525234937534800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时23分]"
-        },
-        {
-          "title": "如何看待媒体报道《毕业论文将检测 AIGC 率，检测标准科学吗》， 该文章在知网检测 AIGC 率接近 30%？",
-          "url": "https://www.zhihu.com/question/2041915902292217866",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "AI改编庾澄庆歌手舞台",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E7%BC%96%E5%BA%BE%E6%BE%84%E5%BA%86%E6%AD%8C%E6%89%8B%E8%88%9E%E5%8F%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
-        },
-        {
-          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
-          "url": "https://www.cls.cn/detail/2380627",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "01时18分"
         },
         {
-          "title": "A股人形机器人板块早盘拉升，中大力德涨停，飞荣达、杭州柯林盘中创新高，新亚制程2连板，长盛轴承涨超10%，三瑞智能、科达自控、上纬新材、露笑科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260526093658289800",
-          "source": "金十数据",
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "01时18分"
         },
         {
-          "title": "小米一季度利润骤降43%，但收入仍超预期：AI、汽车投入全面加码",
-          "url": "https://flash.jin10.com/detail/20260526180440636800",
-          "source": "金十数据",
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
-          "url": "https://wallstreetcn.com/livenews/3109003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "蚂蚁灵波与简智机器人达成战略合作",
-          "url": "https://flash.jin10.com/detail/20260526130942987800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "工信部：面向汽车人工智能、新形态汽车等未来产业方向，开展标准前瞻突破行动",
-          "url": "https://wallstreetcn.com/livenews/3109357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "今年我国养老机器人市场规模将破百亿元",
-          "url": "https://flash.jin10.com/detail/20260526092940797800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "小米集团：第一季度智能电动汽车及AI等创新业务分部经营亏损为人民币31亿元",
-          "url": "https://wallstreetcn.com/livenews/3109349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "商务部：4月份智能眼镜和人形机器人网零额分别增长175.2%和20.6%",
-          "url": "https://flash.jin10.com/detail/20260526092802332800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "深圳“十五五”规划纲要：提升具身智能机器人发展能级，打造全球具身智能科技创新和产业发展高地",
-          "url": "https://wallstreetcn.com/livenews/3109185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "宝鼎科技：公司无AI覆铜板，未发现在AI服务器及算力领域的应用",
-          "url": "https://wallstreetcn.com/livenews/3109471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "一人之下 AI作画",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B%20AI%E4%BD%9C%E7%94%BB&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "01时18分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33225525",
-          "source": "澎湃新闻",
+          "title": "马斯克：路透社关于SpaceX星链的报道“不实”。五角大楼不恰当地利用了星链民用系统。",
+          "url": "https://flash.jin10.com/detail/20260527005427534800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时18分]"
-        },
-        {
-          "title": "8张“太空全家福”来了",
-          "url": "https://www.douyin.com/hot/2511178",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 10时01分]"
-        },
-        {
-          "title": "美国航天公司股票上涨，太空探索公司直觉机器公司上涨8.2%，Planet Labs上涨4.1%，Rocket Lab上涨3%，Howmet Aerospace上涨2%。",
-          "url": "https://flash.jin10.com/detail/20260526213449117800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时45分"
+          "time_info": "01时18分"
         },
         {
-          "title": "五角大楼同意SpaceX对星链使用服务的涨价，此次涨价适用于美国Lucas无人机对星链的使用。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3109377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "航天员在太空“出差”一年有多难",
-          "url": "https://www.toutiao.com/trending/7644029505190776329/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "极端热浪下印度电工往变压器上浇水",
-          "url": "https://www.toutiao.com/trending/7643700188636299273/",
-          "source": "今日头条",
+          "title": "SpaceX IPO即将来袭！以史为鉴 首日买入回报率或跑输大盘？",
+          "url": "https://www.cls.cn/detail/2381689",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "01时18分"
         },
         {
-          "title": "印度电工往变压器上浇水",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B5%E5%B7%A5%E5%BE%80%E5%8F%98%E5%8E%8B%E5%99%A8%E4%B8%8A%E6%B5%87%E6%B0%B4%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科创板创新药企多项研究亮相2026年ASCO年会",
-          "url": "https://flash.jin10.com/detail/20260526211650798800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中广核云南保山隆阳区540兆瓦光伏项目群全面开工建设",
-          "url": "https://wallstreetcn.com/livenews/3109184",
+          "title": "美国政府被马斯克掐咽喉：五角大楼与SpaceX就伊朗战争期间“星链”涨价问题爆发激烈争执",
+          "url": "https://wallstreetcn.com/livenews/3109568",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "01时18分"
+        },
+        {
+          "title": "美航与SpaceX旗下星链合作，将为超500架飞机升级机上Wi-Fi",
+          "url": "https://wallstreetcn.com/livenews/3109551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
         }
       ]
     }
