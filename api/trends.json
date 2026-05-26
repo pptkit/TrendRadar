@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T18:40:26.470471+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-05-26T21:45:01.170459+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -15,11 +15,12 @@
             3,
             4,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 21时45分]"
         },
         {
           "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
@@ -61,6 +62,17 @@
           "time_info": "[00时57分 ~ 14时06分]"
         },
         {
+          "title": "中国机器人正在创造下一个奇迹",
+          "url": "https://www.douyin.com/hot/2513350",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
+        },
+        {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
           "url": "https://www.cls.cn/detail/2380739",
           "source": "财联社热门",
@@ -87,6 +99,19 @@
           "time_info": "[00时57分 ~ 07时02分]"
         },
         {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 21时45分]"
+        },
+        {
           "title": "机器人概念股逆势活跃，首开股份触及涨停，长盛轴承、中大力德、金发科技、上纬新材、三瑞智能涨超6%，据上交所上市委消息，宇树科技科创板IPO将于6月1日上会，拟募资42.02亿元。",
           "url": "https://wallstreetcn.com/livenews/3109114",
           "source": "华尔街见闻-快讯",
@@ -104,7 +129,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -126,7 +151,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -143,16 +168,28 @@
           "time_info": "[14时06分 ~ 18时40分]"
         },
         {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
+          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
+          "url": "https://www.cls.cn/detail/2381769",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 21时45分]"
+        },
+        {
+          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
+          "url": "https://wallstreetcn.com/articles/3773084",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 21时45分]"
         },
         {
           "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
@@ -178,6 +215,17 @@
           "time_info": "[00时58分 ~ 02时23分]"
         },
         {
+          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
+          "url": "https://www.cls.cn/detail/2382007",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
+        },
+        {
           "title": "惠誉评级：北美企业面临来自战争溢出、关税和人工智能的信用风险。",
           "url": "https://flash.jin10.com/detail/20260525234937534800",
           "source": "金十数据",
@@ -190,6 +238,17 @@
           "time_info": "[00时58分 ~ 02时23分]"
         },
         {
+          "title": "如何看待媒体报道《毕业论文将检测 AIGC 率，检测标准科学吗》， 该文章在知网检测 AIGC 率接近 30%？",
+          "url": "https://www.zhihu.com/question/2041915902292217866",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
+        },
+        {
           "title": "AI改编庾澄庆歌手舞台",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E7%BC%96%E5%BA%BE%E6%BE%84%E5%BA%86%E6%AD%8C%E6%89%8B%E8%88%9E%E5%8F%B0",
           "source": "bilibili 热搜",
@@ -199,28 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时01分]"
-        },
-        {
-          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
-          "url": "https://wallstreetcn.com/articles/3773084",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
-          "url": "https://www.cls.cn/detail/2381769",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
@@ -251,7 +288,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -284,7 +321,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -306,7 +343,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -333,13 +370,24 @@
           "time_info": "14时06分"
         },
         {
+          "title": "宝鼎科技：公司无AI覆铜板，未发现在AI服务器及算力领域的应用",
+          "url": "https://wallstreetcn.com/livenews/3109471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "一人之下 AI作画",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B%20AI%E4%BD%9C%E7%94%BB&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -347,7 +395,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”",
@@ -373,13 +421,24 @@
           "time_info": "[00时57分 ~ 10时01分]"
         },
         {
+          "title": "美国航天公司股票上涨，太空探索公司直觉机器公司上涨8.2%，Planet Labs上涨4.1%，Rocket Lab上涨3%，Howmet Aerospace上涨2%。",
+          "url": "https://flash.jin10.com/detail/20260526213449117800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "五角大楼同意SpaceX对星链使用服务的涨价，此次涨价适用于美国Lucas无人机对星链的使用。（路透）",
           "url": "https://wallstreetcn.com/livenews/3109377",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -418,9 +477,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科创板创新药企多项研究亮相2026年ASCO年会",
+          "url": "https://flash.jin10.com/detail/20260526211650798800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
