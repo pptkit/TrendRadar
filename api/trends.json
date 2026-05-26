@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T05:27:11.568729+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-05-27T07:01:36.470732+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "中国机器人正在创造下一个奇迹",
@@ -26,19 +26,55 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
           "url": "https://www.cls.cn/detail/2381769",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时00分]"
+        },
+        {
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 07时01分]"
+        },
+        {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 07时01分]"
+        },
+        {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "交易员寻猎AI赢家，目光投向日本调味品巨头",
@@ -52,28 +88,28 @@
           "time_info": "01时18分"
         },
         {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
+          "title": "“港版纳指”掉队，恒生科技指数迎来“AI化”重估",
+          "url": "https://wallstreetcn.com/livenews/3109683",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
+          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
+          "url": "https://www.cls.cn/detail/2382213",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时27分]"
+          "time_info": "[05时26分 ~ 07时01分]"
         },
         {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
@@ -98,17 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 05时27分]"
-        },
-        {
-          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
-          "url": "https://www.cls.cn/detail/2382213",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 05时27分]"
         },
         {
           "title": "AI让我遇见小时候的自己",
@@ -147,7 +172,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "马斯克：路透社关于SpaceX星链的报道“不实”。五角大楼不恰当地利用了星链民用系统。",
@@ -161,26 +186,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "知情人士：马斯克曾与同事讨论将SpaceX与特斯拉合并",
-          "url": "https://flash.jin10.com/detail/20260527052148578800",
-          "source": "金十数据",
+          "title": "富时罗素修改规则：大盘股IPO可加速纳入指数，SpaceX再迎利好",
+          "url": "https://wallstreetcn.com/livenews/3109684",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "据CNBC：埃隆·马斯克与同事讨论了将特斯拉与SpaceX合并的可能性。",
-          "url": "https://flash.jin10.com/detail/20260527051726434800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "07时01分"
         },
         {
           "title": "富时罗素指数公司批准修改IPO快速通道制度。 符合条件的快速纳入IPO将在初始上市后第五个交易日收盘后纳入。 可投资市值超过罗素美国前500大调整后总市值阈值的IPO将有资格快速纳入。 SpaceX将独立接受指数纳入审核。",
@@ -189,9 +203,45 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "知情人士：马斯克曾与同事讨论将SpaceX与特斯拉合并",
+          "url": "https://flash.jin10.com/detail/20260527052148578800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 07时01分]"
+        },
+        {
+          "title": "据CNBC：埃隆·马斯克与同事讨论了将特斯拉与SpaceX合并的可能性。",
+          "url": "https://flash.jin10.com/detail/20260527051726434800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 07时01分]"
+        },
+        {
+          "title": "SpaceX上市消息带飞太空板块 火箭与卫星概念股集体暴涨",
+          "url": "https://www.cls.cn/detail/2382242",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 07时01分]"
         },
         {
           "title": "SpaceX IPO即将来袭！以史为鉴 首日买入回报率或跑输大盘？",
@@ -233,9 +283,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "报道：马斯克曾与同事讨论SpaceX与特斯拉合并事宜",
+          "url": "https://wallstreetcn.com/livenews/3109659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "富时罗素：根据富时罗素的快速纳入规则，SpaceX似乎有资格被纳入富时美国股票指数系列及富时全球股票指数系列。",
@@ -244,7 +305,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
