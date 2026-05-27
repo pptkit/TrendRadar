@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T13:08:38.119262+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-05-27T16:58:44.389448+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "中国机器人正在创造下一个奇迹",
@@ -31,6 +31,19 @@
           "time_info": "[01时18分 ~ 08时05分]"
         },
         {
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时00分 ~ 16时58分]"
+        },
+        {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
           "url": "https://www.cls.cn/detail/2381769",
           "source": "财联社热门",
@@ -43,29 +56,17 @@
           "time_info": "[01时18分 ~ 07时00分]"
         },
         {
-          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时00分 ~ 13时08分]"
-        },
-        {
           "title": "AI吸附挂泛滥,力度碾压端游",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
           "source": "贴吧",
           "ranks": [
             14,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 13时08分]"
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 16时58分]"
         },
         {
           "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
@@ -80,6 +81,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时26分 ~ 13时08分]"
+        },
+        {
+          "title": "全球人形机器人约90%来自中国",
+          "url": "https://www.douyin.com/hot/2513855",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 16时58分]"
         },
         {
           "title": "一人之下被指用AI作画",
@@ -128,26 +140,50 @@
           "time_info": "08时05分"
         },
         {
+          "title": "快手科技：2026年第一季度，可灵AI产生的收入超过人民币6.5亿元，同比增长超过300.0%。 2026年3月，可灵AI的年化收入运行率(ARR)近5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3109967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "AI坑爹,棒球名帅丢饭碗",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 16时58分]"
         },
         {
-          "title": "全球人形机器人约90%来自中国",
-          "url": "https://www.douyin.com/hot/2513855",
-          "source": "抖音",
+          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
+          "url": "https://www.cls.cn/detail/2382543",
+          "source": "财联社热门",
           "ranks": [
+            10,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 16时58分]"
         },
         {
           "title": "“港版纳指”掉队，恒生科技指数迎来“AI化”重估",
@@ -203,7 +239,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -219,26 +255,37 @@
           "time_info": "08时05分"
         },
         {
-          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
-          "url": "https://www.cls.cn/detail/2382543",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
           "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
           "url": "https://www.zhihu.com/question/2041893027963262258",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "AIDC供电架构变革 超级电容有望成为结构性必需品",
+          "url": "https://www.cls.cn/detail/2382316",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：我们一直在告诉银行增加对网络安全的投资，以应对人工智能风险。",
+          "url": "https://flash.jin10.com/detail/20260527162023995800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "消息人士：软银聘请高盛、摩根大通、瑞穗银行和摩根士丹利协助进行机器人公司ROZE的IPO。",
@@ -258,9 +305,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "黄仁勋称AI时代学什么专业并不重要",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0AI%E6%97%B6%E4%BB%A3%E5%AD%A6%E4%BB%80%E4%B9%88%E4%B8%93%E4%B8%9A%E5%B9%B6%E4%B8%8D%E9%87%8D%E8%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "软银聘请高盛、摩根大通、瑞穗银行和摩根士丹利协助进行机器人公司Roze的IPO。",
@@ -280,15 +338,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "前美国芝加哥联储主席Evans：AI虽能提高生产率 但或将加剧通胀",
+          "url": "https://wallstreetcn.com/livenews/3109929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "马斯克：路透社关于SpaceX星链的报道“不实”。五角大楼不恰当地利用了星链民用系统。",
@@ -362,6 +431,18 @@
           "time_info": "[05时27分 ~ 07时01分]"
         },
         {
+          "title": "市场传闻将成真？马斯克被曝曾探讨合并SpaceX与特斯拉",
+          "url": "https://www.cls.cn/detail/2382367",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 16时58分]"
+        },
+        {
           "title": "报道：马斯克曾与同事讨论SpaceX与特斯拉合并事宜",
           "url": "https://wallstreetcn.com/livenews/3109659",
           "source": "华尔街见闻-快讯",
@@ -396,15 +477,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "市场传闻将成真？马斯克被曝曾探讨合并SpaceX与特斯拉",
-          "url": "https://www.cls.cn/detail/2382367",
-          "source": "财联社热门",
+          "title": "美股航空航天板块盘前上涨，Momentus涨超30%，太空基础设施公司Redwire涨约23%，AST SpaceMobile、Rocket Lab涨超6%。此前，美国国家航空航天局（NASA）26日公布月球基地建设三阶段路线图，进一步细化未来在月球南极地区建设长期驻留设施的发展目标和实施路径。",
+          "url": "https://flash.jin10.com/detail/20260527162232462800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "16时58分"
         },
         {
           "title": "美国国家航空航天局（NASA）：萤火虫太空（Firefly）的“鞘翅”（Elytra）航天器将把首批无人机送上月球。",
@@ -446,7 +527,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -471,6 +552,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多地取消执行 40 多年的固定分时电价，将有哪些变化？对电力市场和居民日常用电有哪些影响？",
+          "url": "https://www.zhihu.com/question/2042878236959536823",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "中国的电网公司到底在整个电力系统中起了什么作用，为什么不能电厂直接供电，增加这样一个中间环节？",
+          "url": "https://www.zhihu.com/question/20526863",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
