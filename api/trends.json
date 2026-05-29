@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T03:26:51.877653+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-05-30T05:31:35.467979+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "美国年轻人街头暴揍机器人",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3773393",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
@@ -49,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -61,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "莫言接受央媒专访：有志气的作家不会屈服于AI压力，还是要坚持原创",
@@ -73,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -84,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "“广东高考将用AI批卷”不实",
@@ -95,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "“广东夏季高考将用AI批卷”不实",
@@ -106,8 +107,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -117,8 +118,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "AI改写黑袍纠察队结局",
@@ -126,11 +127,45 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
+        },
+        {
+          "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。",
+          "url": "https://wallstreetcn.com/livenews/3111637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
+          "url": "https://wallstreetcn.com/livenews/3111636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260530034751105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "OpenAI确认推出Rosalind BioDefense Program。",
@@ -150,7 +185,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -158,7 +193,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "创业板跌超2%，科创50重挫逾5%，电力、消费拉升，芯片半导体集体下挫，恒指涨近1%，联想集团再涨超20%",
@@ -169,8 +204,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
@@ -180,14 +215,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
+        },
+        {
+          "title": "【数据看盘】多路资金联手抢筹晋控电力，北向资金和机构逆势买入京东方A",
+          "url": "https://www.cls.cn/detail/2385505",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "航天员张陆从太空带回一个苹果",
@@ -197,8 +243,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "丹麦养老基金“拉黑”SpaceX，批评其灾难性的公司治理结构",
@@ -210,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX很对美国“金穹”反导系统卫星赢得40亿美元合同。",
+          "url": "https://wallstreetcn.com/livenews/3111614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     }
