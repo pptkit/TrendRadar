@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T03:01:48.383056+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-06-01T04:10:03.806152+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
@@ -48,19 +48,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
           "url": "https://wallstreetcn.com/articles/3773512",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
@@ -69,22 +70,24 @@
           "ranks": [
             13,
             12,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
           "url": "https://www.cls.cn/detail/2386131",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "美军人形机器人已实战部署",
@@ -95,19 +98,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "美国年轻人街头暴揍机器人",
@@ -117,8 +121,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "美媒：美公司在乌克兰测试人形机器人，计划将技术引入美军",
@@ -128,8 +132,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时10分]"
         },
         {
           "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
@@ -138,9 +142,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时10分]"
+        },
+        {
+          "title": "让小孩学AI是浪费时间吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%B0%8F%E5%AD%A9%E5%AD%A6AI%E6%98%AF%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 04时10分]"
         },
         {
           "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
@@ -167,8 +182,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "多地电力负荷连创新高 算力用电年均或增超千亿度 绿电直连开启消纳“第二通道”",
@@ -178,8 +193,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         }
       ]
     }
