@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T10:32:02.774009+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-06-01T16:22:19.791313+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -140,6 +140,40 @@
           "time_info": "[00时54分 ~ 06时46分]"
         },
         {
+          "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
+          "url": "https://wallstreetcn.com/articles/3773548",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
+          "url": "https://www.cls.cn/detail/2386515",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 16时22分]"
+        },
+        {
           "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
           "url": "https://www.zhihu.com/question/2044518201330073873",
           "source": "知乎",
@@ -169,11 +203,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 10时32分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 16时22分]"
         },
         {
           "title": "让小孩学AI是浪费时间吗",
@@ -211,15 +246,15 @@
           "time_info": "[06时46分 ~ 07时55分]"
         },
         {
-          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
-          "url": "https://www.cls.cn/detail/2386515",
-          "source": "财联社热门",
+          "title": "AI热情主导市场，日韩股市齐创新高，三星电子大涨10%，油价攀升",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
@@ -233,15 +268,37 @@
           "time_info": "07时55分"
         },
         {
+          "title": "美股盘前，英伟达涨超2%，英伟达Vera Rubin全面量产，宣布杀入PC芯片市场，携宇树布局机器人；Arm大涨超8%；美股存储芯片股走高，美光科技涨超3%，闪迪涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3112272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "AI抢筹虹吸黄金流动性，涨势重启需等战争结束信号",
           "url": "https://flash.jin10.com/detail/20260601101302941800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "黄仁勋即将发表主题演讲 AIPC新时代要来了？",
+          "url": "https://www.cls.cn/detail/2386623",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "创业板指涨超1%，沪指涨0.18%，深成指涨0.62%，AI PC、电池、AI应用等方向领涨，沪深京三市上涨个股超4000只。",
@@ -250,9 +307,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "高盛：AI热浪助推风险敞口快速且集中增加",
+          "url": "https://wallstreetcn.com/livenews/3112266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘前上涨近2%，此前公司推出PC芯片，将人工智能直接带入个人电脑。",
+          "url": "https://flash.jin10.com/detail/20260601160339366800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "富士康：富士康与法国先进计算与人工智能公司Bull合作，扩大欧洲人工智能基础设施的制造能力。为在法国实施这一战略部署，该项目预计初始投资将超过1.2亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260601160250992800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
@@ -264,12 +354,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "机器人能给人类永恒的爱吗",
+          "url": "https://www.douyin.com/hot/2517756",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "多地电力负荷连创新高 算力用电年均或增超千亿度 绿电直连开启消纳“第二通道”",
@@ -307,13 +408,24 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
+          "title": "国家发改委等部门：非化石能源电力消费量的认定方式包括电能量交易、绿证交易等两种方式",
+          "url": "https://wallstreetcn.com/livenews/3112250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "A股电力股延续涨势，粤电力A4连板，晋控电力2连板，江苏国信、深南电A、华能蒙电、协鑫能科等多股高开。",
           "url": "https://wallstreetcn.com/livenews/3112065",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         }
