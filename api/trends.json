@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T03:51:25.809789+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-02T06:29:13.677061+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
         },
         {
           "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
         },
         {
           "title": "黄仁勋联手宇树打造1.8米机器人",
@@ -37,8 +37,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
+        },
+        {
+          "title": "大力推进人工智能+能源融合发展",
+          "url": "https://www.douyin.com/hot/2520343",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
+        },
+        {
+          "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
+          "url": "https://news.ifeng.com/c/8tbOoFh3a7h",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
+        },
+        {
+          "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
+          "url": "https://www.cls.cn/detail/2387170",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
         },
         {
           "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
@@ -52,48 +85,15 @@
           "time_info": "03时51分"
         },
         {
-          "title": "大力推进人工智能+能源融合发展",
-          "url": "https://www.douyin.com/hot/2520343",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "黄仁勋联手宇树打造1.8米机器人",
-          "url": "https://www.toutiao.com/trending/7645827395598057508/",
-          "source": "今日头条",
+          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
+          "url": "https://wallstreetcn.com/livenews/3112665",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
-          "url": "https://news.ifeng.com/c/8tbOoFh3a7h",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
-          "url": "https://www.cls.cn/detail/2387170",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "06时29分"
         },
         {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
@@ -107,42 +107,67 @@
           "time_info": "03时51分"
         },
         {
+          "title": "黄仁勋联手宇树打造1.8米机器人",
+          "url": "https://www.toutiao.com/trending/7645827395598057508/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
+        },
+        {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
           "url": "https://wallstreetcn.com/articles/3773561",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
+          "url": "https://flash.jin10.com/detail/20260602053510657800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "06时29分"
         },
         {
           "title": "OpenAI：BARN项目预计在租赁期内产生10亿美元的税收收入。",
           "url": "https://flash.jin10.com/detail/20260602031452989800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
           "ranks": [
             8
           ],
@@ -171,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI将在对公司有利时进行IPO。",
@@ -206,6 +242,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
+          "url": "https://wallstreetcn.com/livenews/3112644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：人们对人工智能感到焦虑是合理的。",
           "url": "https://flash.jin10.com/detail/20260602024250472800",
           "source": "金十数据",
@@ -215,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
+          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         }
       ]
     },
@@ -230,19 +288,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
         },
         {
           "title": "印度高温电工给变压器浇水降温，此举在电气安全上存在哪些风险？",
           "url": "https://www.zhihu.com/question/2042957518876497269",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时29分]"
         }
       ]
     }
