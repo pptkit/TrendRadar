@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T04:46:12.029294+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-06-04T06:57:53.451366+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时57分]"
+        },
+        {
+          "title": "据The Information：Meta Platforms(META.O)拟对其规划中的“Hatch”AI智能体收取高达每月200美元的费用。",
+          "url": "https://flash.jin10.com/detail/20260604060555586800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "博通第二财季调整后净营收221.9亿美元，分析师预期221.3亿美元。 第二财季调整后每股收益（EPS）为2.44美元，分析师预期2.39美元。 预计第三财季营收大约294亿美元，分析师预期286.1亿美元。 预计第三财季AI芯片销售160亿美元，分析师预期172亿美元。 预计第三财季调整后EBITDA大约为68%。",
@@ -25,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -37,19 +48,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时57分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
           "url": "https://www.zhihu.com/question/2044389352550164119",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时57分]"
         },
         {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
@@ -57,11 +69,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时57分]"
         },
         {
           "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
@@ -71,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时57分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
@@ -83,8 +96,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时57分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时57分]"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
@@ -99,15 +123,16 @@
           "time_info": "[01时55分 ~ 04时46分]"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
+          "title": "中国机器人登上美国达人秀",
+          "url": "https://www.toutiao.com/trending/7647031051694293042/",
+          "source": "今日头条",
           "ranks": [
-            19
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时46分]"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 06时57分]"
         },
         {
           "title": "宇树机器人登上《美国达人秀》",
@@ -127,9 +152,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "Meta寻求对AI智能体每个月收取至多200美元费用。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3114045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "Ci.ai第四财季营收0.516亿美元，分析师预期0.503亿美元。 第四财季调整后每股亏损0.33美元，分析师预期亏损0.37美元。 预计2027财年营收2.10亿-2.40亿美元，分析师预期2.282亿美元。 预计第一财季营收0.5亿-0.54亿美元，分析师预期0.527亿美元。 任命Thomas M. Siebel为首席执行官（CEO）。 C3.ai（AI）美股盘后涨10%。",
@@ -138,7 +174,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -154,15 +190,15 @@
           "time_info": "01时55分"
         },
         {
-          "title": "中国机器人登上美国达人秀",
-          "url": "https://www.toutiao.com/trending/7647031051694293042/",
-          "source": "今日头条",
+          "title": "OpenAI打算整合CodeX与ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3114043",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "06时57分"
         },
         {
           "title": "博通(AVGO.O)：我们预计第三季度来自人工智能领域的半导体营收将同比增长超过200%，达到160亿美元。",
@@ -171,9 +207,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "受AI驱动利润激增，分析师预计韩国股市表现超越日本对手",
+          "url": "https://wallstreetcn.com/livenews/3114040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "博通首席执行官：第二季度非人工智能半导体收入增长6%。",
+          "url": "https://flash.jin10.com/detail/20260604052445015800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "博通首席执行官：仍预计2027财年人工智能半导体收入将超过1000亿美元，人工智能半导体收入将在2028财年继续增长。",
+          "url": "https://flash.jin10.com/detail/20260604052421958800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "博通(AVGO.O)：第二财季来自人工智能的半导体收入为108亿美元。",
@@ -182,9 +251,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
+          "url": "https://flash.jin10.com/detail/20260604051716270800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "英伟达收购Kumo AI，条款还不得而知。（财富）",
+          "url": "https://wallstreetcn.com/livenews/3114033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "Diameter Capital Partners LP.的联合创始人Scott Goodwin：人工智能（AI）领域的那些超大规模云服务商（Hyperscalers）在投资级市场（IG Market）上的比重越来越高。 SaaS构成头等违约风险。 某些人在资本问题上态度审慎。 大量贷款面临高风险。（彭博电视）",
@@ -198,6 +289,28 @@
           "time_info": "01时55分"
         },
         {
+          "title": "电话会：博通为OpenAI开发芯片，将于2027财年部署1.3 GW。 到2028财年年底将向Meta部署3 GW。 围绕服务OpenAI与Anthropic，公司与阿波罗、黑石集团合作。",
+          "url": "https://wallstreetcn.com/livenews/3114027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "博通首席执行官：预计2026财年人工智能半导体收入将达到560亿美元。",
+          "url": "https://flash.jin10.com/detail/20260604051008094800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "美国参议院民主党领导人Schumer周三会见OpenAI的CEO Altman。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3113923",
           "source": "华尔街见闻-快讯",
@@ -209,13 +322,24 @@
           "time_info": "01时55分"
         },
         {
+          "title": "博通CEO：重申2027财年AI芯片销售将超过1000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "高盛高管：AI是驱动市场的“一代人级别”的力量",
           "url": "https://wallstreetcn.com/livenews/3113978",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
@@ -223,7 +347,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "1.75万亿美元估值，5%的股票发行，低于0.75%的承销费率--SpaceX IPO或周三披露价格区间",
@@ -233,8 +357,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时57分]"
+        },
+        {
+          "title": "SpaceX创纪录IPO前夕，在美国得州芯片项目上赢得税收减免",
+          "url": "https://wallstreetcn.com/livenews/3114050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "750亿美元！SpaceX或大幅打破融资纪录 一图速览全球前十大IPO",
@@ -242,11 +377,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时57分]"
         },
         {
           "title": "在公开听证会上，得克萨斯县以4票赞成、1票反对的结果通过设立SpaceX再投资区。",
@@ -274,8 +410,19 @@
     },
     {
       "keyword_group": "太阳能 光伏",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "太空光伏产品“抢镜”SNEC展览会，钙钛矿叠层技术成企业押注方向",
+          "url": "https://wallstreetcn.com/livenews/3114052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，奇富科技初步收跌8.2%，金山云跌6.9%，老虎证券跌5.9%，大全新能源跌5.3%，阿特斯太阳能跌5%，万国数据跌4.5%，世纪互联跌4.1%，阿里巴巴跌2.5%，再鼎医药涨0.1%，中通快递涨0.3%，华住、亚朵涨1.1%，文远知行涨2.9%，盛大科技涨10.6%。",
           "url": "https://wallstreetcn.com/livenews/3113995",
@@ -283,7 +430,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
