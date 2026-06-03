@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T15:31:52.697174+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-06-03T20:29:18.384749+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 46,
+      "match_count": 61,
       "titles": [
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -26,11 +26,23 @@
           "ranks": [
             3,
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时06分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[02时06分 ~ 20时29分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 20时29分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 07时26分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 15时31分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -140,9 +141,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "欧盟委员会：将宣布措施，旨在推动欧盟云服务提供商、芯片制造商和人工智能公司发展。 欧盟云计划可能会将大型科技公司排除在关键公共招标之外。 欧盟芯片提案旨在提升对本土芯片的需求。 提议为使用欧盟制造芯片的数据中心提供优先电网接入和降低网络费用。",
+          "url": "https://wallstreetcn.com/livenews/3113782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "“订单处于历史较高水平”！数据中心、AI开辟新应用场景 超级电容进入高景气周期",
+          "url": "https://www.cls.cn/detail/2389349",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "A股机器人概念股震荡走强，模塑科技拉升封板，祥鑫科技、浙江荣泰此前涨停，埃斯顿、北特科技、绿的谐波涨超5%。",
@@ -156,6 +179,17 @@
           "time_info": "10时37分"
         },
         {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
           "url": "https://flash.jin10.com/detail/20260603070002418800",
           "source": "金十数据",
@@ -165,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "国际数学联盟发布《人工智能与数学莱顿宣言》，回应 AI 对数学研究影响的问题，如何理解这份宣言？",
+          "url": "https://www.zhihu.com/question/2045460062915621128",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
@@ -382,6 +427,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "AI数据中心 淡水资源",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%20%E6%B7%A1%E6%B0%B4%E8%B5%84%E6%BA%90&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "AI引爆存储需求！SK集团董事长：计划未来五年将晶圆产能翻倍",
           "url": "https://www.cls.cn/detail/2388372",
           "source": "财联社热门",
@@ -391,6 +447,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "男童被机器人踢中腹部倒地 母亲报警",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%A2%E4%B8%AD%E8%85%B9%E9%83%A8%E5%80%92%E5%9C%B0+%E6%AF%8D%E4%BA%B2%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "【午报】创业板指震荡走高涨近4%，AI硬件与芯片产业联袂领涨",
+          "url": "https://www.cls.cn/detail/2389313",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
+          "url": "https://www.zhihu.com/question/2045380781644763655",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "实益达：公司穿透后对宇树科技持股比例较低，公司目前不涉及机器人业务",
+          "url": "https://wallstreetcn.com/livenews/3113770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "微软宣布启动“Project Solara”项目，该项目中的芯片将运行人工智能代理而非应用程序，并直接与云计算数据中心进行通信。",
@@ -426,6 +526,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "胜通能源：七腾机器人要约收购完成过户，合计持股44.8441%",
+          "url": "https://flash.jin10.com/detail/20260603195434598800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
           "url": "https://wallstreetcn.com/livenews/3113280",
           "source": "华尔街见闻-快讯",
@@ -435,6 +546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "微软(MSFT.O)：Azure HorizonDB PostgreSQL数据库现已面向人工智能驱动的应用程序开放公开预览。",
@@ -476,7 +598,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -503,6 +625,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "报告：AI节省时间却难兑现生产力红利",
+          "url": "https://wallstreetcn.com/livenews/3113756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "微软(MSFT.O)首席执行官宣布将Windows AI API扩展至更多个人电脑端。",
           "url": "https://flash.jin10.com/detail/20260603011414127800",
           "source": "金十数据",
@@ -514,13 +647,46 @@
           "time_info": "02时06分"
         },
         {
+          "title": "法国总统马克龙邀请OpenAI的CEO Altman参加G7峰会。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3113754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850543&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/8eSUX8nlQ_YYVH4g9pNJ9.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260603194202504800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "王濛谈AI一人公司",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E8%B0%88AI%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "阿里QoderWork中国版推出AI生产力计划",
           "url": "https://wallstreetcn.com/livenews/3113553",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
@@ -528,7 +694,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "太空三峡电站将开建",
@@ -546,11 +712,12 @@
           "url": "https://wallstreetcn.com/articles/3773700",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 20时29分]"
         },
         {
           "title": "晨星将SpaceX估值定为7800亿美元 不到其IPO目标的一半",
@@ -564,6 +731,17 @@
           "time_info": "[05时40分 ~ 07时26分]"
         },
         {
+          "title": "750亿美元！SpaceX或大幅打破融资纪录 一图速览全球前十大IPO",
+          "url": "https://www.cls.cn/detail/2389692",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "报道：SpaceX计划最快周三确定IPO条款",
           "url": "https://wallstreetcn.com/livenews/3113324",
           "source": "华尔街见闻-快讯",
@@ -573,6 +751,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "SpaceX IPO前，特朗普政府官员持有数百万美元股票",
+          "url": "https://flash.jin10.com/detail/20260603200002743800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "SpaceX员工联手压价、寻求节税工具，为IPO上市做准备",
@@ -641,8 +830,19 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "内蒙古电力集团董事长张海峰被查",
+          "url": "https://www.toutiao.com/trending/7647099560589836324/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
         {
           "title": "泰永长征：公司固态变压器目前处于研发设计阶段",
           "url": "https://flash.jin10.com/detail/20260603151601922800",
@@ -650,7 +850,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
