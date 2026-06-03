@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T01:55:25.670213+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-04T04:46:12.029294+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
+        },
+        {
+          "title": "博通第二财季调整后净营收221.9亿美元，分析师预期221.3亿美元。 第二财季调整后每股收益（EPS）为2.44美元，分析师预期2.39美元。 预计第三财季营收大约294亿美元，分析师预期286.1亿美元。 预计第三财季AI芯片销售160亿美元，分析师预期172亿美元。 预计第三财季调整后EBITDA大约为68%。",
+          "url": "https://wallstreetcn.com/livenews/3114006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "04时46分"
         },
         {
           "title": "AI脸泛滥成灾,建模师没活了",
@@ -26,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
@@ -37,19 +48,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
         },
         {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
           "url": "https://www.zhihu.com/question/2045380781644763655",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
         },
         {
           "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
@@ -59,8 +71,76 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
+        },
+        {
+          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
+          "url": "https://www.cls.cn/detail/2389857",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
+        },
+        {
+          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
+          "url": "https://www.zhihu.com/question/2045160976878680020",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
+        },
+        {
+          "title": "宇树机器人登上《美国达人秀》",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BB%E4%B8%8A%E3%80%8A%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 04时46分]"
+        },
+        {
+          "title": "英特尔收涨4.43%，报112.71美元，该公司重磅发布18A至强6+芯片及机架级AI战略。",
+          "url": "https://wallstreetcn.com/livenews/3114004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "04时46分"
+        },
+        {
+          "title": "Ci.ai第四财季营收0.516亿美元，分析师预期0.503亿美元。 第四财季调整后每股亏损0.33美元，分析师预期亏损0.37美元。 预计2027财年营收2.10亿-2.40亿美元，分析师预期2.282亿美元。 预计第一财季营收0.5亿-0.54亿美元，分析师预期0.527亿美元。 任命Thomas M. Siebel为首席执行官（CEO）。 C3.ai（AI）美股盘后涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3114001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "中国机器人亮相美国达人秀",
@@ -68,17 +148,6 @@
           "source": "抖音",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
-          "url": "https://www.cls.cn/detail/2389857",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,26 +165,26 @@
           "time_info": "01时55分"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
+          "title": "博通(AVGO.O)：我们预计第三季度来自人工智能领域的半导体营收将同比增长超过200%，达到160亿美元。",
+          "url": "https://flash.jin10.com/detail/20260604041835508800",
+          "source": "金十数据",
           "ranks": [
-            19
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "04时46分"
         },
         {
-          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
-          "url": "https://www.zhihu.com/question/2045160976878680020",
-          "source": "知乎",
+          "title": "博通(AVGO.O)：第二财季来自人工智能的半导体收入为108亿美元。",
+          "url": "https://flash.jin10.com/detail/20260604041606784800",
+          "source": "金十数据",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "04时46分"
         },
         {
           "title": "Diameter Capital Partners LP.的联合创始人Scott Goodwin：人工智能（AI）领域的那些超大规模云服务商（Hyperscalers）在投资级市场（IG Market）上的比重越来越高。 SaaS构成头等违约风险。 某些人在资本问题上态度审慎。 大量贷款面临高风险。（彭博电视）",
@@ -138,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "高盛高管：AI是驱动市场的“一代人级别”的力量",
+          "url": "https://wallstreetcn.com/livenews/3113978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         }
       ]
     },
@@ -153,19 +233,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
         },
         {
           "title": "750亿美元！SpaceX或大幅打破融资纪录 一图速览全球前十大IPO",
           "url": "https://www.cls.cn/detail/2389692",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时46分]"
         },
         {
           "title": "在公开听证会上，得克萨斯县以4票赞成、1票反对的结果通过设立SpaceX再投资区。",
@@ -188,6 +269,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，奇富科技初步收跌8.2%，金山云跌6.9%，老虎证券跌5.9%，大全新能源跌5.3%，阿特斯太阳能跌5%，万国数据跌4.5%，世纪互联跌4.1%，阿里巴巴跌2.5%，再鼎医药涨0.1%，中通快递涨0.3%，华住、亚朵涨1.1%，文远知行涨2.9%，盛大科技涨10.6%。",
+          "url": "https://wallstreetcn.com/livenews/3113995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         }
       ]
     }
