@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-05T17:27:34.389983+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-06-05T20:32:18.988154+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 58,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 20时32分]"
+        },
         {
           "title": "不到一万即可入手，人形机器人价格大跌",
           "url": "https://www.cls.cn/detail/2391108",
@@ -20,15 +31,16 @@
           "time_info": "[00时16分 ~ 08时09分]"
         },
         {
-          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3773843",
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时09分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 20时32分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 13时08分]"
-        },
-        {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 17时27分]"
         },
         {
           "title": "A股机器人板块走高，绿的谐波涨超17%，亿嘉和、埃夫特、三丰智能、派斯林、凯尔达等跟涨。",
@@ -106,6 +106,17 @@
           "time_info": "[00时16分 ~ 13时08分]"
         },
         {
+          "title": "日立：双方正就定制芯片、边缘人工智能应用及工厂自动化领域的合作机会展开探索。",
+          "url": "https://flash.jin10.com/detail/20260605200131431800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
           "url": "https://wallstreetcn.com/articles/3773858",
           "source": "华尔街见闻",
@@ -129,6 +140,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时16分 ~ 08时09分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 20时32分]"
+        },
+        {
+          "title": "日立：与英特尔(INTC.O)宣布战略合作，推动关键行业的人工智能转型。日立将在英特尔工厂部署HMAX能源系统，英特尔将向日立供应高压硅芯片。",
+          "url": "https://flash.jin10.com/detail/20260605200113001800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "AI交易降温，纳指收跌，道指创历史新高，博通大跌超12%，金银反弹",
@@ -193,6 +227,18 @@
           "time_info": "[07时01分 ~ 08时09分]"
         },
         {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 20时32分]"
+        },
+        {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
           "url": "https://wallstreetcn.com/livenews/3114639",
           "source": "华尔街见闻-快讯",
@@ -215,6 +261,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时08分 ~ 17时27分]"
+        },
+        {
+          "title": "机器人表演飞踢误伤小孩哥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354883&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E9%A3%9E%E8%B8%A2%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%AD%A9%E5%93%A5",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 20时32分]"
         },
         {
           "title": "好怕现实中也有人长AI这样",
@@ -242,6 +301,18 @@
           "time_info": "[00时16分 ~ 05时22分]"
         },
         {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 20时32分]"
+        },
+        {
           "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
@@ -267,6 +338,30 @@
           "time_info": "[00时16分 ~ 05时22分]"
         },
         {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 20时32分]"
+        },
+        {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 20时32分]"
+        },
+        {
           "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
           "url": "https://www.zhihu.com/question/13090511317",
           "source": "知乎",
@@ -280,28 +375,27 @@
           "time_info": "[03时12分 ~ 07时01分]"
         },
         {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
+          "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 20时32分]"
         },
         {
-          "title": "机器人表演飞踢误伤小孩哥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354883&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E9%A3%9E%E8%B8%A2%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%AD%A9%E5%93%A5",
-          "source": "贴吧",
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时08分 ~ 17时27分]"
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -313,6 +407,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 03时12分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "猎鹰崛起AI先导片",
@@ -327,6 +432,17 @@
           "time_info": "[05时22分 ~ 08时09分]"
         },
         {
+          "title": "美国外卖机器人被当街暴打，该厂商曾称其要替代人工快递员，这一现象反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2045939490523276303",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：芯片制造将变得更加自动化。 英伟达可以将机器人技术应用于韩国工业。 机器人将成为韩国的下一个主要支柱产业。",
           "url": "https://wallstreetcn.com/livenews/3114816",
           "source": "华尔街见闻-快讯",
@@ -338,35 +454,13 @@
           "time_info": "13时08分"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "中方回应外媒称AI进入“中美争霸”",
           "url": "https://www.toutiao.com/trending/7647807825645699126/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -415,17 +509,6 @@
           "time_info": "13时08分"
         },
         {
-          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
-          "url": "https://wallstreetcn.com/articles/3773884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
           "url": "https://www.cls.cn/detail/2391250",
           "source": "财联社热门",
@@ -443,7 +526,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -459,17 +542,6 @@
           "time_info": "13时08分"
         },
         {
-          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
-          "url": "https://wallstreetcn.com/articles/3773916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "英伟达(NVDA.O)CEO黄仁勋：可以将机器人技术应用于韩国工业。",
           "url": "https://flash.jin10.com/detail/20260605124639347800",
           "source": "金十数据",
@@ -479,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "明阳电路：拟发行可转债募资不超过12亿元，用于年产10万平米人工智能高阶HDI算力产品项目、补充流动资金及偿还银行贷款项目。",
+          "url": "https://wallstreetcn.com/livenews/3115107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美联储戴利：尚未发现人工智能投资引发金融稳定方面的担忧。",
@@ -498,7 +581,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -536,17 +619,6 @@
           "time_info": "08时09分"
         },
         {
-          "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "腾讯AI慢了吗？姚顺雨回答汤道生：AI是长期游戏，下半场才开始",
           "url": "https://wallstreetcn.com/livenews/3114800",
           "source": "华尔街见闻-快讯",
@@ -567,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "湖北成立工业物理AI实验室，围绕“AI+工业软件+物理机理+制造数据”开展研发攻关",
+          "url": "https://wallstreetcn.com/livenews/3115097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能建设正在加速。",
@@ -613,13 +696,24 @@
           "time_info": "08时09分"
         },
         {
+          "title": "明阳电路：拟投入2.03亿元建设人工智能高阶HDI算力产品项目",
+          "url": "https://flash.jin10.com/detail/20260605194610022800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，共建AI云服务产业生态",
           "url": "https://wallstreetcn.com/livenews/3114960",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -633,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "中重科技：不涉及机器人及零配件的生产制造",
+          "url": "https://flash.jin10.com/detail/20260605194419156800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "巴克莱调查：固定收益投资者中使用AI最多的是对冲基金",
@@ -652,7 +757,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -682,7 +787,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
@@ -760,6 +865,17 @@
           "time_info": "[05时22分 ~ 07时01分]"
         },
         {
+          "title": "深度详解“史上最大IPO”--SpaceX",
+          "url": "https://wallstreetcn.com/articles/3773924",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "据悉SpaceX锁定IPO发行价为135美元",
           "url": "https://flash.jin10.com/detail/20260605062623003800",
           "source": "金十数据",
@@ -813,6 +929,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "摩根士丹利：预计SpaceX到2028年营收将接近1600亿美元。 预计SpaceX到2040年营收将达到3.4万亿美元。 预计SpaceX调整后EBITDA到2040年将超过2.7万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "摩根大通CEO戴蒙将向财富客户们推介SpaceX IPO。（纽约邮报）",
