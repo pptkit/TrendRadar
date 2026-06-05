@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T13:08:42.706969+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-06-05T17:27:34.389983+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 48,
+      "match_count": 58,
       "titles": [
         {
           "title": "不到一万即可入手，人形机器人价格大跌",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 17时27分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -43,13 +43,25 @@
           "time_info": "[08时09分 ~ 13时08分]"
         },
         {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时27分]"
+        },
+        {
           "title": "A股机器人板块走高，绿的谐波涨超17%，亿嘉和、埃夫特、三丰智能、派斯林、凯尔达等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3114823",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -117,17 +129,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时16分 ~ 08时09分]"
-        },
-        {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "AI交易降温，纳指收跌，道指创历史新高，博通大跌超12%，金银反弹",
@@ -204,6 +205,18 @@
           "time_info": "[05时22分 ~ 07时01分]"
         },
         {
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时27分]"
+        },
+        {
           "title": "好怕现实中也有人长AI这样",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -267,6 +280,30 @@
           "time_info": "[03时12分 ~ 07时01分]"
         },
         {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时27分]"
+        },
+        {
+          "title": "机器人表演飞踢误伤小孩哥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354883&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E9%A3%9E%E8%B8%A2%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%AD%A9%E5%93%A5",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时27分]"
+        },
+        {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
           "url": "https://wallstreetcn.com/articles/3773802",
           "source": "华尔街见闻",
@@ -296,20 +333,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
         {
-          "title": "机器人表演飞踢误伤小孩哥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354883&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E9%A3%9E%E8%B8%A2%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%AD%A9%E5%93%A5",
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
           "source": "贴吧",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "17时27分"
+        },
+        {
+          "title": "中方回应外媒称AI进入“中美争霸”",
+          "url": "https://www.toutiao.com/trending/7647807825645699126/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：数据还没体现出AI带来的生产力增长。 看好AI，2027年将是“试金石”。 并没有发现AI投资相关的金融稳定性顾虑。",
@@ -340,7 +399,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -351,20 +410,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
         {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "17时27分"
         },
         {
           "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
@@ -373,9 +432,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：机器人技术将成为韩国下一个重要行业。",
@@ -384,20 +454,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
         {
-          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
-          "url": "https://www.cls.cn/detail/2391554",
-          "source": "财联社热门",
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "17时27分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：可以将机器人技术应用于韩国工业。",
@@ -406,7 +476,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -420,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "英伟达推出全模态物理AI模型 物理AI规模化落地时代加速到来",
+          "url": "https://www.cls.cn/detail/2391303",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "美联储戴利：对人工智能持乐观态度，明年将成为检验行业发展方向的关键时期。",
@@ -455,13 +536,24 @@
           "time_info": "08时09分"
         },
         {
+          "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "腾讯AI慢了吗？姚顺雨回答汤道生：AI是长期游戏，下半场才开始",
           "url": "https://wallstreetcn.com/livenews/3114800",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -472,7 +564,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -483,7 +575,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -521,6 +613,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，共建AI云服务产业生态",
+          "url": "https://wallstreetcn.com/livenews/3114960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
           "url": "https://flash.jin10.com/detail/20260605050144173800",
           "source": "金十数据",
@@ -543,13 +646,24 @@
           "time_info": "03时12分"
         },
         {
+          "title": "Gartner：到2030年，预计100%的IT工作都将在AI辅助下完成",
+          "url": "https://wallstreetcn.com/livenews/3114958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "A股机器人概念反复活跃，绿的谐波涨超12%，中重科技、宇环数控此前涨停，宁波东力、华锐精密、中坚科技涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3114788",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -560,7 +674,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
@@ -580,6 +694,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 05时22分]"
+        },
+        {
+          "title": "SpaceX即将上市，但先别急着开香槟：一批“股东”可能发现自己买的是废纸",
+          "url": "https://wallstreetcn.com/articles/3773879",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 17时27分]"
         },
         {
           "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
@@ -608,17 +736,16 @@
           "time_info": "[00时16分 ~ 08时09分]"
         },
         {
-          "title": "SpaceX即将上市，但先别急着开香槟：一批“股东”可能发现自己买的是废纸",
-          "url": "https://wallstreetcn.com/articles/3773879",
-          "source": "华尔街见闻",
+          "title": "SpaceX IPO路演火热进行中 知情人士：认购需求爆棚、分析师电话接不停",
+          "url": "https://www.cls.cn/detail/2391329",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 13时08分]"
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时27分]"
         },
         {
           "title": "SpaceX披露巨额诉讼与法务费用，在缺少首席法律官的情况下推进IPO",
@@ -631,17 +758,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 07时01分]"
-        },
-        {
-          "title": "SpaceX IPO路演火热进行中 知情人士：认购需求爆棚、分析师电话接不停",
-          "url": "https://www.cls.cn/detail/2391329",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "据悉SpaceX锁定IPO发行价为135美元",
