@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T06:54:11.684120+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-06-07T07:56:05.621978+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时56分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时56分]"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时56分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -55,8 +55,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时56分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -67,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时56分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -78,8 +78,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时56分]"
         },
         {
           "title": "机器人表演飞踢误伤小孩哥",
@@ -89,8 +89,22 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时56分]"
+        },
+        {
+          "title": "全球首款全尺寸超仿生人形机器人来了",
+          "url": "https://www.toutiao.com/trending/7647117592154882091/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            26,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时56分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -104,8 +118,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时56分]"
         },
         {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
@@ -114,22 +128,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "全球首款全尺寸超仿生人形机器人来了",
-          "url": "https://www.toutiao.com/trending/7647117592154882091/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            26,
-            22
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 06时54分]"
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时56分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -142,6 +143,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 04时03分]"
+        },
+        {
+          "title": "北大UP主手搓AI猫娘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%8C%AB%E5%A8%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时53分 ~ 07时56分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -180,15 +193,15 @@
           "time_info": "[00时57分 ~ 02时03分]"
         },
         {
-          "title": "北大UP主手搓AI猫娘",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%8C%AB%E5%A8%98",
-          "source": "bilibili 热搜",
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
+          "time_info": "[07时55分 ~ 07时56分]"
         },
         {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
@@ -216,8 +229,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 06时54分]"
+          "appearance_count": 5,
+          "time_info": "[05时55分 ~ 07时56分]"
         }
       ]
     }
