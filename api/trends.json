@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T06:02:24.697376+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-06-08T07:57:48.727415+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -17,30 +17,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时02分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时57分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
           "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时57分]"
+        },
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时57分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -52,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时57分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -76,6 +78,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
+          "url": "https://www.zhihu.com/question/1969653840065332479",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）",
+          "url": "https://wallstreetcn.com/livenews/3115671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "SK电讯：计划利用英伟达技术在韩国打造吉瓦（GW）级的AI云，首座AI工厂计划于2027年上线投入运营。 将使用英伟达Blackwell GPU进行AI训练和推理。 在英伟达Vera Rubin平台预计于2026年下半年上市后，将采用该平台。",
+          "url": "https://wallstreetcn.com/livenews/3115669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "SK海力士：正与英伟达联合开发面向全球AI工厂的下一代内存/显存。 考虑到先进内存较长的开发周期，这一长期合作伙伴关系将有助于保障稳定供应。 通过这次合作，公司将进入个人AI和具身AI等AI领域的新市场。 将继续供应满足英伟达基础设施路线图以及全球AI基础设施需求的内存/显存。 将利用英伟达的数字孪生技术，在虚拟世界中重现芯片工厂。",
+          "url": "https://wallstreetcn.com/livenews/3115668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "英伟达和SK海力士将把AI应用于半导体芯片设计。",
+          "url": "https://wallstreetcn.com/livenews/3115665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     },
@@ -91,8 +159,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时57分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -103,8 +171,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时57分]"
         }
       ]
     },
@@ -124,6 +192,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 06时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "万亿赛道开启商业化元年，行业龙头抱团布局太空光伏",
+          "url": "https://wallstreetcn.com/livenews/3115660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     }
