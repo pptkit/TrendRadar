@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T03:04:43.917204+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-06-08T04:59:48.745249+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时59分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时59分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时59分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时59分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -61,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时59分]"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -89,19 +91,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时59分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时59分]"
         }
       ]
     },
@@ -114,11 +117,12 @@
           "url": "https://www.toutiao.com/trending/7648625157833359401/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时59分]"
         }
       ]
     }
