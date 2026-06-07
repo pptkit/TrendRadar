@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T07:56:05.621978+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-06-07T10:15:01.398345+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时15分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时15分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -55,8 +55,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时15分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -64,33 +64,52 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时15分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时15分]"
         },
         {
           "title": "机器人表演飞踢误伤小孩哥",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354883&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E9%A3%9E%E8%B8%A2%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%AD%A9%E5%93%A5",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时15分]"
+        },
+        {
+          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
+          "url": "https://wallstreetcn.com/livenews/3115486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            7,
+            13,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 10时15分]"
         },
         {
           "title": "全球首款全尺寸超仿生人形机器人来了",
@@ -107,30 +126,16 @@
           "time_info": "[00时57分 ~ 07时56分]"
         },
         {
-          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
-          "url": "https://wallstreetcn.com/livenews/3115486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            7,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时56分]"
-        },
-        {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3115505",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时54分 ~ 10时15分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -181,6 +186,18 @@
           "time_info": "[00时57分 ~ 02时03分]"
         },
         {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 10时15分]"
+        },
+        {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
           "url": "https://flash.jin10.com/detail/20260607002708297800",
           "source": "金十数据",
@@ -193,15 +210,37 @@
           "time_info": "[00时57分 ~ 02时03分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "硅片行业的“结构性牛市”：AI芯片“喂饱”硅片巨头，国产硅片迎来黄金窗口",
+          "url": "https://wallstreetcn.com/premium/articles/3773871?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
+          "url": "https://www.zhihu.com/question/2025012000539846038",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
         },
         {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
@@ -226,11 +265,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时55分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[05时55分 ~ 10时15分]"
         }
       ]
     }
