@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T17:41:22.213733+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-06-09T20:32:19.847873+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 61,
+      "match_count": 68,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -20,6 +20,18 @@
           "time_info": "[00时43分 ~ 14时01分]"
         },
         {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 20时32分]"
+        },
+        {
           "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
           "url": "https://www.cls.cn/detail/2393919",
           "source": "财联社热门",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时43分 ~ 07时07分]"
-        },
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 17时41分]"
         },
         {
           "title": "连获2个30cm涨停！机器人热股逼近新高，大号连板股年内盘点，这些板块占比领先",
@@ -103,6 +104,30 @@
           "time_info": "[00时43分 ~ 09时56分]"
         },
         {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时32分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 20时32分]"
+        },
+        {
           "title": "当我把今年高考语文作文题喂给AI",
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
           "source": "百度热搜",
@@ -116,6 +141,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 09时56分]"
+        },
+        {
+          "title": "Monte vs paiN 科隆Major",
+          "url": "https://search.bilibili.com/all?keyword=Monte%20paiN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
@@ -181,18 +217,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -206,6 +231,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 20时32分]"
         },
         {
           "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
@@ -229,18 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 17时41分]"
         },
         {
           "title": "日韩股市突然暴跌 AI泡沫要破了吗",
@@ -328,18 +353,6 @@
           "time_info": "[09时55分 ~ 14时01分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 17时41分]"
-        },
-        {
           "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
           "url": "https://www.cls.cn/detail/2394326",
           "source": "财联社热门",
@@ -350,6 +363,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时59分 ~ 17时41分]"
+        },
+        {
+          "title": "AIVA发布会",
+          "url": "https://s.weibo.com/weibo?q=AIVA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
@@ -374,6 +398,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 07时07分]"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "人形机器人价格大跳水，最低不到一万可入手，为何价格快速下跌？机器人全民普及的时代要到来了吗？",
+          "url": "https://www.zhihu.com/question/2047236682659755773",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "刘吴月：机器人零部件大机遇来了",
@@ -459,7 +505,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -470,7 +516,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -547,7 +593,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -635,9 +681,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "前程无忧：AI技能从“加分项”变成“分水岭”，具备AI能力人才平均薪资溢价最高接近50%",
+          "url": "https://wallstreetcn.com/livenews/3116802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "苹果(AAPL.O)：Siri AI最初将不会在欧盟地区的iOS和iPadOS上提供。",
@@ -657,9 +714,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "猫眼娱乐与腾讯围绕AI Agent达成合作：打造智能化票务新体验",
+          "url": "https://wallstreetcn.com/livenews/3116801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "OpenAI：研究人员将与OpenAI经济研究团队合作，就人工智能如何影响劳动者、企业、机构及更广泛的经济体系提供实证分析。",
@@ -695,6 +763,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "猫眼娱乐：已接入微信AI生态",
+          "url": "https://flash.jin10.com/detail/20260609195745193800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "从严整治利用AI制作发布涉军虚假信息，典型案例公布。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3116416",
           "source": "华尔街见闻-快讯",
@@ -709,7 +788,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "太空电站关键技术取得突破",
@@ -749,6 +828,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "SpaceX上市的当下与野心",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E4%B8%8A%E5%B8%82%E7%9A%84%E5%BD%93%E4%B8%8B%E4%B8%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "明晟公司（MSCI）：将按照标准程序处理SpaceX美国IPO。",
           "url": "https://wallstreetcn.com/livenews/3116346",
           "source": "华尔街见闻-快讯",
@@ -778,7 +868,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         }
@@ -795,7 +885,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -829,9 +919,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33337089",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         }
       ]
     }
