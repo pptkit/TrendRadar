@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T18:02:38.164497+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-06-11T22:28:44.308088+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -55,13 +55,24 @@
           "time_info": "06时46分"
         },
         {
+          "title": "埃夫特：决定对旗下喷涂机器人全系列产品等实施价格调整 整体价格上调5%—8%",
+          "url": "https://flash.jin10.com/detail/20260611221323724800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "京东MALL引入首批实习机器人员工",
           "url": "https://wallstreetcn.com/livenews/3118072",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -77,13 +88,24 @@
           "time_info": "06时46分"
         },
         {
+          "title": "Crusoe Energy Systems LLC.：谷歌公司出现顾虑之后，公司位于美国怀俄明州的AI项目被搁置。 谷歌公司正与现存合作伙伴们讨论怀俄明州数据中心的使用事宜。 公司与潜在客户独家洽谈。 公司无法为怀俄明州设施锁定客户。",
+          "url": "https://wallstreetcn.com/livenews/3118246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "京东MALL引入首批实习机器人员工",
           "url": "https://flash.jin10.com/detail/20260611173730064800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -100,6 +122,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时50分 ~ 13时19分]"
+        },
+        {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            4,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 22时28分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -127,16 +162,16 @@
           "time_info": "[13时19分 ~ 18时02分]"
         },
         {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            10
+            10,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 18时02分]"
+          "time_info": "[18时02分 ~ 22时28分]"
         },
         {
           "title": "于娜看到已故丈夫AI形象崩溃大哭",
@@ -149,6 +184,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时50分 ~ 08时08分]"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 22时28分]"
         },
         {
           "title": "英伟达、亚马逊等巨头参投 德国机器人公司Neura获最高14亿美元融资",
@@ -164,6 +212,19 @@
           "time_info": "[06时46分 ~ 13时19分]"
         },
         {
+          "title": "AI大神做漫剧真有一套",
+          "url": "https://www.douyin.com/hot/2530023",
+          "source": "抖音",
+          "ranks": [
+            25,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 22时28分]"
+        },
+        {
           "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
           "url": "https://www.zhihu.com/question/2047598353421170561",
           "source": "知乎",
@@ -175,28 +236,28 @@
           "time_info": "[01时50分 ~ 08时08分]"
         },
         {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
+            8,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 18时02分]"
+          "time_info": "[18时02分 ~ 22时28分]"
         },
         {
-          "title": "AI大神做漫剧真有一套",
-          "url": "https://www.douyin.com/hot/2530023",
-          "source": "抖音",
+          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
+          "source": "澎湃新闻",
           "ranks": [
-            25,
-            12
+            18,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 18时02分]"
+          "time_info": "[18时02分 ~ 22时28分]"
         },
         {
           "title": "夏奇拉邀请你来跳Dai Dai",
@@ -210,26 +271,26 @@
           "time_info": "[01时50分 ~ 04时08分]"
         },
         {
-          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
-          "url": "https://wallstreetcn.com/articles/3774376",
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "22时28分"
         },
         {
-          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
-          "url": "https://www.cls.cn/detail/2397230",
-          "source": "财联社热门",
+          "title": "加拿大隐私事务专员：xAI违反了加拿大隐私法。X公司和xAI推出了Grok AI驱动的图像生成工具，但未实施适当的安全措施。",
+          "url": "https://flash.jin10.com/detail/20260611220823890800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "22时28分"
         },
         {
           "title": "凯雷集团CFO：我们需要招聘初级员工，人工智能无法完成所有工作。",
@@ -265,26 +326,59 @@
           "time_info": "04时08分"
         },
         {
+          "title": "由于谷歌方面的担忧，Crusoe在怀俄明州人工智能项目中被边缘化。谷歌正与剩余合作伙伴商谈使用怀俄明州数据中心事宜。",
+          "url": "https://flash.jin10.com/detail/20260611220222334800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "UP主做了个AI谢苗",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "腾讯混元AI Infra新开源：HPC-Ops推理核心算子全面升级",
           "url": "https://wallstreetcn.com/livenews/3118048",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
         {
-          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
-          "source": "澎湃新闻",
+          "title": "超模女球迷爆火后出镜 自证不是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%85%E6%A8%A1%E5%A5%B3%E7%90%83%E8%BF%B7%E7%88%86%E7%81%AB%E5%90%8E%E5%87%BA%E9%95%9C+%E8%87%AA%E8%AF%81%E4%B8%8D%E6%98%AFAI",
+          "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "22时28分"
+        },
+        {
+          "title": "UP主做了个AI预测世界杯赛果",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "阿波罗：过多AI支出被用于“低智商”任务",
@@ -296,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "中国科学院院士陈十一：CAE是物理AI进入工业世界的关键底座",
+          "url": "https://wallstreetcn.com/livenews/3118227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
@@ -477,7 +582,7 @@
     },
     {
       "keyword_group": "太阳能 光伏",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多个投资人入局 “光伏组件第一股”*ST亿晶预重整迎关键节点|速读公告",
@@ -501,6 +606,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时50分 ~ 08时08分]"
+        },
+        {
+          "title": "美股高开高走，纳斯达克100指数涨幅扩大至1.5%。道指现涨0.9%，标普500指数涨0.8%。光伏板块涨逾7%，3倍做多韩国ETF(KORU.N)涨17.4%。",
+          "url": "https://flash.jin10.com/detail/20260611215623778800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
