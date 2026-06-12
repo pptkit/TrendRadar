@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-06-13T05:01:49.608413+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-06-13T06:26:08.593143+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "2万亿航天巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
+          "url": "https://wallstreetcn.com/articles/3774544",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时26分]"
+        },
+        {
+          "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 06时25分]"
+        },
+        {
+          "title": "SpaceX上市首日上涨19% 市值破2万亿美元成美国第六大公司",
+          "url": "https://flash.jin10.com/detail/20260613041809603800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时26分]"
+        },
+        {
+          "title": "SpaceX上市首日开盘大涨29%，4400名员工成百万富翁",
+          "url": "https://finance.ifeng.com/c/8tuDdI3Msdj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 06时26分]"
+        },
         {
           "title": "2万亿航天巨头来了！SpaceX首秀盘中大涨30%，超3500亿美元疯抢史上最大IPO",
           "url": "https://wallstreetcn.com/articles/3774544",
@@ -19,16 +64,27 @@
           "time_info": "[02时57分 ~ 02时58分]"
         },
         {
-          "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3774481",
+          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
+          "url": "https://wallstreetcn.com/articles/3774523",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 06时26分]"
+        },
+        {
+          "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
+          "url": "https://wallstreetcn.com/articles/3774485",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 06时26分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价在SpaceX上市后下跌2.1%。",
@@ -53,15 +109,17 @@
           "time_info": "00时11分"
         },
         {
-          "title": "2万亿航天巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
-          "url": "https://wallstreetcn.com/articles/3774544",
-          "source": "华尔街见闻",
+          "title": "SpaceX在纳斯达克敲钟上市",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E5%9C%A8%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%E6%95%B2%E9%92%9F%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
           "ranks": [
-            2
+            15,
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 06时26分]"
         },
         {
           "title": "SpaceX正式开盘定价150美元 马斯克跃升全球首位万亿富翁",
@@ -73,17 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "SpaceX上市首日上涨19% 市值破2万亿美元成美国第六大公司",
-          "url": "https://flash.jin10.com/detail/20260613041809603800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
         },
         {
           "title": "随着SpaceX(SPCX.O)开始交易，特斯拉(TSLA.O)跌幅扩大至2.2%。",
@@ -119,6 +166,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
           "title": "SpaceX(SPCX.O)股价涨至160美元，日内涨约18%。",
           "url": "https://flash.jin10.com/detail/20260612235059734800",
           "source": "金十数据",
@@ -141,50 +199,72 @@
           "time_info": "00时11分"
         },
         {
-          "title": "SpaceX上市首日开盘大涨29%，4400名员工成百万富翁",
-          "url": "https://finance.ifeng.com/c/8tuDdI3Msdj",
-          "source": "凤凰网",
+          "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
+          "url": "https://wallstreetcn.com/livenews/3119089",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
-          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
-          "url": "https://wallstreetcn.com/articles/3774523",
+          "title": "影子市场：SpaceX上市首日预期大涨超35%，估值或突破2万亿美元",
+          "url": "https://wallstreetcn.com/articles/3774506",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时26分]"
         },
         {
-          "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
-          "url": "https://wallstreetcn.com/articles/3774485",
-          "source": "华尔街见闻",
+          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
+          "url": "https://www.cls.cn/detail/2398816",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时26分]"
         },
         {
-          "title": "SpaceX在纳斯达克敲钟上市",
-          "url": "https://www.baidu.com/s?wd=SpaceX%E5%9C%A8%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%E6%95%B2%E9%92%9F%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
+          "title": "SpaceX 今日上市，超级 IPO 能否助力美国国际收支平衡，并让美元再度走强？",
+          "url": "https://www.zhihu.com/question/2048345137051444395",
+          "source": "知乎",
           "ranks": [
-            15,
-            14
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时26分]"
+        },
+        {
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 06时26分]"
+        },
+        {
+          "title": "美股收盘，SpaceX上市首日收涨19%",
+          "url": "https://flash.jin10.com/detail/20260613040143470800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时26分]"
         },
         {
           "title": "SpaceX上市首日开盘价报150美元",
@@ -242,17 +322,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "影子市场：SpaceX上市首日预期大涨超35%，估值或突破2万亿美元",
-          "url": "https://wallstreetcn.com/articles/3774506",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
           "title": "据CNBC：SpaceX(SPCX.O)的交易将在五分钟后开始。",
           "url": "https://flash.jin10.com/detail/20260612234255810800",
           "source": "金十数据",
@@ -262,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
-          "url": "https://www.cls.cn/detail/2398816",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
         },
         {
           "title": "提醒：SpaceX美国IPO开盘预示价已经下滑至150美元——意味着涨幅将为11%，之前最高曾到过175美元；IPO发行价为每股135美元。",
@@ -292,31 +350,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
         {
-          "title": "美股收盘，SpaceX上市首日收涨19%",
-          "url": "https://flash.jin10.com/detail/20260613040143470800",
-          "source": "金十数据",
+          "title": "富时罗素公司表示，SpaceX将快速被纳入富时全球股票指数系列。",
+          "url": "https://wallstreetcn.com/livenews/3119079",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "SpaceX 今日上市，超级 IPO 能否助力美国国际收支平衡，并让美元再度走强？",
-          "url": "https://www.zhihu.com/question/2048345137051444395",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时26分"
         },
         {
           "title": "提醒：SpaceX美国IPO开盘预示价已经下滑至160美元——意味着涨幅将为19%，之前最高曾到过175美元；IPO发行价为每股135美元。",
@@ -358,7 +405,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -369,9 +416,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "SpaceX美国IPO首日收涨19.22%，报160.95美元，收盘市值2.10万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "SpaceX开盘大涨29%",
@@ -410,8 +468,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 06时26分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -421,8 +479,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 06时26分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时26分]"
         },
         {
           "title": "作家自曝用AI写作",
@@ -445,17 +515,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "抖音AI反网暴行动来了",
-          "url": "https://www.douyin.com/hot/2531858",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
         },
         {
           "title": "据华尔街日报：高盛总裁表示，SpaceX IPO显示了投资者对人工智能的热情。",
@@ -490,11 +549,12 @@
           "url": "https://wallstreetcn.com/livenews/3119067",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时26分]"
         }
       ]
     }
