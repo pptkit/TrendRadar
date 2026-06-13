@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-13T08:13:15.242191+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-06-13T13:14:28.418731+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
+          "url": "https://wallstreetcn.com/articles/3774523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 13时14分]"
+        },
         {
           "title": "SpaceX上市首日开盘大涨29%，4400名员工成百万富翁",
           "url": "https://finance.ifeng.com/c/8tuDdI3Msdj",
@@ -19,17 +33,16 @@
           "time_info": "[00时11分 ~ 08时13分]"
         },
         {
-          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
-          "url": "https://wallstreetcn.com/articles/3774523",
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 08时13分]"
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 13时14分]"
         },
         {
           "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
@@ -44,6 +57,17 @@
           "time_info": "[00时11分 ~ 08时13分]"
         },
         {
+          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
+          "url": "https://wallstreetcn.com/articles/3774544",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 13时14分]"
+        },
+        {
           "title": "2万亿航天巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
           "url": "https://wallstreetcn.com/articles/3774544",
           "source": "华尔街见闻",
@@ -53,6 +77,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 06时26分]"
+        },
+        {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 13时14分]"
         },
         {
           "title": "SpaceX上市首日上涨19% 市值破2万亿美元成美国第六大公司",
@@ -66,18 +101,6 @@
           "time_info": "[05时01分 ~ 08时13分]"
         },
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 08时13分]"
-        },
-        {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
@@ -88,28 +111,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 06时25分]"
-        },
-        {
-          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
-          "url": "https://wallstreetcn.com/articles/3774544",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
         },
         {
           "title": "2万亿航天巨头来了！SpaceX首秀盘中大涨30%，超3500亿美元疯抢史上最大IPO",
@@ -143,6 +144,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "影子市场：SpaceX上市首日预期大涨超35%，估值或突破2万亿美元",
+          "url": "https://wallstreetcn.com/articles/3774506",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时01分 ~ 13时14分]"
+        },
+        {
+          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
+          "url": "https://www.cls.cn/detail/2398816",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时01分 ~ 13时14分]"
         },
         {
           "title": "SpaceX在纳斯达克敲钟上市",
@@ -224,30 +250,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "影子市场：SpaceX上市首日预期大涨超35%，估值或突破2万亿美元",
-          "url": "https://wallstreetcn.com/articles/3774506",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时01分 ~ 08时13分]"
-        },
-        {
-          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
-          "url": "https://www.cls.cn/detail/2398816",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时01分 ~ 08时13分]"
-        },
-        {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
           "url": "https://www.cls.cn/detail/2398893",
           "source": "财联社热门",
@@ -256,8 +258,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 08时13分]"
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 13时14分]"
         },
         {
           "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
@@ -293,6 +295,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 08时13分]"
+        },
+        {
+          "title": "华尔街对历史性的SpaceX美国IPO给出出极端两极分化的看法",
+          "url": "https://wallstreetcn.com/livenews/3119101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 13时14分]"
         },
         {
           "title": "SpaceX上市首日收涨19.22%",
@@ -338,17 +352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "华尔街对历史性的SpaceX美国IPO给出出极端两极分化的看法",
-          "url": "https://wallstreetcn.com/livenews/3119101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
         },
         {
           "title": "分析师：距离SpaceX实际开盘或仍需一些时间 于此种量级的上市属正常现象",
@@ -415,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "提醒：SpaceX美国IPO开盘预示价已经下滑至160美元——意味着涨幅将为19%，之前最高曾到过175美元；IPO发行价为每股135美元。",
@@ -494,6 +508,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "SpaceX跻身美国第六大上市公司",
+          "url": "https://www.douyin.com/hot/2532700",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "SpaceX刷新日高至174美元。",
           "url": "https://wallstreetcn.com/livenews/3119011",
           "source": "华尔街见闻-快讯",
@@ -503,12 +528,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "回顾SpaceX十大历史瞬间",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E9%A1%BESpaceX%E5%8D%81%E5%A4%A7%E5%8E%86%E5%8F%B2%E7%9E%AC%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -553,31 +589,56 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "特朗普扮忍者AI视频引日本不满",
+          "url": "https://www.toutiao.com/trending/7649725897653714990/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3119103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 13时14分]"
         },
         {
           "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
           "url": "https://wallstreetcn.com/livenews/3119107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 13时14分]"
+        },
+        {
+          "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
+          "url": "https://wallstreetcn.com/articles/3774502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 13时14分]"
         },
         {
           "title": "全抖音都在DaiDai",
@@ -592,17 +653,6 @@
           "time_info": "[00时11分 ~ 08时13分]"
         },
         {
-          "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
-          "url": "https://wallstreetcn.com/articles/3774502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
           "title": "作家自曝用AI写作",
           "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E8%87%AA%E6%9B%9D%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -612,6 +662,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 02时58分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850550&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/3SNELjbbk6Cqk3c21IZ34.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260613120108121800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "软件股迈向二十年来最长连跌，AI扰动之忧再度来袭",
@@ -625,6 +686,28 @@
           "time_info": "00时11分"
         },
         {
+          "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
+          "url": "https://wallstreetcn.com/livenews/3119106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "金爱烂谈 AI 没有人类的犹豫，蔡康永说 AI 缺乏留白，人类还有哪些能力是 AI 始终无法学习的？",
+          "url": "https://www.zhihu.com/question/2047711689621992048",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "据华尔街日报：高盛总裁表示，SpaceX IPO显示了投资者对人工智能的热情。",
           "url": "https://flash.jin10.com/detail/20260612232213902800",
           "source": "金十数据",
@@ -634,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "九鹭非香把七时吉祥重新做成AI剧了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
