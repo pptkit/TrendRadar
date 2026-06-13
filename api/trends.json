@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T06:06:19.814453+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-14T07:57:12.417181+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -31,6 +31,33 @@
           "time_info": "[01时08分 ~ 06时06分]"
         },
         {
+          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
+          "url": "https://wallstreetcn.com/articles/3774568",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
+        },
+        {
+          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
+          "url": "https://www.cls.cn/detail/2398816",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
+        },
+        {
           "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
           "url": "https://wallstreetcn.com/articles/3774544",
           "source": "华尔街见闻",
@@ -42,42 +69,18 @@
           "time_info": "[01时08分 ~ 03时05分]"
         },
         {
-          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
-          "url": "https://wallstreetcn.com/articles/3774568",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
-        },
-        {
-          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
-          "url": "https://www.cls.cn/detail/2398816",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
-        },
-        {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
           "url": "https://www.cls.cn/detail/2398893",
           "source": "财联社热门",
           "ranks": [
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "中国不需要也不可能复制SpaceX",
@@ -87,11 +90,12 @@
             25,
             13,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "SpaceX亏损达413亿美元",
@@ -103,8 +107,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "SpaceX 巨额亏损却谋求万亿估值，如何看待其「浑身拧巴」的发展模式？",
@@ -114,8 +118,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "“中国不需要也不可能复制SpaceX”",
@@ -123,11 +127,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时05分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[03时05分 ~ 07时57分]"
         },
         {
           "title": "SpaceX亏损达413亿美元",
@@ -139,8 +144,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时57分]"
+        },
+        {
+          "title": "SpaceX首秀平稳落幕 华尔街为巨型IPO设立新模板",
+          "url": "https://flash.jin10.com/detail/20260614040058744800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 07时57分]"
         },
         {
           "title": "很难赌马斯克会输！散户一边骂贵一边疯抢SpaceX，但绝大多数不打算长期持股",
@@ -152,18 +169,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 06时06分]"
-        },
-        {
-          "title": "SpaceX首秀平稳落幕 华尔街为巨型IPO设立新模板",
-          "url": "https://flash.jin10.com/detail/20260614040058744800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时06分]"
         },
         {
           "title": "曝SpaceX火箭业务年亏6.57亿",
@@ -181,7 +186,7 @@
     },
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "走出实验室 机器人如何“上岗”",
@@ -191,8 +196,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -202,8 +207,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -212,11 +217,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -225,11 +231,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -242,8 +249,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -253,8 +260,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         },
         {
           "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
@@ -265,8 +272,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时06分]"
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 07时57分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -280,6 +287,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时05分 ~ 06时06分]"
+        },
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
+          "url": "https://wallstreetcn.com/articles/3774579",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
@@ -325,11 +354,12 @@
           "url": "https://www.cls.cn/detail/2399113",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
         }
       ]
     }
