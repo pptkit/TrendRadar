@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T18:44:06.946600+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-06-14T20:57:28.461269+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 20时57分]"
         },
         {
           "title": "走出实验室 机器人如何“上岗”",
@@ -47,6 +47,18 @@
           "time_info": "[01时08分 ~ 07时57分]"
         },
         {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 20时57分]"
+        },
+        {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
           "url": "https://www.cls.cn/detail/2399104",
           "source": "财联社热门",
@@ -55,22 +67,12 @@
             8,
             7,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 18时44分]"
-        },
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 20时57分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -83,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 20时57分]"
         },
         {
           "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
@@ -100,6 +102,44 @@
           "time_info": "[07时56分 ~ 18时44分]"
         },
         {
+          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
+          "url": "https://wallstreetcn.com/articles/3774601",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 20时57分]"
+        },
+        {
+          "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
+          "url": "https://www.cls.cn/detail/2399188",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 20时57分]"
+        },
+        {
+          "title": "机器人伴侣开售,人机恋成真",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355151&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%BC%80%E5%94%AE%2C%E4%BA%BA%E6%9C%BA%E6%81%8B%E6%88%90%E7%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 20时57分]"
+        },
+        {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
           "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
           "source": "澎湃新闻",
@@ -109,52 +149,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 07时57分]"
-        },
-        {
-          "title": "机器人伴侣开售,人机恋成真",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355151&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%BC%80%E5%94%AE%2C%E4%BA%BA%E6%9C%BA%E6%81%8B%E6%88%90%E7%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
-        },
-        {
-          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
-          "url": "https://wallstreetcn.com/articles/3774601",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 18时44分]"
-        },
-        {
-          "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
-          "url": "https://www.cls.cn/detail/2399188",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 18时44分]"
-        },
-        {
-          "title": "美禁止外国主体使用安特罗匹克最新AI模型",
-          "url": "https://wallstreetcn.com/livenews/3119219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
@@ -195,6 +189,18 @@
           "time_info": "[15时14分 ~ 18时44分]"
         },
         {
+          "title": "美禁止外国主体使用安特罗匹克最新AI模型",
+          "url": "https://wallstreetcn.com/livenews/3119219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 20时57分]"
+        },
+        {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
           "url": "https://www.zhihu.com/question/1997586495188521827",
           "source": "知乎",
@@ -212,11 +218,12 @@
           "url": "https://wallstreetcn.com/articles/3774608",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 20时57分]"
         },
         {
           "title": "机器人伴侣仅限成人购买",
@@ -250,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
@@ -291,7 +309,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -302,7 +320,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }
@@ -310,7 +328,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -322,8 +340,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 20时57分]"
         },
         {
           "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
@@ -468,6 +486,29 @@
           "time_info": "[01时08分 ~ 07时57分]"
         },
         {
+          "title": "中信建投：SpaceX创纪录IPO重塑估值体系 继续看好商业航天投资机会",
+          "url": "https://flash.jin10.com/detail/20260614202655098800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "投资于神：SpaceX的估值",
+          "url": "https://wallstreetcn.com/articles/3774602",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 20时57分]"
+        },
+        {
           "title": "SpaceX首秀平稳落幕 华尔街为巨型IPO设立新模板",
           "url": "https://flash.jin10.com/detail/20260614040058744800",
           "source": "金十数据",
@@ -489,17 +530,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 06时06分]"
-        },
-        {
-          "title": "投资于神：SpaceX的估值",
-          "url": "https://wallstreetcn.com/articles/3774602",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
         },
         {
           "title": "黎家盈“太空限定发型”亮了",
@@ -607,8 +637,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 20时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乌克兰：袭击了俄罗斯一处石油设施和一座化工厂",
+          "url": "https://wallstreetcn.com/livenews/3119228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     }
