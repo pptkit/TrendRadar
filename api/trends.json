@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-06-15T08:01:38.041197+08:00",
-  "total_titles_processed": 615,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-06-15T12:09:21.061916+08:00",
+  "total_titles_processed": 825,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
@@ -39,11 +37,12 @@
             2,
             4,
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 12时09分]"
         },
         {
           "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
@@ -51,11 +50,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 08时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 12时09分]"
         },
         {
           "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
@@ -63,11 +63,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 12时09分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -77,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 12时09分]"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -88,8 +89,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 12时09分]"
         },
         {
           "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
@@ -103,6 +104,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 08时01分]"
+        },
+        {
+          "title": "优必选「机器人伴侣」10 天预售 3800 台，限成年人购买，不做家务只做陪伴，你看好这款产品市场前景吗？",
+          "url": "https://www.zhihu.com/question/2049162105648051147",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "报道：字节跳动讨论购买至少5万颗天数智芯的AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3119429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -161,13 +184,24 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
+          "title": "A股午评：创业板指半日收涨3.66% AI及半导体板块强势反弹",
+          "url": "https://flash.jin10.com/detail/20260615114032000800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "外资巨头下半年展望：AI超级周期未结束，重新审视避险资产",
           "url": "https://wallstreetcn.com/livenews/3119301",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -178,9 +212,64 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "安徽：支持机器人龙头企业并购重组 支持成立机器人平台公司",
+          "url": "https://wallstreetcn.com/livenews/3119407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "港股天数智芯(09903.HK)涨近7.5%，百度(09888.HK)短线跌幅收窄至0.4%。消息面上，路透报道称，字节跳动正与芯片制造商天数智芯洽谈购买人工智能推理芯片事宜；字节跳动也在考虑使用百度的昆仑芯人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260615111511567800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "郝景芳承认用AI写作",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%9D%E6%99%AF%E8%8A%B3%E6%89%BF%E8%AE%A4%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "北京范儿百度AIGC大赛",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%8C%83%E5%84%BF%E7%99%BE%E5%BA%A6AIGC%E5%A4%A7%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "国芯科技：参股公司紫山龙霖正式发布面向企业AI与高性能计算(HPC)场景的全新产品——GalaxSphere数据智能引擎。",
+          "url": "https://flash.jin10.com/detail/20260615110933361800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         }
       ]
     },
