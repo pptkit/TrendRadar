@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T06:54:27.070934+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-06-16T08:22:17.363541+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 08时22分]"
         },
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
@@ -27,11 +27,12 @@
           "ranks": [
             6,
             7,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 08时22分]"
         },
         {
           "title": "AI为何成为能源之战",
@@ -40,22 +41,24 @@
           "ranks": [
             8,
             6,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 08时22分]"
         },
         {
           "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
           "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 08时22分]"
         },
         {
           "title": "机器人伴侣开售,人机恋成真",
@@ -66,8 +69,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 08时22分]"
         },
         {
           "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
@@ -77,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 08时22分]"
         },
         {
           "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
@@ -122,9 +125,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        },
+        {
+          "title": "AI宝可梦 看到正版皮卡丘了",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%AE%9D%E5%8F%AF%E6%A2%A6%20%E7%9C%8B%E5%88%B0%E6%AD%A3%E7%89%88%E7%9A%AE%E5%8D%A1%E4%B8%98%E4%BA%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         },
         {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
@@ -133,7 +158,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         }
@@ -141,7 +166,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "SpaceX涨幅扩大至10%。",
@@ -155,6 +180,19 @@
           "time_info": "00时12分"
         },
         {
+          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2400410",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 08时22分]"
+        },
+        {
           "title": "都说美国工业空心化严重，为什么 SpaceX 还能发展得这么好？",
           "url": "https://www.zhihu.com/question/2049538454837530779",
           "source": "知乎",
@@ -165,18 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 06时54分]"
-        },
-        {
-          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2400410",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 06时54分]"
         },
         {
           "title": "为什么说中国没必要抄SpaceX的作业",
@@ -214,6 +240,28 @@
           "time_info": "04时20分"
         },
         {
+          "title": "美国零售经纪商处的SpaceX投资者每人至少分得一股IPO股票",
+          "url": "https://wallstreetcn.com/livenews/3119919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        },
+        {
+          "title": "“七巨头”已过时？SpaceX爆火后 华尔街机构推“FAB 10”新概念",
+          "url": "https://www.cls.cn/detail/2400592",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        },
+        {
           "title": "欧洲散户在SpaceX IPO中仅获配不足1%份额",
           "url": "https://flash.jin10.com/detail/20260616023104268800",
           "source": "金十数据",
@@ -231,7 +279,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         }
@@ -251,6 +299,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华泰证券：工信部提升光伏组件效率标准 行业拐点或逐步显现",
+          "url": "https://wallstreetcn.com/livenews/3119922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         }
       ]
     }
