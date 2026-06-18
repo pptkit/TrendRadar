@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T10:33:19.448637+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-06-18T16:04:17.148841+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "中国机器人开始治理沙漠了",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 10时33分]"
+        },
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时57分 ~ 16时04分]"
         },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -60,6 +74,17 @@
           "time_info": "[01时43分 ~ 10时33分]"
         },
         {
+          "title": "远景发布Mission Gobi计划，2030年将建5GW绿色AI算力中心",
+          "url": "https://wallstreetcn.com/livenews/3121520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
           "url": "https://www.zhihu.com/question/2050618204980863708",
           "source": "知乎",
@@ -79,7 +104,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -90,22 +115,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时57分 ~ 10时33分]"
         },
         {
           "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
@@ -132,6 +144,18 @@
           "time_info": "[01时43分 ~ 03时57分]"
         },
         {
+          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
+          "url": "https://www.zhihu.com/question/14853864339",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 16时04分]"
+        },
+        {
           "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
           "url": "https://www.zhihu.com/question/2046913494243435264",
           "source": "知乎",
@@ -156,13 +180,24 @@
           "time_info": "[03时57分 ~ 05时53分]"
         },
         {
+          "title": "黄金和AI：谁在见顶？",
+          "url": "https://wallstreetcn.com/articles/3774914",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "国家发改委、人社部：适应人工智能发展促进就业创业 挖掘新兴领域吸纳就业潜能",
           "url": "https://flash.jin10.com/detail/20260618101636372800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -189,13 +224,24 @@
           "time_info": "01时43分"
         },
         {
+          "title": "部分机器人降到1万元以下了",
+          "url": "https://www.baidu.com/s?wd=%E9%83%A8%E5%88%86%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%99%8D%E5%88%B01%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "吴清陆家嘴论坛讲话：扩大第五套标准适用范围至AI领域，支持港股公司境内上市",
           "url": "https://wallstreetcn.com/articles/3774870",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -222,17 +268,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
-          "url": "https://www.zhihu.com/question/14853864339",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850552&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/XgYgJjxF2NJebvw060RQ-.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260618012020945800",
           "source": "金十数据",
@@ -242,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "小米称西安警方侦破 AI 造谣刑案，4 人被刑拘，利用 AI 造谣将面临哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2050636227766964582",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
@@ -261,7 +307,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -272,7 +318,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -321,6 +367,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "宇树部分机器人进行了降价 宇树：不便回应",
+          "url": "https://wallstreetcn.com/livenews/3121490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "美联储主席沃什：美联储无法对特定价格产生显著影响。 美联储的工作是，确保不会出现第二轮价格效应。 对第二轮通胀效应有一系列的看法。 FOMC今天讨论了生产力，提到了人工智能（AI）。",
           "url": "https://wallstreetcn.com/livenews/3121214",
           "source": "华尔街见闻-快讯",
@@ -330,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "端午和周星驰拍上AI食神大片了",
+          "url": "https://www.douyin.com/hot/2538982",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         }
       ]
     },
@@ -347,8 +415,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时53分 ~ 10时33分]"
+          "appearance_count": 5,
+          "time_info": "[05时53分 ~ 16时04分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
@@ -409,6 +477,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "德国日前交付基荷电力下跌25%，至114.5欧元/兆瓦时；法国日前交付基荷电力下跌10.8%，至91欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260618154227250800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         }
       ]
     }
