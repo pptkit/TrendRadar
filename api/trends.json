@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T03:23:40.088711+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-06-20T05:00:33.965569+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时00分]"
+        },
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时00分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
@@ -26,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -55,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时00分]"
         },
         {
           "title": "SpaceX一度跌超10%，IPO当日散户需求推动嘉信理财跻身前五大最繁忙交易日",
