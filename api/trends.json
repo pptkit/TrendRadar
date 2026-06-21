@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T21:44:52.165406+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-06-21T23:46:13.673974+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 08时01分]"
+        },
+        {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 23时46分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -33,17 +47,18 @@
           "time_info": "[01时14分 ~ 12时07分]"
         },
         {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            3,
-            2
+            10,
+            8,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时06分 ~ 21时44分]"
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 23时46分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -70,17 +85,17 @@
           "time_info": "[12时06分 ~ 16时54分]"
         },
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
+            11,
             8,
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时06分 ~ 21时44分]"
+          "time_info": "[16时53分 ~ 23时46分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -187,16 +202,15 @@
           "time_info": "[01时14分 ~ 08时01分]"
         },
         {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时53分 ~ 21时44分]"
+          "time_info": "[19时38分 ~ 23时46分]"
         },
         {
           "title": "父亲节用AI表达爱",
@@ -225,15 +239,16 @@
           "time_info": "[03时07分 ~ 08时01分]"
         },
         {
-          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
-          "url": "https://www.cls.cn/detail/2404757",
-          "source": "财联社热门",
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时38分 ~ 21时44分]"
+          "time_info": "[21时44分 ~ 23时46分]"
         },
         {
           "title": "和机器人聊亲密关系",
@@ -280,15 +295,15 @@
           "time_info": "[12时06分 ~ 12时07分]"
         },
         {
-          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-          "url": "https://wallstreetcn.com/articles/3775129",
-          "source": "华尔街见闻",
+          "title": "中信建投：继续看好AI算力后续表现",
+          "url": "https://www.toutiao.com/trending/7653819354932920363/",
+          "source": "今日头条",
           "ranks": [
-            8
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
         },
         {
           "title": "以色列侨民事务部长Amichai Chikli：叙利亚和土耳其对以色列的威胁远比伊朗更令人担忧。",
@@ -345,11 +360,12 @@
           "url": "https://www.toutiao.com/trending/7653782211270807046/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时46分]"
         }
       ]
     }
