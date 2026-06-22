@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-23T06:31:22.265525+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-06-23T07:59:43.894638+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "米游AI女友上线,玩家有福了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[06时30分 ~ 07时59分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
@@ -24,33 +25,71 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 06时31分]"
-        },
-        {
-          "title": "甲骨文一年裁员2.1万人，称AI已取代部分岗位",
-          "url": "https://wallstreetcn.com/livenews/3123049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
           "url": "https://wallstreetcn.com/articles/3775200",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 06时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时59分]"
+        },
+        {
+          "title": "物理AI第一股上市首日高开302%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "刘强东：未来不需要快递员，将送70万快递员学修机器人",
+          "url": "https://news.ifeng.com/c/8uAQS5NAC0O",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时59分]"
+        },
+        {
+          "title": "清华教授造的机器人去顺丰打工了",
+          "url": "https://www.toutiao.com/trending/7654134773532262463/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时59分]"
+        },
+        {
+          "title": "甲骨文一年裁员2.1万人，称AI已取代部分岗位",
+          "url": "https://wallstreetcn.com/livenews/3123049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时59分]"
         },
         {
           "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
@@ -65,37 +104,13 @@
           "time_info": "[04时31分 ~ 06时31分]"
         },
         {
-          "title": "刘强东：未来不需要快递员，将送70万快递员学修机器人",
-          "url": "https://news.ifeng.com/c/8uAQS5NAC0O",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 06时31分]"
-        },
-        {
-          "title": "清华教授造的机器人去顺丰打工了",
-          "url": "https://www.toutiao.com/trending/7654134773532262463/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 06时31分]"
-        },
-        {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
           "url": "https://wallstreetcn.com/livenews/3123036",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -106,7 +121,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -122,32 +137,77 @@
           "time_info": "01时24分"
         },
         {
+          "title": "AI飞轮驱动加速，半导体更多领域进入上行周期",
+          "url": "https://wallstreetcn.com/livenews/3123052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
           "url": "https://flash.jin10.com/detail/20260623043807971800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "科技链从“数字”升级为“数智”，第四届链博会折射AI产业重心跃迁",
+          "url": "https://wallstreetcn.com/livenews/3123050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "物理AI第一股上市首日高开302%",
+          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
-          "title": "彭博股指：SpaceX将于2026年6月24日收盘时被纳入彭博全球股指的大盘股板块。",
-          "url": "https://flash.jin10.com/detail/20260623053237628800",
-          "source": "金十数据",
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时59分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时30分 ~ 07时59分]"
         },
         {
           "title": "SpaceX股价大跌逾10%：上市后火速发债 披露逾1000亿美元现金储备",
@@ -155,22 +215,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 06时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
-          "source": "财联社热门",
+          "title": "彭博股指：SpaceX将于2026年6月24日收盘时被纳入彭博全球股指的大盘股板块。",
+          "url": "https://flash.jin10.com/detail/20260623053237628800",
+          "source": "金十数据",
           "ranks": [
-            11
+            3,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
+          "time_info": "[06时31分 ~ 07时59分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX大跌16%",
@@ -215,6 +277,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国电网运营商：今冬将获得充足的电力供应。",
+          "url": "https://flash.jin10.com/detail/20260623070231397800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         }
       ]
     }
