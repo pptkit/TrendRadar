@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-22T06:59:07.429302+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-06-22T08:07:43.603931+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时59分]"
-        },
         {
           "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
@@ -26,6 +14,18 @@
           "ranks": [
             3,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 08时07分]"
+        },
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时12分 ~ 06时59分]"
+          "appearance_count": 5,
+          "time_info": "[03时12分 ~ 08时07分]"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
@@ -50,11 +50,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 08时07分]"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
@@ -65,30 +66,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时59分]"
-        },
-        {
-          "title": "首程控股(00697.HK)：近日，本集团所属首程资本旗下公司所管理的基金投资AI服务公司智子芯元。",
-          "url": "https://flash.jin10.com/detail/20260622062950039800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 08时07分]"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
           "url": "https://www.cls.cn/detail/2404757",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 08时07分]"
         },
         {
           "title": "父亲节用AI表达爱",
@@ -98,22 +89,47 @@
             21,
             18,
             24,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 08时07分]"
+        },
+        {
+          "title": "首程控股(00697.HK)：近日，本集团所属首程资本旗下公司所管理的基金投资AI服务公司智子芯元。",
+          "url": "https://flash.jin10.com/detail/20260622062950039800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时07分]"
         },
         {
           "title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
           "url": "https://wallstreetcn.com/livenews/3122399",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时07分]"
+        },
+        {
+          "title": "优必选：优世界超仿生人形机器人首发预订单量累计超5000台",
+          "url": "https://flash.jin10.com/detail/20260622073301947800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "08时07分"
         }
       ]
     },
