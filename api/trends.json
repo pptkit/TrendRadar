@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T06:58:40.783824+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-06-24T07:52:05.668280+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI算力新变局：谁能动英伟达奶酪",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时52分]"
         },
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时52分]"
         },
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
@@ -41,30 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时58分]"
-        },
-        {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "从“找竹竿”到“挖短板”，基金经理直面AI“缩圈”",
-          "url": "https://wallstreetcn.com/livenews/3123676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时52分]"
         },
         {
           "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
@@ -72,22 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时58分]"
-        },
-        {
-          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
-          "url": "https://www.cls.cn/detail/2406973",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时52分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -95,11 +63,36 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时52分]"
+        },
+        {
+          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2407361",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 07时52分]"
+        },
+        {
+          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
+          "url": "https://www.cls.cn/detail/2406973",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时52分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -108,11 +101,38 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时52分]"
+        },
+        {
+          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
+          "url": "https://www.zhihu.com/question/2051696278954946774",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时52分]"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时52分]"
         },
         {
           "title": "大模型横评:多款AI翻车实录",
@@ -128,30 +148,29 @@
           "time_info": "[00时19分 ~ 06时58分]"
         },
         {
-          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
-          "url": "https://www.zhihu.com/question/2051696278954946774",
-          "source": "知乎",
+          "title": "从“找竹竿”到“挖短板”，基金经理直面AI“缩圈”",
+          "url": "https://wallstreetcn.com/livenews/3123676",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            10,
-            8
+            3,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 06时58分]"
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时52分]"
         },
         {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
+          "title": "AI时代计算机专业还能学吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            20,
-            21,
+            29,
+            23,
             22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时01分 ~ 06时58分]"
+          "time_info": "[05时01分 ~ 07时52分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -166,27 +185,73 @@
           "time_info": "[00时19分 ~ 03时02分]"
         },
         {
-          "title": "AI时代计算机专业还能学吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时58分]"
-        },
-        {
           "title": "AI算力需求传导，“纤维之王”对位芳纶步入高景气周期",
           "url": "https://wallstreetcn.com/livenews/3123674",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时52分]"
+        },
+        {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "孙正义反驳马斯克：太空数据中心“没意义”，AI竞赛将在地球决胜",
+          "url": "https://wallstreetcn.com/articles/3775297",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)：（关于美国政府人工智能审查）在我们处理细节的同时，希望尽快签署协议。",
+          "url": "https://flash.jin10.com/detail/20260624054534370800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时52分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)：支持政府推动美国在强大且安全的前沿AI领域的领导地位的目标。",
+          "url": "https://flash.jin10.com/detail/20260624054508672800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时52分]"
+        },
+        {
+          "title": "医生会被AI轻易取代吗",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E4%BC%9A%E8%A2%ABAI%E8%BD%BB%E6%98%93%E5%8F%96%E4%BB%A3%E5%90%97&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
@@ -206,7 +271,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -222,28 +287,6 @@
           "time_info": "05时01分"
         },
         {
-          "title": "Meta Platforms(META.O)：（关于美国政府人工智能审查）在我们处理细节的同时，希望尽快签署协议。",
-          "url": "https://flash.jin10.com/detail/20260624054534370800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：支持政府推动美国在强大且安全的前沿AI领域的领导地位的目标。",
-          "url": "https://flash.jin10.com/detail/20260624054508672800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
           "url": "https://wallstreetcn.com/livenews/3123596",
           "source": "华尔街见闻-快讯",
@@ -255,13 +298,35 @@
           "time_info": "03时02分"
         },
         {
+          "title": "周二（6月23日），美股AI软件先驱指数跌0.20%，报103.52点，成分股中，甲骨文收跌5.66%，铿腾电子跌2.57%，Palantir跌2.34%跌幅第三大，Salesforce、ServiceNOW、GitLab涨2.20%-4.53%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3123684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "周二（6月23日），美股人工智能（AI）赢家指数跌6.74%，报431.58点，跳空低开后持续低位窄幅震荡，成分股Fluence Energy、闪迪、美光跌15.80%-13.18%领跌，在收涨的四只成分股中，微软涨1.8%，戴尔科技涨2.17%。",
+          "url": "https://wallstreetcn.com/livenews/3123683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "据纽约时报：因安全担忧加剧，美国施压Meta Platforms(META.O)进行人工智能审查。",
           "url": "https://flash.jin10.com/detail/20260624053233987800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -272,7 +337,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -316,7 +381,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -327,7 +392,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -346,7 +411,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
@@ -406,6 +471,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 05时01分]"
+        },
+        {
+          "title": "孙正义说马斯克太空数据中心没啥价值",
+          "url": "https://www.toutiao.com/trending/7654508707421945875/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "SpaceX跌破发行价又被捞起！分析师：好公司，也得等好价格",
+          "url": "https://www.cls.cn/detail/2407267",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "SpaceX暴跌16.43%",
+          "url": "https://s.weibo.com/weibo?q=%23SpaceX%E6%9A%B4%E8%B7%8C16.43%25%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "市场消息：SpaceX(SPCX.O)高评级债券发行获得890亿美元认购。",
@@ -469,7 +567,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -480,7 +578,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -491,7 +589,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         }
@@ -508,7 +606,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -519,7 +617,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         }
@@ -535,11 +633,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时52分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -550,8 +649,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时52分]"
         }
       ]
     },
