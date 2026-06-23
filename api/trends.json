@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-24T03:02:05.698618+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-06-24T05:01:58.079103+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2407151",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
-        },
         {
           "title": "AI算力新变局：谁能动英伟达奶酪",
           "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
@@ -27,8 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
+        },
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
@@ -36,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -50,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
@@ -61,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
@@ -72,8 +74,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
+        },
+        {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -88,48 +114,28 @@
           "time_info": "[00时19分 ~ 03时02分]"
         },
         {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
-        },
-        {
-          "title": "大模型横评:多款AI翻车实录",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
-        },
-        {
           "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
           "url": "https://www.zhihu.com/question/2051696278954946774",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 05时01分]"
         },
         {
           "title": "用AI小卡应援世界杯",
           "url": "https://www.douyin.com/hot/2544441",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 05时01分]"
         },
         {
           "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
@@ -138,9 +144,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "云端运算安全公司Zscaler与亚马逊云服务(AWS)达成协议，将在集成、参考架构和联合市场推广活动方面进行合作；双方将联手保障政府、医疗和教育领域的生成式人工智能安全。",
+          "url": "https://flash.jin10.com/detail/20260624044008749800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
@@ -149,7 +166,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -171,7 +188,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -185,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "AI时代计算机专业还能学吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
@@ -201,7 +229,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
@@ -211,8 +239,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
@@ -222,8 +250,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "SpaceX试水债券市场，拟发行250亿美元债券",
@@ -232,7 +260,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -242,11 +270,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
@@ -257,8 +286,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "市场消息：SpaceX(SPCX.O)高评级债券发行获得890亿美元认购。",
@@ -272,13 +301,24 @@
           "time_info": "00时19分"
         },
         {
+          "title": "马斯克旗下太空探索公司SpaceX初步收涨约1%，结束此前连续三个交易日下跌的趋势。",
+          "url": "https://wallstreetcn.com/livenews/3123628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
           "title": "报道：SpaceX短期债券认购最旺，折射出对该公司现金流的担忧情绪",
           "url": "https://wallstreetcn.com/livenews/3123600",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -300,7 +340,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
@@ -318,8 +358,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -329,8 +369,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收跌0.55%，报5953.29点。 热门中概股里，日月光半导体初步收跌约8.8%，阿特斯太阳能跌8.2%，小马智行跌7%，文远知行跌4.9%，大全新能源跌4.2%，小鹏跌3.8%，亚朵涨3.1%，拼多多、阿里跌约2%，网易有道涨6.66%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌6.44%，德银嘉实沪深300指数ETF（ASHR）收跌3.32%，XtrackersHarvest中证50（ASHS）收跌2.58%。 中国科技指数ETF（CQQQ）收跌2.80%，中概互联网指数ETF（KWEB）收跌2.24%。",
+          "url": "https://wallstreetcn.com/livenews/3123627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     }
