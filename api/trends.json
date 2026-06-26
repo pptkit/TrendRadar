@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T13:02:42.838420+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-06-26T16:47:51.639117+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -31,6 +31,21 @@
           "time_info": "[02时02分 ~ 04时03分]"
         },
         {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            9,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 16时47分]"
+        },
+        {
           "title": "美联储威廉姆斯：通胀水平“无疑处于高位，且远超”目标，这反映了关税、能源价格以及人工智能（AI）相关科技产品需求的影响。",
           "url": "https://flash.jin10.com/detail/20260626034529365800",
           "source": "金十数据",
@@ -51,20 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 13时02分]"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -203,13 +204,25 @@
           "time_info": "[02时02分 ~ 04时03分]"
         },
         {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 16时47分]"
+        },
+        {
           "title": "据传三星十年内拟投1000万亿韩元，韩国存储双雄或联手掀起AI基建浪潮",
           "url": "https://flash.jin10.com/detail/20260626123316382800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -223,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         },
         {
           "title": "主流AI Coding开发鹅腿识别",
@@ -253,7 +255,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -267,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
+          "url": "https://www.cls.cn/detail/2409699",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
@@ -291,6 +304,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "短剧男主自曝因AI失业已返乡卖菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
           "url": "https://flash.jin10.com/detail/20260626041922109800",
           "source": "金十数据",
@@ -311,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美股AI芯片股盘前涨跌不一，美光科技(MU.O)跌超4%，英特尔(INTC.O)跌3.2%，百度(BIDU.O)、AMD(AMD.O)跌2.7%，高通(QCOM.O)、博通(AVGO.O)跌超1%，微软(MSFT.O)涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20260626160313852800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
@@ -358,7 +393,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -403,7 +438,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -420,7 +455,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -445,6 +480,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "罗曼股份：签订2.86亿元光伏电站项目合同",
+          "url": "https://flash.jin10.com/detail/20260626160922104800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "方大特钢：子公司已与宁德时代合作开展光伏发电项目",
+          "url": "https://wallstreetcn.com/livenews/3125132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     }
