@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T04:51:05.149978+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-01T06:07:57.441887+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时07分]"
         },
         {
           "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时07分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时07分]"
         },
         {
           "title": "中国第一所机器人学校开学，30台机器人率先入学",
@@ -50,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时07分]"
         },
         {
           "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
@@ -89,6 +89,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "“大空头”迈克尔·伯里做空AI与芯片板块",
+          "url": "https://flash.jin10.com/detail/20260701050629588800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
           "title": "IMF官员预警AI相关债务杠杆，称比估值更令人担忧",
           "url": "https://wallstreetcn.com/livenews/3126879",
           "source": "华尔街见闻-快讯",
@@ -103,7 +114,7 @@
     },
     {
       "keyword_group": "太阳能 光伏",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.7%。 热门中概股里，阿特斯太阳能初步收涨8.4%，世纪互联、日月光半导体涨6.9%，小鹏涨3.7%，腾讯涨3.1%，阿里涨0.5%。 ETF中，CQQQ涨3%，KWEB涨0.7%。",
@@ -112,26 +123,49 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.63%，报5847.59点，6月份累计下跌11.22%，二季度累跌13.41%。 热门中概股里，阿特斯太阳能初步收涨8.4%，世纪互联、日月光半导体涨6.9%，小鹏涨3.7%，腾讯涨3.1%，阿里涨0.5%。 中国科技指数ETF（CQQQ）收涨2.92%，6月份累涨8.01%连涨三个月，二季度累涨23.92%，上半年累涨9.67%； XtrackersHarvest中证50（ASHS）收涨2.40%，6月份累涨8.53%，二季度19.96%连续六个季度走高，上半年涨25.54%； MSCI新兴市场ex中国ETF（EMXC）收涨1.83%，6月份涨1.85%，二季度涨30.87%，上半年涨41.64%； 德银嘉实沪深300指数ETF（ASHR）收涨1.13%，6月份累涨1.92%，二季度涨12.32%，上半年涨11.60%； 中概互联网指数ETF（KWEB）收涨0.70%，6月份跌8.45%，二季度跌13.93%连续三个季度走低，上半年跌28.14%。",
+          "url": "https://wallstreetcn.com/livenews/3126972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "两名美国宇航员完成太空行走 更换机械臂故障部件",
+          "url": "https://wallstreetcn.com/livenews/3126997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
         {
           "title": "美国联邦航空管理局（FAA）：部门员工不可以持有SpaceX股票。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3126961",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 06时07分]"
         }
       ]
     }
