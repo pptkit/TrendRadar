@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T20:51:44.141034+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-07-03T23:02:40.776781+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 75,
+      "match_count": 80,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -71,11 +71,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时34分 ~ 20时51分]"
+          "appearance_count": 6,
+          "time_info": "[12时34分 ~ 23时02分]"
         },
         {
           "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
@@ -130,6 +131,33 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时54分 ~ 20时51分]"
+        },
+        {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时34分 ~ 23时02分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时34分 ~ 23时02分]"
         },
         {
           "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
@@ -241,21 +269,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
-        },
-        {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时34分 ~ 20时51分]"
         },
         {
           "title": "AI演员已经能演出情绪变化了",
@@ -271,18 +287,18 @@
           "time_info": "[01时24分 ~ 04时51分]"
         },
         {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
+          "title": "A股机器人概念全线大涨",
+          "url": "https://www.toutiao.com/trending/7657736239235727401/",
+          "source": "今日头条",
           "ranks": [
-            16,
+            4,
             10,
-            11,
-            8
+            24,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时34分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 23时02分]"
         },
         {
           "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
@@ -297,17 +313,30 @@
           "time_info": "[06时59分 ~ 15时54分]"
         },
         {
-          "title": "A股机器人概念全线大涨",
-          "url": "https://www.toutiao.com/trending/7657736239235727401/",
-          "source": "今日头条",
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            10,
-            24
+            7,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时54分 ~ 20时51分]"
+          "time_info": "[18时25分 ~ 23时02分]"
+        },
+        {
+          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
+          "url": "https://www.cls.cn/detail/2416624",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 23时02分]"
         },
         {
           "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
@@ -357,30 +386,6 @@
           "time_info": "[12时34分 ~ 15时54分]"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时51分]"
-        },
-        {
-          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
-          "url": "https://www.cls.cn/detail/2416624",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时51分]"
-        },
-        {
           "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
           "url": "https://flash.jin10.com/detail/20260703061710084800",
           "source": "金十数据",
@@ -393,6 +398,18 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
+          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
+          "url": "https://www.cls.cn/detail/2416590",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
           "url": "https://flash.jin10.com/detail/20260703060215958800",
           "source": "金十数据",
@@ -403,6 +420,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 08时02分]"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时02分]"
         },
         {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
@@ -473,6 +502,17 @@
           "time_info": "12时35分"
         },
         {
+          "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
           "url": "https://wallstreetcn.com/livenews/3128237",
           "source": "华尔街见闻-快讯",
@@ -528,15 +568,26 @@
           "time_info": "12时35分"
         },
         {
-          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
-          "url": "https://www.cls.cn/detail/2416590",
-          "source": "财联社热门",
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时51分"
+          "time_info": "23时02分"
+        },
+        {
+          "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
+          "url": "https://www.zhihu.com/question/2056338500371182782",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "欧洲央行管委、法国央行行长Moulin：AI将在很大程度上具有通胀效应。 目前尚未看到第二轮效应。",
@@ -589,7 +640,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -605,6 +656,17 @@
           "time_info": "12时35分"
         },
         {
+          "title": "4名大学生出题 AI考了0分",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "市场消息：随着人工智能矿业热潮吸引投资目光，刚果（金）计划建立其首个证券交易所。",
           "url": "https://flash.jin10.com/detail/20260703003409469800",
           "source": "金十数据",
@@ -616,15 +678,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
+          "title": "Katalyst发射机器人飞船拯救老化卫星 展示新型轨道抓捕技术",
+          "url": "https://flash.jin10.com/detail/20260703222137011800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时51分"
+          "time_info": "23时02分"
         },
         {
           "title": "Meta Platforms(META.O)CEO：预计公司将在未来3-6个月内感受到人工智能投资带来​​的更多益处。",
@@ -765,7 +827,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -820,7 +882,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -910,6 +972,35 @@
       ]
     },
     {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "银价波动影响企业利润，光伏行业借金融工具破解保供难题",
+          "url": "https://wallstreetcn.com/livenews/3128257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时02分]"
+        },
+        {
+          "title": "三项光伏强标实施进入倒计时 头部企业判断：硅料产能出清还有三个步骤",
+          "url": "https://www.cls.cn/detail/2416919",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "创新药",
       "match_count": 1,
       "titles": [
@@ -923,24 +1014,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "银价波动影响企业利润，光伏行业借金融工具破解保供难题",
-          "url": "https://wallstreetcn.com/livenews/3128257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 08时02分]"
         }
       ]
     }
