@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-04T06:53:48.305445+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-07-04T07:56:20.146323+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
           "url": "https://wallstreetcn.com/articles/3776101",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时56分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时56分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时56分]"
         },
         {
           "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
@@ -76,8 +77,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时56分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
@@ -88,8 +89,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时56分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -97,11 +98,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时56分]"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -127,6 +129,31 @@
           "time_info": "[00时25分 ~ 05时56分]"
         },
         {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+          "url": "https://wallstreetcn.com/livenews/3128826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 07时56分]"
+        },
+        {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
@@ -139,31 +166,6 @@
           "time_info": "[00时25分 ~ 04时09分]"
         },
         {
-          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
-          "url": "https://wallstreetcn.com/livenews/3128844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
-          "url": "https://wallstreetcn.com/livenews/3128826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时09分 ~ 06时53分]"
-        },
-        {
           "title": "Meta股价因AI进展不及预期下跌",
           "url": "https://www.douyin.com/hot/2556589",
           "source": "抖音",
@@ -172,8 +174,47 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 07时56分]"
+        },
+        {
+          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
+          "url": "https://wallstreetcn.com/livenews/3128844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时56分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
+          "url": "https://wallstreetcn.com/livenews/3128834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时56分]"
+        },
+        {
+          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
+          "url": "https://wallstreetcn.com/livenews/3128832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时56分]"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -188,39 +229,38 @@
           "time_info": "[02时07分 ~ 04时09分]"
         },
         {
-          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
-          "url": "https://wallstreetcn.com/livenews/3128834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
-          "url": "https://wallstreetcn.com/livenews/3128832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
           "title": "韩国AI大跃进",
           "url": "https://wallstreetcn.com/articles/3776121",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时56分]"
+        },
+        {
+          "title": "韩国政府趁热打铁：斥资312万亿韩元在东南地区打造物理AI中心",
+          "url": "https://www.cls.cn/detail/2416582",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "07时56分"
+        },
+        {
+          "title": "如何看待AI模型蒸馏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -257,11 +297,12 @@
           "ranks": [
             6,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时09分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 07时56分]"
         },
         {
           "title": "国际原子能机构（IAEA）：获悉扎波罗热核电站今天在军事冲突期间第21次失去外部电力供应。",
@@ -292,8 +333,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时56分]"
         }
       ]
     }
