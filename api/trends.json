@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T05:46:23.775534+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-07-05T06:45:56.243011+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时45分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时45分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时45分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -71,7 +72,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -86,11 +87,12 @@
           "url": "https://www.cls.cn/detail/2417094",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时45分]"
         }
       ]
     }
