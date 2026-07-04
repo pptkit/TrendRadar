@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T16:20:36.176312+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-07-04T18:48:42.842909+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时53分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 18时48分]"
         },
         {
           "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
@@ -74,18 +87,6 @@
           "time_info": "[00时25分 ~ 09时47分]"
         },
         {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 16时20分]"
-        },
-        {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -103,11 +104,12 @@
           "ranks": [
             4,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 16时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 18时48分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -271,6 +273,18 @@
           "time_info": "[05时56分 ~ 07时56分]"
         },
         {
+          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
+          "url": "https://wallstreetcn.com/livenews/3128913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 18时48分]"
+        },
+        {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
           "url": "https://wallstreetcn.com/livenews/3128806",
           "source": "华尔街见闻-快讯",
@@ -281,6 +295,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时07分 ~ 04时09分]"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+          "url": "https://flash.jin10.com/detail/20260704150630005800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 18时48分]"
         },
         {
           "title": "机器人走进生活背后",
@@ -294,15 +320,15 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
-          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
-          "url": "https://wallstreetcn.com/livenews/3128913",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 7 月 15 日将实施的 AI 情感陪伴新规，以及豆包、千问、元宝等 App 届时将下架智能体的决定？",
+          "url": "https://www.zhihu.com/question/2056532907695649760",
+          "source": "知乎",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "18时48分"
         },
         {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
@@ -327,24 +353,13 @@
           "time_info": "13时36分"
         },
         {
-          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
-          "url": "https://flash.jin10.com/detail/20260704150630005800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
           "title": "业内首个AI-eSIM产业协同平台成立",
           "url": "https://wallstreetcn.com/livenews/3128902",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -371,6 +386,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "多少大厂员工正在被迫使用AI",
+          "url": "https://www.toutiao.com/trending/7658544406969978414/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "常州市市长周伟调研人工智能上游产业",
           "url": "https://flash.jin10.com/detail/20260704100159012800",
           "source": "金十数据",
@@ -391,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "曝摄像头AirPodsPro项目暂停",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
@@ -456,11 +493,12 @@
           "url": "https://www.cls.cn/detail/2417094",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 18时48分]"
         }
       ]
     },
@@ -480,8 +518,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 16时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 18时48分]"
         }
       ]
     }
