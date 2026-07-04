@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T13:36:20.582137+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-07-04T16:20:36.176312+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -74,6 +74,18 @@
           "time_info": "[00时25分 ~ 09时47分]"
         },
         {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 16时20分]"
+        },
+        {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -85,16 +97,17 @@
           "time_info": "[00时25分 ~ 04时09分]"
         },
         {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "售价十几万至九十九万的「机器人伴侣」订单破万，仅限成人购买，花高价买仿生陪伴机器人值得吗？",
+          "url": "https://www.zhihu.com/question/2055671696800143351",
+          "source": "知乎",
           "ranks": [
-            2,
-            1
+            4,
+            3,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时56分 ~ 13时36分]"
+          "time_info": "[09时46分 ~ 16时20分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -119,18 +132,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时56分]"
-        },
-        {
-          "title": "售价十几万至九十九万的「机器人伴侣」订单破万，仅限成人购买，花高价买仿生陪伴机器人值得吗？",
-          "url": "https://www.zhihu.com/question/2055671696800143351",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时36分]"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -293,6 +294,17 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
+          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
+          "url": "https://wallstreetcn.com/livenews/3128913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
           "url": "https://flash.jin10.com/detail/20260704084017236800",
           "source": "金十数据",
@@ -310,9 +322,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+          "url": "https://flash.jin10.com/detail/20260704150630005800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "如何看待AI模型蒸馏",
@@ -343,7 +377,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -354,7 +388,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -407,9 +441,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加码玻璃基板！三星电机、住友化工合资公司落地 预计2027年下半年投产",
+          "url": "https://www.cls.cn/detail/2417094",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
@@ -429,8 +480,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 13时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 16时20分]"
         }
       ]
     }
