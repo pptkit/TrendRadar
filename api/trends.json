@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T01:08:12.860524+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-07-06T02:58:48.946364+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
           "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
@@ -37,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -48,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -59,19 +61,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2417353",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -81,8 +84,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 02时58分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -92,8 +95,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
@@ -103,8 +106,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时58分]"
         },
         {
           "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
@@ -159,8 +162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 02时58分]"
         }
       ]
     }
