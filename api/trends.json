@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T09:51:59.454419+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-07-05T13:54:35.589243+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 09时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 13时54分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -37,11 +38,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 09时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 13时54分]"
+        },
+        {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 13时54分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -54,18 +68,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时55分]"
-        },
-        {
-          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
-          "url": "https://wallstreetcn.com/articles/3776203",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 09时51分]"
         },
         {
           "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
@@ -86,7 +88,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -100,6 +102,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
+          "url": "https://flash.jin10.com/detail/20260705113833548800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "“AI+”OPC供需生态对接会在珠海举行",
+          "url": "https://flash.jin10.com/detail/20260705103842899800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     },
@@ -114,7 +138,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -130,11 +154,29 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 09时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 13时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“太空慧眼”天韵相机出舱",
+          "url": "https://www.toutiao.com/trending/7658875681627160618/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     }
