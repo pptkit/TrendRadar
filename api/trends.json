@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-06T06:49:29.494258+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-07-06T07:55:30.157682+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
       "match_count": 13,
       "titles": [
+        {
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时55分]"
+        },
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
           "url": "https://wallstreetcn.com/articles/3776218",
@@ -16,20 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时49分]"
-        },
-        {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时55分]"
         },
         {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 07时55分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -51,22 +53,24 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 07时55分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 07时55分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -74,11 +78,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 07时55分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -120,11 +125,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时49分]"
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 07时55分]"
         },
         {
           "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
@@ -187,11 +193,12 @@
           "url": "https://www.cls.cn/detail/2417094",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时55分]"
         }
       ]
     }
