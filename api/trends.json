@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T16:38:35.917540+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-07-05T18:57:59.517675+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 16时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 18时57分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -48,26 +48,15 @@
           "time_info": "[00时53分 ~ 06时45分]"
         },
         {
-          "title": "贝斯特：股票交易异常波动 人形机器人业务仍处样品阶段",
-          "url": "https://flash.jin10.com/detail/20260705161543702800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 18时57分]"
         },
         {
           "title": "中信证券：两因素有望催化部分有业绩支撑的非AI板块的修复",
@@ -76,20 +65,44 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
           "url": "https://wallstreetcn.com/livenews/3128984",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 18时57分]"
+        },
+        {
+          "title": "贝斯特：股票交易异常波动 人形机器人业务仍处样品阶段",
+          "url": "https://flash.jin10.com/detail/20260705161543702800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 18时57分]"
         },
         {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
@@ -116,6 +129,18 @@
           "time_info": "[00时53分 ~ 01时55分]"
         },
         {
+          "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
+          "url": "https://wallstreetcn.com/livenews/3128970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 18时57分]"
+        },
+        {
           "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
           "url": "https://flash.jin10.com/detail/20260704222818603800",
           "source": "金十数据",
@@ -128,15 +153,15 @@
           "time_info": "[00时53分 ~ 01时55分]"
         },
         {
-          "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
-          "url": "https://wallstreetcn.com/livenews/3128970",
-          "source": "华尔街见闻-快讯",
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "18时57分"
         },
         {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
@@ -178,7 +203,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -200,7 +225,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -211,7 +236,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
@@ -228,9 +253,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 18时57分]"
         },
         {
           "title": "“太空慧眼”天韵相机出舱",
@@ -277,8 +302,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 16时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 18时57分]"
         }
       ]
     }
