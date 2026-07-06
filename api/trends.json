@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T14:25:14.872696+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-07-06T19:21:50.161748+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -40,11 +40,12 @@
           "ranks": [
             10,
             11,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 14时25分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 19时21分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -100,6 +101,17 @@
           "time_info": "[14时24分 ~ 14时25分]"
         },
         {
+          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
+          "url": "https://www.cls.cn/detail/2417841",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "电诈人员用AI同时和100多人聊天",
           "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E7%94%A8AI%E5%90%8C%E6%97%B6%E5%92%8C100%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9",
           "source": "百度热搜",
@@ -123,6 +135,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "国产机器人加速走向全球",
+          "url": "https://www.douyin.com/hot/2560666",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "已进入多家本体、模组厂商和灵巧手企业供应链 人形机器人概念股单日涨超14% 本周机构密集调研相关上市公司",
           "url": "https://www.cls.cn/detail/2417369",
           "source": "财联社热门",
@@ -133,6 +156,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时59分 ~ 14时25分]"
+        },
+        {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -204,6 +238,39 @@
           "time_info": "[14时24分 ~ 14时25分]"
         },
         {
+          "title": "美银预计，到2027年全球云计算与人工智能基础设施资本支出将达到1.5万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260706185323087800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
+          "url": "https://www.cls.cn/detail/2418140",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
           "url": "https://flash.jin10.com/detail/20260705225805600800",
           "source": "金十数据",
@@ -232,7 +299,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -243,9 +310,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "国产清洁机器人卖爆了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%B8%85%E6%B4%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "SK海力士寻求通过在美上市吸引更多AI投资者",
@@ -270,13 +348,24 @@
           "time_info": "04时10分"
         },
         {
+          "title": "沪电股份：43亿元人工智能芯片配套高端印制电路板扩产项目预期下半年试产并逐步提升产能",
+          "url": "https://wallstreetcn.com/livenews/3129307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "金山办公回应“WPS滥收费、背刺用户” ：言论不实。免费基础功能绝不收费，少数AI办公智能体等高成本服务，会独立计费，用户按需购买。",
           "url": "https://wallstreetcn.com/livenews/3129154",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -312,8 +401,19 @@
     },
     {
       "keyword_group": "创新药",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
+          "url": "https://wallstreetcn.com/articles/3776252",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
         {
           "title": "中信证券：下半年建议重点配置中国创新药，聚焦三类公司",
           "url": "https://wallstreetcn.com/livenews/3129054",
@@ -342,6 +442,40 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 07时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华电科工：签署2.19亿元首个柔性支架农光互补光伏发电项目EPC总承包合同",
+          "url": "https://flash.jin10.com/detail/20260706183826495800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX总裁Shotwell将向特朗普账户捐赠SpaceX股票",
+          "url": "https://wallstreetcn.com/livenews/3129320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     }
