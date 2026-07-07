@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T07:57:35.693418+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-07-07T10:09:44.491915+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 10时09分]"
         },
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -66,11 +66,12 @@
           "ranks": [
             16,
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 10时09分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -114,9 +115,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "A股机器人概念股开盘拉升，巨轮智能、多利科技直线涨停，肇民科技涨超10%，汉宇集团、百达精工、绿的谐波涨涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3129663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 10时09分]"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
@@ -141,6 +165,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时19分 ~ 07时57分]"
+        },
+        {
+          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
+          "url": "https://wallstreetcn.com/articles/3776266",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 10时09分]"
         },
         {
           "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
@@ -189,26 +225,37 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
-          "url": "https://wallstreetcn.com/articles/3776266",
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "10时09分"
+        },
+        {
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+          "url": "https://wallstreetcn.com/articles/3776296",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股人形机器人概念股盘初活跃，巨轮智能涨停，力王股份涨超16%，肇民科技、奥迪威、众诚科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260707093602524800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
@@ -217,7 +264,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -239,7 +286,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -250,7 +297,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -280,7 +327,7 @@
     },
     {
       "keyword_group": "创新药",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
@@ -288,11 +335,51 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 10时09分]"
+        },
+        {
+          "title": "A股创新药板块盘初调整，海南海药触及跌停，双鹭药业、新赣江、三元基因、峆一药业、三生国健跟跌。",
+          "url": "https://flash.jin10.com/detail/20260707093524724800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX总裁将向“特朗普账户”捐赠股票",
+          "url": "https://wallstreetcn.com/livenews/3129611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
+          "url": "https://www.cls.cn/detail/2418537",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -310,23 +397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX总裁将向“特朗普账户”捐赠股票",
-          "url": "https://wallstreetcn.com/livenews/3129611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         }
       ]
     }
