@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T20:13:26.146050+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-07-08T23:16:01.157978+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "人形机器人成高端制造出口新名片",
@@ -45,6 +45,21 @@
           "time_info": "[00时16分 ~ 15时24分]"
         },
         {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4,
+            12,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 23时16分]"
+        },
+        {
           "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
           "url": "https://www.cls.cn/detail/2419748",
           "source": "财联社热门",
@@ -68,6 +83,17 @@
           "time_info": "[12时57分 ~ 15时24分]"
         },
         {
+          "title": "我国人工智能产业加速发展壮大",
+          "url": "https://www.douyin.com/hot/2563823",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
           "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
           "url": "https://www.cls.cn/detail/2419782",
           "source": "财联社热门",
@@ -81,20 +107,6 @@
           "time_info": "[07时44分 ~ 15时24分]"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            4,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 20时13分]"
-        },
-        {
           "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
           "url": "https://wallstreetcn.com/livenews/3130132",
           "source": "华尔街见闻-快讯",
@@ -104,6 +116,55 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
+          "url": "https://www.cls.cn/detail/2420430",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 23时16分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 23时16分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 23时16分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时13分 ~ 23时16分]"
         },
         {
           "title": "Papi酱AI单曲《生气了》爆火",
@@ -128,41 +189,6 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
-          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
-          "url": "https://www.cls.cn/detail/2420430",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 20时13分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 20时13分]"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 20时13分]"
-        },
-        {
           "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
           "url": "https://wallstreetcn.com/livenews/3130159",
           "source": "华尔街见闻-快讯",
@@ -173,6 +199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 06时04分]"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         },
         {
           "title": "中信建投：AI PCB需求放量 高阶升级趋势明确",
@@ -195,17 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
-        },
-        {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
         },
         {
           "title": "券商晨会精华：机器人轴承不可忽视，国产新势力乘势而上",
@@ -357,7 +383,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -442,7 +468,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "事关SpaceX，华尔街“被泼冷水”！传奇投资人：崩盘概率达90%",
@@ -455,6 +481,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时24分 ~ 20时13分]"
+        },
+        {
+          "title": "从太空看超强台风“巴威”风眼",
+          "url": "https://www.toutiao.com/trending/7659338667501142062/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX收跌6.8%，创美国IPO以来收盘新低。",
@@ -489,6 +526,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
+          "url": "https://www.cls.cn/detail/2420472",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
+          "title": "28只创新药主题基金总规模突破1300亿元",
+          "url": "https://wallstreetcn.com/livenews/3130217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         }
       ]
     },
@@ -535,23 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "28只创新药主题基金总规模突破1300亿元",
-          "url": "https://wallstreetcn.com/livenews/3130217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
         }
       ]
     }
