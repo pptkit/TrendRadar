@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T05:10:08.782214+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-07-10T07:01:51.235489+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -41,6 +41,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时10分 ~ 05时10分]"
+        },
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
         },
         {
           "title": "阿波罗350亿美元AI芯片信贷交易即将开始交易",
@@ -65,15 +89,16 @@
           "time_info": "01时10分"
         },
         {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
           "ranks": [
-            8
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[05时09分 ~ 07时01分]"
         },
         {
           "title": "OpenAI：GPT-5.6系列模型Sol、Terra、Luna将登陆Chatgpt、Codex及API。",
@@ -87,37 +112,16 @@
           "time_info": "01时10分"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时10分]"
-        },
-        {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 05时10分]"
-        },
-        {
           "title": "一条AI短片演绎杨戬劈山",
           "url": "https://www.douyin.com/hot/2564959",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[05时09分 ~ 07时01分]"
         },
         {
           "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
@@ -170,9 +174,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
@@ -181,7 +196,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -203,7 +218,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -253,7 +268,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         }
@@ -269,11 +284,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
         }
       ]
     },
@@ -289,8 +305,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 05时10分]"
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 07时01分]"
         }
       ]
     }
