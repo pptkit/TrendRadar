@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T08:02:33.783727+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-07-09T12:41:21.874234+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 23,
+      "match_count": 35,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -17,6 +17,44 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时18分 ~ 08时02分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 12时41分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 12时41分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 12时41分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -31,39 +69,15 @@
           "time_info": "[01时18分 ~ 08时02分]"
         },
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
+          "title": "淡马锡CIO：人工智能硬件基础设施领域蕴藏着巨大机遇。",
+          "url": "https://flash.jin10.com/detail/20260709123350240800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 08时02分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 08时02分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
@@ -88,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "淡马锡CIO：加大对以实物资产为主的企业（如基础设施和大宗商品）的投资比重，这类企业受人工智能影响的风险较小。",
+          "url": "https://flash.jin10.com/detail/20260709123334652800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
@@ -140,9 +165,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "小鹏Robotaxi开启内测，何小鹏称Robotaxi是小鹏迈向“机器人汽车”的重要一步",
+          "url": "https://wallstreetcn.com/livenews/3131081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "AI热潮助力铠侠股价飙升4000% 贝恩资本套现退出",
@@ -151,7 +198,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -167,6 +214,28 @@
           "time_info": "03时04分"
         },
         {
+          "title": "美股近七成科技股跌入熊市区间！AI信仰面临大考：获利了结还是周期见顶？",
+          "url": "https://flash.jin10.com/detail/20260709122245851800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
+          "url": "https://www.cls.cn/detail/2421292",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "穆迪：具备数字现金能力的AI智能代理将改变金融业，但也会扩大风险范围。",
           "url": "https://flash.jin10.com/detail/20260709041822379800",
           "source": "金十数据",
@@ -176,6 +245,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "山东省机器人和智能装备产业对接活动在济南举办",
+          "url": "https://flash.jin10.com/detail/20260709121745274800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
+          "url": "https://www.cls.cn/detail/2420934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -195,7 +286,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -233,6 +324,28 @@
           "time_info": "01时19分"
         },
         {
+          "title": "英伟达市值不到两个月蒸发 1 万亿美元，估值回落至人工智能热潮掀起之前的水平，算力龙头为何遭抛售？",
+          "url": "https://www.zhihu.com/question/2058280043265143682",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "高盛：中国AI产业链具备被市场低估的独特竞争优势",
+          "url": "https://flash.jin10.com/detail/20260709120134613800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
           "url": "https://flash.jin10.com/detail/20260709043940767800",
           "source": "金十数据",
@@ -242,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-09）",
+          "url": "https://flash.jin10.com/detail/20260709120042443800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "淡马锡投资组合价值突破4000亿美元，对AI的押注提升回报率",
@@ -264,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "小鹏Robotaxi开启内测，何小鹏称Robotaxi是小鹏迈向“机器人汽车”的重要一步",
+          "url": "https://flash.jin10.com/detail/20260709115341631800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -389,6 +524,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 06时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "养“光伏羊”每年收入近10万元",
+          "url": "https://www.baidu.com/s?wd=%E5%85%BB%E2%80%9C%E5%85%89%E4%BC%8F%E7%BE%8A%E2%80%9D%E6%AF%8F%E5%B9%B4%E6%94%B6%E5%85%A5%E8%BF%9110%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     }
