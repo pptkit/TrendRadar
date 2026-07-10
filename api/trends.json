@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T00:13:14.738358+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-11T02:16:20.175613+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "智元-蓝思机器人智能产线项目在惠州签约 计划首年机器人产能超1000台",
@@ -25,9 +25,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "欧洲央行Moulin：AI可能加剧通胀波动",
+          "url": "https://wallstreetcn.com/livenews/3132205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "给朋友拍照时就这样变身机器人",
+          "url": "https://www.douyin.com/hot/2566457",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -37,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -48,19 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
-        },
-        {
-          "title": "给朋友拍照时就这样变身机器人",
-          "url": "https://www.douyin.com/hot/2566457",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "美联储半年度货币政策报告：美国劳动力市场大致稳定，生产率强劲。 由于移民放缓和人口结构转变，劳动力供给增长有所下降。 与人工智能（AI）相关的数据中心投资推动了强劲的工厂产出；美国的生产能力正以“稳健的步伐”提升。 2026年上半年，受中东冲突和美国关税的逆风影响，外国经济活动增长疲软，但部分被AI投资所抵消。 原本已经处于高位的通胀在春季进一步抬头。 高通胀在一定程度上反映了供给冲击。 通胀依然处于高位，主要受关税、中东战争相关因素以及AI的推动。 包括截尾均值在内的一些通胀指标有所下降。 尽管伊朗战争带来了较高的不确定性，经济活动仍以稳健的步伐扩张。 重申维持价格稳定的承诺。 准备动用一切工具来实现双重使命（实现充分就业+维持价格稳定）。",
@@ -69,7 +81,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
         },
@@ -80,7 +92,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
         },
@@ -91,9 +103,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "太空经济的“iPhone时刻”要来了吗",
+          "url": "https://www.toutiao.com/trending/7660854338671087130/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "SpaceX投资纠纷落幕，马斯克盟友Kahlon胜诉。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3132194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     },
@@ -108,7 +148,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
         }
@@ -126,25 +166,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "太空经济的“iPhone时刻”要来了吗",
-          "url": "https://www.toutiao.com/trending/7660854338671087130/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         }
       ]
     }
