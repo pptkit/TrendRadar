@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T09:24:48.613213+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-07-11T12:53:02.832764+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "给朋友拍照时就这样变身机器人",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 12时53分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -34,8 +34,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 12时53分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -49,8 +49,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 12时53分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时48分 ~ 12时53分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -75,30 +89,6 @@
           "time_info": "[06时48分 ~ 06时49分]"
         },
         {
-          "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
-          "url": "https://wallstreetcn.com/livenews/3132277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时48分 ~ 09时24分]"
-        },
-        {
           "title": "智元-蓝思机器人智能产线项目在惠州签约 计划首年机器人产能超1000台",
           "url": "https://flash.jin10.com/detail/20260710234153746800",
           "source": "金十数据",
@@ -108,6 +98,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
+          "url": "https://wallstreetcn.com/livenews/3132277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 12时53分]"
         },
         {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
@@ -148,6 +150,29 @@
           "time_info": "[05时50分 ~ 09时24分]"
         },
         {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时53分]"
+        },
+        {
+          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
+          "url": "https://www.cls.cn/detail/2423447",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时53分]"
+        },
+        {
           "title": "苹果起诉OpenAI涉嫌窃取商业机密",
           "url": "https://flash.jin10.com/detail/20260711044802586800",
           "source": "金十数据",
@@ -172,6 +197,17 @@
           "time_info": "[05时50分 ~ 07时46分]"
         },
         {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
           "title": "售价十几万的仿生机器人有何卖点",
           "url": "https://www.toutiao.com/trending/7660876752276688438/",
           "source": "今日头条",
@@ -181,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 06时49分]"
+        },
+        {
+          "title": "《功夫女足》上映 AI预测总票房超10亿",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
         },
         {
           "title": "给哈兰德做了一支AI大片",
@@ -200,29 +247,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -247,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "据悉OpenAI安全系统负责人将离职",
+          "url": "https://flash.jin10.com/detail/20260711093038446800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "宇树科技王兴兴：机器人一定会走向普通消费者",
