@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T03:59:33.419738+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-07-12T04:41:53.895098+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时41分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时41分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -38,8 +38,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时41分]"
+        },
+        {
+          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
+          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -47,11 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时41分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -61,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时41分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -71,9 +83,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时41分]"
         }
       ]
     },
@@ -88,9 +100,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时41分]"
         }
       ]
     }
