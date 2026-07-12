@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T05:38:57.862852+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-07-13T06:36:56.096840+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 06时36分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 06时36分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 06时36分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 06时36分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -59,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 06时36分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -68,11 +69,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 06时36分]"
         }
       ]
     },
