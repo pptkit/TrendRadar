@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T09:27:26.990433+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-07-12T13:14:52.460105+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 13时14分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 13时14分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -100,9 +100,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "特写｜当机器人来到古村落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565908",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 13时14分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -116,26 +128,60 @@
           "time_info": "[03时59分 ~ 05时39分]"
         },
         {
-          "title": "特写｜当机器人来到古村落",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565908",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
           "url": "https://wallstreetcn.com/articles/3776704",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 13时14分]"
+        },
+        {
+          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
+          "url": "https://wallstreetcn.com/livenews/3132380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "13时14分"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
+          "url": "https://www.zhihu.com/question/2054980630543442226",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
