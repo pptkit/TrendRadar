@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-12T07:42:46.465807+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-07-12T09:27:26.990433+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 09时27分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -27,19 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时42分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 09时27分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -53,8 +43,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 09时27分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时41分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -93,6 +94,17 @@
           "time_info": "[05时39分 ~ 07时42分]"
         },
         {
+          "title": "据福克斯新闻：人工智能连续第三个月成为美国裁员的主要原因。",
+          "url": "https://flash.jin10.com/detail/20260712090326604800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
           "url": "https://www.cls.cn/detail/2423447",
           "source": "财联社热门",
@@ -102,6 +114,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时59分 ~ 05时39分]"
+        },
+        {
+          "title": "特写｜当机器人来到古村落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565908",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
+          "url": "https://wallstreetcn.com/articles/3776704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
@@ -117,8 +151,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时59分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[03时59分 ~ 09时27分]"
         }
       ]
     }
