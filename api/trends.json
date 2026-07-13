@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T16:44:04.755616+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-07-13T19:49:36.225001+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -55,6 +55,19 @@
           "time_info": "[00时43分 ~ 06时36分]"
         },
         {
+          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 19时49分]"
+        },
+        {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
@@ -68,16 +81,31 @@
           "time_info": "[00时43分 ~ 13时23分]"
         },
         {
-          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
+          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
+          "url": "https://www.cls.cn/detail/2424196",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 16时44分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 19时49分]"
+        },
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 19时49分]"
         },
         {
           "title": "三星准备生产特斯拉AI5芯片",
@@ -89,6 +117,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 19时49分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -115,6 +157,29 @@
           "time_info": "13时23分"
         },
         {
+          "title": "【生益电子：预计上半年净利润10.82亿元到11.37亿元，同比增加104%到114%】受益于AI算力及高速通信等下游领域的高景气需求，公司紧扣战略定位，深入实施“市场引领，双轮驱动”方针，持续聚焦高端市场的结构性增长机会，优化产品结构，有序推进增资扩产项目建设，尤其是智能算力中心高多层高密互连电路板项目按计划高效落地并快速释放效益。同时公司在技术演进与供应链重构中持续构建经营韧性，不断夯实质量管理根基，市场竞争优势进一步巩固。2026年半年度营业收入和净利润较上年同期实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3132894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 19时49分]"
+        },
+        {
           "title": "科技巨头狂发“AI基建债”吸金，华尔街呼吁：发慢点吧！",
           "url": "https://flash.jin10.com/detail/20260713130656064800",
           "source": "金十数据",
@@ -124,18 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
-        },
-        {
-          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
-          "url": "https://www.cls.cn/detail/2424196",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 16时44分]"
         },
         {
           "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
@@ -149,30 +202,15 @@
           "time_info": "13时23分"
         },
         {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
+          "title": "【胜宏科技：网络平台上流传关于公司产品、市场份额、项目进展等负面传闻，内容严重失实】1、网络流传相关言论不属实。公司是国内外AI头部大客户的长期战略合作伙伴，胜宏科技始终将“品质”和“安全”视为企业的生命线，公司严格按照客户标准管理。 2、当前，AI相关PCB产品需求旺盛，公司在手订单持续增长。公司生产、出货一切正常，头部客户订单持续增加。 3、公司与核心客户保持密切沟通，与客户合作开发的研发迭代产品正顺利推进当中。部分客户已释放2027–2028年长期需求，公司对后续生产经营及效益实现充满信心。",
+          "url": "https://wallstreetcn.com/livenews/3132888",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            13,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 16时44分]"
-        },
-        {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 16时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
@@ -185,17 +223,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时23分 ~ 16时44分]"
-        },
-        {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
@@ -242,6 +269,39 @@
           "time_info": "[09时27分 ~ 09时28分]"
         },
         {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574538",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "韩国品牌用肖战形象做AI广告",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%93%81%E7%89%8C%E7%94%A8%E8%82%96%E6%88%98%E5%BD%A2%E8%B1%A1%E5%81%9AAI%E5%B9%BF%E5%91%8A%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "大和下调腾讯目标价至670港元 调整AI资本开支及盈利预测",
           "url": "https://flash.jin10.com/detail/20260713122910026800",
           "source": "金十数据",
@@ -251,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "挑战在BW和机器人跳舞",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%9C%A8BW%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "AI算力需求爆发 光纤量价齐升 多家企业启动扩产计划",
@@ -267,7 +338,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国电力技术创新位居全球首位",
@@ -277,8 +348,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 19时49分]"
         },
         {
           "title": "日本最大电力公司JERA：JERA与三星物产（Samsung C&T）签署谅解备忘录，增强氢和氨价值链的韧性及供应安全。",
@@ -290,6 +361,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "白宫计划就AI电力成本达成自愿承诺。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3132855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "航天员太空锻炼姿势又上新了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E9%94%BB%E7%82%BC%E5%A7%BF%E5%8A%BF%E5%8F%88%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时38分]"
+        },
+        {
+          "title": "SpaceX上市另有图谋？资深分析师：散户将血本无归，只值每股30美元！",
+          "url": "https://www.cls.cn/detail/2424207",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         }
       ]
     },
@@ -304,26 +414,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
       ]
     },
     {
-      "keyword_group": "太空 spaceX",
+      "keyword_group": "太阳能 光伏",
       "match_count": 1,
       "titles": [
         {
-          "title": "航天员太空锻炼姿势又上新了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E9%94%BB%E7%82%BC%E5%A7%BF%E5%8A%BF%E5%8F%88%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "【TCL科技：预计上半年净利润同比增长96%-108%】TCL科技公告，预计2026年上半年净利润为37亿元—39.2亿元，同比增长96%—108%。报告期内，公司聚焦半导体显示、新能源光伏和半导体材料业务的核心主业发展，坚持战略引领、创新驱动、先进制造、全球经营，持续提升相对竞争力，实现高质量可持续发展。",
+          "url": "https://wallstreetcn.com/livenews/3132890",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 05时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         }
       ]
     }
