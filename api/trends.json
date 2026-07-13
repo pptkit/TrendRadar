@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T13:23:51.000506+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-13T16:44:04.755616+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 13时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 16时44分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -75,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 16时44分]"
         },
         {
           "title": "三星准备生产特斯拉AI5芯片",
@@ -85,7 +86,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -109,7 +110,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -120,9 +121,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
+          "url": "https://www.cls.cn/detail/2424196",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 16时44分]"
         },
         {
           "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
@@ -131,7 +144,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -141,11 +154,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 16时44分]"
         },
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -153,11 +167,57 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 16时44分]"
+        },
+        {
+          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
+          "url": "https://www.cls.cn/detail/2424084",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时27分 ~ 13时23分]"
+          "time_info": "[13时23分 ~ 16时44分]"
+        },
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
+          "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
+          "url": "https://www.cls.cn/detail/2424076",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
+          "title": "“加息噩梦”萦绕？高盛：AI或引爆美国通胀 存储暴涨是核心推手",
+          "url": "https://www.cls.cn/detail/2424017",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
@@ -182,35 +242,13 @@
           "time_info": "[09时27分 ~ 09时28分]"
         },
         {
-          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
-          "url": "https://www.cls.cn/detail/2424196",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
-          "url": "https://www.cls.cn/detail/2424084",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "大和下调腾讯目标价至670港元 调整AI资本开支及盈利预测",
           "url": "https://flash.jin10.com/detail/20260713122910026800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -229,8 +267,19 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "中国电力技术创新位居全球首位",
+          "url": "https://www.toutiao.com/trending/7661405401853722667/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
         {
           "title": "日本最大电力公司JERA：JERA与三星物产（Samsung C&T）签署谅解备忘录，增强氢和氨价值链的韧性及供应安全。",
           "url": "https://flash.jin10.com/detail/20260713130544957800",
@@ -238,9 +287,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗解除石油化工产品出口禁令",
+          "url": "https://wallstreetcn.com/livenews/3132695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
