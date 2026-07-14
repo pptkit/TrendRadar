@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T09:17:06.958634+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-07-14T12:39:32.759130+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时39分]"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时39分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -73,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时39分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -86,6 +86,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 04时07分]"
+        },
+        {
+          "title": "AI预测法国vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "QuestMobile发布AI应用市场发展半年报，豆包月活居首",
+          "url": "https://wallstreetcn.com/livenews/3133308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "中国自研AI芯片取得架构突破",
@@ -117,11 +139,12 @@
           "url": "https://www.douyin.com/hot/2570068",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时39分]"
         },
         {
           "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
@@ -133,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
+          "url": "https://flash.jin10.com/detail/20260714122538668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -157,6 +191,28 @@
           "time_info": "07时42分"
         },
         {
+          "title": "台风淹水致商铺狼藉图片为AI合成",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
           "url": "https://flash.jin10.com/detail/20260714043115058800",
           "source": "金十数据",
@@ -166,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
@@ -199,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "据英国金融时报：威尔士党(Plaid Cymru) 籍威尔士首席大臣向“未来首相”安迪·伯纳姆发起挑战，要求其通过向位于卡迪夫的威尔士政府下放一系列新权力，来证明其对权力下放政策的承诺。",
+          "url": "https://flash.jin10.com/detail/20260714120511509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
@@ -236,6 +314,34 @@
       ]
     },
     {
+      "keyword_group": "太阳能 光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国光伏巨头进军“卖算力”赛道 CEO声称用户每月能挣数百美元",
+          "url": "https://www.cls.cn/detail/2425149",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "28.04%！我国团队刷新钙钛矿-有机叠层太阳能电池效率纪录",
+          "url": "https://wallstreetcn.com/livenews/3132982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "太空 spaceX",
       "match_count": 2,
       "titles": [
@@ -256,28 +362,12 @@
           "url": "https://news.ifeng.com/c/8ujd5z8DwqS",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "28.04%！我国团队刷新钙钛矿-有机叠层太阳能电池效率纪录",
-          "url": "https://wallstreetcn.com/livenews/3132982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时39分]"
         }
       ]
     }
