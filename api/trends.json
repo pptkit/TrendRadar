@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T07:41:56.882605+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-07-15T09:14:22.011000+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -31,30 +31,32 @@
           "time_info": "[01时01分 ~ 07时41分]"
         },
         {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时41分]"
-        },
-        {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
           "url": "https://wallstreetcn.com/articles/3776903",
           "source": "华尔街见闻",
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时14分]"
+        },
+        {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时14分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -65,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时14分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -81,8 +83,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时14分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -94,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时14分]"
         },
         {
           "title": "小米机器人打螺丝成功率98%",
@@ -120,11 +122,12 @@
             8,
             10,
             28,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 09时14分]"
         },
         {
           "title": "经纬度：中国人工智能发展的战略定力",
@@ -260,7 +263,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -282,7 +285,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -353,13 +356,24 @@
           "time_info": "05时45分"
         },
         {
+          "title": "据媒体报道，人工智能云计算公司 CoreWeave正在探索使用金融衍生品，作为防范未来内存和存储芯片价格下跌的潜在对冲手段。",
+          "url": "https://wallstreetcn.com/livenews/3133955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "媒体：“悄然转向”，印度企业青睐中国AI大模型",
           "url": "https://wallstreetcn.com/livenews/3133917",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -392,7 +406,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -425,7 +439,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -439,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "OpenAI报告ChatGPT出现故障",
+          "url": "https://flash.jin10.com/detail/20260715084054606800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美联储理事巴尔将于十分钟后在美联储年度金融普惠会议上就人工智能发表讲话。",
@@ -461,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "华泰证券：业绩期关注AI、涨价、制造三大线索",
+          "url": "https://flash.jin10.com/detail/20260715082523709800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "小米机器人装配成功率98%",
@@ -490,8 +526,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时14分]"
         },
         {
           "title": "谷歌公司位于美国阿肯色州（Arkansas）的2.5 GWDC光伏项目破土动工。 Steel River能源中心将新增2.9 GWh电池储能。",
@@ -538,6 +574,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX 股价较峰值回落 35%，其中「解禁压力」与「估值分歧」意味着什么？",
+          "url": "https://www.zhihu.com/question/2060134764993066237",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     }
