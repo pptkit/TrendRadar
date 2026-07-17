@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T06:38:34.664619+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-07-18T07:41:46.673557+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -26,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
-        },
-        {
-          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
-          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -48,22 +37,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
-          "title": "UP主手搓WAIC逛展小助手",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
-          "source": "bilibili 热搜",
+          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
+          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
+          "source": "凤凰网",
           "ranks": [
-            3,
             2,
-            6,
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -71,11 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -90,28 +78,19 @@
           "time_info": "[00时07分 ~ 06时38分]"
         },
         {
-          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2429875",
-          "source": "财联社热门",
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
-        },
-        {
-          "title": "中国拉群搞AI,28国兄弟入伙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
-          "source": "贴吧",
-          "ranks": [
+            3,
+            2,
             6,
-            7
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -119,11 +98,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -135,11 +115,36 @@
             6,
             10,
             17,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
+        },
+        {
+          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2429875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
+        },
+        {
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -149,11 +154,12 @@
             14,
             6,
             10,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -164,8 +170,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -176,8 +182,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
@@ -255,11 +261,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时41分]"
         },
         {
           "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
@@ -267,11 +274,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时41分]"
         },
         {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
@@ -279,11 +287,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时41分]"
         },
         {
           "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
@@ -291,11 +300,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时41分]"
         },
         {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
@@ -407,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "俄罗斯：在Mykolaiv港口打击四艘干散货船只。）（国际文传电讯社IFX）",
@@ -523,7 +544,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         }
@@ -534,6 +555,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
+        },
+        {
           "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
           "url": "https://www.cls.cn/detail/2429653",
           "source": "财联社热门",
@@ -543,20 +577,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时41分]"
         },
         {
           "title": "据伊通社（IRNA）：伊朗霍尔木兹甘省电力公司表示，美军昨夜袭击造成的电网受损已完成抢修，目前所有受影响区域的电网运行状况均已稳定，应急力量仍保持待命。",
