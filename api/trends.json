@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T03:58:03.303553+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-07-18T04:45:23.153816+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -37,20 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
-        },
-        {
-          "title": "UP主手搓WAIC逛展小助手",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -60,8 +48,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
+        },
+        {
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -72,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -84,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -96,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -108,8 +109,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -120,8 +121,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -130,11 +131,12 @@
           "ranks": [
             19,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -146,8 +148,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -158,8 +160,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -170,8 +172,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
@@ -182,8 +184,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
+        },
+        {
+          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
+          "url": "https://www.cls.cn/detail/2429951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 04时45分]"
         },
         {
           "title": "美国法官在一宗新型人工智能歧视案件中，拒绝叫停Meta Platforms(META.O)的裁员计划。",
@@ -195,18 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
-          "url": "https://www.cls.cn/detail/2429951",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 03时58分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -224,11 +226,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%ABAI%E9%9C%87%E6%92%BC",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 04时45分]"
         },
         {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
@@ -326,7 +329,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         },
@@ -337,7 +340,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         },
@@ -389,7 +392,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "SpaceX星舰第13次试飞临时中止",
@@ -404,6 +407,18 @@
           "time_info": "[00时07分 ~ 01时57分]"
         },
         {
+          "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3135881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 04时45分]"
+        },
+        {
           "title": "据伊拉克官方媒体：伊拉克已与SpaceX(SPCX.O)星链签署协议，允许其在伊拉克开展运营。",
           "url": "https://flash.jin10.com/detail/20260718022857211800",
           "source": "金十数据",
@@ -415,15 +430,15 @@
           "time_info": "02时52分"
         },
         {
-          "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3135881",
+          "title": "马斯克旗下太空探索公司SpaceX市值较峰值时期蒸发超1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135900",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时58分"
+          "time_info": "04时45分"
         },
         {
           "title": "SpaceX(SPCX.O)跌幅迅速收窄至2.6%，此前一度下跌超6%。",
@@ -432,7 +447,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         }
@@ -440,7 +455,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
@@ -452,8 +467,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -464,8 +479,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 04时45分]"
         },
         {
           "title": "据伊通社（IRNA）：伊朗霍尔木兹甘省电力公司表示，美军昨夜袭击造成的电网受损已完成抢修，目前所有受影响区域的电网运行状况均已稳定，应急力量仍保持待命。",
@@ -477,12 +492,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "科威特军方表示，包括电力设施和海水淡化站在内的关键设施及民用设施遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260718035136701800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         }
       ]
     },
     {
       "keyword_group": "太阳能 光伏",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
@@ -495,6 +521,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时07分 ~ 01时57分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
+          "url": "https://wallstreetcn.com/livenews/3135899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         }
       ]
     }
