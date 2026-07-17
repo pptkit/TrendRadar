@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T12:52:54.609679+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-07-17T15:09:33.499391+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 50,
+      "match_count": 61,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 12时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 15时09分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -66,6 +66,40 @@
           "time_info": "[02时09分 ~ 05时54分]"
         },
         {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时09分]"
+        },
+        {
+          "title": "世界人工智能大会今天开幕",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B9%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时09分]"
+        },
+        {
+          "title": "AI站稳产业圈顶流C位",
+          "url": "https://www.douyin.com/hot/2574370",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时09分]"
+        },
+        {
           "title": "格斗赛机器人头被打飞 甄子丹看呆",
           "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E6%96%97%E8%B5%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%B4%E8%A2%AB%E6%89%93%E9%A3%9E+%E7%94%84%E5%AD%90%E4%B8%B9%E7%9C%8B%E5%91%86",
           "source": "百度热搜",
@@ -93,37 +127,15 @@
           "time_info": "[01时02分 ~ 09时27分]"
         },
         {
-          "title": "首届机器人格斗赛精彩集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E7%B2%BE%E5%BD%A9%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
+          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
+          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "世界人工智能大会期间国家发展改革委发布2项重要成果",
-          "url": "https://wallstreetcn.com/livenews/3135478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "2026世界人工智能大会有哪些不同",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "time_info": "15时09分"
         },
         {
           "title": "奈飞：AI将让电影（质量）变得更好，但不会取代人类。",
@@ -137,37 +149,37 @@
           "time_info": "05时54分"
         },
         {
-          "title": "世界人工智能大会今天开幕",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B9%95%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "AI站稳产业圈顶流C位",
-          "url": "https://www.douyin.com/hot/2574370",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
           "title": "国家发改委发布《人工智能合作发展行动计划》。",
           "url": "https://wallstreetcn.com/livenews/3135476",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "直击世界人工智能大会现场",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "国家发改委发布《人工智能合作发展行动计划》",
+          "url": "https://www.cls.cn/detail/2429332",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "美联储洛根：长期来看对人工智能带来的生产率提升非常乐观。但目前AI投资需求强劲且真实存在，短期内会带来通胀压力。",
@@ -217,6 +229,42 @@
           "time_info": "[09时27分 ~ 12时52分]"
         },
         {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://www.cls.cn/detail/2429309",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时09分]"
+        },
+        {
+          "title": "首届机器人格斗赛精彩集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E5%B1%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E7%B2%BE%E5%BD%A9%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时09分]"
+        },
+        {
+          "title": "世界人工智能大会期间国家发展改革委发布2项重要成果",
+          "url": "https://wallstreetcn.com/livenews/3135478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时09分]"
+        },
+        {
           "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
           "url": "https://wallstreetcn.com/livenews/3135215",
           "source": "华尔街见闻-快讯",
@@ -248,11 +296,35 @@
           "source": "抖音",
           "ranks": [
             7,
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 15时09分]"
+        },
+        {
+          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 15时09分]"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时52分]"
+          "time_info": "[12时52分 ~ 15时09分]"
         },
         {
           "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
@@ -265,6 +337,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 09时27分]"
+        },
+        {
+          "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
+          "url": "https://www.zhihu.com/question/2060754085637271982",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时09分]"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -291,26 +375,16 @@
           "time_info": "[01时02分 ~ 02时09分]"
         },
         {
-          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            15,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时52分]"
-        },
-        {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://www.cls.cn/detail/2429309",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "time_info": "[12时52分 ~ 15时09分]"
         },
         {
           "title": "奈飞(NFLX.O)：AI将让电影（质量）变得更好，但不会取代人类。",
@@ -330,18 +404,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -385,9 +448,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
@@ -412,17 +486,6 @@
           "time_info": "09时27分"
         },
         {
-          "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
-          "url": "https://www.zhihu.com/question/2060754085637271982",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
           "title": "SpaceX AI：Grok 4.5定价为每百万输入Token收费2美元，每百万输出Token收费6美元。",
           "url": "https://flash.jin10.com/detail/20260717050306861800",
           "source": "金十数据",
@@ -445,6 +508,17 @@
           "time_info": "05时54分"
         },
         {
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）发布",
+          "url": "https://wallstreetcn.com/livenews/3135505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议于7月17日在上海开幕。国家主席习近平将出席大会开幕式并发表主旨讲话。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3135345",
           "source": "华尔街见闻-快讯",
@@ -454,17 +528,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
@@ -484,9 +547,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
+          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)与谷歌云(GOOG.O)合作推动英特尔企业人工智能转型。",
@@ -517,7 +591,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -528,7 +602,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -544,13 +618,57 @@
           "time_info": "05时54分"
         },
         {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "投资者撤离AI股 全球市场遭遇重挫",
+          "url": "https://flash.jin10.com/detail/20260717145040499800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "软银集团拟新发行600亿日元债券 加码AI投资融资",
+          "url": "https://flash.jin10.com/detail/20260717145030071800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-17）",
           "url": "https://flash.jin10.com/detail/20260717115911908800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -561,9 +679,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "磐石·科学基础大模型2.0发布 开启AI赋能基础研究全新范式",
+          "url": "https://flash.jin10.com/detail/20260717144652143800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "泰国总理阿努廷抵达上海，出席2026世界人工智能大会暨人工智能全球治理高级别会议",
@@ -671,7 +800,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -689,6 +818,23 @@
       ]
     },
     {
+      "keyword_group": "创新药",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股创新药概念跌势扩大，百奥赛图、百诚医药20cm跌停，药康生物、泓博医药、前沿生物、华纳药厂等多股跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3135490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "太阳能 光伏",
       "match_count": 1,
       "titles": [
@@ -697,11 +843,12 @@
           "url": "https://www.zhihu.com/question/2061107208805414314",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时09分]"
         }
       ]
     }
