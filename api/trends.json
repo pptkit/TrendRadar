@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:44:05.641755+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-07-18T20:47:06.299071+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 83,
+      "match_count": 92,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -110,6 +110,17 @@
           "time_info": "[00时07分 ~ 09时19分]"
         },
         {
+          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
+          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时47分]"
+        },
+        {
           "title": "全球首款机器人手机亮相引老外围观",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
           "source": "百度热搜",
@@ -138,8 +149,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时07分 ~ 19时44分]"
+          "appearance_count": 22,
+          "time_info": "[00时07分 ~ 20时47分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -152,11 +163,12 @@
             14,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时07分 ~ 19时44分]"
+          "appearance_count": 22,
+          "time_info": "[00时07分 ~ 20时47分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -175,8 +187,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时07分 ~ 19时44分]"
+          "appearance_count": 22,
+          "time_info": "[00时07分 ~ 20时47分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -213,8 +225,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时57分 ~ 19时44分]"
+          "appearance_count": 14,
+          "time_info": "[01时57分 ~ 20时47分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
@@ -240,17 +252,6 @@
           "time_info": "[16时31分 ~ 19时44分]"
         },
         {
-          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
-          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 19时44分]"
-        },
-        {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
           "url": "https://wallstreetcn.com/articles/3777275",
           "source": "华尔街见闻",
@@ -261,8 +262,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 19时44分]"
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 20时47分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -272,11 +273,12 @@
             8,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 19时44分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 20时47分]"
         },
         {
           "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
@@ -290,8 +292,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 19时44分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 20时47分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -301,8 +303,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 19时44分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 20时47分]"
         },
         {
           "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
@@ -313,8 +315,33 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时41分 ~ 20时47分]"
+        },
+        {
+          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
+          "url": "https://www.cls.cn/detail/2430120",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 20时47分]"
+        },
+        {
+          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时41分 ~ 19时44分]"
+          "time_info": "[16时31分 ~ 20时47分]"
         },
         {
           "title": "感受人工智能的“智”与“志”",
@@ -328,18 +355,6 @@
           "time_info": "[12时37分 ~ 14时52分]"
         },
         {
-          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
-          "url": "https://www.cls.cn/detail/2430120",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 19时44分]"
-        },
-        {
           "title": "伊朗革命卫队打击并摧毁了美军驻巴林的无人艇存放基地，大量无人艇被大火焚毁。此外，巴林的主要人工智能中心也遭到多枚弹道导弹和数十架无人机的打击，已被完全摧毁。该中心被美国用于定位敌方目标，以实施战争罪行。（央视）",
           "url": "https://wallstreetcn.com/livenews/3135918",
           "source": "华尔街见闻-快讯",
@@ -349,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "2025诺奖得主：中国人工智能技术领先，基础研究投入是主因",
+          "url": "https://wallstreetcn.com/livenews/3136033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
@@ -362,6 +388,28 @@
           "time_info": "[09时19分 ~ 19时44分]"
         },
         {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://flash.jin10.com/detail/20260718203633453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "阿里云发布灵骏真武M890超节点实例，AI Native基础设施全栈革新",
+          "url": "https://wallstreetcn.com/livenews/3136031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "AI能终结癌症吗",
           "url": "https://www.baidu.com/s?wd=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97",
           "source": "百度热搜",
@@ -371,17 +419,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "上海发布首个疑难病例AI诊疗评测基准",
-          "url": "https://wallstreetcn.com/livenews/3136002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
         },
         {
           "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
@@ -443,19 +480,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时19分 ~ 16时32分]"
-        },
-        {
-          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 19时44分]"
         },
         {
           "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
@@ -542,6 +566,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时08分 ~ 19时44分]"
+        },
+        {
+          "title": "上海发布首个疑难病例AI诊疗评测基准",
+          "url": "https://wallstreetcn.com/livenews/3136002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 20时47分]"
         },
         {
           "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
@@ -671,6 +707,29 @@
           "time_info": "[09时19分 ~ 18时08分]"
         },
         {
+          "title": "上海发布首个疑难病例AI诊疗评测基准",
+          "url": "https://flash.jin10.com/detail/20260718185833199800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 20时47分]"
+        },
+        {
+          "title": "超300款AI新品迎来全球首发",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        },
+        {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
           "url": "https://wallstreetcn.com/livenews/3135867",
           "source": "华尔街见闻-快讯",
@@ -693,6 +752,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 14时52分]"
+        },
+        {
+          "title": "AI牛市结束了吗？市场充满疑虑",
+          "url": "https://wallstreetcn.com/articles/3777289",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "一图尽览WAIC 2026首日亮点！",
@@ -754,17 +824,6 @@
           "time_info": "[12时37分 ~ 14时52分]"
         },
         {
-          "title": "上海发布首个疑难病例AI诊疗评测基准",
-          "url": "https://flash.jin10.com/detail/20260718185833199800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850575&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/NxIIi4xiQ8YloH102nPfv.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260717233136087800",
           "source": "金十数据",
@@ -798,6 +857,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "B2B行业首份AI智能体全球支付白皮书发布",
+          "url": "https://flash.jin10.com/detail/20260718202648250800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "中兴通讯发布星系列人形机器人及具身智能解决方案",
           "url": "https://flash.jin10.com/detail/20260718165940914800",
           "source": "金十数据",
@@ -809,6 +879,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "国务院国资委：国资央企要持续攻关基础算法、物理AI、智算芯片、量子通信等原创性技术",
+          "url": "https://flash.jin10.com/detail/20260718201459495800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "MiniMax携M3、H3等全模态模型及产品亮相WAIC2026",
           "url": "https://wallstreetcn.com/livenews/3135820",
           "source": "华尔街见闻-快讯",
@@ -818,6 +899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3136023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "智慧芽2026WAIC上发布四款产品",
@@ -870,7 +962,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -950,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "网易有道WAIC首展AI耳机OpenPods",
+          "url": "https://flash.jin10.com/detail/20260718193241116800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "国家能源局：将加快构建新型能源体系 赋能AI发展",
@@ -1196,17 +1299,6 @@
           "time_info": "14时52分"
         },
         {
-          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
-          "url": "https://flash.jin10.com/detail/20260718190448394800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
           "title": "科威特电力与海水淡化厂起火",
           "url": "https://flash.jin10.com/detail/20260718141144982800",
           "source": "金十数据",
@@ -1216,6 +1308,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
+          "url": "https://flash.jin10.com/detail/20260718190448394800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 20时47分]"
         },
         {
           "title": "迎峰度夏大考：16亿千瓦最高负荷逼近，电力保供如何“赢”战？",
