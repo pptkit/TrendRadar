@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T04:02:13.242666+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-07-20T05:41:09.304410+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "世界人工智能合作组织重要阶段性进展",
@@ -25,11 +25,99 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时41分]"
+        },
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时41分]"
+        },
+        {
+          "title": "解读机器人格斗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            6,
+            14,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时41分]"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时41分]"
+        },
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时41分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时41分]"
+        },
+        {
+          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时41分]"
+        },
+        {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            21,
+            17,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时41分]"
         },
         {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
@@ -41,76 +129,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时43分 ~ 04时02分]"
-        },
-        {
-          "title": "业内：“模数共振”建设可大幅提升工业人工智能模型对场景的适配性",
-          "url": "https://wallstreetcn.com/livenews/3136323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "从算力底座到应用现场，上海AI跑出产业正循环生态",
-          "url": "https://wallstreetcn.com/livenews/3136321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "解读机器人格斗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            6,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时02分]"
-        },
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时02分]"
-        },
-        {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时02分]"
-        },
-        {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
           "time_info": "[00时43分 ~ 04时02分]"
         },
         {
@@ -127,41 +145,28 @@
           "time_info": "[00时43分 ~ 04时02分]"
         },
         {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
+          "title": "业内：“模数共振”建设可大幅提升工业人工智能模型对场景的适配性",
+          "url": "https://wallstreetcn.com/livenews/3136323",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时02分]"
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时41分]"
         },
         {
-          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
-          "source": "澎湃新闻",
+          "title": "从算力底座到应用现场，上海AI跑出产业正循环生态",
+          "url": "https://wallstreetcn.com/livenews/3136321",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时02分]"
-        },
-        {
-          "title": "Kimi K3让全球AI圈炸锅了",
-          "url": "https://www.toutiao.com/trending/7664192249667784198/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            21,
-            17,
+            5,
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时02分]"
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时41分]"
         },
         {
           "title": "用AI预测西班牙vs阿根廷",
@@ -198,6 +203,17 @@
           "time_info": "[04时01分 ~ 04时02分]"
         },
         {
+          "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3136341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
           "title": "姚期智：中国AI产业领跑全球",
           "url": "https://flash.jin10.com/detail/20260719232612191800",
           "source": "金十数据",
@@ -207,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "法拉第未来(FFIE.O)：宣布与阿根廷足球协会（AFA）达成合作，正式成为阿根廷国家队在北美地区机器人及相关机器人技术领域的官方区域赞助商。",
+          "url": "https://flash.jin10.com/detail/20260720040513745800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         }
       ]
     },
@@ -229,6 +256,23 @@
       ]
     },
     {
+      "keyword_group": "创新药",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多只港股方向产品基金经理有变，看好科技创新药机会",
+          "url": "https://wallstreetcn.com/livenews/3136347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "太空 spaceX",
       "match_count": 1,
       "titles": [
@@ -240,8 +284,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时41分]"
         }
       ]
     }
