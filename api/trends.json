@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T16:36:27.759020+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-07-20T19:34:48.593347+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 52,
+      "match_count": 58,
       "titles": [
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -159,6 +159,29 @@
           "time_info": "[13时28分 ~ 13时29分]"
         },
         {
+          "title": "中国人工智能发展到什么程度了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 19时34分]"
+        },
+        {
+          "title": "院士谈年轻人该如何学AI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%A2%E5%A3%AB%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AD%A6AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 19时34分]"
+        },
+        {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
           "url": "https://wallstreetcn.com/livenews/3136307",
           "source": "华尔街见闻-快讯",
@@ -169,6 +192,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时43分 ~ 04时02分]"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 19时34分]"
         },
         {
           "title": "三星SDS宣布，推出基于FuriosaAI第二代神经网络处理器“RNGD”的NPUaaS（NPU订阅服务）。值得一提的是，NPUaaS将在三星SDS的专属云环境中提供，即使是安全监管严格的公共部门客户也可安全使用。",
@@ -193,37 +230,26 @@
           "time_info": "13时29分"
         },
         {
-          "title": "院士谈年轻人该如何学AI",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%A2%E5%A3%AB%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AD%A6AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "上海市人工智能重点项目签约仪式举行",
           "url": "https://flash.jin10.com/detail/20260720163142168800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
         {
-          "title": "中国人工智能发展到什么程度了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "我国人形机器人产品超全球半数",
+          "url": "https://www.douyin.com/hot/2578684",
+          "source": "抖音",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "19时34分"
         },
         {
           "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
@@ -250,6 +276,17 @@
           "time_info": "[13时28分 ~ 16时36分]"
         },
         {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
           "url": "https://www.cls.cn/detail/2430865",
           "source": "财联社热门",
@@ -260,19 +297,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时28分 ~ 16时36分]"
-        },
-        {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 16时36分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -298,6 +322,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时41分]"
+        },
+        {
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 19时34分]"
         },
         {
           "title": "从算力底座到应用现场，上海AI跑出产业正循环生态",
@@ -380,6 +416,30 @@
           "time_info": "[13时28分 ~ 13时29分]"
         },
         {
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 19时34分]"
+        },
+        {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 19时34分]"
+        },
+        {
           "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
           "url": "https://wallstreetcn.com/livenews/3136341",
           "source": "华尔街见闻-快讯",
@@ -403,6 +463,18 @@
           "time_info": "[13时28分 ~ 13时29分]"
         },
         {
+          "title": "机器人断头反杀看乐马斯克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 19时34分]"
+        },
+        {
           "title": "用AI之后我更会偷懒了",
           "url": "https://s.weibo.com/weibo?q=%E7%94%A8AI%E4%B9%8B%E5%90%8E%E6%88%91%E6%9B%B4%E4%BC%9A%E5%81%B7%E6%87%92%E4%BA%86&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -420,9 +492,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "工信部：深入实施“人工智能+制造”行动 加强算力、模型、数据等核心技术供给",
+          "url": "https://flash.jin10.com/detail/20260720190708159800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "台积电CFO：看到AI芯片有“强劲且可持续多年”的需求。 亚利桑那州工厂建设存在物理制约因素，正与美国政府紧密合作。 若市场时机有利，不排除发行债券来资助资本支出。",
@@ -436,26 +519,37 @@
           "time_info": "07时46分"
         },
         {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
+          "title": "百时美施贵宝：将与英伟达(NVDA.O)合作建设制药行业“最强大的”人工智能超级计算机。",
+          "url": "https://flash.jin10.com/detail/20260720190600516800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "19时34分"
         },
         {
-          "title": "王祖贤肖像授权网易AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
-          "source": "贴吧",
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "19时34分"
+        },
+        {
+          "title": "人形机器人实景挑战",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E6%99%AF%E6%8C%91%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
@@ -486,7 +580,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -508,18 +602,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
-          "url": "https://www.zhihu.com/question/2062518030224061737",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -535,24 +618,13 @@
           "time_info": "05时41分"
         },
         {
-          "title": "机器人断头反杀看乐马斯克",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "欧洲央行调查：衡量企业整体银行融资状况的指标显示，融资环境进一步收紧。除利率外，企业还面临更高的非利息借贷成本。在未来12个月内计划进行AI相关投资的公司中，大多数预计将投资于AI相关技术和工具以及员工培训，资金主要来自企业内部。",
           "url": "https://flash.jin10.com/detail/20260720162213855800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -574,7 +646,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -596,7 +668,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -607,7 +679,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -621,6 +693,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "据科威特国家通讯社：科威特谴责伊朗针对一处电力及海水淡化设施发动的袭击。伊朗应对针对民用基础设施的袭击承担全部责任。",
+          "url": "https://flash.jin10.com/detail/20260720004656112800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时47分]"
+        },
+        {
+          "title": "【每日收评】双创指数探底回升尾盘翻红，电力、油气板块持续活跃，算力硬件股延续调整",
+          "url": "https://www.cls.cn/detail/2431396",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "【午报】沪指、创业板指均涨超1%，电力、油气等板块延续强势，科技赛道局部修复",
+          "url": "https://www.cls.cn/detail/2430973",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "沪指、创业板指收红，电力、煤炭板块走强，如何看待 2026 年 7 月 20 日 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/2062469292113891730",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨2.36%，恒生科技指数收涨2.79%；煤炭、石油、生物医药、内银等板块涨幅居前，PCB、电力设备、脑机接口等板块走低；智谱(02513.HK)收跌19.56%。",
+          "url": "https://flash.jin10.com/detail/20260720160911657800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -671,35 +805,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据科威特国家通讯社：科威特谴责伊朗针对一处电力及海水淡化设施发动的袭击。伊朗应对针对民用基础设施的袭击承担全部责任。",
-          "url": "https://flash.jin10.com/detail/20260720004656112800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时47分]"
-        },
-        {
-          "title": "港股收盘，恒生指数收涨2.36%，恒生科技指数收涨2.79%；煤炭、石油、生物医药、内银等板块涨幅居前，PCB、电力设备、脑机接口等板块走低；智谱(02513.HK)收跌19.56%。",
-          "url": "https://flash.jin10.com/detail/20260720160911657800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         }
       ]
     },
