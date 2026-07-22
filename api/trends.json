@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T20:21:13.363154+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-07-22T22:54:27.037960+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 72,
+      "match_count": 87,
       "titles": [
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -144,6 +144,17 @@
           "time_info": "[15时30分 ~ 20时21分]"
         },
         {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时54分]"
+        },
+        {
           "title": "看见中国AI产业的“硬核家底”",
           "url": "https://www.toutiao.com/trending/7664428554470113321/",
           "source": "今日头条",
@@ -153,6 +164,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时13分 ~ 20时21分]"
+        },
+        {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时30分 ~ 22时54分]"
         },
         {
           "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
@@ -180,30 +204,6 @@
           "time_info": "[00时14分 ~ 07时46分]"
         },
         {
-          "title": "别再给AI乱传文件了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 20时21分]"
-        },
-        {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时30分 ~ 20时21分]"
-        },
-        {
           "title": "“看到AI脸产生生理性厌恶”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E5%88%B0AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E2%80%9D",
           "source": "百度热搜",
@@ -225,6 +225,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时46分 ~ 09时23分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "软银：将开始运营一个新的信息平台，该平台接收来自新闻媒体和出版商的文章数据，并将其处理成可用于生成式人工智能的数据。",
@@ -282,6 +293,17 @@
           "time_info": "18时13分"
         },
         {
+          "title": "用AI通关高难度跑步游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
           "url": "https://flash.jin10.com/detail/20260722034543375800",
           "source": "金十数据",
@@ -291,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "普华永道中国在上海成立人工智能研究院",
+          "url": "https://wallstreetcn.com/livenews/3138278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "两个AI演员比内娱待爆艺人都火",
@@ -303,6 +336,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时13分 ~ 20时21分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 22时54分]"
         },
         {
           "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
@@ -375,18 +421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时46分]"
-        },
-        {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 20时21分]"
         },
         {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
@@ -537,6 +571,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "报道：苹果计划全面改版MacBook与iMac，以应对AI需求",
+          "url": "https://wallstreetcn.com/livenews/3138275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
           "url": "https://wallstreetcn.com/livenews/3137702",
           "source": "华尔街见闻-快讯",
@@ -559,13 +604,24 @@
           "time_info": "04时12分"
         },
         {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "市场消息：OpenAI将推出面向企业的新软件OpenAI Presence。",
           "url": "https://flash.jin10.com/detail/20260722200848203800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -576,7 +632,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -590,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "数学的未来是否在AI",
@@ -609,9 +676,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "美国正在布局“AI贸易体系”：从数据流动到源代码保护，规则之争已经开始",
+          "url": "https://flash.jin10.com/detail/20260722224228195800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "首部AI长剧要来了",
@@ -631,9 +709,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "据悉苹果拟对MacBook和iMac进行全面升级，以满足AI需求",
+          "url": "https://flash.jin10.com/detail/20260722223948226800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "王祖贤AI人脸授权代言游戏IP",
@@ -645,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "市场消息：亚马逊(AMZN.O)对通用人工智能部门进行裁员。",
+          "url": "https://flash.jin10.com/detail/20260722223848692800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -686,7 +786,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -697,7 +797,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -735,6 +835,17 @@
           "time_info": "07时46分"
         },
         {
+          "title": "市场消息：苹果(AAPL.O)正在研发未来OLED版本的MacBook Air和iMac。",
+          "url": "https://flash.jin10.com/detail/20260722223448788800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "SpaceXAI：将把GROK引入微软Outlook。GROK的前景是一个Microsoft 365插件，今天已向所有付费X和SUPERGROK用户开放。",
           "url": "https://flash.jin10.com/detail/20260722005434261800",
           "source": "金十数据",
@@ -755,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)准备推出新款iMac、MacBook Pro、MacBook Air和MacBook Neo，同时还计划推出新的Mac mini和Mac Studio型号。",
+          "url": "https://flash.jin10.com/detail/20260722223422412800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "面壁智能李大海：未来端侧AI的70%市场将由第三方模型厂商提供",
@@ -779,6 +901,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "市场消息：苹果(AAPL.O)计划对MacBook和iMac进行全面改版，以满足人工智能需求。",
+          "url": "https://flash.jin10.com/detail/20260722223335576800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
           "url": "https://wallstreetcn.com/livenews/3137685",
           "source": "华尔街见闻-快讯",
@@ -790,6 +923,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "Alphabet迎来AI投资大考：Gemini模型延期，市场重估千亿投入回报",
+          "url": "https://flash.jin10.com/detail/20260722223141675800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "OpenAI称其AI模型导致了Hugging Face遭遇网络攻击",
           "url": "https://wallstreetcn.com/livenews/3137753",
           "source": "华尔街见闻-快讯",
@@ -799,6 +943,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "OpenAI将向美国佐治亚州提供至多1000 MW灵活需求，这是当地数据中心项目协议的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3138256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "白宫拟将数千亿美元科研资金向AI和个人科学家倾斜",
@@ -821,6 +976,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "报道：三星电子洽谈参与法国AI公司Mistral的新一轮融资",
@@ -906,11 +1072,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 20时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 22时54分]"
         },
         {
           "title": "据华尔街日报：白宫官员表示，负责向美国消费者和企业输送80%电力的公司已签署承诺书。",
