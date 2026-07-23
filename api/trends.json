@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T07:54:00.022375+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-07-23T09:31:40.707771+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时31分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -26,24 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时53分]"
-        },
-        {
-          "title": "为什么要说尽量少跟AI倾诉聊天",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时31分]"
         },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -57,17 +45,32 @@
           "time_info": "[00时13分 ~ 05时56分]"
         },
         {
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            4,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时31分]"
+        },
+        {
           "title": "用AI通关高难度跑步游戏",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
             9,
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时31分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -80,8 +83,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 09时31分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -105,11 +108,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时31分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -169,8 +173,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时53分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 09时31分]"
         },
         {
           "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
@@ -183,8 +187,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 09时31分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -193,9 +197,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时31分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -209,15 +213,37 @@
           "time_info": "00时13分"
         },
         {
+          "title": "rain淘汰猎鹰高光集锦",
+          "url": "https://search.bilibili.com/all?keyword=rain%E6%B7%98%E6%B1%B0%E7%8C%8E%E9%B9%B0%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "谷歌Q2云业务超预期飙升82%，云积压订单达5140亿美元，AI投入开始兑现｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3777718",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
+          "url": "https://www.cls.cn/detail/2434534",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "OpenAI：将为参与研究的人员提供高达1000万美元的API使用额度，花费其250万美元经费。",
@@ -231,6 +257,30 @@
           "time_info": "00时13分"
         },
         {
+          "title": "OpenAI现安全事故中国大模型救场",
+          "url": "https://www.toutiao.com/trending/7664873281528512575/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时31分]"
+        },
+        {
+          "title": "OpenAI模型失控闯祸 中国大模型救场",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时31分]"
+        },
+        {
           "title": "特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产。 半拖车与Megapack 3仍然按生产进度推进。",
           "url": "https://wallstreetcn.com/livenews/3138398",
           "source": "华尔街见闻-快讯",
@@ -241,6 +291,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时56分]"
+        },
+        {
+          "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
+          "url": "https://news.ifeng.com/c/8uyaFs12NfO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时31分]"
         },
         {
           "title": "黄仁勋称美国无需害怕中国开源AI模型",
@@ -298,17 +359,6 @@
           "time_info": "05时56分"
         },
         {
-          "title": "OpenAI现安全事故中国大模型救场",
-          "url": "https://www.toutiao.com/trending/7664873281528512575/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
           "title": "特斯拉CEO马斯克：扩大Optimus机器人产能将面临困难。",
           "url": "https://flash.jin10.com/detail/20260723054024818800",
           "source": "金十数据",
@@ -331,24 +381,24 @@
           "time_info": "04时54分"
         },
         {
+          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
+          "url": "https://wallstreetcn.com/articles/3777694",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "市场消息：OpenAI澳大利亚数据中心的开发商放弃了使用再生水进行冷却的计划。",
           "url": "https://flash.jin10.com/detail/20260723070044363800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
-          "url": "https://news.ifeng.com/c/8uyaFs12NfO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -375,17 +425,6 @@
           "time_info": "06时52分"
         },
         {
-          "title": "OpenAI模型失控闯祸 中国大模型救场",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
           "title": "谷歌Pichai：2026年世界杯期间，搜索创历史新高。 Gemini驱动谷歌云增长。 公司看到人工智能（AI）基础设施带来强劲需求。",
           "url": "https://wallstreetcn.com/livenews/3138405",
           "source": "华尔街见闻-快讯",
@@ -406,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "机器人挑战唱忐忑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8C%91%E6%88%98%E5%94%B1%E5%BF%90%E5%BF%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
