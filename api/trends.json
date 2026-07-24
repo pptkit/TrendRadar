@@ -1,371 +1,88 @@
 {
-  "generated_at": "2026-07-24T22:43:11.848520+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-07-25T02:11:16.127568+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 68,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时45分 ~ 22时43分]"
-        },
-        {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时26分 ~ 22时43分]"
-        },
-        {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 09时27分]"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            17,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时28分 ~ 22时43分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 06时45分]"
-        },
-        {
-          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
-          "url": "https://www.cls.cn/detail/2435521",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 12时59分]"
-        },
-        {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19,
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 18时06分]"
-        },
-        {
-          "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 05时55分]"
-        },
-        {
-          "title": "中国机器人霸榜,日本破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            10,
-            15,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时59分 ~ 22时43分]"
-        },
-        {
-          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时49分]"
-        },
-        {
-          "title": "不要随意把照片和视频发给AI",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            17,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时49分]"
-        },
-        {
-          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2063396759536154240",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 20时12分]"
-        },
-        {
-          "title": "中国AI大反超 美国还能挡多久",
-          "url": "https://www.toutiao.com/trending/7665608122941050431/",
-          "source": "今日头条",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 06时45分]"
-        },
-        {
-          "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
-          "url": "https://www.cls.cn/detail/2435740",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 15时29分]"
-        },
-        {
-          "title": "AMD(AMD.O)与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案。",
-          "url": "https://flash.jin10.com/detail/20260724014051428800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
-          "url": "https://www.cls.cn/detail/2435979",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 20时12分]"
-        },
-        {
-          "title": "黄仁勋声援科技巨头公开信：AI未来需开源和闭源模型并存",
-          "url": "https://flash.jin10.com/detail/20260724220713818800",
-          "source": "金十数据",
+          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "“卖油条的”开始押注机器人",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%96%E6%B2%B9%E6%9D%A1%E7%9A%84%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8A%BC%E6%B3%A8%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            8,
-            28
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时05分 ~ 22时43分]"
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时05分 ~ 22时43分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时05分 ~ 22时43分]"
-        },
-        {
-          "title": "英特尔(INTC.O)首席财务官：人工智能个人电脑业务收入环比增长26%，现在占我们客户收入结构的三分之二。",
-          "url": "https://flash.jin10.com/detail/20260724052517417800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时45分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
-          "url": "https://wallstreetcn.com/livenews/3138996",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
           "ranks": [
-            1,
-            22
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时35分 ~ 02时06分]"
-        },
-        {
-          "title": "机器人初创公司Genesis洽谈按30亿美元估值融资大约5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时49分]"
-        },
-        {
-          "title": "苹果未能将所有AI语音训练诉讼案归入同一法官审理",
-          "url": "https://wallstreetcn.com/livenews/3138995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 02时06分]"
-        },
-        {
-          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
-          "url": "https://wallstreetcn.com/livenews/3138991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 02时06分]"
-        },
-        {
-          "title": "中美元首将讨论AI议题？外交部回应",
-          "url": "https://www.toutiao.com/trending/7665910128771792939/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
           "url": "https://wallstreetcn.com/articles/3777849",
           "source": "华尔街见闻",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
+        },
+        {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "为什么不见程序员害怕失业抵制AI",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A7%81%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%B3%E6%80%95%E5%A4%B1%E4%B8%9A%E6%8A%B5%E5%88%B6AI&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -376,625 +93,101 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "ditto概念在AI届也是爆火",
-          "url": "https://s.weibo.com/weibo?q=%23ditto%E6%A6%82%E5%BF%B5%E5%9C%A8AI%E5%B1%8A%E4%B9%9F%E6%98%AF%E7%88%86%E7%81%AB%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
+          "title": "大厂挤爆AI宠物赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
           "source": "百度热搜",
           "ranks": [
-            26
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "为何美国正失去中国AI人才",
-          "url": "https://www.toutiao.com/trending/7665699551893786175/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
-          "url": "https://flash.jin10.com/detail/20260724072353724800",
-          "source": "金十数据",
+          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
+          "url": "https://wallstreetcn.com/livenews/3139592",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "xAI：将GROK 4.5推出至iOS、Android、Web和X。",
-          "url": "https://flash.jin10.com/detail/20260723235349553800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "金十整理：特斯拉业绩未及预期，机构纷纷下调目标价，但仍看好AI叙事",
-          "url": "https://flash.jin10.com/detail/20260724173244244800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "【瑞银：不认为中国AI行业存在“泡沫”】7月24日，瑞银证券中国互联网行业分析师熊玮表示，中国云厂商投入节奏更稳健，强调ROI和可持续性，不认为中国AI行业有“泡沫”。同时，随着模型能力继续进步，推理需求持续增加，中国AI行业的投入会逐渐增大。（证券时报）",
-          "url": "https://wallstreetcn.com/livenews/3139454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "菲尔兹奖得主谈加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B0%88%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "中国AI大反超，美国还能挡多久？",
-          "url": "https://news.ifeng.com/c/8uzcXG8YK32",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "OpenAI：预计将大规模部署AMD的Helios。",
-          "url": "https://wallstreetcn.com/livenews/3139011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "惠誉评级：美国信用前景越来越依赖于市场对人工智能投资的信心。",
-          "url": "https://flash.jin10.com/detail/20260724013000206800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
-          "url": "https://flash.jin10.com/detail/20260724034515352800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "xAI：将Grok 4.5投放到苹果公司iOS、安卓、网页、以及X平台。",
-          "url": "https://wallstreetcn.com/livenews/3138987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
-          "url": "https://wallstreetcn.com/livenews/3139010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "7月24日，微软联合IBM、Meta、等20余家美国科技公司发表名为《开放权重与美国人工智能领导力》的公开信，呼吁开放权重AI模型。 公开信认为，1. 开放权重扩大了对 AI 经济的参与途径。 开放权重强化了市场竞争。 开放权重赋予客户更大的控制权。 开放与 AI 安全及保障。",
-          "url": "https://wallstreetcn.com/livenews/3139514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "02时11分"
         },
         {
-          "title": "据华尔街日报：消息人士称，Stripe正在洽谈收购人工智能模型聚合平台OpenRouter。",
-          "url": "https://flash.jin10.com/detail/20260724045621832800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度；聚焦先进半导体制造与设计。",
-          "url": "https://flash.jin10.com/detail/20260724055905165800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：致力于推进专为韩国产业、语言及未来而构建的代理式AI模型与智能体系统的实验室。",
-          "url": "https://flash.jin10.com/detail/20260724070809605800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "英伟达与韩国科学技术院（KAIST）联合设立AI研究实验室，旨在加速韩国的AI创新。",
-          "url": "https://flash.jin10.com/detail/20260724070730557800",
-          "source": "金十数据",
+          "title": "Anthropic推出更具成本效益的日常任务AI模型",
+          "url": "https://wallstreetcn.com/livenews/3139584",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "02时11分"
         },
         {
-          "title": "存算一体芯片是AI的答案吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AD%98%E7%AE%97%E4%B8%80%E4%BD%93%E8%8A%AF%E7%89%87%E6%98%AFAI%E7%9A%84%E7%AD%94%E6%A1%88%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "谷歌最新AI报告颠覆认知：AI没有取代白领，正在成为人类“协作者”",
-          "url": "https://flash.jin10.com/detail/20260724121536506800",
+          "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
+          "url": "https://flash.jin10.com/detail/20260725010418061800",
           "source": "金十数据",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "25家科技巨头联名签署公开信，力挺开放权重AI模型",
-          "url": "https://flash.jin10.com/detail/20260724215832175800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "02时11分"
         },
         {
-          "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
-          "url": "https://wallstreetcn.com/livenews/3139028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "公安部：上半年共侦办利用AI工具生成网络谣言案件170余起",
-          "url": "https://wallstreetcn.com/livenews/3139199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
-          "url": "https://wallstreetcn.com/livenews/3138999",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta Platforms(META.O)：未来几周内，Meta AI 的新功能将扩展至更多国家及平台（包括WhatsApp）。",
+          "url": "https://flash.jin10.com/detail/20260725010411292800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "02时11分"
         },
         {
-          "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3139023",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta Platforms(META.O)：Meta AI应用及Meta.ai的新功能将于7月24日起在部分市场陆续推出。",
+          "url": "https://flash.jin10.com/detail/20260725010359291800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
-          "url": "https://flash.jin10.com/detail/20260724011145043800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "黄仁勋力挺中国AI模型",
-          "url": "https://flash.jin10.com/detail/20260724031745754800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-24）",
-          "url": "https://flash.jin10.com/detail/20260724120500102800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
-          "url": "https://flash.jin10.com/detail/20260724010957846800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "公募AI投资图谱：算力端“吃饱”，应用层“等风”",
-          "url": "https://wallstreetcn.com/livenews/3139099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "OpenAI预计将大规模部署AMD Helios。",
-          "url": "https://flash.jin10.com/detail/20260724010730197800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "高盛提供单次2.5亿美元交易AI垃圾债的途径",
-          "url": "https://wallstreetcn.com/livenews/3139098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
-          "url": "https://www.toutiao.com/trending/7665911607725149738/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
-          "url": "https://flash.jin10.com/detail/20260724010724640800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "【小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段】小鹏人形机器人已在广州工厂正式开启小批量试生产，同时量产产线进入最后联调阶段，量产冲刺正式进入倒计时。此前，小鹏集团内部召开机器人量产动员大会，明确了关键时间节点：2026年实现人形机器人量产，预计2027年起将陆续进驻全球小鹏门店及商业场景，承担导购、讲解等服务。据悉，小鹏机器人业务整合集团在硬件、AI大模型、供应链及营销等模块能力，并将汽车业务积累的软硬件协同研发、智能制造与全球化渠道经验，系统性地复用于机器人领域，加速高阶人形机器人的量产与商业化进程。（新浪科技）",
-          "url": "https://wallstreetcn.com/livenews/3139267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "AMD上调AI加速器市场规模预期至1.4万亿美元 正式发布机架级AI系统Helios",
-          "url": "https://flash.jin10.com/detail/20260724010659281800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "OpenAI：将在ChatGPT中推出健康功能。",
-          "url": "https://flash.jin10.com/detail/20260724010535689800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "02时11分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "SpaceX开始拒接部分商业“猎鹰”订单",
-          "url": "https://www.toutiao.com/trending/7665529097711337514/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
-        },
-        {
-          "title": "段永平：十年内大概率不会卖泡泡玛特，计划卖出SpaceX与特斯拉Put",
-          "url": "https://wallstreetcn.com/articles/3777778",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时45分 ~ 12时59分]"
-        },
-        {
-          "title": "市场消息：SpaceX(SPCX.O)押注“星舰”，开始拒接2028年以后的商业“猎鹰”火箭发射订单。",
-          "url": "https://flash.jin10.com/detail/20260724073006351800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "特斯拉跌幅扩大至15.2%，刷新日低，S3 Partners董事总经理Ihor Dusaniwsky表示，这轮抛售使得押注特斯拉股价下跌的投资者有望获得大约41.2亿美元的单日盯市(mark-to-market)利润。 SpaceX一度涨1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3139048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 05时55分]"
-        },
-        {
-          "title": "SpaceX(SPCX.O)：由于天气原因，星舰第十三次飞行测试现定于当地时间7月24日（星期五）进行。",
-          "url": "https://flash.jin10.com/detail/20260724041020898800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "SpaceX被置于美国IPO后的聚光灯下，再次推迟重大飞行测试",
-          "url": "https://wallstreetcn.com/livenews/3139096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "电力 变压器",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "本月第二只！电力热股晋级6连板，活跃资金动作频频，这些席位常登龙虎榜",
-          "url": "https://www.cls.cn/detail/2435225",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时49分]"
-        },
-        {
-          "title": "电力工人凌晨4点修“发烧”的螺栓",
-          "url": "https://www.toutiao.com/trending/7665730050727575593/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "新加坡政府投资公司GIC：目标是投资人工智能（AI）物理基础设施，包括数据中心所需的电力和电网设施。",
-          "url": "https://flash.jin10.com/detail/20260724055906399800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "电力股震荡走低，乐山电力逼近跌停，湖南发展、九洲集团、桂冠电力、京能电力、华电能源、金开新能等十余股跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3139196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "A股三大指数均跌超1%，贵金属、电力、算力租赁、医药等方向跌幅居前，沪深京三市下跌个股近4900只。",
-          "url": "https://wallstreetcn.com/livenews/3139184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "化工",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中东局势加剧！硫磺断供、磷矿资源收紧，磷化工板块再度走强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33647062",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
-        },
-        {
-          "title": "据港交所文件，中国石油化工股份(00386.HK)于7月24日在其他交易所回购了100万股A类股票，金额为520万人民币。",
-          "url": "https://flash.jin10.com/detail/20260724171519616800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药",
       "match_count": 1,
       "titles": [
         {
-          "title": "国家首版商保创新药目录再添落地城市青岛",
-          "url": "https://flash.jin10.com/detail/20260724122151041800",
+          "title": "SpaceX(SPCX.O)股价势将跌至自IPO以来的最低收盘价，现跌约4.5%，报113美元。",
+          "url": "https://flash.jin10.com/detail/20260725014345391800",
           "source": "金十数据",
           "ranks": [
-            14
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太阳能 光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上半年量价承压，光伏产业链反转拐点或临近",
-          "url": "https://wallstreetcn.com/livenews/3139093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "02时11分"
         }
       ]
     }
