@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:52:03.336695+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-07-25T07:55:14.478037+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[02时10分 ~ 05时54分]"
         },
         {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时10分 ~ 07时55分]"
+        },
+        {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
@@ -31,16 +44,18 @@
           "time_info": "[02时10分 ~ 05时54分]"
         },
         {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9,
             8,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时10分 ~ 06时52分]"
+          "appearance_count": 9,
+          "time_info": "[02时10分 ~ 07时55分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -48,24 +63,23 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时10分 ~ 06时52分]"
+          "appearance_count": 9,
+          "time_info": "[02时10分 ~ 07时55分]"
         },
         {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
           "ranks": [
-            10,
-            9,
-            8
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时10分 ~ 06时52分]"
+          "appearance_count": 9,
+          "time_info": "[02时10分 ~ 07时55分]"
         },
         {
           "title": "大厂挤爆AI宠物赛道",
@@ -76,17 +90,6 @@
             20,
             29,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时10分 ~ 06时52分]"
-        },
-        {
-          "title": "中国机器人霸榜,日本破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -208,7 +211,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "SpaceX(SPCX.O)股价势将跌至自IPO以来的最低收盘价，现跌约4.5%，报113美元。",
@@ -222,16 +225,50 @@
           "time_info": "02时11分"
         },
         {
+          "title": "SpaceX：Super Heavy按计划从星舰飞行器分离。",
+          "url": "https://wallstreetcn.com/livenews/3139675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "SpaceX星舰在美国IPO后首次试飞中成功升空",
+          "url": "https://wallstreetcn.com/livenews/3139673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "马斯克的艰难一周：特斯拉遭遇2022年以来最大跌幅，星舰试飞前夕SpaceX股价下挫",
           "url": "https://wallstreetcn.com/livenews/3139647",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            23
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时54分 ~ 07时55分]"
+        },
+        {
+          "title": "SpaceX 星舰实施第 13 次试飞，超重助推器按计划完成海上回收着陆，此次发射有哪些看点？",
+          "url": "https://www.zhihu.com/question/2063471310508910528",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时54分 ~ 06时52分]"
+          "time_info": "[07时54分 ~ 07时55分]"
         }
       ]
     }
