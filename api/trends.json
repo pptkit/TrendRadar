@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-25T22:26:31.410337+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-07-25T23:55:47.172212+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 23时55分]"
+        },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
           "url": "https://wallstreetcn.com/articles/3777849",
@@ -21,20 +35,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[02时10分 ~ 12时54分]"
-        },
-        {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 22时26分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -52,6 +52,38 @@
           "time_info": "[02时10分 ~ 09时27分]"
         },
         {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            7,
+            8,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 23时55分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            8,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时09分 ~ 23时55分]"
+        },
+        {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
@@ -64,21 +96,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时10分 ~ 09时27分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 22时26分]"
         },
         {
           "title": "中国机器人霸榜,日本破防",
@@ -114,21 +131,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时10分 ~ 05时54分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 22时26分]"
         },
         {
           "title": "大厂挤爆AI宠物赛道",
@@ -167,6 +169,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
+          "url": "https://wallstreetcn.com/livenews/3139781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 23时55分]"
         },
         {
           "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
@@ -234,16 +259,17 @@
           "time_info": "[02时10分 ~ 04时10分]"
         },
         {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            5
+            8,
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 23时55分]"
         },
         {
           "title": "AI已经摸不透柯洁了",
@@ -258,16 +284,15 @@
           "time_info": "[17时25分 ~ 19时02分]"
         },
         {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时01分 ~ 20时03分]"
+          "time_info": "[20时03分 ~ 23时55分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -281,15 +306,16 @@
           "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时03分 ~ 22时26分]"
+          "time_info": "[22时26分 ~ 23时55分]"
         },
         {
           "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
@@ -315,6 +341,40 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时55分]"
+        },
+        {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时55分]"
+        },
+        {
+          "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时55分]"
+        },
+        {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
           "url": "https://wallstreetcn.com/livenews/3139592",
           "source": "华尔街见闻-快讯",
@@ -326,24 +386,13 @@
           "time_info": "02时11分"
         },
         {
-          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
-          "url": "https://wallstreetcn.com/articles/3777898",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
           "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
           "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
           "source": "澎湃新闻",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -359,17 +408,6 @@
           "time_info": "02时11分"
         },
         {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
           "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
           "url": "https://flash.jin10.com/detail/20260725010418061800",
           "source": "金十数据",
@@ -379,28 +417,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
-          "url": "https://wallstreetcn.com/livenews/3139752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "Meta Platforms(META.O)：未来几周内，Meta AI 的新功能将扩展至更多国家及平台（包括WhatsApp）。",
@@ -524,6 +540,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "英伟达与SK集团推出5000亿美元AI计划",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8ESK%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BA5000%E4%BA%BF%E7%BE%8E%E5%85%83AI%E8%AE%A1%E5%88%92%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -550,8 +577,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 22时26分]"
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 23时55分]"
         },
         {
           "title": "SpaceX(SPCX.O)股价势将跌至自IPO以来的最低收盘价，现跌约4.5%，报113美元。",
@@ -638,8 +665,19 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "中信建投：看好电力设备产业投资前景",
+          "url": "https://flash.jin10.com/detail/20260725224931246800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
         {
           "title": "报道：特朗普的电力“智囊”在力推电网重大改革后即将离任",
           "url": "https://wallstreetcn.com/livenews/3139677",
