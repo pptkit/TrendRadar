@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T16:05:57.026964+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-07-26T18:28:03.444548+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -31,11 +31,12 @@
             7,
             11,
             19,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 16时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 18时28分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -73,11 +74,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 16时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 18时28分]"
         },
         {
           "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
@@ -210,6 +212,20 @@
           "time_info": "13时20分"
         },
         {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 18时28分]"
+        },
+        {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
           "url": "https://flash.jin10.com/detail/20260726031905539800",
           "source": "金十数据",
@@ -285,6 +301,17 @@
           "time_info": "[01时48分 ~ 05时43分]"
         },
         {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时28分]"
+        },
+        {
           "title": "CEO被自家机器人踹飞",
           "url": "https://www.baidu.com/s?wd=CEO%E8%A2%AB%E8%87%AA%E5%AE%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%B9%E9%A3%9E",
           "source": "百度热搜",
@@ -299,17 +326,40 @@
           "time_info": "[01时48分 ~ 05时43分]"
         },
         {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时31分 ~ 16时05分]"
+          "time_info": "[16时05分 ~ 18时28分]"
+        },
+        {
+          "title": "日本技术员拆完宇树机器人，当场破防",
+          "url": "https://news.ifeng.com/c/8v4eso1qejg",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 18时28分]"
+        },
+        {
+          "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660990",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 18时28分]"
         },
         {
           "title": "AI已经摸不透柯洁了",
@@ -324,6 +374,17 @@
           "time_info": "[05时43分 ~ 13时20分]"
         },
         {
+          "title": "如何看美国审查中国AI模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%AE%A1%E6%9F%A5%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
           "title": "日方拆解宇树机器人",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E6%8B%86%E8%A7%A3%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -336,22 +397,23 @@
           "time_info": "[13时20分 ~ 16时05分]"
         },
         {
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 18时28分]"
+        },
+        {
           "title": "中国AI步步紧逼，美国科技巨头先内讧了",
           "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 16时05分]"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -369,6 +431,17 @@
           "time_info": "[09时31分 ~ 13时20分]"
         },
         {
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
           "url": "https://www.zhihu.com/question/2056403801884423338",
           "source": "知乎",
@@ -381,6 +454,17 @@
           "time_info": "[07时50分 ~ 09时31分]"
         },
         {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
           "title": "假如莫奈遇上AI机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -391,6 +475,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 16时05分]"
+        },
+        {
+          "title": "特斯拉人形机器人",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "怎么看美军将禁止用中国人形机器人",
@@ -424,50 +519,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
-        },
-        {
-          "title": "日本技术员拆完宇树机器人，当场破防",
-          "url": "https://news.ifeng.com/c/8v4eso1qejg",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时05分"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时05分"
-        },
-        {
-          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
-          "url": "https://flash.jin10.com/detail/20260726154611236800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时05分"
-        },
-        {
-          "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660990",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时05分"
         },
         {
           "title": "OpenAI产品负责人Tibo：ChatGPT Work的活跃用户数量正式超越Codex。",
@@ -520,7 +571,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -531,7 +582,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -553,7 +604,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -572,7 +623,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
@@ -597,6 +648,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时42分 ~ 07时50分]"
+        },
+        {
+          "title": "SpaceX星舰试飞成功能托起股价吗",
+          "url": "https://www.toutiao.com/trending/7666485441134071302/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "啥是“宇宙作战集团”？日本把手伸向太空意欲何为？",
