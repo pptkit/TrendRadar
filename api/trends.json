@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T05:47:42.406951+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-27T06:48:37.389449+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "AI还要跌多久",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -74,11 +74,12 @@
             12,
             10,
             8,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "日本机器人格斗赛没开打就撞门跑路",
@@ -87,11 +88,12 @@
           "ranks": [
             21,
             9,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "日本技术员拆完宇树机器人，当场破防",
@@ -101,8 +103,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -111,11 +113,12 @@
           "ranks": [
             23,
             21,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -126,8 +129,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -161,44 +164,60 @@
           "ranks": [
             25,
             26,
-            22
+            22,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[02时53分 ~ 06时48分]"
         },
         {
           "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
           "url": "https://flash.jin10.com/detail/20260727043919947800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时48分]"
         },
         {
           "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
           "url": "https://flash.jin10.com/detail/20260727041540869800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时48分]"
         },
         {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时48分]"
+        },
+        {
+          "title": "日本如何评价宇树机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 06时48分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -221,17 +240,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "日本如何评价宇树机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "美国能源部：已指示电网运营商西南电力库根据需要调度发电机组以维持电网可靠性。",
+          "url": "https://flash.jin10.com/detail/20260727054940296800",
+          "source": "金十数据",
           "ranks": [
-            29
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "06时48分"
         }
       ]
     },
