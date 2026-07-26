@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T02:53:40.020649+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-07-27T04:03:51.699753+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
         },
         {
           "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
@@ -40,8 +40,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -57,17 +68,6 @@
           "time_info": "[00时44分 ~ 02时53分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
-        },
-        {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
           "url": "https://www.cls.cn/detail/2437146",
           "source": "财联社热门",
@@ -76,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -89,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
         },
         {
           "title": "日本机器人格斗赛没开打就撞门跑路",
@@ -98,11 +98,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
         },
         {
           "title": "日本技术员拆完宇树机器人，当场破防",
@@ -112,8 +113,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -124,8 +125,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -136,8 +137,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时03分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -147,8 +148,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 04时03分]"
+        },
+        {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 04时03分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -160,17 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
         },
         {
           "title": "美国发生AI失控事故",
@@ -211,6 +213,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 01时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX欧洲竞争对手拟寻求融资3亿美元",
+          "url": "https://flash.jin10.com/detail/20260727024649850800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         }
       ]
     }
