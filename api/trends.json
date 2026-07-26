@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T18:28:03.444548+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-07-26T19:54:12.860041+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -78,8 +78,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 18时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时43分 ~ 19时54分]"
         },
         {
           "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
@@ -131,6 +131,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 00时44分]"
+        },
+        {
+          "title": "美国发生AI失控事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9FAI%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "马斯克说未来中国极可能成为AI领导者",
@@ -250,6 +262,18 @@
           "time_info": "09时31分"
         },
         {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时05分 ~ 19时54分]"
+        },
+        {
           "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
           "url": "https://flash.jin10.com/detail/20260726044659225800",
           "source": "金十数据",
@@ -260,6 +284,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时50分]"
+        },
+        {
+          "title": "日本如何评价宇树机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 19时54分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -274,6 +310,31 @@
           "time_info": "[00时43分 ~ 04时04分]"
         },
         {
+          "title": "日本技术员拆完宇树机器人，当场破防",
+          "url": "https://news.ifeng.com/c/8v4eso1qejg",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时05分 ~ 19时54分]"
+        },
+        {
+          "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660990",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时05分 ~ 19时54分]"
+        },
+        {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
           "url": "https://wallstreetcn.com/articles/3777919",
           "source": "华尔街见闻",
@@ -285,6 +346,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时42分 ~ 09时31分]"
+        },
+        {
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 19时54分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -312,6 +385,18 @@
           "time_info": "[13时20分 ~ 18时28分]"
         },
         {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 19时54分]"
+        },
+        {
           "title": "CEO被自家机器人踹飞",
           "url": "https://www.baidu.com/s?wd=CEO%E8%A2%AB%E8%87%AA%E5%AE%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%B9%E9%A3%9E",
           "source": "百度热搜",
@@ -326,42 +411,6 @@
           "time_info": "[01时48分 ~ 05时43分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时05分 ~ 18时28分]"
-        },
-        {
-          "title": "日本技术员拆完宇树机器人，当场破防",
-          "url": "https://news.ifeng.com/c/8v4eso1qejg",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时05分 ~ 18时28分]"
-        },
-        {
-          "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660990",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时05分 ~ 18时28分]"
-        },
-        {
           "title": "AI已经摸不透柯洁了",
           "url": "https://www.douyin.com/hot/2584747",
           "source": "抖音",
@@ -372,6 +421,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 13时20分]"
+        },
+        {
+          "title": "特斯拉人形机器人",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时54分]"
         },
         {
           "title": "如何看美国审查中国AI模型",
@@ -431,15 +492,16 @@
           "time_info": "[09时31分 ~ 13时20分]"
         },
         {
-          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063587044526404438",
-          "source": "知乎",
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
           "ranks": [
+            20,
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
@@ -454,15 +516,28 @@
           "time_info": "[07时50分 ~ 09时31分]"
         },
         {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
+          "title": "观众为何不能容忍长剧片头用AI",
+          "url": "https://www.toutiao.com/trending/7666471179586650166/",
+          "source": "今日头条",
           "ranks": [
+            18,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
+          "title": "中国AI芯片国产替代率五年从10%升至40%",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E8%8A%AF%E7%89%87%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3%E7%8E%87%E4%BA%94%E5%B9%B4%E4%BB%8E10%25%E5%8D%87%E8%87%B340%25&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "假如莫奈遇上AI机器人",
@@ -477,15 +552,15 @@
           "time_info": "[07时50分 ~ 16时05分]"
         },
         {
-          "title": "特斯拉人形机器人",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
           "ranks": [
-            20
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "怎么看美军将禁止用中国人形机器人",
@@ -504,17 +579,6 @@
           "source": "今日头条",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "日本如何评价宇树机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -700,6 +764,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 06时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "文化工作者要有文化含金量",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%8C%96%E5%B7%A5%E4%BD%9C%E8%80%85%E8%A6%81%E6%9C%89%E6%96%87%E5%8C%96%E5%90%AB%E9%87%91%E9%87%8F&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         }
       ]
     }
