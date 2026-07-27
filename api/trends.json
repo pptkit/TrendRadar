@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T07:51:28.331227+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-07-27T09:48:17.147079+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
         },
         {
           "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -38,22 +39,12 @@
             6,
             4,
             5,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
         },
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
@@ -62,11 +53,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -77,11 +69,23 @@
             10,
             8,
             15,
-            16
+            16,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
         },
         {
           "title": "日本机器人格斗赛没开打就撞门跑路",
@@ -91,11 +95,12 @@
             21,
             9,
             10,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
         },
         {
           "title": "日本技术员拆完宇树机器人，当场破防",
@@ -105,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -117,11 +122,12 @@
             21,
             19,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -132,8 +138,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时48分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -156,7 +162,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -167,7 +173,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -178,9 +184,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "国家统计局：上半年人工智能与各领域加速融合，算力需求大幅增长，推动电子行业利润同比增长96.9%",
+          "url": "https://wallstreetcn.com/livenews/3139940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
@@ -210,6 +227,42 @@
           "time_info": "[00时44分 ~ 05时47分]"
         },
         {
+          "title": "日本如何评价宇树机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 09时48分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 09时48分]"
+        },
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
           "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
           "url": "https://flash.jin10.com/detail/20260727043919947800",
           "source": "金十数据",
@@ -234,6 +287,17 @@
           "time_info": "[05时47分 ~ 06时48分]"
         },
         {
+          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
+          "url": "https://www.cls.cn/detail/2437139",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
@@ -246,27 +310,37 @@
           "time_info": "[05时47分 ~ 06时48分]"
         },
         {
-          "title": "日本如何评价宇树机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661243",
+          "source": "澎湃新闻",
           "ranks": [
-            29,
-            30
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时44分 ~ 06时48分]"
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
+          "title": "2026 年菲尔兹奖会成为「最后一届没有 AI 的菲尔兹奖」吗？",
+          "url": "https://www.zhihu.com/question/2062890686072845429",
+          "source": "知乎",
           "ranks": [
-            12
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "日本机器人格斗赛没开打就撞门跑路",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E6%B2%A1%E5%BC%80%E6%89%93%E5%B0%B1%E6%92%9E%E9%97%A8%E8%B7%91%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -286,7 +360,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
