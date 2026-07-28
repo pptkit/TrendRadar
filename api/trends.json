@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-28T07:53:58.389033+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-07-28T09:22:35.027817+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
           "url": "https://www.cls.cn/detail/2438053",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 09时22分]"
         },
         {
           "title": "国内首部AI长片首播",
@@ -41,8 +42,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 09时22分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -51,9 +52,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时22分]"
         },
         {
           "title": "高通机器人瘫倒 被盖上黑布抬走",
@@ -62,11 +63,12 @@
           "ranks": [
             14,
             10,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 09时22分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -74,11 +76,25 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 09时22分]"
+        },
+        {
+          "title": "侵权零成本!电竞选手遭AI换脸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 09时22分]"
         },
         {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
@@ -87,18 +103,6 @@
           "ranks": [
             16,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时53分]"
-        },
-        {
-          "title": "侵权零成本!电竞选手遭AI换脸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -267,6 +271,18 @@
           "time_info": "[05时01分 ~ 06时07分]"
         },
         {
+          "title": "日方拆完宇树机器人后认输了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E6%8B%86%E5%AE%8C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%8E%E8%AE%A4%E8%BE%93%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时22分]"
+        },
+        {
           "title": "中国AI又双叒Open了",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%8F%88%E5%8F%8C%E5%8F%92Open%E4%BA%86",
           "source": "bilibili 热搜",
@@ -317,7 +333,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -328,9 +344,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "佛得角门将签约泪洒现场？图是AI的",
+          "url": "https://www.toutiao.com/trending/7666819334011584518/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
+          "url": "https://www.cls.cn/detail/2438458",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "特朗普连发数十张AI图遭吐槽",
@@ -366,13 +404,24 @@
           "time_info": "01时29分"
         },
         {
+          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
+          "url": "https://www.zhihu.com/question/2063239728175043416",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "Anthropic澄清立场：从未主张禁止开放权重AI模型",
           "url": "https://flash.jin10.com/detail/20260728061037912800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -388,15 +437,26 @@
           "time_info": "05时01分"
         },
         {
-          "title": "日方拆完宇树机器人后认输了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E6%8B%86%E5%AE%8C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%8E%E8%AE%A4%E8%BE%93%E4%BA%86",
-          "source": "百度热搜",
+          "title": "电视开始播放AI剧集了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%BC%80%E5%A7%8B%E6%92%AD%E6%94%BEAI%E5%89%A7%E9%9B%86%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "阿里云：Kimi K3上线阿里千问AI平台。",
+          "url": "https://flash.jin10.com/detail/20260728085040495800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "09时22分"
         },
         {
           "title": "全球AI竞争将如何发展",
@@ -405,7 +465,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -424,7 +484,7 @@
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX蒸发的市值相当于一个特斯拉",
@@ -448,6 +508,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时07分]"
+        },
+        {
+          "title": "SpaceX已经“跌掉”一个特斯拉 亚马逊入局卫星通信大战 | 环球市场",
+          "url": "https://www.cls.cn/detail/2438416",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国芝商所推出个股期货，允许投资者全天23小时交易SpaceX、美光等股票",
