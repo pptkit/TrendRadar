@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-28T18:22:10.898724+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-07-28T20:32:40.877592+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 20时32分]"
+        },
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
           "url": "https://www.cls.cn/detail/2438053",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 09时22分]"
-        },
-        {
-          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3777993",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 18时22分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -78,11 +78,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时32分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时32分]"
         },
         {
           "title": "各个行业被AI取代的概率",
@@ -98,6 +110,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 09时22分]"
+        },
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://www.cls.cn/detail/2438712",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时32分]"
         },
         {
           "title": "高通机器人瘫倒 被盖上黑布抬走",
@@ -118,22 +143,12 @@
           "url": "https://www.douyin.com/hot/2588435",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时32分]"
         },
         {
           "title": "我国启动人工智能大模型IPv6能力提升专项行动",
@@ -179,18 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
-        },
-        {
-          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-          "url": "https://www.cls.cn/detail/2438712",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时22分]"
         },
         {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
@@ -260,6 +263,18 @@
           "time_info": "[01时29分 ~ 06时07分]"
         },
         {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时32分]"
+        },
+        {
           "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
           "url": "https://www.cls.cn/detail/2438458",
           "source": "财联社热门",
@@ -297,6 +312,43 @@
           "time_info": "[03时09分 ~ 07时53分]"
         },
         {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时32分]"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 20时32分]"
+        },
+        {
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时32分]"
+        },
+        {
           "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
           "url": "https://www.cls.cn/detail/2438154",
           "source": "财联社热门",
@@ -307,18 +359,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时00分 ~ 06时07分]"
-        },
-        {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时00分]"
         },
         {
           "title": "翻唱老歌火爆全网 神秘歌手是AI吗",
@@ -332,17 +372,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时29分 ~ 07时53分]"
-        },
-        {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
@@ -381,17 +410,6 @@
           "time_info": "[05时01分 ~ 06时07分]"
         },
         {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
           "url": "https://flash.jin10.com/detail/20260728041608521800",
           "source": "金十数据",
@@ -402,17 +420,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时07分]"
-        },
-        {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "电影《大空头》原型：任何一家科技巨头削减AI支出，股市将直线下跌！",
@@ -488,7 +495,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -559,6 +566,17 @@
           "time_info": "12时52分"
         },
         {
+          "title": "算电协同、人工智能等前沿成果将亮相2026数博会",
+          "url": "https://wallstreetcn.com/livenews/3141011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "特朗普连发数十张AI图遭吐槽",
           "url": "https://www.douyin.com/hot/2586656",
           "source": "抖音",
@@ -581,6 +599,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "穆迪评级：Meta Platforms(META.O)和贝莱德的人工智能基础设施合作同时带来风险与机遇。",
+          "url": "https://flash.jin10.com/detail/20260728201927409800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "受AI热潮推动，贝莱德韩国ETF连续第三周录得资金净流入",
           "url": "https://wallstreetcn.com/livenews/3140433",
           "source": "华尔街见闻-快讯",
@@ -598,7 +627,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -642,7 +671,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -664,9 +693,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "立昂技术：拟定增募资不超2.55亿元 投资人工智能算力资源池等项目",
+          "url": "https://flash.jin10.com/detail/20260728201205476800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "A股午评：创业板指大幅回调跌5.37% AI硬件板块重挫",
