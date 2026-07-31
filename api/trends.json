@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T16:31:50.559780+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-07-31T19:16:43.374171+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "硅谷烧书训AI,焚书坑儒2.0",
@@ -15,11 +15,12 @@
             7,
             8,
             17,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 19时16分]"
         },
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -86,6 +87,18 @@
           "time_info": "[00时26分 ~ 04时12分]"
         },
         {
+          "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
+          "url": "https://www.cls.cn/detail/2442428",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 19时16分]"
+        },
+        {
           "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
@@ -95,6 +108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 06时59分]"
+        },
+        {
+          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
+          "url": "https://wallstreetcn.com/articles/3778381",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 19时16分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
@@ -110,15 +135,17 @@
           "time_info": "[00时26分 ~ 10时11分]"
         },
         {
-          "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
-          "url": "https://www.cls.cn/detail/2442428",
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
           "source": "财联社热门",
           "ranks": [
-            2
+            8,
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 19时16分]"
         },
         {
           "title": "法官质疑美国政府封杀Anthropic AI的理由是否充分",
@@ -156,15 +183,15 @@
           "time_info": "[05时58分 ~ 07时58分]"
         },
         {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
+          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
+          "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "19时16分"
         },
         {
           "title": "AI暴力反弹！韩股收涨17.91%，SK海力士暴涨30%，欧股上扬，日元回吐干预涨幅",
@@ -173,7 +200,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -191,16 +218,17 @@
           "time_info": "[07时58分 ~ 13时55分]"
         },
         {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
-          "source": "财联社热门",
+          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
+          "url": "https://wallstreetcn.com/articles/3778376",
+          "source": "华尔街见闻",
           "ranks": [
             8,
-            4
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 19时16分]"
         },
         {
           "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
@@ -228,18 +256,6 @@
           "time_info": "[06时58分 ~ 10时11分]"
         },
         {
-          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
-          "url": "https://wallstreetcn.com/articles/3778376",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 16时31分]"
-        },
-        {
           "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
           "url": "https://www.cls.cn/detail/2442077",
           "source": "财联社热门",
@@ -251,6 +267,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 16时31分]"
+        },
+        {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 19时16分]"
         },
         {
           "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
@@ -277,16 +306,28 @@
           "time_info": "[05时58分 ~ 06时59分]"
         },
         {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
+          "title": "马斯克预言五年内 AI 将超越全人类、十年后金钱将失去意义，这一预测靠谱吗？AI 真会重塑经济体系吗？",
+          "url": "https://www.zhihu.com/question/2066440048212276843",
+          "source": "知乎",
           "ranks": [
-            6,
-            12
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 19时16分]"
+        },
+        {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 19时16分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：对于希望重度使用新AI产品的用户，苹果将提供“升级选项”。",
@@ -373,16 +414,15 @@
           "time_info": "[05时58分 ~ 06时59分]"
         },
         {
-          "title": "马斯克预言五年内 AI 将超越全人类、十年后金钱将失去意义，这一预测靠谱吗？AI 真会重塑经济体系吗？",
-          "url": "https://www.zhihu.com/question/2066440048212276843",
-          "source": "知乎",
+          "title": "保时捷女销冠回应被AI合成不雅视频",
+          "url": "https://www.toutiao.com/trending/7668540826486865930/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 16时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "AI暴力反弹！三星、SK海力士飙升25%，韩股暴涨超14%，软银跳升15%，日股大涨",
@@ -396,6 +436,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
+          "url": "https://www.cls.cn/detail/2442641",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citatdel出手收购全部仓位",
           "url": "https://wallstreetcn.com/articles/3778381",
           "source": "华尔街见闻",
@@ -407,6 +458,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "【焦点复盘】科创50高开低走录得日线4连阴，算力硬件股批量炸板回落，机器人概念卷土重来",
+          "url": "https://www.cls.cn/detail/2442703",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
           "url": "https://flash.jin10.com/detail/20260731032815618800",
           "source": "金十数据",
@@ -416,17 +478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
-        },
-        {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
@@ -545,7 +596,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -638,6 +689,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "保时捷女销冠回应被AI合成不雅视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E5%90%88%E6%88%90%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "央视关注AI汽车",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%85%B3%E6%B3%A8AI%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -666,6 +728,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "我国电力系统迎来结构性转变",
+          "url": "https://www.toutiao.com/trending/7667493705678569513/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 19时16分]"
+        },
+        {
           "title": "据华尔街日报：消息人士称，Anthropic计划在德克萨斯州租赁一个容量为1.6吉瓦的新园区，并由谷歌为租赁及电力费用提供担保。",
           "url": "https://flash.jin10.com/detail/20260731014809878800",
           "source": "金十数据",
@@ -675,17 +748,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "我国电力系统迎来结构性转变",
-          "url": "https://www.toutiao.com/trending/7667493705678569513/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "据日经新闻：三星贸易部门与日本可再生能源公司Erex正在合作开发新的能源项目，以满足AI发展带来的电力需求。目标是在2029财年前为数据中心提供稳定的可再生能源供应。",
@@ -725,8 +787,19 @@
     },
     {
       "keyword_group": "太阳能 光伏",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "印度信息部长：内阁批准向太阳能计划拨款507亿印度卢比。",
+          "url": "https://flash.jin10.com/detail/20260731184249233800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
         {
           "title": "第一太阳能维持全年资本开支预期在8亿-10亿美元不变，分析师预期8.758亿美元。",
           "url": "https://wallstreetcn.com/livenews/3142636",
@@ -749,11 +822,12 @@
           "url": "https://www.cls.cn/detail/2442483",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 19时16分]"
         }
       ]
     }
