@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T04:05:25.339202+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-08-02T05:43:35.985753+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -61,8 +61,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -72,20 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -95,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
         },
         {
           "title": "略惊悚!美企开发半人马机器人",
@@ -106,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -117,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时43分]"
         },
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -128,8 +129,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时43分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
