@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T09:29:32.675973+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-08-02T13:16:01.473080+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 13时16分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -28,17 +29,6 @@
             4,
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 09时29分]"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -83,6 +73,18 @@
           "time_info": "[00时45分 ~ 09时29分]"
         },
         {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 13时16分]"
+        },
+        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
@@ -91,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 13时16分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -104,19 +106,33 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 13时16分]"
         },
         {
           "title": "略惊悚!美企开发半人马机器人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356702&amp;topic_name=%E7%95%A5%E6%83%8A%E6%82%9A%21%E7%BE%8E%E4%BC%81%E5%BC%80%E5%8F%91%E5%8D%8A%E4%BA%BA%E9%A9%AC%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 13时16分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 13时16分]"
         },
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -148,23 +164,45 @@
           "source": "抖音",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 09时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 13时16分]"
         },
         {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
+          "title": "OpenAI的10项数学突破含金量多高",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%9A%8410%E9%A1%B9%E6%95%B0%E5%AD%A6%E7%AA%81%E7%A0%B4%E5%90%AB%E9%87%91%E9%87%8F%E5%A4%9A%E9%AB%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 09时29分]"
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
+          "url": "https://wallstreetcn.com/articles/3778495",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -177,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时51分]"
+        },
+        {
+          "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
+          "url": "https://www.zhihu.com/question/2066611104294482895",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -199,6 +248,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
+          "url": "https://flash.jin10.com/detail/20260802095047745800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     },
@@ -218,6 +278,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 02时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "59岁绿化工遭职场霸凌坠亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356717&amp;topic_name=59%E5%B2%81%E7%BB%BF%E5%8C%96%E5%B7%A5%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%E5%9D%A0%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         }
       ]
     }
