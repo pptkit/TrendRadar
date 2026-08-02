@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:44:01.908951+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-08-03T06:44:36.119476+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -36,11 +36,12 @@
           "ranks": [
             11,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -62,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -74,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -86,8 +87,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -98,8 +99,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "略惊悚!美企开发半人马机器人",
@@ -110,8 +111,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -119,11 +120,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时04分 ~ 05时44分]"
+          "appearance_count": 5,
+          "time_info": "[04时04分 ~ 06时44分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -151,8 +153,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         },
         {
           "title": "提醒：周一（8月3日），Palantir、安森美半导体等将发布业绩报告； 周二，SpaceX、AMD、卡特彼勒等将发布业绩报告； 周三，诺和诺德、闪迪、西部数据、迪士尼等发布业绩报告。",
@@ -160,11 +162,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时05分 ~ 06时44分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美国非农周来袭，中国7月外汇储备、CPI及贸易帐将公布，SpaceX将公布Q2业绩",
@@ -191,8 +194,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         }
       ]
     },
@@ -209,8 +212,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时44分]"
         }
       ]
     }
