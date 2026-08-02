@@ -1,12 +1,49 @@
 {
-  "generated_at": "2026-08-02T07:48:16.239470+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-08-02T09:29:32.675973+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
       "match_count": 16,
       "titles": [
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时29分]"
+        },
+        {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时29分]"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时29分]"
+        },
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
@@ -32,41 +69,6 @@
           "time_info": "[00时45分 ~ 07时48分]"
         },
         {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时48分]"
-        },
-        {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时48分]"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时48分]"
-        },
-        {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
           "url": "https://wallstreetcn.com/articles/3778474",
           "source": "华尔街见闻",
@@ -77,19 +79,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时29分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时29分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -97,11 +100,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时29分]"
         },
         {
           "title": "略惊悚!美企开发半人马机器人",
@@ -111,8 +115,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时29分]"
+        },
+        {
+          "title": "人工智能助力直肠癌个性化化疗",
+          "url": "https://wallstreetcn.com/livenews/3143612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 09时29分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -126,38 +143,28 @@
           "time_info": "[00时45分 ~ 06时43分]"
         },
         {
-          "title": "人工智能助力直肠癌个性化化疗",
-          "url": "https://wallstreetcn.com/livenews/3143612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 07时48分]"
-        },
-        {
           "title": "这届AI进化到开始玩心眼了",
           "url": "https://www.douyin.com/hot/2592773",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 09时29分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
           "url": "https://wallstreetcn.com/articles/3778497",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 09时29分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
