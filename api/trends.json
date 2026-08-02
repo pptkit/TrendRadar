@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T22:23:08.833329+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-08-02T23:52:20.667921+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -73,6 +73,21 @@
           "time_info": "[00时45分 ~ 09时29分]"
         },
         {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 23时52分]"
+        },
+        {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
           "url": "https://wallstreetcn.com/articles/3778497",
           "source": "华尔街见闻",
@@ -98,8 +113,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时47分 ~ 22时23分]"
+          "appearance_count": 12,
+          "time_info": "[07时47分 ~ 23时52分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -110,25 +125,12 @@
             9,
             12,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 22时23分]"
-        },
-        {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 22时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 23时52分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -141,8 +143,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 22时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 23时52分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -166,11 +168,12 @@
             18,
             21,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 22时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 23时52分]"
         },
         {
           "title": "中国AI大模型的优势在哪里",
@@ -217,8 +220,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 22时23分]"
+          "appearance_count": 7,
+          "time_info": "[16时02分 ~ 23时52分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -230,8 +233,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 23时52分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -240,11 +243,12 @@
           "ranks": [
             1,
             9,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时53分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时53分 ~ 23时52分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -256,6 +260,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时15分 ~ 16时02分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时52分]"
         },
         {
           "title": "广发策略：AI资产在7月份的快速回撤之后 后续大概率有较可观的修正空间",
@@ -292,17 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -383,6 +387,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "人形机器人做家政：每小时30美元",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E5%AE%B6%E6%94%BF%EF%BC%9A%E6%AF%8F%E5%B0%8F%E6%97%B630%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -422,17 +437,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "金十整理：下周重要事件与数据预告——美国非农周来袭，中国7月外汇储备、CPI及贸易帐将公布，SpaceX将公布Q2业绩",
-          "url": "https://flash.jin10.com/detail/20260802212924338800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报",
           "url": "https://wallstreetcn.com/articles/3778433",
           "source": "华尔街见闻",
@@ -441,8 +445,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时53分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时53分 ~ 23时52分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美国非农周来袭，中国7月外汇储备、CPI及贸易帐将公布，SpaceX将公布Q2业绩",
+          "url": "https://flash.jin10.com/detail/20260802212924338800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时52分]"
         },
         {
           "title": "SpaceX首份财报来了",
@@ -467,11 +483,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 23时52分]"
         },
         {
           "title": "国际原子能机构：最近扎波罗热核电站近两小时的外部电力断开的原因尚不明确。",
@@ -499,11 +516,12 @@
           "ranks": [
             6,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 22时23分]"
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 23时52分]"
         }
       ]
     }
