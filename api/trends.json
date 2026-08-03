@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T03:16:43.896016+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-08-04T04:53:46.390722+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -26,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
@@ -50,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -61,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -72,19 +73,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
         },
         {
           "title": "全球首款可DIY个人机器人亮相",
           "url": "https://www.douyin.com/hot/2595733",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
@@ -95,8 +97,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
         },
         {
           "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
@@ -106,8 +108,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
         },
         {
           "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
@@ -149,7 +151,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -160,7 +162,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
@@ -168,7 +170,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "两部门印发《新型电力系统建设“十五五”规划》",
@@ -178,8 +180,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
+        },
+        {
+          "title": "新型电力系统建设十五五规划发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%8F%91%E5%B8%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         }
       ]
     },
@@ -195,8 +208,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时53分]"
         }
       ]
     }
