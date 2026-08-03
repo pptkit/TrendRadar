@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T09:31:18.603197+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-08-03T13:29:22.052568+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 13时29分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -50,11 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 13时29分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -75,11 +76,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 13时29分]"
         },
         {
           "title": "略惊悚!美企开发半人马机器人",
@@ -152,7 +154,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -187,8 +189,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 13时29分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -214,15 +216,59 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "AI短剧《砚边青梅》火爆出圈",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E3%80%8A%E7%A0%9A%E8%BE%B9%E9%9D%92%E6%A2%85%E3%80%8B%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "德马科技具身智能机器人产业园项目规划落地",
           "url": "https://flash.jin10.com/detail/20260803090840845800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "网上爆火的AI短剧男主",
@@ -234,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803120029547800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
@@ -312,11 +369,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 13时29分]"
         }
       ]
     },
@@ -330,11 +388,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 13时29分]"
         }
       ]
     }
