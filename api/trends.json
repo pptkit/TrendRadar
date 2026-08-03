@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T13:29:22.052568+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-08-03T16:59:53.545595+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
@@ -33,25 +33,26 @@
           "time_info": "[00时44分 ~ 09时31分]"
         },
         {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 13时29分]"
-        },
-        {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
           "url": "https://wallstreetcn.com/articles/3778516",
           "source": "华尔街见闻",
           "ranks": [
             9,
             10,
-            8
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 16时59分]"
+        },
+        {
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -170,6 +171,29 @@
           "time_info": "07时49分"
         },
         {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 16时59分]"
+        },
+        {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
           "url": "https://www.zhihu.com/question/2066215968578204075",
           "source": "知乎",
@@ -216,26 +240,48 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
+          "title": "全球首款可DIY个人机器人亮相",
+          "url": "https://www.douyin.com/hot/2595733",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
+          "url": "https://www.cls.cn/detail/2443873",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
           "url": "https://www.zhihu.com/question/2066921241156523798",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
         {
-          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
-          "url": "https://www.cls.cn/detail/2443826",
-          "source": "财联社热门",
+          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
+          "url": "https://wallstreetcn.com/articles/3778511",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "16时59分"
         },
         {
           "title": "AI短剧《砚边青梅》火爆出圈",
@@ -244,9 +290,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "摩根士丹利：AI板块不太可能是下半年回报的主要驱动力",
+          "url": "https://wallstreetcn.com/livenews/3144020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "德马科技具身智能机器人产业园项目规划落地",
@@ -266,7 +323,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -288,15 +345,37 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，此前发布千问3.8-MAX人工智能模型。",
+          "url": "https://wallstreetcn.com/livenews/3144006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
     {
       "keyword_group": "太空 spaceX",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报",
@@ -325,6 +404,17 @@
           "time_info": "[04时05分 ~ 07时49分]"
         },
         {
+          "title": "中国人为何执着于太空“种地”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BD%95%E6%89%A7%E7%9D%80%E4%BA%8E%E5%A4%AA%E7%A9%BA%E2%80%9C%E7%A7%8D%E5%9C%B0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "本周重要事件与数据预告：美国非农，中国7月外储、CPI及贸易帐，SpaceX财报",
           "url": "https://flash.jin10.com/detail/20260803072055580800",
           "source": "金十数据",
@@ -347,6 +437,17 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
+          "title": "SpaceX首次财报本周重磅登场！除业绩外，市场还将关注这些……",
+          "url": "https://www.cls.cn/detail/2443959",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美国非农周来袭，中国7月外汇储备、CPI及贸易帐将公布，SpaceX将公布Q2业绩",
           "url": "https://flash.jin10.com/detail/20260802212924338800",
           "source": "金十数据",
@@ -361,7 +462,7 @@
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
           "title": "观察｜算力狂奔，电力共振：比特与瓦特如何“双向赋能”？",
@@ -375,6 +476,50 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 13时29分]"
+        },
+        {
+          "title": "空调24小时不关更省电？电力公司回应",
+          "url": "https://www.baidu.com/s?wd=%E7%A9%BA%E8%B0%8324%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%85%B3%E6%9B%B4%E7%9C%81%E7%94%B5%EF%BC%9F%E7%94%B5%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "国家发展改革委、国家能源局印发《新型电力系统建设“十五五”规划》",
+          "url": "https://wallstreetcn.com/livenews/3144027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "国家发改委等两部门：增强电力供应保障能力，满足各类算力设施高可靠供电需要",
+          "url": "https://flash.jin10.com/detail/20260803163853484800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "国家发改委等两部门：完善新型主体参与电力市场的制度",
+          "url": "https://flash.jin10.com/detail/20260803163807257800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
@@ -389,11 +534,12 @@
           "ranks": [
             12,
             13,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 13时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 16时59分]"
         }
       ]
     }
