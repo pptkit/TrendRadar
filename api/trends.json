@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T15:32:51.475560+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-08-06T18:26:05.547277+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -54,6 +54,19 @@
           "time_info": "[01时17分 ~ 09时21分]"
         },
         {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 18时26分]"
+        },
+        {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
@@ -65,6 +78,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 07时46分]"
+        },
+        {
+          "title": "美议员拟推出“数据中心权利法案”遏制AI基建扩张",
+          "url": "https://flash.jin10.com/detail/20260806180930334800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -87,7 +111,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -115,16 +139,17 @@
           "time_info": "[01时17分 ~ 03时11分]"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
           "ranks": [
             9,
-            8
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时20分 ~ 15时32分]"
+          "time_info": "[12时54分 ~ 18时26分]"
         },
         {
           "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
@@ -175,16 +200,26 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
+          "title": "认错比谁都快 这届用户被AI气笑了",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A4%E9%94%99%E6%AF%94%E8%B0%81%E9%83%BD%E5%BF%AB+%E8%BF%99%E5%B1%8A%E7%94%A8%E6%88%B7%E8%A2%ABAI%E6%B0%94%E7%AC%91%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时54分 ~ 15时32分]"
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "戚薇真的把自己做成AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "当没有人再谈论AI",
@@ -204,7 +239,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -286,6 +321,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "深圳华强北AI眼镜销量激增100%",
+          "url": "https://flash.jin10.com/detail/20260806175217616800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "亚马逊旗下AWS与Anthropic、OpenAI构建合作伙伴关系。 三方将围绕AWS Continuum工作流合作。",
           "url": "https://wallstreetcn.com/livenews/3145610",
           "source": "华尔街见闻-快讯",
@@ -325,7 +371,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -336,7 +382,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -347,7 +393,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -391,7 +437,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -446,7 +492,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -484,6 +530,17 @@
           "time_info": "12时54分"
         },
         {
+          "title": "美国挑战者公司首席营收官Andy Challenger：招聘人数也比去年增加了25%，因此，尽管人工智能正在改变劳动力市场，但它并没有瓦解就业。",
+          "url": "https://flash.jin10.com/detail/20260806173413764800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "AI风险需要更严厉的网络防御，美国高级官员警告",
           "url": "https://wallstreetcn.com/livenews/3145570",
           "source": "华尔街见闻-快讯",
@@ -504,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "美国挑战者企业裁员报告：今年夏天裁员速度显著放缓。裁员计划仍然主要集中在科技行业，人工智能仍然是关注的焦点，因为对这项技术的投资正在重塑企业。",
+          "url": "https://flash.jin10.com/detail/20260806173303564800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
@@ -527,11 +595,12 @@
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时06分 ~ 15时32分]"
+          "appearance_count": 8,
+          "time_info": "[06时06分 ~ 18时26分]"
         },
         {
           "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
@@ -604,7 +673,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -684,6 +753,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电力 变压器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
+          "url": "https://www.cls.cn/detail/2447281",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         }
       ]
     },
