@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T06:24:35.087641+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-08-08T07:24:16.644916+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -15,11 +15,12 @@
             17,
             9,
             5,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -27,11 +28,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -41,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -54,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -65,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时24分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -93,15 +95,27 @@
           "time_info": "00时44分"
         },
         {
+          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3146942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 06时24分]"
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 07时24分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -114,6 +128,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时38分]"
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -185,8 +210,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时24分]"
         },
         {
           "title": "SpaceX收涨15.8%，报133.11美元，最近两天涨23%。",
@@ -202,6 +227,17 @@
           "time_info": "[04时29分 ~ 06时24分]"
         },
         {
+          "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
+          "url": "https://flash.jin10.com/detail/20260808040100140800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时24分]"
+        },
+        {
           "title": "随着 SpaceX 收购临近，Cursor 规划品牌及其他多项调整",
           "url": "https://wallstreetcn.com/livenews/3146891",
           "source": "华尔街见闻-快讯",
@@ -213,17 +249,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时43分 ~ 05时27分]"
-        },
-        {
-          "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
-          "url": "https://flash.jin10.com/detail/20260808040100140800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时24分]"
         },
         {
           "title": "五角大楼拟年底测试太空导弹拦截系统 “金穹”计划迈出关键一步",
@@ -292,11 +317,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时24分]"
         }
       ]
     }
