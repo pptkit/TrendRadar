@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T05:19:22.231371+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-08-09T06:16:53.163497+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -76,8 +76,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -87,11 +87,12 @@
             4,
             6,
             7,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -103,19 +104,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 06时16分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
           "url": "https://wallstreetcn.com/articles/3778982",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时16分]"
         },
         {
           "title": "苹果AI 千问",
@@ -152,11 +154,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
         }
       ]
     },
@@ -172,8 +175,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "太空 spaceX",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX解禁后两日暴涨23%，期权成交创纪录，空头回补或进一步推升股价",
+          "url": "https://wallstreetcn.com/articles/3778979",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         }
       ]
     }
