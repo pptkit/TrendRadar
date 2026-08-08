@@ -1,657 +1,117 @@
 {
-  "generated_at": "2026-08-08T21:37:44.005183+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2026-08-09T00:19:24.349715+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 36,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
           "url": "https://wallstreetcn.com/articles/3778984",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时32分 ~ 21时37分]"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            9,
-            5,
-            6,
-            19,
-            8,
-            20,
-            15,
-            18,
-            16,
-            29,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时44分 ~ 19时19分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时34分]"
-        },
-        {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时24分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
           "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            10,
-            8,
-            9,
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时03分 ~ 21时37分]"
-        },
-        {
-          "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
-          "url": "https://www.cls.cn/detail/2448766",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时44分 ~ 21时37分]"
-        },
-        {
-          "title": "国民党推出AI发言人“郑小文”迎战民进党",
-          "url": "https://news.ifeng.com/c/8vP4WV73BTc",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时24分]"
-        },
-        {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13,
-            16,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时43分 ~ 21时37分]"
-        },
-        {
-          "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
-          "url": "https://www.zhihu.com/question/2068674224802067300",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            15,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 16时26分]"
-        },
-        {
-          "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时24分]"
-        },
-        {
-          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
-          "url": "https://wallstreetcn.com/livenews/3146942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            13,
-            19,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 14时32分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            28,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时37分]"
-        },
-        {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时34分 ~ 18时21分]"
-        },
-        {
-          "title": "今年上半年人形机器人领域新设企业11.6万户",
-          "url": "https://wallstreetcn.com/livenews/3146969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            15,
-            19,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时40分 ~ 20时23分]"
-        },
-        {
-          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时34分 ~ 16时26分]"
+          "time_info": "00时19分"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
           "url": "https://www.zhihu.com/question/2042649810709239000",
           "source": "知乎",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时37分]"
-        },
-        {
-          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
-          "url": "https://wallstreetcn.com/articles/3778904",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 08时45分]"
-        },
-        {
-          "title": "戚薇谈把脸交给AI",
-          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 18时21分]"
-        },
-        {
-          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
-          "url": "https://wallstreetcn.com/livenews/3146973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            17,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 18时21分]"
-        },
-        {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时23分]"
-        },
-        {
-          "title": "苹果AI",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时19分]"
-        },
-        {
-          "title": "机器人到底有多灵活",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%81%B5%E6%B4%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 18时21分]"
-        },
-        {
-          "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时38分]"
-        },
-        {
-          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时38分]"
-        },
-        {
-          "title": "苹果AI 千问",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时37分]"
-        },
-        {
-          "title": "几元成本的AI广告导致千万市值蒸发",
-          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时37分]"
-        },
-        {
-          "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
-          "url": "https://flash.jin10.com/detail/20260808032042397800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "00时19分"
+        },
+        {
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
           "url": "https://flash.jin10.com/detail/20260808204416510800",
           "source": "金十数据",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "我用AI造了奥德赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E9%80%A0%E4%BA%86%E5%A5%A5%E5%BE%B7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808005548495800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "媒体：“内容由AI生成”不是免责盾牌",
-          "url": "https://www.toutiao.com/trending/7671295231653445683/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "AI大模型迈向分时定价",
-          "url": "https://wallstreetcn.com/livenews/3146821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "AI大模型迈向分时定价",
-          "url": "https://flash.jin10.com/detail/20260807231850535800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "用AI造出新病毒意味着什么",
-          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E9%80%A0%E5%87%BA%E6%96%B0%E7%97%85%E6%AF%92%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "苹果官宣Mac接入阿里千问AI，相关功能仅限中国大陆地区",
-          "url": "https://wallstreetcn.com/livenews/3146987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "据美国证券交易委员会（SEC）文件显示，IMG财富管理持有212股SpaceX(SPCX.O)A类股份。",
-          "url": "https://flash.jin10.com/detail/20260808040624326800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 08时45分]"
-        },
-        {
-          "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
-          "url": "https://flash.jin10.com/detail/20260808040100140800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 08时45分]"
-        },
-        {
-          "title": "SpaceX收涨15.8%，报133.11美元，最近两天涨23%。",
-          "url": "https://wallstreetcn.com/livenews/3146909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时24分]"
-        },
-        {
-          "title": "随着 SpaceX 收购临近，Cursor 规划品牌及其他多项调整",
-          "url": "https://wallstreetcn.com/livenews/3146891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时43分 ~ 05时27分]"
-        },
-        {
-          "title": "我们真的能在太空造芯片吗",
-          "url": "https://www.toutiao.com/trending/7671098416675602470/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 08时45分]"
-        },
-        {
-          "title": "五角大楼拟年底测试太空导弹拦截系统 “金穹”计划迈出关键一步",
-          "url": "https://flash.jin10.com/detail/20260808021834844800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "市场消息：五角大楼计划在今年年底前对其未来主义太空导弹防御计划进行首次测试。",
-          "url": "https://flash.jin10.com/detail/20260808021542026800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "本周，标普累涨约3.5%，道指累涨约3%，纳指累涨5%，存储芯片指数跌约1.9%，半导体指数涨8.6%——周二高开以来持续高位窄幅震荡，科技股七巨头指数涨4.7%，降息赢家指数涨5.2%。 周五非农日当天，标普500指数初步收涨0.6%，原材料、可选消费、科技板块涨超1%，能源板块跌1.3%。 纳斯达克100指数初步收涨1.2%，成分股中，爱彼迎初步收涨17.1%，SpaceX涨14.5%，微芯科技、Palantir、AXON、Rocket Lab、HONA、TTWO、Lumentum至少涨6%，AMD、泰瑞达、闪迪、西部数据至多跌3.6%，希捷科技跌4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3146906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "市场消息：五角大楼为机密“黄金穹顶”太空计划分配预算并制定时间表。",
-          "url": "https://flash.jin10.com/detail/20260808020258630800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "SpaceX(SPCX.O)：SpaceX回收团队仍在印度洋进行第13次飞行任务的星舰回收工作。",
-          "url": "https://flash.jin10.com/detail/20260808015624400800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "SpaceX的科幻梦想遭资本抛弃了吗",
-          "url": "https://www.toutiao.com/trending/7670840382339219506/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            13,
-            15,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 16时26分]"
-        },
-        {
-          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
-          "url": "https://flash.jin10.com/detail/20260808100104329800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 13时34分]"
-        },
-        {
-          "title": "据The Information：英伟达(NVDA.O)将投资高达30亿美元于黑石集团支持的电力公司。",
-          "url": "https://flash.jin10.com/detail/20260808092622518800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 13时34分]"
-        },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
           "url": "https://wallstreetcn.com/articles/3778988",
@@ -659,15 +119,15 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时37分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "太阳能 光伏",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "首批家用太阳能设备交付！古巴：感谢中方支持",
@@ -677,43 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 21时37分]"
-        },
-        {
-          "title": "阳光电源：FCC政策主要限制新产品认证 公司目前在美销售的光伏逆变器、储能系统不受影响",
-          "url": "https://wallstreetcn.com/livenews/3146975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            14,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 20时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数均涨超1%录得4连阳，创新药板块全线爆发，PCB概念股持续走强",
-          "url": "https://www.cls.cn/detail/2448465",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 08时45分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }
