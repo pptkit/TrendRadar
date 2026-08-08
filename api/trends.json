@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T03:21:28.804654+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-08-09T04:16:38.618844+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -73,11 +73,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -85,22 +86,24 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "当AI反过来问你问题",
           "url": "https://www.douyin.com/hot/2600930",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 04时16分]"
         },
         {
           "title": "苹果AI 千问",
@@ -139,8 +142,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         }
       ]
     },
@@ -156,8 +159,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         }
       ]
     }
