@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:26:56.954279+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-08-08T17:26:54.319543+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -21,11 +21,12 @@
             20,
             15,
             18,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时26分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -65,8 +66,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时26分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -91,8 +92,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时43分 ~ 16时26分]"
+          "appearance_count": 15,
+          "time_info": "[03时43分 ~ 17时26分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -139,6 +140,34 @@
           "time_info": "[07时24分 ~ 14时32分]"
         },
         {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 17时26分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时03分 ~ 17时26分]"
+        },
+        {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
           "url": "https://wallstreetcn.com/livenews/3146841",
           "source": "华尔街见闻-快讯",
@@ -163,30 +192,16 @@
           "time_info": "[13时34分 ~ 16时26分]"
         },
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            10,
-            8
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时03分 ~ 16时26分]"
-        },
-        {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 16时26分]"
+          "time_info": "[13时34分 ~ 17时26分]"
         },
         {
           "title": "今年上半年人形机器人领域新设企业11.6万户",
@@ -194,11 +209,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时26分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -213,16 +229,29 @@
           "time_info": "[07时23分 ~ 08时45分]"
         },
         {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
+          "url": "https://wallstreetcn.com/livenews/3146973",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            17
+            14,
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时34分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时26分]"
+        },
+        {
+          "title": "戚薇谈把脸交给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -235,18 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时38分]"
-        },
-        {
-          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
-          "url": "https://wallstreetcn.com/livenews/3146973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时26分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -272,15 +289,15 @@
           "time_info": "03时43分"
         },
         {
-          "title": "戚薇谈把脸交给AI",
-          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
-          "source": "百度热搜",
+          "title": "我用AI造了奥德赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E9%80%A0%E4%BA%86%E5%A5%A5%E5%BE%B7%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时26分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -292,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "媒体：“内容由AI生成”不是免责盾牌",
+          "url": "https://www.toutiao.com/trending/7671295231653445683/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -529,11 +557,12 @@
           "url": "https://wallstreetcn.com/livenews/3146975",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "首批家用太阳能设备交付！古巴：感谢中方支持",
@@ -542,9 +571,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
         }
       ]
     },
