@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-09T07:18:02.146445+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-08-09T08:47:49.425561+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
           "url": "https://wallstreetcn.com/articles/3778984",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -61,11 +62,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -75,11 +77,28 @@
             15,
             16,
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
+        },
+        {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            4,
+            6,
+            7,
+            19,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 08时47分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -96,32 +115,29 @@
           "time_info": "[01时20分 ~ 07时18分]"
         },
         {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6,
-            7,
-            19,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时18分]"
-        },
-        {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
           "url": "https://wallstreetcn.com/articles/3778982",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时19分 ~ 07时18分]"
+          "appearance_count": 5,
+          "time_info": "[05时19分 ~ 08时47分]"
+        },
+        {
+          "title": "AI帮你开发以前要花钱的功能",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 08时47分]"
         },
         {
           "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
@@ -135,15 +151,37 @@
           "time_info": "[07时17分 ~ 07时18分]"
         },
         {
-          "title": "AI帮你开发以前要花钱的功能",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
+          "url": "https://www.zhihu.com/question/2069446019272724909",
+          "source": "知乎",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
+          "url": "https://wallstreetcn.com/articles/3778983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
+          "url": "https://wallstreetcn.com/articles/3778990",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "苹果AI 千问",
@@ -181,11 +219,12 @@
             10,
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
         }
       ]
     },
@@ -201,8 +240,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 08时47分]"
         }
       ]
     },
