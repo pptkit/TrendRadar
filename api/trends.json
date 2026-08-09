@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T06:18:42.795157+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-08-10T07:20:07.410432+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
-        },
-        {
-          "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
-          "url": "https://wallstreetcn.com/livenews/3147116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -40,8 +27,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
+        },
+        {
+          "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
+          "url": "https://wallstreetcn.com/livenews/3147116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "网民AI造谣“西平灭门案”被行拘",
@@ -51,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "原字节跳动机器人一号位加入小米",
@@ -62,8 +63,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -73,8 +74,23 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
+        },
+        {
+          "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
+          "url": "https://www.zhihu.com/question/2068991097578021742",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时24分 ~ 07时20分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -88,20 +104,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 06时18分]"
-        },
-        {
-          "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
-          "url": "https://www.zhihu.com/question/2068991097578021742",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 06时18分]"
         },
         {
           "title": "期刊《中国经济问题》发布AI使用规范：不得替代作者开展实质性研究",
@@ -138,11 +140,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时20分]"
         }
       ]
     }
