@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T06:29:12.868850+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-08-13T07:29:34.949685+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国人形机器人一骑绝尘",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -49,20 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时29分]"
-        },
-        {
-          "title": "荣耀发布首款机器人手机 9999元起售",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
@@ -73,8 +61,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时49分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时49分 ~ 07时29分]"
+        },
+        {
+          "title": "荣耀发布首款机器人手机 9999元起售",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
@@ -87,8 +88,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时29分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -193,6 +194,39 @@
           "time_info": "[00时45分 ~ 01时49分]"
         },
         {
+          "title": "路透调查显示，超过80%的日本企业仅部分使用或根本不使用人工智能。",
+          "url": "https://flash.jin10.com/detail/20260813070104983800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "路透调查显示，超过一半的日本企业计划在近期增加人工智能预算，31%的企业尚未决定。",
+          "url": "https://flash.jin10.com/detail/20260813070049622800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
           "url": "https://flash.jin10.com/detail/20260813013509723800",
           "source": "金十数据",
@@ -213,6 +247,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "据悉苹果洽谈向出版商付费，以提升其人工智能Siri",
+          "url": "https://flash.jin10.com/detail/20260813064006751800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)已讨论一项数亿美元的预算，用于向一批出版商支付Siri人工智能合作协议的费用。",
+          "url": "https://flash.jin10.com/detail/20260813063512720800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)正寻求与出版商达成新协议，以便使用其内容开发人工智能语音助手Siri。",
+          "url": "https://flash.jin10.com/detail/20260813063348828800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         }
       ]
     },
