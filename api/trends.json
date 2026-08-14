@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-14T08:58:11.089523+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-08-14T11:21:22.336584+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 28,
+      "match_count": 38,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 08时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 11时21分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 08时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 11时21分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -42,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 08时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 11时21分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -54,11 +55,12 @@
             21,
             24,
             13,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 08时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 11时21分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -72,8 +74,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 08时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 11时21分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -81,11 +83,12 @@
           "source": "贴吧",
           "ranks": [
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 08时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 11时21分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -169,6 +172,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
+          "url": "https://www.cls.cn/detail/2454041",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
           "url": "https://flash.jin10.com/detail/20260814000639384800",
           "source": "金十数据",
@@ -189,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
@@ -233,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "AI交易降温后银行股受益 华尔街押注金融板块延续上涨",
+          "url": "https://www.cls.cn/detail/2453846",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官。",
@@ -285,9 +321,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "LG牵手英伟达 明年一季度将推出新一代人形机器人",
+          "url": "https://flash.jin10.com/detail/20260814105127184800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
@@ -299,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "LG与英伟达签署关于机器人、AI工厂和行动技术的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3149425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "人工智能芯片制造商Cerebras：数据中心对所有人都是挑战。",
@@ -323,6 +381,39 @@
           "time_info": "02时46分"
         },
         {
+          "title": "AI用配音演员声线接广告",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%A8%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%A3%B0%E7%BA%BF%E6%8E%A5%E5%B9%BF%E5%91%8A&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "AI再次推进黎曼猜想进度",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%86%8D%E6%AC%A1%E6%8E%A8%E8%BF%9B%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%BF%9B%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "OpenAI营收部门二度换帅 加速营收增长为上市铺路",
           "url": "https://flash.jin10.com/detail/20260814004747744800",
           "source": "金十数据",
@@ -332,12 +423,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "中国机器人按下发令枪",
+          "url": "https://www.toutiao.com/trending/7673473981420146218/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
+          "url": "https://wallstreetcn.com/livenews/3149402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         }
       ]
     },
     {
       "keyword_group": "太阳能 光伏",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
@@ -373,12 +486,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "宁德时代成立新公司 含太阳能发电业务",
+          "url": "https://wallstreetcn.com/livenews/3149404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         }
       ]
     },
     {
       "keyword_group": "电力 变压器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
@@ -406,6 +530,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "A股电力板块持续下挫，华银电力、梅雁吉祥逼近跌停，立新能源、豫能控股、粤电力A、京能电力均大幅下挫。",
+          "url": "https://flash.jin10.com/detail/20260814104858523800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         }
       ]
     },
@@ -448,7 +583,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         }
