@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T15:05:55.573203+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-08-14T17:51:26.583515+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 47,
+      "match_count": 56,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -15,11 +15,12 @@
             4,
             5,
             6,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 15时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 17时51分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -45,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 15时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 17时51分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -76,11 +77,12 @@
             16,
             24,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 15时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 17时51分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -90,11 +92,12 @@
             25,
             26,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 15时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 17时51分]"
         },
         {
           "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
@@ -102,11 +105,23 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时05分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 17时51分]"
+        },
+        {
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -119,6 +134,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "这些中国机器人“小众”却好用",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E5%B0%8F%E4%BC%97%E2%80%9D%E5%8D%B4%E5%A5%BD%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -227,6 +253,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
           "url": "https://flash.jin10.com/detail/20260814000639384800",
           "source": "金十数据",
@@ -247,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
@@ -282,6 +330,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "券商晨会精华：AI产业链整体表现可能从基础层向模型层和应用层进行均衡",
+          "url": "https://www.cls.cn/detail/2454030",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
           "url": "https://news.ifeng.com/c/8vYegkOgEUC",
           "source": "凤凰网",
@@ -299,9 +358,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "据Axios：OpenAI在IPO前进行高管更换。",
+          "url": "https://flash.jin10.com/detail/20260814173053117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "AI交易降温后银行股受益 华尔街押注金融板块延续上涨",
@@ -332,7 +402,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -365,7 +435,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -381,13 +451,24 @@
           "time_info": "13时24分"
         },
         {
+          "title": "百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端",
+          "url": "https://wallstreetcn.com/livenews/3149649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "AI前沿日报-8月14日",
           "url": "https://flash.jin10.com/detail/20260814143631651800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -497,7 +578,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -530,9 +611,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "又一“大空头”质疑AI繁荣：最大软肋可能在两家公司上",
+          "url": "https://flash.jin10.com/detail/20260814170743373800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "当AI汽车长了双灵眸大眼",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93AI%E6%B1%BD%E8%BD%A6%E9%95%BF%E4%BA%86%E5%8F%8C%E7%81%B5%E7%9C%B8%E5%A4%A7%E7%9C%BC%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "中国机器人按下发令枪",
@@ -583,7 +686,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
