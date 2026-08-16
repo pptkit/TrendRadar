@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T12:25:13.776339+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-08-16T13:19:20.258829+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时10分 ~ 13时19分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时10分 ~ 13时19分]"
         },
         {
           "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时10分 ~ 13时19分]"
         },
         {
           "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
@@ -55,11 +55,39 @@
             10,
             8,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时10分 ~ 13时19分]"
+        },
+        {
+          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
+          "url": "https://wallstreetcn.com/articles/3779508",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
             5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时10分 ~ 12时25分]"
+          "time_info": "[08时35分 ~ 13时19分]"
+        },
+        {
+          "title": "60岁AI动画赛道新人",
+          "url": "https://www.douyin.com/hot/2610767",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时10分 ~ 13时19分]"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -73,17 +101,18 @@
           "time_info": "07时10分"
         },
         {
-          "title": "60岁AI动画赛道新人",
-          "url": "https://www.douyin.com/hot/2610767",
-          "source": "抖音",
+          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
+          "url": "https://wallstreetcn.com/livenews/3150009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7,
-            8
+            3,
+            16,
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[08时35分 ~ 13时19分]"
         },
         {
           "title": "“AI版金融创新”：英伟达的“5000亿美元大算盘”",
@@ -99,17 +128,16 @@
           "time_info": "[07时10分 ~ 11时39分]"
         },
         {
-          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
-          "url": "https://wallstreetcn.com/livenews/3150009",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            16,
-            17
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时35分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 13时19分]"
         },
         {
           "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
@@ -136,41 +164,29 @@
           "time_info": "[07时10分 ~ 08时35分]"
         },
         {
-          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
-          "url": "https://wallstreetcn.com/articles/3779508",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 12时25分]"
-        },
-        {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 12时25分]"
-        },
-        {
           "title": "我和闺蜜联手掀翻AI穿书剧本",
           "url": "https://www.douyin.com/hot/2610954",
           "source": "抖音",
           "ranks": [
             22,
-            18
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 13时19分]"
+        },
+        {
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时39分 ~ 12时25分]"
+          "time_info": "[12时24分 ~ 13时19分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -178,11 +194,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时19分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -195,17 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 08时35分]"
-        },
-        {
-          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
-          "url": "https://wallstreetcn.com/articles/3779518",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
         },
         {
           "title": "机构：AI“芯片通胀”正冲击英国经济",
@@ -290,6 +296,17 @@
           "time_info": "11时39分"
         },
         {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "莫言谈AI写作：只是拼凑旧作然后搅拌",
           "url": "https://www.baidu.com/s?wd=%E8%8E%AB%E8%A8%80%E8%B0%88AI%E5%86%99%E4%BD%9C%EF%BC%9A%E5%8F%AA%E6%98%AF%E6%8B%BC%E5%87%91%E6%97%A7%E4%BD%9C%E7%84%B6%E5%90%8E%E6%90%85%E6%8B%8C",
           "source": "百度热搜",
@@ -333,11 +350,12 @@
           "url": "https://flash.jin10.com/detail/20260816121714764800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时19分]"
         },
         {
           "title": "英伟达持仓股票曝光 位列SpaceX第六大股东",
@@ -345,11 +363,38 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时19分]"
+        },
+        {
+          "title": "哈佛对SpaceX进行了高达22亿美元的重大投资。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3150015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时19分]"
+        },
+        {
+          "title": "哈佛大学重仓SpaceX，22亿美元投资彰显长期布局",
+          "url": "https://flash.jin10.com/detail/20260816090116800800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时19分]"
         },
         {
           "title": "SpaceX(SPCX.O)：“猎鹰9号”火箭已在佛罗里达州和加利福尼亚州竖立就位，准备迎接今天即将进行的发射任务。",
@@ -362,30 +407,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 08时35分]"
-        },
-        {
-          "title": "哈佛对SpaceX进行了高达22亿美元的重大投资。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3150015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时25分]"
-        },
-        {
-          "title": "哈佛大学重仓SpaceX，22亿美元投资彰显长期布局",
-          "url": "https://flash.jin10.com/detail/20260816090116800800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时25分]"
         },
         {
           "title": "据福克斯新闻：哈佛对SpaceX(SPCX.O)进行了高达22亿美元的重大投资。",
@@ -414,8 +435,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时10分 ~ 13时19分]"
         },
         {
           "title": "市场消息：利比亚电力公司消息人士透露，哈尔沙电站部分机组在爆炸后停止运行。",
@@ -443,11 +464,12 @@
             2,
             6,
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时10分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时10分 ~ 13时19分]"
         }
       ]
     },
@@ -461,11 +483,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时19分]"
         }
       ]
     }
