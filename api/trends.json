@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T14:31:32.977418+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-08-17T16:30:32.146454+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -52,11 +52,12 @@
             14,
             13,
             12,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 14时31分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 16时30分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -82,6 +83,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 08时34分]"
+        },
+        {
+          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
+          "url": "https://www.cls.cn/detail/2455490",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 16时30分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -113,11 +127,12 @@
           "url": "https://wallstreetcn.com/articles/3779545",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 16时30分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -129,6 +144,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 08时34分]"
+        },
+        {
+          "title": "宇树发布超人机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -157,6 +183,30 @@
           "time_info": "[01时10分 ~ 08时34分]"
         },
         {
+          "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
+          "url": "https://www.cls.cn/detail/2455422",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 16时30分]"
+        },
+        {
+          "title": "宇树发布超人机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
           "title": "AI正在批量制造“幽灵”",
           "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
           "source": "百度热搜",
@@ -183,16 +233,54 @@
           "time_info": "[01时11分 ~ 06时10分]"
         },
         {
-          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
-          "url": "https://www.cls.cn/detail/2455490",
-          "source": "财联社热门",
+          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
+          "url": "https://wallstreetcn.com/articles/3779533",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 16时30分]"
+        },
+        {
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 16时30分]"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 16时30分]"
+        },
+        {
+          "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
+          "url": "https://www.cls.cn/detail/2455516",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 16时30分]"
         },
         {
           "title": "30美元1小时 机器人上门做保洁",
@@ -221,51 +309,28 @@
           "time_info": "[05时10分 ~ 06时10分]"
         },
         {
-          "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
-          "url": "https://www.cls.cn/detail/2455422",
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时31分]"
-        },
-        {
-          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
-          "url": "https://wallstreetcn.com/articles/3779533",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
+            12,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 16时30分]"
         },
         {
-          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
-          "url": "https://www.cls.cn/detail/2455546",
-          "source": "财联社热门",
+          "title": "OpenAI CEO：大学读两年就够了",
+          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            10
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时31分]"
-        },
-        {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 16时30分]"
         },
         {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
@@ -274,17 +339,6 @@
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时31分]"
-        },
-        {
-          "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
-          "url": "https://www.cls.cn/detail/2455516",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -302,26 +356,37 @@
           "time_info": "[13时26分 ~ 14时31分]"
         },
         {
-          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
-          "url": "https://www.cls.cn/detail/2455726",
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
+          "url": "https://www.cls.cn/detail/2455627",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "调查 | 手术机器人：狂欢与退潮之间，洗牌已至",
+          "url": "https://www.cls.cn/detail/2455431",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
-          "title": "OpenAI CEO：大学读两年就够了",
-          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
           "title": "AI前沿日报-8月17日",
@@ -330,7 +395,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
