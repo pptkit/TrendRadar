@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-08-18T02:22:54.037534+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-18T08:37:53.905465+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "大批AI博主停更了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 08时37分]"
+        },
+        {
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 08时37分]"
+        },
+        {
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "08时37分"
         },
         {
           "title": "巴克莱美国利率策略主管Anshul Pradhan：我们一直反对做空长端抛售，现在依然如此。 要转向建设性观点，需要财政出现下行意外、AI相关发行放缓、财政部发行策略转变，以及经济活动数据持续走软的某种组合。",
@@ -30,22 +53,22 @@
           "time_info": "02时22分"
         },
         {
+          "title": "云南：到2030年实现人工智能通识教育全学段覆盖",
+          "url": "https://flash.jin10.com/detail/20260818081440814800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
+        },
+        {
           "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
           "url": "https://www.zhihu.com/question/2072607943191696624",
           "source": "知乎",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "AI私服来袭,二游圈传噩耗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
-          "source": "贴吧",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,26 +86,97 @@
           "time_info": "02时22分"
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "08时37分"
         },
         {
           "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
           "url": "https://m.thepaper.cn/newsDetail_forward_33798806",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 08时37分]"
+        },
+        {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 08时37分]"
+        },
+        {
+          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
+          "url": "https://www.zhihu.com/question/2063294189954250663",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 08时37分]"
+        },
+        {
+          "title": "宇树发布超人机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 08时37分]"
+        },
+        {
+          "title": "宇树超人机器人原地跳高约2米",
+          "url": "https://www.toutiao.com/trending/7674877112751112198/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 08时37分]"
+        },
+        {
+          "title": "美股收盘：3大利好推动AI板块逆势走强",
+          "url": "https://www.toutiao.com/trending/7675142828237786670/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "08时37分"
+        },
+        {
+          "title": "美股收盘：3大利好推动AI板块逆势走强",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A3%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8E%A8%E5%8A%A8AI%E6%9D%BF%E5%9D%97%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
         },
         {
           "title": "搬运50公斤重物，香港科企发布“生产力工具型”人形机器人",
@@ -90,28 +184,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "宇树发布超人机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
-          "url": "https://www.zhihu.com/question/2063294189954250663",
-          "source": "知乎",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -129,15 +201,43 @@
           "time_info": "02时22分"
         },
         {
-          "title": "宇树超人机器人原地跳高约2米",
-          "url": "https://www.toutiao.com/trending/7674877112751112198/",
-          "source": "今日头条",
+          "title": "姜月初刷新AI漫剧女打一天花板",
+          "url": "https://www.douyin.com/hot/2613313",
+          "source": "抖音",
           "ranks": [
-            23
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "08时37分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月18日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic年化营收在IPO前突破650亿美元。</span><br/><span class=\"section-news\">2. 字节跳动与美国电影协会签署协议，加强AI模型版权保护。</span><br/><span class=\"section-news\">3. 英伟达与SB Energy合作开发美国俄亥俄州8吉瓦超大规模AI数据中心，并向SB Energy投资15亿美元。</span><br/><span class=\"section-news\">4. 英伟达：OpenAI承诺在2030年前大规模部署英伟达AI基础设施，对应约6000亿美元计算业务规模。</span><br/>其他：<br/><span class=\"section-news\">1. Meta天价索赔案将于周二开始庭审。</span><br/><span class=\"section-news\">2. 九光发布人形机械人 能举起50公斤重杠铃。</span><br/><span class=\"section-news\">3. 中信资本收购阿里旗下灵犀互娱已正式生效。</span><br/><span class=\"section-news\">4. 小米汽车：小米SU7系列，28.5个月交付突破50万台。</span><br/><span class=\"section-news\">5. 宇树机器人原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。 </span>",
+          "url": "https://flash.jin10.com/detail/20260818072606933800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "化工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中信建投：化工逐渐进入旺季 关注三季度环比改善的板块和个股",
+          "url": "https://wallstreetcn.com/livenews/3150729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
         }
       ]
     }
