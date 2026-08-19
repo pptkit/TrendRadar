@@ -1,407 +1,204 @@
 {
-  "generated_at": "2026-08-18T12:46:04.274927+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-08-19T08:33:47.203244+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 机器人",
-      "match_count": 32,
+      "match_count": 16,
       "titles": [
         {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
-          "source": "财联社热门",
+          "title": "法国官员：政府将引入人工智能工具测试系统网络安全漏洞",
+          "url": "https://wallstreetcn.com/livenews/3151390",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时37分 ~ 12时46分]"
+          "appearance_count": 1,
+          "time_info": "08时33分"
         },
         {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
+          "title": "人形机器人热身赛飞速过弯撞上电箱",
+          "url": "https://www.toutiao.com/trending/7674197389583056938/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "AI暗雷！美科技巨头表外负债膨胀至3万亿美元，约为年资本开支的5倍",
+          "url": "https://wallstreetcn.com/articles/3779679",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
+          "url": "https://www.cls.cn/detail/2457697",
           "source": "财联社热门",
           "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时37分 ~ 12时46分]"
-        },
-        {
-          "title": "大批AI博主停更了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 08时37分]"
-        },
-        {
-          "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33798806",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 12时46分]"
+          "appearance_count": 1,
+          "time_info": "08时33分"
         },
         {
-          "title": "AI私服来袭,二游圈传噩耗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
-          "source": "贴吧",
+          "title": "如何评价网传消息「3700 均订起点作者因使用 AI 被斩杀」？",
+          "url": "https://www.zhihu.com/question/2073007368435151461",
+          "source": "知乎",
           "ranks": [
-            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "“新债王”Gundlach警告：芯片变“新资产类别”是AI牛市见顶信号",
+          "url": "https://wallstreetcn.com/articles/3779682",
+          "source": "华尔街见闻",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 12时46分]"
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "自制AI电影出马仙镇东北",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "AI热潮与能源冲击之下，东南亚经济体增长态势分化",
+          "url": "https://flash.jin10.com/detail/20260819080244177800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
         },
         {
           "title": "新规一刀切,AI漫剧被迫停更",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
           "source": "贴吧",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
-          "url": "https://wallstreetcn.com/articles/3779645",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "巴克莱美国利率策略主管Anshul Pradhan：我们一直反对做空长端抛售，现在依然如此。 要转向建设性观点，需要财政出现下行意外、AI相关发行放缓、财政部发行策略转变，以及经济活动数据持续走软的某种组合。",
-          "url": "https://wallstreetcn.com/livenews/3150638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "08时33分"
         },
         {
-          "title": "英国评估无法获取前沿人工智能所带来的经济冲击",
-          "url": "https://wallstreetcn.com/livenews/3150847",
-          "source": "华尔街见闻-快讯",
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "云南：到2030年实现人工智能通识教育全学段覆盖",
-          "url": "https://flash.jin10.com/detail/20260818081440814800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时37分"
+          "time_info": "08时33分"
         },
         {
-          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
-          "url": "https://www.zhihu.com/question/2072607943191696624",
-          "source": "知乎",
+          "title": "AirPods5曝光",
+          "url": "https://s.weibo.com/weibo?q=%23AirPods5%E6%9B%9D%E5%85%89%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "08时33分"
         },
         {
           "title": "宇树发布超人机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 12时46分]"
-        },
-        {
-          "title": "宇树超人机器人原地跳高约2米",
-          "url": "https://www.toutiao.com/trending/7674877112751112198/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 12时46分]"
-        },
-        {
-          "title": "OpenAI锁定4.25GW数据中心容量",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 08时37分]"
-        },
-        {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
-          "url": "https://www.zhihu.com/question/2063294189954250663",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 08时37分]"
-        },
-        {
-          "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
-          "url": "https://www.zhihu.com/question/2072693901802958901",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
-          "url": "https://www.cls.cn/detail/2456537",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "港股AI大模型双雄重挫逾13%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%8C%E9%9B%84%E9%87%8D%E6%8C%AB%E9%80%BE13%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "哈佛麻省理工造了83亿AI人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E9%80%A0%E4%BA%8683%E4%BA%BFAI%E4%BA%BA%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.toutiao.com/trending/7675142828237786670/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时37分"
-        },
-        {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A3%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8E%A8%E5%8A%A8AI%E6%9D%BF%E5%9D%97%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时37分"
-        },
-        {
-          "title": "搬运50公斤重物，香港科企发布“生产力工具型”人形机器人",
-          "url": "https://wallstreetcn.com/livenews/3150620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "预告：交通运输部定于8月20日就“人工智能+交通运输”典型应用场景创新行动举行专题新闻发布会",
-          "url": "https://flash.jin10.com/detail/20260818120807749800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "宇树发布“超人”机器人：原地跳高2米，称还有很大完善空间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33798886",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-08-18）",
-          "url": "https://flash.jin10.com/detail/20260818120355231800",
-          "source": "金十数据",
-          "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "08时33分"
         },
         {
-          "title": "姜月初刷新AI漫剧女打一天花板",
-          "url": "https://www.douyin.com/hot/2613313",
-          "source": "抖音",
+          "title": "美债收益率攀升，华尔街看不到拐点！AI科技股迎来估值压力测试",
+          "url": "https://flash.jin10.com/detail/20260819072724367800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "看好AI投资机遇，QFII资金“广撒网”",
+          "url": "https://wallstreetcn.com/livenews/3151369",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时37分"
+          "time_info": "08时33分"
         },
         {
-          "title": "“新债王”发出见顶警告：华尔街押注AI芯片资产化，风险正在累积",
-          "url": "https://flash.jin10.com/detail/20260818115859416800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月18日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic年化营收在IPO前突破650亿美元。</span><br/><span class=\"section-news\">2. 字节跳动与美国电影协会签署协议，加强AI模型版权保护。</span><br/><span class=\"section-news\">3. 英伟达与SB Energy合作开发美国俄亥俄州8吉瓦超大规模AI数据中心，并向SB Energy投资15亿美元。</span><br/><span class=\"section-news\">4. 英伟达：OpenAI承诺在2030年前大规模部署英伟达AI基础设施，对应约6000亿美元计算业务规模。</span><br/>其他：<br/><span class=\"section-news\">1. Meta天价索赔案将于周二开始庭审。</span><br/><span class=\"section-news\">2. 九光发布人形机械人 能举起50公斤重杠铃。</span><br/><span class=\"section-news\">3. 中信资本收购阿里旗下灵犀互娱已正式生效。</span><br/><span class=\"section-news\">4. 小米汽车：小米SU7系列，28.5个月交付突破50万台。</span><br/><span class=\"section-news\">5. 宇树机器人原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。 </span>",
-          "url": "https://flash.jin10.com/detail/20260818072606933800",
-          "source": "金十数据",
+          "title": "柯洁装弱智赢AI围棋",
+          "url": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E8%A3%85%E5%BC%B1%E6%99%BA%E8%B5%A2AI%E5%9B%B4%E6%A3%8B&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时37分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.64%，深成指跌1.62%，AI应用、算力租赁、医药医疗、软件开发等方向跌幅居前，沪深京三市下跌个股近4200只。",
-          "url": "https://wallstreetcn.com/livenews/3150811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "08时33分"
         }
       ]
     },
     {
-      "keyword_group": "化工",
+      "keyword_group": "创新药",
       "match_count": 1,
       "titles": [
         {
-          "title": "中信建投：化工逐渐进入旺季 关注三季度环比改善的板块和个股",
-          "url": "https://wallstreetcn.com/livenews/3150729",
+          "title": "国产创新药迎三重业绩拐点，CXO龙头利润与订单同步创出历史新高",
+          "url": "https://wallstreetcn.com/livenews/3151374",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "太空 spaceX",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "力巡一号太空“摆渡车”完成重要试验 明年首飞",
-          "url": "https://flash.jin10.com/detail/20260818120114695800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "08时33分"
         }
       ]
     }
